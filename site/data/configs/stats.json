@@ -1,0 +1,86 @@
+{
+  "company_count": 14,
+  "topic_count": 4,
+  "alias_count": 31,
+  "positive_word_count": 27,
+  "negative_word_count": 27,
+  "negation_word_count": 18,
+  "importance_rule_count": 10,
+  "base_score": 0.5,
+  "max_score": 1.0,
+  "volume_spike_threshold": 100,
+  "sentiment_shift_threshold": 0.5,
+  "silent_days_threshold": 14,
+  "companies": [
+    {
+      "id": "hd_korea",
+      "short_name": "HD Korea Shipbuilding",
+      "tier": ""
+    },
+    {
+      "id": "samsung_heavy",
+      "short_name": "Samsung Heavy Industries",
+      "tier": ""
+    },
+    {
+      "id": "hanwha_ocean",
+      "short_name": "Hanwha Ocean",
+      "tier": ""
+    },
+    {
+      "id": "cssc",
+      "short_name": "China State Shipbuilding",
+      "tier": ""
+    },
+    {
+      "id": "evergreen",
+      "short_name": "Evergreen Marine",
+      "tier": ""
+    },
+    {
+      "id": "yang_ming",
+      "short_name": "Yang Ming Marine",
+      "tier": ""
+    },
+    {
+      "id": "wan_hai",
+      "short_name": "Wan Hai Lines",
+      "tier": ""
+    },
+    {
+      "id": "maersk",
+      "short_name": "A.P. Moller-Maersk",
+      "tier": ""
+    },
+    {
+      "id": "hapag",
+      "short_name": "Hapag-Lloyd",
+      "tier": ""
+    },
+    {
+      "id": "zim",
+      "short_name": "ZIM Integrated Shipping",
+      "tier": ""
+    },
+    {
+      "id": "cosco",
+      "short_name": "COSCO Shipping",
+      "tier": ""
+    },
+    {
+      "id": "u_ming",
+      "short_name": "U-Ming Marine",
+      "tier": ""
+    },
+    {
+      "id": "wisdom",
+      "short_name": "Wisdom Marine Lines",
+      "tier": ""
+    },
+    {
+      "id": "star_bulk",
+      "short_name": "Star Bulk Carriers",
+      "tier": ""
+    }
+  ]
+}
