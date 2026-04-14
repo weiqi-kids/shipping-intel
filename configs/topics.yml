@@ -1,0 +1,44 @@
+topics:
+  container_freight:
+    display: 貨櫃運價
+    keywords:
+    - container freight
+    - 貨櫃運價
+    - freight rate
+    - 運價
+    - SCFI
+    - CCFI
+    - FBX
+    - container rate
+    - spot rate
+  dry_bulk_rate:
+    display: 散裝運價
+    keywords:
+    - BDI
+    - Baltic Dry Index
+    - 散裝運價
+    - dry bulk rate
+    - Capesize
+    - Panamax
+    - Supramax
+    - 海岬型
+  shipbuilding_orders:
+    display: 造船訂單
+    keywords:
+    - shipbuilding order
+    - 造船訂單
+    - newbuilding
+    - 新船訂單
+    - orderbook
+    - ship order
+    - 造船量
+  port_congestion:
+    display: 港口壅塞
+    keywords:
+    - port congestion
+    - 港口壅塞
+    - port delay
+    - container backlog
+    - 塞港
+    - waiting time
+    - vessel queue

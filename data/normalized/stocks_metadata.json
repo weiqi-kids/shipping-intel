@@ -1,0 +1,77 @@
+{
+  "hd_korea": {
+    "earliest": "2026-01-14",
+    "latest": "2026-04-14",
+    "count": 61
+  },
+  "samsung_heavy": {
+    "earliest": "2026-01-14",
+    "latest": "2026-04-14",
+    "count": 61
+  },
+  "hanwha_ocean": {
+    "earliest": "2026-01-14",
+    "latest": "2026-04-14",
+    "count": 61
+  },
+  "cssc": {
+    "earliest": "2026-01-14",
+    "latest": "2026-04-14",
+    "count": 58
+  },
+  "evergreen": {
+    "earliest": "2026-01-14",
+    "latest": "2026-04-14",
+    "count": 55
+  },
+  "yang_ming": {
+    "earliest": "2026-01-14",
+    "latest": "2026-04-14",
+    "count": 55
+  },
+  "wan_hai": {
+    "earliest": "2026-01-14",
+    "latest": "2026-04-14",
+    "count": 55
+  },
+  "maersk": {
+    "earliest": "2026-01-14",
+    "latest": "2026-04-14",
+    "count": 61
+  },
+  "hapag": {
+    "earliest": "2026-01-14",
+    "latest": "2026-04-14",
+    "count": 63
+  },
+  "zim": {
+    "earliest": "2026-01-14",
+    "latest": "2026-04-14",
+    "count": 62
+  },
+  "cosco": {
+    "earliest": "2026-01-14",
+    "latest": "2026-04-14",
+    "count": 59
+  },
+  "u_ming": {
+    "earliest": "2026-01-14",
+    "latest": "2026-04-14",
+    "count": 55
+  },
+  "wisdom": {
+    "earliest": "2026-01-14",
+    "latest": "2026-04-14",
+    "count": 55
+  },
+  "star_bulk": {
+    "earliest": "2026-01-14",
+    "latest": "2026-04-14",
+    "count": 62
+  },
+  "etf_sea": {
+    "earliest": "2026-01-14",
+    "latest": "2026-04-14",
+    "count": 62
+  }
+}

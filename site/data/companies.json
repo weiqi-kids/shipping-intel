@@ -1,0 +1,187 @@
+{
+  "companies": [
+    {
+      "id": "hd_korea",
+      "name": "HD Korea Shipbuilding",
+      "short_name": "韓國造船海洋",
+      "position": "upstream",
+      "role": "造船",
+      "x": 0.05,
+      "y": 0.34
+    },
+    {
+      "id": "samsung_heavy",
+      "name": "Samsung Heavy Industries",
+      "short_name": "三星重工",
+      "position": "upstream",
+      "role": "造船",
+      "x": 0.119,
+      "y": 0.34
+    },
+    {
+      "id": "hanwha_ocean",
+      "name": "Hanwha Ocean",
+      "short_name": "韓華海洋",
+      "position": "upstream",
+      "role": "造船",
+      "x": 0.188,
+      "y": 0.34
+    },
+    {
+      "id": "cssc",
+      "name": "China State Shipbuilding",
+      "short_name": "中國船舶",
+      "position": "upstream",
+      "role": "造船",
+      "x": 0.258,
+      "y": 0.34
+    },
+    {
+      "id": "evergreen",
+      "name": "Evergreen Marine",
+      "short_name": "長榮海運",
+      "position": "midstream",
+      "role": "貨櫃航運",
+      "x": 0.327,
+      "y": 0.34
+    },
+    {
+      "id": "yang_ming",
+      "name": "Yang Ming Marine",
+      "short_name": "陽明海運",
+      "position": "midstream",
+      "role": "貨櫃航運",
+      "x": 0.396,
+      "y": 0.34
+    },
+    {
+      "id": "wan_hai",
+      "name": "Wan Hai Lines",
+      "short_name": "萬海航運",
+      "position": "midstream",
+      "role": "貨櫃航運",
+      "x": 0.465,
+      "y": 0.34
+    },
+    {
+      "id": "maersk",
+      "name": "A.P. Moller-Maersk",
+      "short_name": "馬士基",
+      "position": "midstream",
+      "role": "貨櫃航運",
+      "x": 0.535,
+      "y": 0.34
+    },
+    {
+      "id": "hapag",
+      "name": "Hapag-Lloyd",
+      "short_name": "赫伯羅特",
+      "position": "midstream",
+      "role": "貨櫃航運",
+      "x": 0.604,
+      "y": 0.34
+    },
+    {
+      "id": "zim",
+      "name": "ZIM Integrated Shipping",
+      "short_name": "ZIM Integrated Shipping",
+      "position": "midstream",
+      "role": "貨櫃航運",
+      "x": 0.673,
+      "y": 0.34
+    },
+    {
+      "id": "cosco",
+      "name": "COSCO Shipping",
+      "short_name": "中遠海控",
+      "position": "midstream",
+      "role": "貨櫃航運",
+      "x": 0.742,
+      "y": 0.34
+    },
+    {
+      "id": "u_ming",
+      "name": "U-Ming Marine",
+      "short_name": "裕民航運",
+      "position": "midstream",
+      "role": "散裝航運",
+      "x": 0.812,
+      "y": 0.34
+    },
+    {
+      "id": "wisdom",
+      "name": "Wisdom Marine Lines",
+      "short_name": "慧洋海運",
+      "position": "midstream",
+      "role": "散裝航運",
+      "x": 0.881,
+      "y": 0.34
+    },
+    {
+      "id": "star_bulk",
+      "name": "Star Bulk Carriers",
+      "short_name": "Star Bulk Carriers",
+      "position": "midstream",
+      "role": "散裝航運",
+      "x": 0.95,
+      "y": 0.34
+    }
+  ],
+  "links": [
+    {
+      "source": "hd_korea",
+      "target": "maersk",
+      "strength": 2
+    },
+    {
+      "source": "hd_korea",
+      "target": "evergreen",
+      "strength": 2
+    },
+    {
+      "source": "hd_korea",
+      "target": "cosco",
+      "strength": 2
+    },
+    {
+      "source": "samsung_heavy",
+      "target": "maersk",
+      "strength": 2
+    },
+    {
+      "source": "samsung_heavy",
+      "target": "hapag",
+      "strength": 2
+    },
+    {
+      "source": "hanwha_ocean",
+      "target": "maersk",
+      "strength": 2
+    },
+    {
+      "source": "hanwha_ocean",
+      "target": "cosco",
+      "strength": 2
+    },
+    {
+      "source": "cssc",
+      "target": "cosco",
+      "strength": 2
+    },
+    {
+      "source": "cssc",
+      "target": "evergreen",
+      "strength": 2
+    }
+  ],
+  "etfs": [
+    {
+      "id": "etf_sea",
+      "name": "U.S. Global Sea to Sky Cargo ETF",
+      "ticker": "SEA",
+      "market": "NYSE",
+      "currency": "USD",
+      "description": "航運與物流 ETF"
+    }
+  ]
+}

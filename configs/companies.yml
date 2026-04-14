@@ -1,0 +1,190 @@
+companies:
+- id: hd_korea
+  name: HD Korea Shipbuilding
+  aliases:
+  - 韓國造船海洋
+  - HD한국조선해양
+  ticker: 009540.KS
+  market: KRX
+  currency: KRW
+  position: upstream
+  role: 造船
+  description: 全球最大造船集團
+  downstream:
+  - maersk
+  - evergreen
+  - cosco
+- id: samsung_heavy
+  name: Samsung Heavy Industries
+  aliases:
+  - 三星重工
+  - 삼성중공업
+  ticker: 010140.KS
+  market: KRX
+  currency: KRW
+  position: upstream
+  role: 造船
+  description: 韓國三大造船廠之一
+  downstream:
+  - maersk
+  - hapag
+- id: hanwha_ocean
+  name: Hanwha Ocean
+  aliases:
+  - 韓華海洋
+  - 한화오션
+  ticker: 042660.KS
+  market: KRX
+  currency: KRW
+  position: upstream
+  role: 造船
+  description: 韓華集團造船子公司
+  downstream:
+  - maersk
+  - cosco
+- id: cssc
+  name: China State Shipbuilding
+  aliases:
+  - 中國船舶
+  - 中船
+  ticker: 600150.SS
+  market: SSE
+  currency: CNY
+  position: upstream
+  role: 造船
+  description: 中國最大國有造船集團
+  downstream:
+  - cosco
+  - evergreen
+- id: evergreen
+  name: Evergreen Marine
+  aliases:
+  - 長榮海運
+  - 長榮
+  ticker: 2603.TW
+  market: TWSE
+  currency: TWD
+  position: midstream
+  role: 貨櫃航運
+  description: 台灣最大貨櫃航運公司
+  upstream:
+  - hd_korea
+  - cssc
+- id: yang_ming
+  name: Yang Ming Marine
+  aliases:
+  - 陽明海運
+  - 陽明
+  ticker: 2609.TW
+  market: TWSE
+  currency: TWD
+  position: midstream
+  role: 貨櫃航運
+  description: 台灣第二大貨櫃航運公司
+- id: wan_hai
+  name: Wan Hai Lines
+  aliases:
+  - 萬海航運
+  - 萬海
+  ticker: 2615.TW
+  market: TWSE
+  currency: TWD
+  position: midstream
+  role: 貨櫃航運
+  description: 台灣第三大貨櫃航運公司，亞洲區間為主
+- id: maersk
+  name: A.P. Moller-Maersk
+  aliases:
+  - 馬士基
+  - 快桅
+  ticker: MAERSK-B.CO
+  market: CPH
+  currency: DKK
+  position: midstream
+  role: 貨櫃航運
+  description: 全球最大貨櫃航運公司
+  upstream:
+  - hd_korea
+  - samsung_heavy
+  - hanwha_ocean
+- id: hapag
+  name: Hapag-Lloyd
+  aliases:
+  - 赫伯羅特
+  ticker: HLAG.DE
+  market: XETRA
+  currency: EUR
+  position: midstream
+  role: 貨櫃航運
+  description: 德國貨櫃航運公司
+  upstream:
+  - samsung_heavy
+- id: zim
+  name: ZIM Integrated Shipping
+  aliases: []
+  ticker: ZIM
+  market: NYSE
+  currency: USD
+  position: midstream
+  role: 貨櫃航運
+  description: 以色列貨櫃航運公司
+- id: cosco
+  name: COSCO Shipping
+  aliases:
+  - 中遠海控
+  - 中遠
+  ticker: 1919.HK
+  market: HKEX
+  currency: HKD
+  position: midstream
+  role: 貨櫃航運
+  description: 中國最大貨櫃航運公司
+  upstream:
+  - cssc
+  - hd_korea
+  - hanwha_ocean
+- id: u_ming
+  name: U-Ming Marine
+  aliases:
+  - 裕民航運
+  - 裕民
+  ticker: 2606.TW
+  market: TWSE
+  currency: TWD
+  position: midstream
+  role: 散裝航運
+  description: 台灣散裝航運龍頭
+- id: wisdom
+  name: Wisdom Marine Lines
+  aliases:
+  - 慧洋海運
+  - 慧洋
+  ticker: 2637.TW
+  market: TWSE
+  currency: TWD
+  position: midstream
+  role: 散裝航運
+  description: 台灣小型散裝船隊
+- id: star_bulk
+  name: Star Bulk Carriers
+  aliases: []
+  ticker: SBLK
+  market: NASDAQ
+  currency: USD
+  position: midstream
+  role: 散裝航運
+  description: 全球主要散裝航運公司
+etfs:
+- id: sea
+  name: U.S. Global Sea to Sky Cargo ETF
+  ticker: SEA
+  market: NYSE
+  currency: USD
+  description: 航運與物流 ETF
+supply_chain_positions:
+  upstream:
+  - 造船
+  midstream:
+  - 貨櫃航運
+  - 散裝航運
+  downstream: []
