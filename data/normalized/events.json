@@ -1,1001 +1,2041 @@
 [
   {
-    "id": "rss-58025",
+    "id": "rss-50366",
+    "date": "Wed, 15 Ap",
+    "companies": [],
+    "topics": [
+      "news"
+    ],
+    "impact": "neutral",
+    "title": "China Moves to Block Entrance to Disputed South China Sea Shoal, Images Show",
+    "summary": "China is employing ships and a barrier to tighten control of the entrance to the Scarborough Shoal in the South China Sea amid roiling tension with the Philippines over the disputed feature, satellite",
+    "sources": [
+      {
+        "type": "news",
+        "title": "China Moves to Block Entrance to Disputed South China Sea Shoal, Images Show",
+        "url": "https://gcaptain.com/china-moves-to-block-entrance-to-disputed-south-china-sea-shoal-images-show/",
+        "fetchedAt": "2026-04-15T09:27:07.838760Z",
+        "excerpt": "China is employing ships and a barrier to tighten control of the entrance to the Scarborough Shoal in the South China Sea amid roiling tension with the Philippines over the disputed feature, satellite imagery obtained by Reuters shows."
+      }
+    ]
+  },
+  {
+    "id": "rss-34882",
+    "date": "Wed, 15 Ap",
+    "companies": [],
+    "topics": [
+      "news"
+    ],
+    "impact": "neutral",
+    "title": "Iraq-Bound Tanker Sails Into Gulf After Second Attempt at Hormuz",
+    "summary": "Iraq-bound supertanker Agios Fanourios I has sailed into the Persian Gulf through the Strait of Hormuz on its second attempt, making it the first crude carrier to head west since a US blockade on Iran",
+    "sources": [
+      {
+        "type": "news",
+        "title": "Iraq-Bound Tanker Sails Into Gulf After Second Attempt at Hormuz",
+        "url": "https://gcaptain.com/iraq-bound-tanker-sails-into-gulf-after-second-attempt-at-hormuz/",
+        "fetchedAt": "2026-04-15T09:27:07.838779Z",
+        "excerpt": "Iraq-bound supertanker Agios Fanourios I has sailed into the Persian Gulf through the Strait of Hormuz on its second attempt, making it the first crude carrier to head west since a US blockade on Iran’s ports came into force."
+      }
+    ]
+  },
+  {
+    "id": "rss-51093",
+    "date": "Wed, 15 Ap",
+    "companies": [],
+    "topics": [
+      "news"
+    ],
+    "impact": "neutral",
+    "title": "Hormuz Crisis at Crossroads as U.S.–Iran Talks Set to Restart",
+    "summary": "Talks to end the Iran war could resume in Pakistan over the next two days, U.S. President Donald Trump said on Tuesday, after the collapse of weekend negotiations prompted Washington to impose a block",
+    "sources": [
+      {
+        "type": "news",
+        "title": "Hormuz Crisis at Crossroads as U.S.–Iran Talks Set to Restart",
+        "url": "https://gcaptain.com/hormuz-crisis-at-crossroads-as-u-s-iran-talks-set-to-restart/",
+        "fetchedAt": "2026-04-15T09:27:07.838782Z",
+        "excerpt": "Talks to end the Iran war could resume in Pakistan over the next two days, U.S. President Donald Trump said on Tuesday, after the collapse of weekend negotiations prompted Washington to impose a blockade on Iranian ports."
+      }
+    ]
+  },
+  {
+    "id": "rss-19692",
     "date": "Tue, 14 Ap",
     "companies": [],
     "topics": [
       "news"
     ],
     "impact": "neutral",
-    "title": "The Smart Advantage: How Artificial Intelligence Is Transforming Inspection And Metrology In Semiconductor Manufacturing",
-    "summary": "<p>Deep learning enables systems to detect and flag issues that could otherwise be misread or missed entirely. </p>\n<p>The post <a href=\"https://semiengineering.com/the-smart-advantage-how-artificial-",
+    "title": "U.S. Will Let Iran Oil Waiver Expire as Blockade Tightens Grip on Global Flows",
+    "summary": "The Trump administration will allow a 30-day waiver of sanctions on Iranian oil at sea to expire later this week, two administration officials told Reuters on Tuesday, as the U.S. imposes a blockade o",
     "sources": [
       {
         "type": "news",
-        "title": "The Smart Advantage: How Artificial Intelligence Is Transforming Inspection And Metrology In Semiconductor Manufacturing",
-        "url": "https://semiengineering.com/the-smart-advantage-how-artificial-intelligence-is-transforming-inspection-and-metrology-in-semiconductor-manufacturing/",
-        "fetchedAt": "2026-04-14T23:00:24.568074Z",
-        "excerpt": "<p>Deep learning enables systems to detect and flag issues that could otherwise be misread or missed entirely. </p>\n<p>The post <a href=\"https://semiengineering.com/the-smart-advantage-how-artificial-intelligence-is-transforming-inspection-and-metrology-in-semiconductor-manufacturing/\">The Smart Advantage: How Artificial Intelligence Is Transforming Inspection And Metrology In Semiconductor Manufacturing</a> appeared first on <a href=\"https://semiengineering.com\">Semiconductor Engineering</a>.</"
+        "title": "U.S. Will Let Iran Oil Waiver Expire as Blockade Tightens Grip on Global Flows",
+        "url": "https://gcaptain.com/u-s-will-let-iran-oil-waiver-expire-as-blockade-tightens-grip-on-global-flows/",
+        "fetchedAt": "2026-04-15T09:27:07.838783Z",
+        "excerpt": "The Trump administration will allow a 30-day waiver of sanctions on Iranian oil at sea to expire later this week, two administration officials told Reuters on Tuesday, as the U.S. imposes a blockade on shipments from Iranian ports. "
       }
     ]
   },
   {
-    "id": "rss-16551",
+    "id": "rss-46350",
     "date": "Tue, 14 Ap",
     "companies": [],
     "topics": [
       "news"
     ],
     "impact": "neutral",
-    "title": "Heterogeneous NPU Data Movement: What The Execution Flow Shows",
-    "summary": "<p>A concrete example of how architectural boundaries influence system behavior.</p>\n<p>The post <a href=\"https://semiengineering.com/heterogeneous-npu-data-movement-what-the-execution-flow-shows/\">He",
+    "title": "“Free Seas” Are Not Unraveling — But the System Is Changing Under Pressure",
+    "summary": "The global maritime system remains open, but operates with less slack, greater volatility, and more variable constraints on access. By Bruce Kimbrell (Policy Op-Ed) &#160;&#160; A recent Wall Street J",
     "sources": [
       {
         "type": "news",
-        "title": "Heterogeneous NPU Data Movement: What The Execution Flow Shows",
-        "url": "https://semiengineering.com/heterogeneous-npu-data-movement-what-the-execution-flow-shows/",
-        "fetchedAt": "2026-04-14T23:00:24.568086Z",
-        "excerpt": "<p>A concrete example of how architectural boundaries influence system behavior.</p>\n<p>The post <a href=\"https://semiengineering.com/heterogeneous-npu-data-movement-what-the-execution-flow-shows/\">Heterogeneous NPU Data Movement: What The Execution Flow Shows</a> appeared first on <a href=\"https://semiengineering.com\">Semiconductor Engineering</a>.</p>\n"
+        "title": "“Free Seas” Are Not Unraveling — But the System Is Changing Under Pressure",
+        "url": "https://gcaptain.com/free-seas-are-not-unraveling-but-the-system-is-changing-under-pressure/",
+        "fetchedAt": "2026-04-15T09:27:07.838786Z",
+        "excerpt": "The global maritime system remains open, but operates with less slack, greater volatility, and more variable constraints on access. By Bruce Kimbrell (Policy Op-Ed) &#160;&#160; A recent Wall Street Journal..."
       }
     ]
   },
   {
-    "id": "rss-41101",
+    "id": "rss-81998",
     "date": "Tue, 14 Ap",
     "companies": [],
     "topics": [
       "news"
     ],
     "impact": "neutral",
-    "title": "Research Bits: Apr. 14",
-    "summary": "<p>Memristors: Authentication for edge devices; ultra-high temperature operation; DNA plus perovskites.</p>\n<p>The post <a href=\"https://semiengineering.com/research-bits-apr-14/\">Research Bits: Apr. ",
+    "title": "U.S. Declares Blockade Effective as First Ships Turned Back from Iranian Ports",
+    "summary": "The United States says its newly announced maritime blockade targeting Iranian ports is already taking hold, with U.S. Central Command reporting that no vessels successfully transited in or out of...",
     "sources": [
       {
         "type": "news",
-        "title": "Research Bits: Apr. 14",
-        "url": "https://semiengineering.com/research-bits-apr-14/",
-        "fetchedAt": "2026-04-14T23:00:24.568089Z",
-        "excerpt": "<p>Memristors: Authentication for edge devices; ultra-high temperature operation; DNA plus perovskites.</p>\n<p>The post <a href=\"https://semiengineering.com/research-bits-apr-14/\">Research Bits: Apr. 14</a> appeared first on <a href=\"https://semiengineering.com\">Semiconductor Engineering</a>.</p>\n"
+        "title": "U.S. Declares Blockade Effective as First Ships Turned Back from Iranian Ports",
+        "url": "https://gcaptain.com/u-s-declares-blockade-effective-as-first-ships-turned-back-from-iranian-ports/",
+        "fetchedAt": "2026-04-15T09:27:07.838788Z",
+        "excerpt": "The United States says its newly announced maritime blockade targeting Iranian ports is already taking hold, with U.S. Central Command reporting that no vessels successfully transited in or out of..."
       }
     ]
   },
   {
-    "id": "rss-6062",
+    "id": "rss-97417",
     "date": "Tue, 14 Ap",
     "companies": [],
     "topics": [
       "news"
     ],
     "impact": "neutral",
-    "title": "Chip Industry Technical Paper Roundup: Apr. 14",
-    "summary": "<p>Silicon spin qubits based on GAA; causal AI for AMS design; wide-bandgap automotive reliability; agentic HLS; co-packaged optics; constraint programming for semiconductor manufacturing; automated s",
+    "title": "Bulk Carrier Hit by Projectiles Off Oman as Maritime Threats Spill Beyond Hormuz",
+    "summary": "A bulk carrier was struck by projectiles in the Arabian Sea off the coast of Oman last week, marking another incident as security risks continue to spread beyond the Strait of Hormuz.",
     "sources": [
       {
         "type": "news",
-        "title": "Chip Industry Technical Paper Roundup: Apr. 14",
-        "url": "https://semiengineering.com/chip-industry-technical-paper-roundup-apr-14/",
-        "fetchedAt": "2026-04-14T23:00:24.568091Z",
-        "excerpt": "<p>Silicon spin qubits based on GAA; causal AI for AMS design; wide-bandgap automotive reliability; agentic HLS; co-packaged optics; constraint programming for semiconductor manufacturing; automated security assertions with LLMs.</p>\n<p>The post <a href=\"https://semiengineering.com/chip-industry-technical-paper-roundup-apr-14/\">Chip Industry Technical Paper Roundup: Apr. 14</a> appeared first on <a href=\"https://semiengineering.com\">Semiconductor Engineering</a>.</p>\n"
+        "title": "Bulk Carrier Hit by Projectiles Off Oman as Maritime Threats Spill Beyond Hormuz",
+        "url": "https://gcaptain.com/bulk-carrier-hit-by-projectiles-off-oman-as-maritime-threats-spill-beyond-hormuz/",
+        "fetchedAt": "2026-04-15T09:27:07.838789Z",
+        "excerpt": "A bulk carrier was struck by projectiles in the Arabian Sea off the coast of Oman last week, marking another incident as security risks continue to spread beyond the Strait of Hormuz."
       }
     ]
   },
   {
-    "id": "rss-7693",
+    "id": "rss-36385",
+    "date": "Tue, 14 Ap",
+    "companies": [],
+    "topics": [
+      "news"
+    ],
+    "impact": "neutral",
+    "title": "Global Oil Flows Plunge as Hormuz Disruption Chokes Tanker Trade",
+    "summary": "Global seaborne crude oil shipments have fallen 16% since the start of the Iran war, according to the BIMCO, highlighting the scale of disruption rippling through energy and tanker markets as...",
+    "sources": [
+      {
+        "type": "news",
+        "title": "Global Oil Flows Plunge as Hormuz Disruption Chokes Tanker Trade",
+        "url": "https://gcaptain.com/global-oil-flows-plunge-as-hormuz-disruption-chokes-tanker-trade/",
+        "fetchedAt": "2026-04-15T09:27:07.838791Z",
+        "excerpt": "Global seaborne crude oil shipments have fallen 16% since the start of the Iran war, according to the BIMCO, highlighting the scale of disruption rippling through energy and tanker markets as..."
+      }
+    ]
+  },
+  {
+    "id": "rss-57962",
+    "date": "Tue, 14 Ap",
+    "companies": [],
+    "topics": [
+      "news"
+    ],
+    "impact": "neutral",
+    "title": "Russian Drones hit Ukrainian Port, Damage Panama-Flagged Vessel, Officials Say",
+    "summary": "Russian drones attacked Ukraine's Izmail port in the southern Odesa region overnight and damaged a civilian Panama-flagged vessel, Ukrainian officials said on Tuesday.",
+    "sources": [
+      {
+        "type": "news",
+        "title": "Russian Drones hit Ukrainian Port, Damage Panama-Flagged Vessel, Officials Say",
+        "url": "https://gcaptain.com/russian-drones-hit-ukrainian-port-damage-panama-flagged-vessel-officials-say/",
+        "fetchedAt": "2026-04-15T09:27:07.838793Z",
+        "excerpt": "Russian drones attacked Ukraine's Izmail port in the southern Odesa region overnight and damaged a civilian Panama-flagged vessel, Ukrainian officials said on Tuesday."
+      }
+    ]
+  },
+  {
+    "id": "rss-7411",
+    "date": "Tue, 14 Ap",
+    "companies": [],
+    "topics": [
+      "news"
+    ],
+    "impact": "neutral",
+    "title": "US-Sanctioned Tanker Tests Trump Blockade With Hormuz Exit",
+    "summary": "A US-sanctioned tanker linked to China is sailing out of the Strait of Hormuz and into the Gulf of Oman, testing President Donald Trump’s naval blockade.",
+    "sources": [
+      {
+        "type": "news",
+        "title": "US-Sanctioned Tanker Tests Trump Blockade With Hormuz Exit",
+        "url": "https://gcaptain.com/us-sanctioned-tanker-tests-trump-blockade-with-hormuz-exit/",
+        "fetchedAt": "2026-04-15T09:27:07.838794Z",
+        "excerpt": "A US-sanctioned tanker linked to China is sailing out of the Strait of Hormuz and into the Gulf of Oman, testing President Donald Trump’s naval blockade."
+      }
+    ]
+  },
+  {
+    "id": "rss-75033",
     "date": "Mon, 13 Ap",
     "companies": [],
     "topics": [
       "news"
     ],
     "impact": "neutral",
-    "title": "EDA And IP Numbers Up Again, But Numbers Are More Nuanced",
-    "summary": "<p>Q4 numbers reflect strengths and weaknesses in different segments.</p>\n<p>The post <a href=\"https://semiengineering.com/eda-and-ip-numbers-up-again-but-numbers-are-more-nuanced/\">EDA And IP Numbers",
+    "title": "North Korea Tests Cruise and Anti-Ship Missiles from Destroyer",
+    "summary": "North Korea conducted another test-fire of strategic cruise missiles and anti-warship missiles on Sunday as part of operational efficiency trials of its destroyer Choe Hyon, state media KCNA said on T",
     "sources": [
       {
         "type": "news",
-        "title": "EDA And IP Numbers Up Again, But Numbers Are More Nuanced",
-        "url": "https://semiengineering.com/eda-and-ip-numbers-up-again-but-numbers-are-more-nuanced/",
-        "fetchedAt": "2026-04-14T23:00:24.568096Z",
-        "excerpt": "<p>Q4 numbers reflect strengths and weaknesses in different segments.</p>\n<p>The post <a href=\"https://semiengineering.com/eda-and-ip-numbers-up-again-but-numbers-are-more-nuanced/\">EDA And IP Numbers Up Again, But Numbers Are More Nuanced</a> appeared first on <a href=\"https://semiengineering.com\">Semiconductor Engineering</a>.</p>\n"
+        "title": "North Korea Tests Cruise and Anti-Ship Missiles from Destroyer",
+        "url": "https://gcaptain.com/north-korea-tests-cruise-and-anti-ship-missiles-from-destroyer/",
+        "fetchedAt": "2026-04-15T09:27:07.838796Z",
+        "excerpt": "North Korea conducted another test-fire of strategic cruise missiles and anti-warship missiles on Sunday as part of operational efficiency trials of its destroyer Choe Hyon, state media KCNA said on Tuesday."
       }
     ]
   },
   {
-    "id": "rss-90237",
+    "id": "rss-72913",
     "date": "Mon, 13 Ap",
     "companies": [],
     "topics": [
       "news"
     ],
     "impact": "neutral",
-    "title": "Startup Funding: Q1 2026",
-    "summary": "<p>Massive rounds for AI, EDA, and manufacturing; 80 startups raise $8.4B.</p>\n<p>The post <a href=\"https://semiengineering.com/startup-funding-q1-2026/\">Startup Funding: Q1 2026</a> appeared first on",
+    "title": "Argentina River Auction Draws Fire From U.S. Dredger Over ‘Cooked’ Tender",
+    "summary": "A US dredging company is calling out the bid terms of President Javier Milei’s signature concession in Argentina, claiming they’re tilted in favor of a consortium with past ties to China. ",
     "sources": [
       {
         "type": "news",
-        "title": "Startup Funding: Q1 2026",
-        "url": "https://semiengineering.com/startup-funding-q1-2026/",
-        "fetchedAt": "2026-04-14T23:00:24.568100Z",
-        "excerpt": "<p>Massive rounds for AI, EDA, and manufacturing; 80 startups raise $8.4B.</p>\n<p>The post <a href=\"https://semiengineering.com/startup-funding-q1-2026/\">Startup Funding: Q1 2026</a> appeared first on <a href=\"https://semiengineering.com\">Semiconductor Engineering</a>.</p>\n"
+        "title": "Argentina River Auction Draws Fire From U.S. Dredger Over ‘Cooked’ Tender",
+        "url": "https://gcaptain.com/argentina-river-auction-draws-fire-from-u-s-dredger-over-cooked-tender/",
+        "fetchedAt": "2026-04-15T09:27:07.838799Z",
+        "excerpt": "A US dredging company is calling out the bid terms of President Javier Milei’s signature concession in Argentina, claiming they’re tilted in favor of a consortium with past ties to China. "
       }
     ]
   },
   {
-    "id": "rss-34458",
+    "id": "rss-12258",
+    "date": "2026-04-14",
+    "companies": [],
+    "topics": [
+      "news"
+    ],
+    "impact": "neutral",
+    "title": "A Hierarchy of Controls",
+    "summary": "\n                 PASSENGER SAFETY: A HIERARCHY OF CONTROLS**By Pat Zeitler** Those in the business of industrial safety are familiar with the concept, \"hierarchy of c...\n            ",
+    "sources": [
+      {
+        "type": "news",
+        "title": "A Hierarchy of Controls",
+        "url": "https://maritime-executive.com/article/a-hierarchy-of-controls",
+        "fetchedAt": "2026-04-15T09:27:08.363892Z",
+        "excerpt": "\n                 PASSENGER SAFETY: A HIERARCHY OF CONTROLS**By Pat Zeitler** Those in the business of industrial safety are familiar with the concept, \"hierarchy of c...\n            "
+      }
+    ]
+  },
+  {
+    "id": "rss-95656",
+    "date": "2026-04-14",
+    "companies": [],
+    "topics": [
+      "news"
+    ],
+    "impact": "neutral",
+    "title": "Cruising Demonstrates Resiliency as Mainstream Vacation Business",
+    "summary": "\n                The executives leading the major cruise corporations point to the business demonstrating its resilience as they believe cruising has finally evolved i...\n            ",
+    "sources": [
+      {
+        "type": "news",
+        "title": "Cruising Demonstrates Resiliency as Mainstream Vacation Business",
+        "url": "https://maritime-executive.com/article/cruising-demonstrates-resiliency-as-mainstream-vacation-business",
+        "fetchedAt": "2026-04-15T09:27:08.363915Z",
+        "excerpt": "\n                The executives leading the major cruise corporations point to the business demonstrating its resilience as they believe cruising has finally evolved i...\n            "
+      }
+    ]
+  },
+  {
+    "id": "rss-76197",
+    "date": "2026-04-14",
+    "companies": [],
+    "topics": [
+      "news"
+    ],
+    "impact": "neutral",
+    "title": "Report: U.S. Navy Destroyer Turns Back Two Iran-Linked Tankers",
+    "summary": "\n                 The U.S. blockade of Iranian shipping is unfolding successfully so far, according to U.S. Central Command, including enforcement along the  Gulf of O...\n            ",
+    "sources": [
+      {
+        "type": "news",
+        "title": "Report: U.S. Navy Destroyer Turns Back Two Iran-Linked Tankers",
+        "url": "https://maritime-executive.com/article/report-u-s-navy-destroyer-turns-back-two-iran-linked-tankers",
+        "fetchedAt": "2026-04-15T09:27:08.363929Z",
+        "excerpt": "\n                 The U.S. blockade of Iranian shipping is unfolding successfully so far, according to U.S. Central Command, including enforcement along the  Gulf of O...\n            "
+      }
+    ]
+  },
+  {
+    "id": "rss-75798",
+    "date": "2026-04-14",
+    "companies": [],
+    "topics": [
+      "news"
+    ],
+    "impact": "neutral",
+    "title": "New Hazmat Liability Convention Could Enter Into Force Next Year",
+    "summary": "\n                The global merchant shipping industry is about to get a new layer of liability with the impending entry into force of a treaty that sets compensation...\n            ",
+    "sources": [
+      {
+        "type": "news",
+        "title": "New Hazmat Liability Convention Could Enter Into Force Next Year",
+        "url": "https://maritime-executive.com/article/new-hazmat-liability-convention-could-enter-into-force-next-year",
+        "fetchedAt": "2026-04-15T09:27:08.363942Z",
+        "excerpt": "\n                The global merchant shipping industry is about to get a new layer of liability with the impending entry into force of a treaty that sets compensation...\n            "
+      }
+    ]
+  },
+  {
+    "id": "rss-51309",
+    "date": "2026-04-14",
+    "companies": [],
+    "topics": [
+      "news"
+    ],
+    "impact": "neutral",
+    "title": "Zelim’s ZOE Becomes First Fully Certified Man-Overboard Detection System",
+    "summary": "\n                “Cruise lines have been waiting for the availability of a certified system for a long time, and having the credibility of ZOE validated by Lloyd’s Reg...\n            ",
+    "sources": [
+      {
+        "type": "news",
+        "title": "Zelim’s ZOE Becomes First Fully Certified Man-Overboard Detection System",
+        "url": "https://maritime-executive.com/article/zelim-s-zoe-becomes-first-fully-certified-man-overboard-detection-system",
+        "fetchedAt": "2026-04-15T09:27:08.363954Z",
+        "excerpt": "\n                “Cruise lines have been waiting for the availability of a certified system for a long time, and having the credibility of ZOE validated by Lloyd’s Reg...\n            "
+      }
+    ]
+  },
+  {
+    "id": "rss-35449",
+    "date": "2026-04-14",
+    "companies": [],
+    "topics": [
+      "news"
+    ],
+    "impact": "neutral",
+    "title": "Event Drives Collaboration As Prince Rupert Cruise Port Prepares for Season",
+    "summary": "\n                With cruise visitation to Prince Rupert projected to more than double in 2026, the recent Cruise Connect stakeholder event arrived at a pivotal moment...\n            ",
+    "sources": [
+      {
+        "type": "news",
+        "title": "Event Drives Collaboration As Prince Rupert Cruise Port Prepares for Season",
+        "url": "https://maritime-executive.com/article/event-drives-collaboration-as-prince-rupert-cruise-port-prepares-for-season",
+        "fetchedAt": "2026-04-15T09:27:08.363967Z",
+        "excerpt": "\n                With cruise visitation to Prince Rupert projected to more than double in 2026, the recent Cruise Connect stakeholder event arrived at a pivotal moment...\n            "
+      }
+    ]
+  },
+  {
+    "id": "rss-52058",
+    "date": "2026-04-14",
+    "companies": [],
+    "topics": [
+      "news"
+    ],
+    "impact": "neutral",
+    "title": "All at Sea: The Gulf in China's Foreign Policy Position",
+    "summary": "\n                 China has always sought to be friends with countries on both sides of the Gulf, sufficiently engaged politically to gain economic benefits from tradi...\n            ",
+    "sources": [
+      {
+        "type": "news",
+        "title": "All at Sea: The Gulf in China's Foreign Policy Position",
+        "url": "https://maritime-executive.com/article/all-at-sea-the-gulf-in-china-s-foreign-policy-position",
+        "fetchedAt": "2026-04-15T09:27:08.363978Z",
+        "excerpt": "\n                 China has always sought to be friends with countries on both sides of the Gulf, sufficiently engaged politically to gain economic benefits from tradi...\n            "
+      }
+    ]
+  },
+  {
+    "id": "rss-53915",
+    "date": "2026-04-14",
+    "companies": [],
+    "topics": [
+      "news"
+    ],
+    "impact": "neutral",
+    "title": "Op-Ed: Mideast Conflict Provides a Test of Economic Resilience",
+    "summary": "\n                 [By Adi Imsirovic and Antonio Fatas]The world economy survived the shocks of the Ukraine-Russia conflict, which has had limited impact on economic gr...\n            ",
+    "sources": [
+      {
+        "type": "news",
+        "title": "Op-Ed: Mideast Conflict Provides a Test of Economic Resilience",
+        "url": "https://maritime-executive.com/article/op-ed-mideast-conflict-provides-a-test-of-economic-resilience",
+        "fetchedAt": "2026-04-15T09:27:08.363990Z",
+        "excerpt": "\n                 [By Adi Imsirovic and Antonio Fatas]The world economy survived the shocks of the Ukraine-Russia conflict, which has had limited impact on economic gr...\n            "
+      }
+    ]
+  },
+  {
+    "id": "rss-38892",
+    "date": "2026-04-14",
+    "companies": [],
+    "topics": [
+      "news"
+    ],
+    "impact": "neutral",
+    "title": "AD Ports Sees New Opportunities in Black Sea Market",
+    "summary": "\n                 Barely a month after DP World sold its stake in Ukraine’s Black Sea port of Pivdennyi, another UAE-based operator, AD Ports, has entered the region t...\n            ",
+    "sources": [
+      {
+        "type": "news",
+        "title": "AD Ports Sees New Opportunities in Black Sea Market",
+        "url": "https://maritime-executive.com/article/ad-ports-sees-new-opportunities-in-black-sea-market",
+        "fetchedAt": "2026-04-15T09:27:08.364002Z",
+        "excerpt": "\n                 Barely a month after DP World sold its stake in Ukraine’s Black Sea port of Pivdennyi, another UAE-based operator, AD Ports, has entered the region t...\n            "
+      }
+    ]
+  },
+  {
+    "id": "rss-66793",
+    "date": "2026-04-14",
+    "companies": [],
+    "topics": [
+      "news"
+    ],
+    "impact": "neutral",
+    "title": "Chagos Climb-Down Calls for a New Plan",
+    "summary": "\n                 In the arcane fashion under which the unwritten British constitution works, a clear signal has been given that the Treaty under which the United King...\n            ",
+    "sources": [
+      {
+        "type": "news",
+        "title": "Chagos Climb-Down Calls for a New Plan",
+        "url": "https://maritime-executive.com/article/chagos-climb-down-calls-for-a-new-plan",
+        "fetchedAt": "2026-04-15T09:27:08.364013Z",
+        "excerpt": "\n                 In the arcane fashion under which the unwritten British constitution works, a clear signal has been given that the Treaty under which the United King...\n            "
+      }
+    ]
+  },
+  {
+    "id": "rss-81543",
+    "date": "2026-04-14",
+    "companies": [],
+    "topics": [
+      "news"
+    ],
+    "impact": "neutral",
+    "title": "Report: Saudi Arabia Pushes U.S. to Lift Blockade on Iranian Traffic",
+    "summary": "\n                 Saudi officials are pushing the White House to abandon the brand-new blockade of Iranian shipping, hoping to avoid a new cycle of escalation that cou...\n            ",
+    "sources": [
+      {
+        "type": "news",
+        "title": "Report: Saudi Arabia Pushes U.S. to Lift Blockade on Iranian Traffic",
+        "url": "https://maritime-executive.com/article/report-saudi-arabia-pushes-u-s-to-lift-new-blockade-on-iranian-traffic",
+        "fetchedAt": "2026-04-15T09:27:08.364025Z",
+        "excerpt": "\n                 Saudi officials are pushing the White House to abandon the brand-new blockade of Iranian shipping, hoping to avoid a new cycle of escalation that cou...\n            "
+      }
+    ]
+  },
+  {
+    "id": "rss-98990",
+    "date": "2026-04-14",
+    "companies": [],
+    "topics": [
+      "news"
+    ],
+    "impact": "neutral",
+    "title": "U.S. Claims Success in First 24 Hours of Iranian Shipping Blockade",
+    "summary": "\n                 On Tuesday, U.S. Central Command reported that no Iran-linked shipping traffic had made it past its blockade during the first 24 hours of operation.A...\n            ",
+    "sources": [
+      {
+        "type": "news",
+        "title": "U.S. Claims Success in First 24 Hours of Iranian Shipping Blockade",
+        "url": "https://maritime-executive.com/article/u-s-claims-success-in-first-24-hours-of-iranian-shipping-blockade",
+        "fetchedAt": "2026-04-15T09:27:08.364036Z",
+        "excerpt": "\n                 On Tuesday, U.S. Central Command reported that no Iran-linked shipping traffic had made it past its blockade during the first 24 hours of operation.A...\n            "
+      }
+    ]
+  },
+  {
+    "id": "rss-31549",
+    "date": "2026-04-13",
+    "companies": [],
+    "topics": [
+      "news"
+    ],
+    "impact": "neutral",
+    "title": "Laborde Products Powers Newbuild M/V Larry Gravely by Diversified Marine",
+    "summary": "\n                Laborde Products powered the newbuild M/V Larry Gravely, constructed by Diversified Marine in Houma, Louisiana.The twin-screw towboat is equipped with...\n            ",
+    "sources": [
+      {
+        "type": "news",
+        "title": "Laborde Products Powers Newbuild M/V Larry Gravely by Diversified Marine",
+        "url": "https://maritime-executive.com/article/laborde-products-powers-newbuild-m-v-larry-gravely-by-diversified-marine",
+        "fetchedAt": "2026-04-15T09:27:08.364046Z",
+        "excerpt": "\n                Laborde Products powered the newbuild M/V Larry Gravely, constructed by Diversified Marine in Houma, Louisiana.The twin-screw towboat is equipped with...\n            "
+      }
+    ]
+  },
+  {
+    "id": "rss-63844",
+    "date": "2026-04-13",
+    "companies": [],
+    "topics": [
+      "news"
+    ],
+    "impact": "neutral",
+    "title": "VIKING Helix Shapes Simpler, Easier Ship Evacuation at Speed",
+    "summary": "\n                Developed for passenger ships needing high evacuation capacity, the VIKING Helix MES introduces a new helix-type slide that 4-8 people can use at once...\n            ",
+    "sources": [
+      {
+        "type": "news",
+        "title": "VIKING Helix Shapes Simpler, Easier Ship Evacuation at Speed",
+        "url": "https://maritime-executive.com/article/viking-helix-shapes-simpler-easier-ship-evacuation-at-speed",
+        "fetchedAt": "2026-04-15T09:27:08.364056Z",
+        "excerpt": "\n                Developed for passenger ships needing high evacuation capacity, the VIKING Helix MES introduces a new helix-type slide that 4-8 people can use at once...\n            "
+      }
+    ]
+  },
+  {
+    "id": "rss-65400",
+    "date": "2026-04-13",
+    "companies": [],
+    "topics": [
+      "news"
+    ],
+    "impact": "neutral",
+    "title": "MAIB: Lost Trawler's Crew Couldn't Isolate Source of Flooding",
+    "summary": "\n                 The UK’s Marine Accident Investigation Branch (MAIB) is yet again putting the spotlight on safety standards in the fishing industry after publishing...\n            ",
+    "sources": [
+      {
+        "type": "news",
+        "title": "MAIB: Lost Trawler's Crew Couldn't Isolate Source of Flooding",
+        "url": "https://maritime-executive.com/article/maib-lost-trawler-s-crew-couldn-t-isolate-source-of-flooding",
+        "fetchedAt": "2026-04-15T09:27:08.364065Z",
+        "excerpt": "\n                 The UK’s Marine Accident Investigation Branch (MAIB) is yet again putting the spotlight on safety standards in the fishing industry after publishing...\n            "
+      }
+    ]
+  },
+  {
+    "id": "rss-58445",
+    "date": "2026-04-13",
+    "companies": [],
+    "topics": [
+      "news"
+    ],
+    "impact": "neutral",
+    "title": "Gianluigi Aponte Transfers World's Largest Container Line to His Children",
+    "summary": "\n                 Gianluigi Aponte, the founder and chairman of number-one container line MSC, has transferred the ownership of his company over to his daughter Alexa...\n            ",
+    "sources": [
+      {
+        "type": "news",
+        "title": "Gianluigi Aponte Transfers World's Largest Container Line to His Children",
+        "url": "https://maritime-executive.com/article/gianluigi-aponte-transfers-world-s-largest-container-line-to-his-children",
+        "fetchedAt": "2026-04-15T09:27:08.364077Z",
+        "excerpt": "\n                 Gianluigi Aponte, the founder and chairman of number-one container line MSC, has transferred the ownership of his company over to his daughter Alexa...\n            "
+      }
+    ]
+  },
+  {
+    "id": "rss-68991",
+    "date": "2026-04-13",
+    "companies": [],
+    "topics": [
+      "news"
+    ],
+    "impact": "neutral",
+    "title": "Construction Starts on Port of Montreal's Long-Delayed Container Terminal",
+    "summary": "\n                 Canada has finally started the construction on the new Contrecoeur container terminal at the Port of Montreal. The megaproject, which was first propo...\n            ",
+    "sources": [
+      {
+        "type": "news",
+        "title": "Construction Starts on Port of Montreal's Long-Delayed Container Terminal",
+        "url": "https://maritime-executive.com/article/construction-starts-on-port-of-montreal-s-long-delayed-container-terminal",
+        "fetchedAt": "2026-04-15T09:27:08.364087Z",
+        "excerpt": "\n                 Canada has finally started the construction on the new Contrecoeur container terminal at the Port of Montreal. The megaproject, which was first propo...\n            "
+      }
+    ]
+  },
+  {
+    "id": "rss-82657",
+    "date": "2026-04-13",
+    "companies": [],
+    "topics": [
+      "news"
+    ],
+    "impact": "neutral",
+    "title": "IMF Warns Against Fuel Hoarding as Reality of Oil Supply Cut Sets In",
+    "summary": "\n                 Following news of a collapse in talks between the U.S. and Iran last weekend and the launch of a new U.S. Navy blockade at the Strait of Hormuz, oil...\n            ",
+    "sources": [
+      {
+        "type": "news",
+        "title": "IMF Warns Against Fuel Hoarding as Reality of Oil Supply Cut Sets In",
+        "url": "https://maritime-executive.com/article/imf-warns-against-fuel-hoarding-as-reality-of-oil-supply-cut-sets-in",
+        "fetchedAt": "2026-04-15T09:27:08.364097Z",
+        "excerpt": "\n                 Following news of a collapse in talks between the U.S. and Iran last weekend and the launch of a new U.S. Navy blockade at the Strait of Hormuz, oil...\n            "
+      }
+    ]
+  },
+  {
+    "id": "rss-29150",
+    "date": "2026-04-13",
+    "companies": [],
+    "topics": [
+      "news"
+    ],
+    "impact": "neutral",
+    "title": "S. Korea Donates Patrol Vessel to Help Ecuador Fight Drug Smuggling",
+    "summary": "\n                 Ecuador intends to push its full-scale war on drug trafficking and organized crime a notch higher with the impending arrival of a multipurpose vessel...\n            ",
+    "sources": [
+      {
+        "type": "news",
+        "title": "S. Korea Donates Patrol Vessel to Help Ecuador Fight Drug Smuggling",
+        "url": "https://maritime-executive.com/article/s-korea-donates-patrol-vessel-to-help-ecuador-fight-drug-smuggling",
+        "fetchedAt": "2026-04-15T09:27:08.364106Z",
+        "excerpt": "\n                 Ecuador intends to push its full-scale war on drug trafficking and organized crime a notch higher with the impending arrival of a multipurpose vessel...\n            "
+      }
+    ]
+  },
+  {
+    "id": "rss-6150",
+    "date": "2026-04-13",
+    "companies": [],
+    "topics": [
+      "news"
+    ],
+    "impact": "neutral",
+    "title": "Cruise Ship That Grounded Near \"Cast Away\" Island Will Be Retired",
+    "summary": "\n                 A Fiji cruise ship that gained unprecedented global attention after grounding on an island where the 2000 Tom Hanks film “Cast Away” was filmed has b...\n            ",
+    "sources": [
+      {
+        "type": "news",
+        "title": "Cruise Ship That Grounded Near \"Cast Away\" Island Will Be Retired",
+        "url": "https://maritime-executive.com/article/cruise-ship-that-grounded-near-cast-away-island-will-be-retired",
+        "fetchedAt": "2026-04-15T09:27:08.364115Z",
+        "excerpt": "\n                 A Fiji cruise ship that gained unprecedented global attention after grounding on an island where the 2000 Tom Hanks film “Cast Away” was filmed has b...\n            "
+      }
+    ]
+  },
+  {
+    "id": "rss-48488",
+    "date": "Tue, 14 Ap",
+    "companies": [],
+    "topics": [
+      "news"
+    ],
+    "impact": "neutral",
+    "title": "Trucker Path integrates Truckstop.com load board",
+    "summary": "<p>Trucker Path’s integration with Truckstop.com’s load board gives more than 1 million drivers access to significantly more freight listings directly in the TruckLoads app. </p>\n<p>The post <a href=\"",
+    "sources": [
+      {
+        "type": "news",
+        "title": "Trucker Path integrates Truckstop.com load board",
+        "url": "https://www.freightwaves.com/news/trucker-path-truckstop-integration",
+        "fetchedAt": "2026-04-15T09:27:08.692237Z",
+        "excerpt": "<p>Trucker Path’s integration with Truckstop.com’s load board gives more than 1 million drivers access to significantly more freight listings directly in the TruckLoads app. </p>\n<p>The post <a href=\"https://www.freightwaves.com/news/trucker-path-truckstop-integration\">Trucker Path integrates Truckstop.com load board</a> appeared first on <a href=\"https://www.freightwaves.com\">FreightWaves</a>.</p>\n"
+      }
+    ]
+  },
+  {
+    "id": "rss-74665",
+    "date": "Tue, 14 Ap",
+    "companies": [],
+    "topics": [
+      "news"
+    ],
+    "impact": "neutral",
+    "title": "Benchmark diesel price ends its 12-week streak of increases",
+    "summary": "<p>The benchmark diesel price used for most fuel surcharges fell for the first time after 12 weeks of increases.</p>\n<p>The post <a href=\"https://www.freightwaves.com/news/benchmark-diesel-price-ends-",
+    "sources": [
+      {
+        "type": "news",
+        "title": "Benchmark diesel price ends its 12-week streak of increases",
+        "url": "https://www.freightwaves.com/news/benchmark-diesel-price-ends-its-12-week-streak-of-increases",
+        "fetchedAt": "2026-04-15T09:27:08.692249Z",
+        "excerpt": "<p>The benchmark diesel price used for most fuel surcharges fell for the first time after 12 weeks of increases.</p>\n<p>The post <a href=\"https://www.freightwaves.com/news/benchmark-diesel-price-ends-its-12-week-streak-of-increases\">Benchmark diesel price ends its 12-week streak of increases</a> appeared first on <a href=\"https://www.freightwaves.com\">FreightWaves</a>.</p>\n"
+      }
+    ]
+  },
+  {
+    "id": "rss-76836",
+    "date": "Tue, 14 Ap",
+    "companies": [],
+    "topics": [
+      "news"
+    ],
+    "impact": "neutral",
+    "title": "Yield discipline, fuel price surge driving LTL rates to new highs in Q2",
+    "summary": "<p>Elevated diesel prices and ongoing yield improvement efforts by less-than-truckload carriers are expected to push rates to new highs in the second quarter.</p>\n<p>The post <a href=\"https://www.frei",
+    "sources": [
+      {
+        "type": "news",
+        "title": "Yield discipline, fuel price surge driving LTL rates to new highs in Q2",
+        "url": "https://www.freightwaves.com/news/price-discipline-fuel-surge-to-push-ltl-rates-to-record-in-q2",
+        "fetchedAt": "2026-04-15T09:27:08.692253Z",
+        "excerpt": "<p>Elevated diesel prices and ongoing yield improvement efforts by less-than-truckload carriers are expected to push rates to new highs in the second quarter.</p>\n<p>The post <a href=\"https://www.freightwaves.com/news/price-discipline-fuel-surge-to-push-ltl-rates-to-record-in-q2\">Yield discipline, fuel price surge driving LTL rates to new highs in Q2</a> appeared first on <a href=\"https://www.freightwaves.com\">FreightWaves</a>.</p>\n"
+      }
+    ]
+  },
+  {
+    "id": "rss-3975",
+    "date": "Tue, 14 Ap",
+    "companies": [],
+    "topics": [
+      "news"
+    ],
+    "impact": "neutral",
+    "title": "Average March volume was actually good news for the Port of Los Angeles",
+    "summary": "<p>A weaker March turned out to be a pre-season tuneup as the port of Los Angeles still managed to play up to the back of its baseball card.</p>\n<p>The post <a href=\"https://www.freightwaves.com/news/",
+    "sources": [
+      {
+        "type": "news",
+        "title": "Average March volume was actually good news for the Port of Los Angeles",
+        "url": "https://www.freightwaves.com/news/average-march-volume-was-actually-good-news-for-the-port-of-los-angeles",
+        "fetchedAt": "2026-04-15T09:27:08.692257Z",
+        "excerpt": "<p>A weaker March turned out to be a pre-season tuneup as the port of Los Angeles still managed to play up to the back of its baseball card.</p>\n<p>The post <a href=\"https://www.freightwaves.com/news/average-march-volume-was-actually-good-news-for-the-port-of-los-angeles\">Average March volume was actually good news for the Port of Los Angeles </a> appeared first on <a href=\"https://www.freightwaves.com\">FreightWaves</a>.</p>\n"
+      }
+    ]
+  },
+  {
+    "id": "rss-11525",
+    "date": "Tue, 14 Ap",
+    "companies": [],
+    "topics": [
+      "news"
+    ],
+    "impact": "neutral",
+    "title": "UPS expands deployment of automated package sensors to improve tracking",
+    "summary": "<p>UPS has reached a milestone in the deployment of RFID package tracking technology, enabling it to do away with manual scanners. </p>\n<p>The post <a href=\"https://www.freightwaves.com/news/ups-expan",
+    "sources": [
+      {
+        "type": "news",
+        "title": "UPS expands deployment of automated package sensors to improve tracking",
+        "url": "https://www.freightwaves.com/news/ups-expands-deployment-of-automated-package-sensors-to-improve-tracking",
+        "fetchedAt": "2026-04-15T09:27:08.692260Z",
+        "excerpt": "<p>UPS has reached a milestone in the deployment of RFID package tracking technology, enabling it to do away with manual scanners. </p>\n<p>The post <a href=\"https://www.freightwaves.com/news/ups-expands-deployment-of-automated-package-sensors-to-improve-tracking\">UPS expands deployment of automated package sensors to improve tracking</a> appeared first on <a href=\"https://www.freightwaves.com\">FreightWaves</a>.</p>\n"
+      }
+    ]
+  },
+  {
+    "id": "rss-88945",
+    "date": "Tue, 14 Ap",
+    "companies": [],
+    "topics": [
+      "news"
+    ],
+    "impact": "neutral",
+    "title": "U.S.-Mexico trade hits $73B in February as border capacity tightens",
+    "summary": "<p>Strong cross-border volumes kept Mexico in the top U.S. trade position in February.</p>\n<p>The post <a href=\"https://www.freightwaves.com/news/u-s-mexico-trade-hits-73b-in-february-as-border-capaci",
+    "sources": [
+      {
+        "type": "news",
+        "title": "U.S.-Mexico trade hits $73B in February as border capacity tightens",
+        "url": "https://www.freightwaves.com/news/u-s-mexico-trade-hits-73b-in-february-as-border-capacity-tightens",
+        "fetchedAt": "2026-04-15T09:27:08.692263Z",
+        "excerpt": "<p>Strong cross-border volumes kept Mexico in the top U.S. trade position in February.</p>\n<p>The post <a href=\"https://www.freightwaves.com/news/u-s-mexico-trade-hits-73b-in-february-as-border-capacity-tightens\">U.S.-Mexico trade hits $73B in February as border capacity tightens</a> appeared first on <a href=\"https://www.freightwaves.com\">FreightWaves</a>.</p>\n"
+      }
+    ]
+  },
+  {
+    "id": "rss-49443",
+    "date": "Tue, 14 Ap",
+    "companies": [],
+    "topics": [
+      "news"
+    ],
+    "impact": "neutral",
+    "title": "Cass data shows freight market tightened further in March",
+    "summary": "<p>Monthly data from Cass Information Systems showed a volume recovery could be in store for an already supply-constrained freight market. </p>\n<p>The post <a href=\"https://www.freightwaves.com/news/c",
+    "sources": [
+      {
+        "type": "news",
+        "title": "Cass data shows freight market tightened further in March",
+        "url": "https://www.freightwaves.com/news/cass-data-shows-further-freight-market-tightening-in-march",
+        "fetchedAt": "2026-04-15T09:27:08.692265Z",
+        "excerpt": "<p>Monthly data from Cass Information Systems showed a volume recovery could be in store for an already supply-constrained freight market. </p>\n<p>The post <a href=\"https://www.freightwaves.com/news/cass-data-shows-further-freight-market-tightening-in-march\">Cass data shows freight market tightened further in March</a> appeared first on <a href=\"https://www.freightwaves.com\">FreightWaves</a>.</p>\n"
+      }
+    ]
+  },
+  {
+    "id": "rss-68687",
+    "date": "Tue, 14 Ap",
+    "companies": [],
+    "topics": [
+      "news"
+    ],
+    "impact": "neutral",
+    "title": "White Paper – Beyond Tracking: How Real-Time Visibility Fuels Fleet Profitability",
+    "summary": "<p>True real-time visibility is about transforming raw data into a competitive advantage. Trimble’s latest ebook explores how high-fidelity data integration helps carriers eliminate communication gaps",
+    "sources": [
+      {
+        "type": "news",
+        "title": "White Paper – Beyond Tracking: How Real-Time Visibility Fuels Fleet Profitability",
+        "url": "https://www.freightwaves.com/news/white-paper-beyond-tracking-how-real-time-visibility-fuels-fleet-profitability",
+        "fetchedAt": "2026-04-15T09:27:08.692270Z",
+        "excerpt": "<p>True real-time visibility is about transforming raw data into a competitive advantage. Trimble’s latest ebook explores how high-fidelity data integration helps carriers eliminate communication gaps, reduce dwell times, and build stronger shipper relationships. Learn how to turn visibility from a &#8220;nice-to-have&#8221; into a core driver of operational efficiency. Fill out the form below to gain [&#8230;]</p>\n<p>The post <a href=\"https://www.freightwaves.com/news/white-paper-beyond-trackin"
+      }
+    ]
+  },
+  {
+    "id": "rss-95149",
+    "date": "Tue, 14 Ap",
+    "companies": [],
+    "topics": [
+      "news"
+    ],
+    "impact": "neutral",
+    "title": "60 Minutes blows open notorious chameleon carrier network",
+    "summary": "<p>Rob Carpenter breaks down what it was like working with 60 Minutes on their explosive segment about chameleon carriers and the Super Ego network.</p>\n<p>The post <a href=\"https://www.freightwaves.c",
+    "sources": [
+      {
+        "type": "news",
+        "title": "60 Minutes blows open notorious chameleon carrier network",
+        "url": "https://www.freightwaves.com/news/60-minutes-chameleon-carrier-network-super-ego",
+        "fetchedAt": "2026-04-15T09:27:08.692273Z",
+        "excerpt": "<p>Rob Carpenter breaks down what it was like working with 60 Minutes on their explosive segment about chameleon carriers and the Super Ego network.</p>\n<p>The post <a href=\"https://www.freightwaves.com/news/60-minutes-chameleon-carrier-network-super-ego\">60 Minutes blows open notorious chameleon carrier network</a> appeared first on <a href=\"https://www.freightwaves.com\">FreightWaves</a>.</p>\n"
+      }
+    ]
+  },
+  {
+    "id": "rss-96882",
+    "date": "Tue, 14 Ap",
+    "companies": [],
+    "topics": [
+      "news"
+    ],
+    "impact": "neutral",
+    "title": "California regulators have started a regulatory push on diesel TRU emissions",
+    "summary": "<p>California has begun to push warehouses to get in line with its rules on transport refrigerated units.</p>\n<p>The post <a href=\"https://www.freightwaves.com/news/california-regulators-have-started-",
+    "sources": [
+      {
+        "type": "news",
+        "title": "California regulators have started a regulatory push on diesel TRU emissions",
+        "url": "https://www.freightwaves.com/news/california-regulators-have-started-a-regulatory-push-on-diesel-tru-emissions",
+        "fetchedAt": "2026-04-15T09:27:08.692276Z",
+        "excerpt": "<p>California has begun to push warehouses to get in line with its rules on transport refrigerated units.</p>\n<p>The post <a href=\"https://www.freightwaves.com/news/california-regulators-have-started-a-regulatory-push-on-diesel-tru-emissions\">California regulators have started a regulatory push on diesel TRU emissions</a> appeared first on <a href=\"https://www.freightwaves.com\">FreightWaves</a>.</p>\n"
+      }
+    ]
+  },
+  {
+    "id": "rss-11892",
+    "date": "Tue, 14 Ap",
+    "companies": [],
+    "topics": [
+      "news"
+    ],
+    "impact": "neutral",
+    "title": "Merged UP-NS would control half of all rail freight: BNSF CEO",
+    "summary": "<p>A rival CEO warned the proposed merger of Union Pacific and Norfolk Southern, if approved, would give the transcontinental behemoth a commanding 50% share of all U.S. rail freight.</p>\n<p>The post ",
+    "sources": [
+      {
+        "type": "news",
+        "title": "Merged UP-NS would control half of all rail freight: BNSF CEO",
+        "url": "https://www.freightwaves.com/news/merged-up-ns-would-control-half-of-all-rail-freight-bnsf-ceo",
+        "fetchedAt": "2026-04-15T09:27:08.692279Z",
+        "excerpt": "<p>A rival CEO warned the proposed merger of Union Pacific and Norfolk Southern, if approved, would give the transcontinental behemoth a commanding 50% share of all U.S. rail freight.</p>\n<p>The post <a href=\"https://www.freightwaves.com/news/merged-up-ns-would-control-half-of-all-rail-freight-bnsf-ceo\">Merged UP-NS would control half of all rail freight: BNSF CEO</a> appeared first on <a href=\"https://www.freightwaves.com\">FreightWaves</a>.</p>\n"
+      }
+    ]
+  },
+  {
+    "id": "rss-72675",
     "date": "Mon, 13 Ap",
     "companies": [],
     "topics": [
       "news"
     ],
     "impact": "neutral",
-    "title": "Why Hardware Monitoring Needs Infrastructure, Not Just Sensors",
-    "summary": "<p>Embedded intelligence enables a system to respond to critical events before they cause failures in runtime applications. </p>\n<p>The post <a href=\"https://semiengineering.com/why-hardware-monitorin",
+    "title": "FedEx CFO John Dietrich resigns",
+    "summary": "<p>FedEx says it is looking for a new CFO after John Dietrich decided to step down from the position. </p>\n<p>The post <a href=\"https://www.freightwaves.com/news/fedex-cfo-john-dietrich-resigns\">FedEx",
     "sources": [
       {
         "type": "news",
-        "title": "Why Hardware Monitoring Needs Infrastructure, Not Just Sensors",
-        "url": "https://semiengineering.com/why-hardware-monitoring-needs-infrastructure-not-just-sensors/",
-        "fetchedAt": "2026-04-14T23:00:24.568102Z",
-        "excerpt": "<p>Embedded intelligence enables a system to respond to critical events before they cause failures in runtime applications. </p>\n<p>The post <a href=\"https://semiengineering.com/why-hardware-monitoring-needs-infrastructure-not-just-sensors/\">Why Hardware Monitoring Needs Infrastructure, Not Just Sensors</a> appeared first on <a href=\"https://semiengineering.com\">Semiconductor Engineering</a>.</p>\n"
+        "title": "FedEx CFO John Dietrich resigns",
+        "url": "https://www.freightwaves.com/news/fedex-cfo-john-dietrich-resigns",
+        "fetchedAt": "2026-04-15T09:27:08.692282Z",
+        "excerpt": "<p>FedEx says it is looking for a new CFO after John Dietrich decided to step down from the position. </p>\n<p>The post <a href=\"https://www.freightwaves.com/news/fedex-cfo-john-dietrich-resigns\">FedEx CFO John Dietrich resigns</a> appeared first on <a href=\"https://www.freightwaves.com\">FreightWaves</a>.</p>\n"
       }
     ]
   },
   {
-    "id": "rss-19514",
+    "id": "rss-60565",
     "date": "Mon, 13 Ap",
     "companies": [],
     "topics": [
       "news"
     ],
     "impact": "neutral",
-    "title": "GPU Rowhammer Attacks Beyond Data Corruption (U. of Toronto)",
-    "summary": "<p>A new technical paper, &#8220;GPUBreach: Privilege Escalation Attacks via GPU Rowhammer,&#8221; was published by researchers at University of Toronto. Summary &#8220;GPUBreach shows that GPU Rowham",
+    "title": "Synergy Logistics tackles costly warehouse downtime with ORCA",
+    "summary": "<p>Chicago-based logistics firm Synergy Logistics announced the release of ORCA, its hybrid warehouse management system.</p>\n<p>The post <a href=\"https://www.freightwaves.com/news/synergy-logistics-ta",
     "sources": [
       {
         "type": "news",
-        "title": "GPU Rowhammer Attacks Beyond Data Corruption (U. of Toronto)",
-        "url": "https://semiengineering.com/gpu-rowhammer-attacks-beyond-data-corruption-u-of-toronto/",
-        "fetchedAt": "2026-04-14T23:00:24.568107Z",
-        "excerpt": "<p>A new technical paper, &#8220;GPUBreach: Privilege Escalation Attacks via GPU Rowhammer,&#8221; was published by researchers at University of Toronto. Summary &#8220;GPUBreach shows that GPU Rowhammer attacks can move beyond data corruption to real privilege escalation. By corrupting GPU page tables, an unprivileged CUDA kernel can gain arbitrary GPU memory read/write, and then chain that capability... <a class=\"read_more\" href=\"https://semiengineering.com/gpu-rowhammer-attacks-beyond-data-co"
+        "title": "Synergy Logistics tackles costly warehouse downtime with ORCA",
+        "url": "https://www.freightwaves.com/news/synergy-logistics-tackles-costly-warehouse-downtime-with-orca",
+        "fetchedAt": "2026-04-15T09:27:08.692287Z",
+        "excerpt": "<p>Chicago-based logistics firm Synergy Logistics announced the release of ORCA, its hybrid warehouse management system.</p>\n<p>The post <a href=\"https://www.freightwaves.com/news/synergy-logistics-tackles-costly-warehouse-downtime-with-orca\">Synergy Logistics tackles costly warehouse downtime with ORCA</a> appeared first on <a href=\"https://www.freightwaves.com\">FreightWaves</a>.</p>\n"
       }
     ]
   },
   {
-    "id": "rss-9250",
-    "date": "Sun, 12 Ap",
+    "id": "rss-68295",
+    "date": "Mon, 13 Ap",
     "companies": [],
     "topics": [
       "news"
     ],
     "impact": "neutral",
-    "title": "Silent Data Corruption:  A Major Reliability Challenge in Large-Scale LLM Training (TU Berlin)",
-    "summary": "<p>A new technical paper, &#8220;Exploring Silent Data Corruption as a Reliability Challenge in LLM Training,&#8221; was published by researchers at Technische Universitat Berlin. Abstract &#8220;As L",
+    "title": "Ace Hardware taps Uber Eats for last-mile delivery",
+    "summary": "<p>Ace Hardware is now offering fast in-store delivery on the Uber Eats app.</p>\n<p>The post <a href=\"https://www.freightwaves.com/news/ace-hardware-taps-uber-eats-for-last-mile-delivery\">Ace Hardware",
     "sources": [
       {
         "type": "news",
-        "title": "Silent Data Corruption:  A Major Reliability Challenge in Large-Scale LLM Training (TU Berlin)",
-        "url": "https://semiengineering.com/silent-data-corruption-a-major-reliability-challenge-in-large-scale-llm-training-tu-berlin/",
-        "fetchedAt": "2026-04-14T23:00:24.568110Z",
-        "excerpt": "<p>A new technical paper, &#8220;Exploring Silent Data Corruption as a Reliability Challenge in LLM Training,&#8221; was published by researchers at Technische Universitat Berlin. Abstract &#8220;As Large Language Models (LLMs) scale in size and complexity, the consequences of failures during training become increasingly severe. A major challenge arises from Silent Data Corruption (SDC): hardware-induced faults that... <a class=\"read_more\" href=\"https://semiengineering.com/silent-data-corruption"
+        "title": "Ace Hardware taps Uber Eats for last-mile delivery",
+        "url": "https://www.freightwaves.com/news/ace-hardware-taps-uber-eats-for-last-mile-delivery",
+        "fetchedAt": "2026-04-15T09:27:08.692290Z",
+        "excerpt": "<p>Ace Hardware is now offering fast in-store delivery on the Uber Eats app.</p>\n<p>The post <a href=\"https://www.freightwaves.com/news/ace-hardware-taps-uber-eats-for-last-mile-delivery\">Ace Hardware taps Uber Eats for last-mile delivery</a> appeared first on <a href=\"https://www.freightwaves.com\">FreightWaves</a>.</p>\n"
       }
     ]
   },
   {
-    "id": "rss-55876",
-    "date": "Sun, 12 Ap",
+    "id": "rss-13511",
+    "date": "Mon, 13 Ap",
     "companies": [],
     "topics": [
       "news"
     ],
     "impact": "neutral",
-    "title": "An Engineering Roadmap Toward Completely Neural Computers (Meta AI, KAUST)",
-    "summary": "<p>A new technical paper, &#8220;Neural Computers,&#8221; was published by researchers at Meta AI and KAUST. Abstract &#8220;We propose a new frontier: Neural Computers (NCs) &#8212; an emerging machi",
+    "title": "Mexico FDI ranking jumps in 2026 as nearshoring boosts investment",
+    "summary": "<p>Mexico’s 2026 FDI ranking climb highlights nearshoring trends and cross-border freight opportunities tied to U.S. supply chains.</p>\n<p>The post <a href=\"https://www.freightwaves.com/news/mexico-fd",
     "sources": [
       {
         "type": "news",
-        "title": "An Engineering Roadmap Toward Completely Neural Computers (Meta AI, KAUST)",
-        "url": "https://semiengineering.com/an-engineering-roadmap-toward-completely-neural-computers-meta-ai-kaust/",
-        "fetchedAt": "2026-04-14T23:00:24.568112Z",
-        "excerpt": "<p>A new technical paper, &#8220;Neural Computers,&#8221; was published by researchers at Meta AI and KAUST. Abstract &#8220;We propose a new frontier: Neural Computers (NCs) &#8212; an emerging machine form that unifies computation, memory, and I/O in a learned runtime state. Unlike conventional computers, which execute explicit programs, agents, which act over external execution environments, and... <a class=\"read_more\" href=\"https://semiengineering.com/an-engineering-roadmap-toward-completely"
+        "title": "Mexico FDI ranking jumps in 2026 as nearshoring boosts investment",
+        "url": "https://www.freightwaves.com/news/mexico-fdi-ranking-jumps-in-2026-as-nearshoring-boosts-investment",
+        "fetchedAt": "2026-04-15T09:27:08.692293Z",
+        "excerpt": "<p>Mexico’s 2026 FDI ranking climb highlights nearshoring trends and cross-border freight opportunities tied to U.S. supply chains.</p>\n<p>The post <a href=\"https://www.freightwaves.com/news/mexico-fdi-ranking-jumps-in-2026-as-nearshoring-boosts-investment\">Mexico FDI ranking jumps in 2026 as nearshoring boosts investment</a> appeared first on <a href=\"https://www.freightwaves.com\">FreightWaves</a>.</p>\n"
       }
     ]
   },
   {
-    "id": "rss-55283",
+    "id": "rss-32961",
+    "date": "Mon, 13 Ap",
+    "companies": [],
+    "topics": [
+      "news"
+    ],
+    "impact": "neutral",
+    "title": "Crane Worldwide Logistics expands into Spain through acquisition",
+    "summary": "<p>Crane Worldwide Logistics has acquired a freight forwarding company in Spain. </p>\n<p>The post <a href=\"https://www.freightwaves.com/news/crane-worldwide-logistics-expands-into-spain-through-acquis",
+    "sources": [
+      {
+        "type": "news",
+        "title": "Crane Worldwide Logistics expands into Spain through acquisition",
+        "url": "https://www.freightwaves.com/news/crane-worldwide-logistics-expands-into-spain-through-acquisition",
+        "fetchedAt": "2026-04-15T09:27:08.692296Z",
+        "excerpt": "<p>Crane Worldwide Logistics has acquired a freight forwarding company in Spain. </p>\n<p>The post <a href=\"https://www.freightwaves.com/news/crane-worldwide-logistics-expands-into-spain-through-acquisition\">Crane Worldwide Logistics expands into Spain through acquisition</a> appeared first on <a href=\"https://www.freightwaves.com\">FreightWaves</a>.</p>\n"
+      }
+    ]
+  },
+  {
+    "id": "rss-9405",
+    "date": "Mon, 13 Ap",
+    "companies": [],
+    "topics": [
+      "news"
+    ],
+    "impact": "neutral",
+    "title": "PE firm acquires Carrier Logistics, pledges AI overhaul",
+    "summary": "<p>Private equity firm STG announced it has acquired less-than-truckload TMS provider Carrier Logistics Inc.</p>\n<p>The post <a href=\"https://www.freightwaves.com/news/pe-firm-acquires-carrier-logisti",
+    "sources": [
+      {
+        "type": "news",
+        "title": "PE firm acquires Carrier Logistics, pledges AI overhaul",
+        "url": "https://www.freightwaves.com/news/pe-firm-acquires-carrier-logistics-pledges-ai-overhaul",
+        "fetchedAt": "2026-04-15T09:27:08.692299Z",
+        "excerpt": "<p>Private equity firm STG announced it has acquired less-than-truckload TMS provider Carrier Logistics Inc.</p>\n<p>The post <a href=\"https://www.freightwaves.com/news/pe-firm-acquires-carrier-logistics-pledges-ai-overhaul\">PE firm acquires Carrier Logistics, pledges AI overhaul</a> appeared first on <a href=\"https://www.freightwaves.com\">FreightWaves</a>.</p>\n"
+      }
+    ]
+  },
+  {
+    "id": "rss-86617",
+    "date": "Mon, 13 Ap",
+    "companies": [],
+    "topics": [
+      "news"
+    ],
+    "impact": "neutral",
+    "title": "Stolen freight is still moving through clean systems",
+    "summary": "<p>This was not stopped by a process. It was caught by chance.</p>\n<p>The post <a href=\"https://www.freightwaves.com/news/stolen-freight-is-still-moving-through-clean-systems\">Stolen freight is still ",
+    "sources": [
+      {
+        "type": "news",
+        "title": "Stolen freight is still moving through clean systems",
+        "url": "https://www.freightwaves.com/news/stolen-freight-is-still-moving-through-clean-systems",
+        "fetchedAt": "2026-04-15T09:27:08.692302Z",
+        "excerpt": "<p>This was not stopped by a process. It was caught by chance.</p>\n<p>The post <a href=\"https://www.freightwaves.com/news/stolen-freight-is-still-moving-through-clean-systems\">Stolen freight is still moving through clean systems</a> appeared first on <a href=\"https://www.freightwaves.com\">FreightWaves</a>.</p>\n"
+      }
+    ]
+  },
+  {
+    "id": "rss-69752",
+    "date": "Mon, 13 Ap",
+    "companies": [],
+    "topics": [
+      "news"
+    ],
+    "impact": "neutral",
+    "title": "This U.S. state just banned public funding for port automation",
+    "summary": "<p>Taxpayers won’t be funding automated container handling at two major West Coast ports. </p>\n<p>The post <a href=\"https://www.freightwaves.com/news/this-u-s-state-just-banned-public-funding-for-port",
+    "sources": [
+      {
+        "type": "news",
+        "title": "This U.S. state just banned public funding for port automation",
+        "url": "https://www.freightwaves.com/news/this-u-s-state-just-banned-public-funding-for-port-automation",
+        "fetchedAt": "2026-04-15T09:27:08.692305Z",
+        "excerpt": "<p>Taxpayers won’t be funding automated container handling at two major West Coast ports. </p>\n<p>The post <a href=\"https://www.freightwaves.com/news/this-u-s-state-just-banned-public-funding-for-port-automation\">This U.S. state just banned public funding for port automation</a> appeared first on <a href=\"https://www.freightwaves.com\">FreightWaves</a>.</p>\n"
+      }
+    ]
+  },
+  {
+    "id": "rss-38736",
+    "date": "Mon, 13 Ap",
+    "companies": [],
+    "topics": [
+      "news"
+    ],
+    "impact": "neutral",
+    "title": "Red flags as busiest Asia-US trade lane hits OOCL results",
+    "summary": "<p>Hong Kong-based Orient Overseas Container Line saw Q1 profits decline on weaker rates despite higher container volumes.</p>\n<p>The post <a href=\"https://www.freightwaves.com/news/red-flags-as-busie",
+    "sources": [
+      {
+        "type": "news",
+        "title": "Red flags as busiest Asia-US trade lane hits OOCL results",
+        "url": "https://www.freightwaves.com/news/red-flags-as-busiest-asia-us-trade-lane-hits-oocl-results",
+        "fetchedAt": "2026-04-15T09:27:08.692308Z",
+        "excerpt": "<p>Hong Kong-based Orient Overseas Container Line saw Q1 profits decline on weaker rates despite higher container volumes.</p>\n<p>The post <a href=\"https://www.freightwaves.com/news/red-flags-as-busiest-asia-us-trade-lane-hits-oocl-results\">Red flags as busiest Asia-US trade lane hits OOCL results</a> appeared first on <a href=\"https://www.freightwaves.com\">FreightWaves</a>.</p>\n"
+      }
+    ]
+  },
+  {
+    "id": "rss-5754",
+    "date": "Wed, 15 Ap",
+    "companies": [],
+    "topics": [
+      "news"
+    ],
+    "impact": "neutral",
+    "title": "Shipping caught between ceasefire talk and blockade reality",
+    "summary": "<p>Nearly 50 days into one of the most disruptive shipping crises in history, diplomatic signals and military escalation are running in parallel. Donald Trump has said the war in the Middle East is &#",
+    "sources": [
+      {
+        "type": "news",
+        "title": "Shipping caught between ceasefire talk and blockade reality",
+        "url": "https://splash247.com/shipping-caught-between-ceasefire-talk-and-blockade-reality/",
+        "fetchedAt": "2026-04-15T09:27:09.296107Z",
+        "excerpt": "<p>Nearly 50 days into one of the most disruptive shipping crises in history, diplomatic signals and military escalation are running in parallel. Donald Trump has said the war in the Middle East is &#8220;close to over,&#8221; telling Fox News that a second round of face-to-face talks with Iran could resume in Islamabad within days &#8211; &#8230;</p>\n</p>\n"
+      }
+    ]
+  },
+  {
+    "id": "rss-52629",
+    "date": "Wed, 15 Ap",
+    "companies": [],
+    "topics": [
+      "news"
+    ],
+    "impact": "neutral",
+    "title": "Ernst Russ moves into tankers with four-ship newbuild deal",
+    "summary": "<p>Frankfurt-listed shipowner Ernst Russ is branching into tankers, agreeing to acquire four 18,500 dwt intermediate-class chemical/product newbuildings backed by long-term charters. The Hamburg-based",
+    "sources": [
+      {
+        "type": "news",
+        "title": "Ernst Russ moves into tankers with four-ship newbuild deal",
+        "url": "https://splash247.com/ernst-russ-moves-into-tankers-with-four-ship-newbuild-deal/",
+        "fetchedAt": "2026-04-15T09:27:09.296117Z",
+        "excerpt": "<p>Frankfurt-listed shipowner Ernst Russ is branching into tankers, agreeing to acquire four 18,500 dwt intermediate-class chemical/product newbuildings backed by long-term charters. The Hamburg-based owner said all four vessels will be fixed on contracts of at least five years from delivery, adding about $126m to its charter backlog. The ships are under construction at Wuhu Shipyard &#8230;</p>\n</p>\n"
+      }
+    ]
+  },
+  {
+    "id": "rss-53474",
+    "date": "Wed, 15 Ap",
+    "companies": [],
+    "topics": [
+      "news"
+    ],
+    "impact": "neutral",
+    "title": "Four centuries of maritime freedom at stake",
+    "summary": "<p>In the first of a two-part series, lead columnist Andrew Craig-Bennett delves into his history books in defence of the UN Convention on the Law of the Sea. If you are reading this, you are either i",
+    "sources": [
+      {
+        "type": "news",
+        "title": "Four centuries of maritime freedom at stake",
+        "url": "https://splash247.com/four-centuries-of-maritime-freedom-at-stake/",
+        "fetchedAt": "2026-04-15T09:27:09.296120Z",
+        "excerpt": "<p>In the first of a two-part series, lead columnist Andrew Craig-Bennett delves into his history books in defence of the UN Convention on the Law of the Sea. If you are reading this, you are either involved in the business of merchant shipping or you are interested in it. Which means that, by definition, you &#8230;</p>\n</p>\n"
+      }
+    ]
+  },
+  {
+    "id": "rss-99948",
+    "date": "Wed, 15 Ap",
+    "companies": [],
+    "topics": [
+      "news"
+    ],
+    "impact": "neutral",
+    "title": "Hunter Group flags leadership change",
+    "summary": "<p>Oslo-listed Hunter Group is set for a leadership change, with chief executive Erik Frydendal to step down as the company prepares for its next phase. The company&#8217;s board said the decision fol",
+    "sources": [
+      {
+        "type": "news",
+        "title": "Hunter Group flags leadership change",
+        "url": "https://splash247.com/hunter-group-flags-leadership-change/",
+        "fetchedAt": "2026-04-15T09:27:09.296122Z",
+        "excerpt": "<p>Oslo-listed Hunter Group is set for a leadership change, with chief executive Erik Frydendal to step down as the company prepares for its next phase. The company&#8217;s board said the decision follows a strong run over the past six months, driven by firm tanker markets and historically high spot rates. Hunter has benefited from its &#8230;</p>\n</p>\n"
+      }
+    ]
+  },
+  {
+    "id": "rss-39994",
+    "date": "Wed, 15 Ap",
+    "companies": [],
+    "topics": [
+      "news"
+    ],
+    "impact": "neutral",
+    "title": "Navigator lines up $183m exit from Unigas pool with eight-ship sale",
+    "summary": "<p>New York-listed Navigator Holdings has moved to streamline its fleet, signing a non-binding letter of intent to sell eight gas carriers and its stake in the Unigas pool in a deal worth about $183m.",
+    "sources": [
+      {
+        "type": "news",
+        "title": "Navigator lines up $183m exit from Unigas pool with eight-ship sale",
+        "url": "https://splash247.com/navigator-lines-up-183m-exit-from-unigas-pool-with-eight-ship-sale/",
+        "fetchedAt": "2026-04-15T09:27:09.296124Z",
+        "excerpt": "<p>New York-listed Navigator Holdings has moved to streamline its fleet, signing a non-binding letter of intent to sell eight gas carriers and its stake in the Unigas pool in a deal worth about $183m. The buyer group includes Bernhard Schulte (Singapore) and Germany’s Sloman Neptun, both existing partners in the Unigas International joint venture. The &#8230;</p>\n</p>\n"
+      }
+    ]
+  },
+  {
+    "id": "rss-32663",
+    "date": "Wed, 15 Ap",
+    "companies": [],
+    "topics": [
+      "news"
+    ],
+    "impact": "neutral",
+    "title": "World’s biggest cranes take shape at Hengli Heavy",
+    "summary": "<p>Construction has begun on three ultra-large gantry cranes at Hengli Heavy Industry&#8217; super drydock on Changxing Island in Dalian, with the project set to shatter multiple world records and fur",
+    "sources": [
+      {
+        "type": "news",
+        "title": "World’s biggest cranes take shape at Hengli Heavy",
+        "url": "https://splash247.com/worlds-biggest-cranes-take-shape-at-hengli-heavy/",
+        "fetchedAt": "2026-04-15T09:27:09.296126Z",
+        "excerpt": "<p>Construction has begun on three ultra-large gantry cranes at Hengli Heavy Industry&#8217; super drydock on Changxing Island in Dalian, with the project set to shatter multiple world records and further cement the yard&#8217;s extraordinary rise to the top of global shipbuilding. Jiangsu Tianmu Construction Group has confirmed that two of the three cranes will be &#8230;</p>\n</p>\n"
+      }
+    ]
+  },
+  {
+    "id": "rss-88769",
+    "date": "Wed, 15 Ap",
+    "companies": [],
+    "topics": [
+      "news"
+    ],
+    "impact": "neutral",
+    "title": "Industry alliance launches platform to tackle sexual misconduct at sea",
+    "summary": "<p>The All-Aboard Alliance, a coalition of companies and organisations committed to improving life at sea, has launched a project to develop a global framework to help companies better identify, preve",
+    "sources": [
+      {
+        "type": "news",
+        "title": "Industry alliance launches platform to tackle sexual misconduct at sea",
+        "url": "https://splash247.com/industry-alliance-launches-platform-to-tackle-sexual-misconduct-at-sea/",
+        "fetchedAt": "2026-04-15T09:27:09.296128Z",
+        "excerpt": "<p>The All-Aboard Alliance, a coalition of companies and organisations committed to improving life at sea, has launched a project to develop a global framework to help companies better identify, prevent, and respond to unwanted sexual behaviour aboard vessels. According to the alliance, there is strong evidence that sexual misconduct at sea is both widespread and &#8230;</p>\n</p>\n"
+      }
+    ]
+  },
+  {
+    "id": "rss-34399",
+    "date": "Wed, 15 Ap",
+    "companies": [],
+    "topics": [
+      "news"
+    ],
+    "impact": "neutral",
+    "title": "MastChain: Ship tracking enters the sharing economy",
+    "summary": "<p>With vessel tracking dominating headlines amid the ongoing Hormuz crisis, a quietly published experiment from the UK coastline raises a question with significant implications for global maritime se",
+    "sources": [
+      {
+        "type": "news",
+        "title": "MastChain: Ship tracking enters the sharing economy",
+        "url": "https://splash247.com/mastchain-ship-tracking-enters-the-sharing-economy/",
+        "fetchedAt": "2026-04-15T09:27:09.296130Z",
+        "excerpt": "<p>With vessel tracking dominating headlines amid the ongoing Hormuz crisis, a quietly published experiment from the UK coastline raises a question with significant implications for global maritime security: can AIS coverage evolve from a centrally managed system into a distributed, participatory network? Writing on Medium, contributor Dan Jugy has documented a practical test of exactly &#8230;</p>\n</p>\n"
+      }
+    ]
+  },
+  {
+    "id": "rss-89528",
+    "date": "Wed, 15 Ap",
+    "companies": [],
+    "topics": [
+      "news"
+    ],
+    "impact": "neutral",
+    "title": "Stena drillship lined up for historic Greece drilling campaign",
+    "summary": "<p>The consortium of ExxonMobil, Energean, and HELLENiQ Energy will today sign a contract for exploratory drilling in Block 2 in the north-western Ionian Sea with Greece’s Ministry of Environment and ",
+    "sources": [
+      {
+        "type": "news",
+        "title": "Stena drillship lined up for historic Greece drilling campaign",
+        "url": "https://splash247.com/stena-drillship-lined-up-for-historic-greece-drilling-campaign/",
+        "fetchedAt": "2026-04-15T09:27:09.296133Z",
+        "excerpt": "<p>The consortium of ExxonMobil, Energean, and HELLENiQ Energy will today sign a contract for exploratory drilling in Block 2 in the north-western Ionian Sea with Greece’s Ministry of Environment and Energy. An initial agreement for the drilling was signed in Athens in November, coinciding with ExxonMobil&#8217;s entry into the consortium with a 60% stake. Energean &#8230;</p>\n</p>\n"
+      }
+    ]
+  },
+  {
+    "id": "rss-31875",
+    "date": "Wed, 15 Ap",
+    "companies": [],
+    "topics": [
+      "news"
+    ],
+    "impact": "neutral",
+    "title": "SBM Offshore put in charge of FPSO construction on Petrobras’ $12bn project",
+    "summary": "<p>Brazilian state-owned giant Petrobras has approved the final investment decision for the SEAP I project in the Sergipe-Alagoas Basin, consolidating the development of the Sergipe Deepwater project ",
+    "sources": [
+      {
+        "type": "news",
+        "title": "SBM Offshore put in charge of FPSO construction on Petrobras’ $12bn project",
+        "url": "https://splash247.com/sbm-offshore-put-in-charge-of-fpso-construction-on-petrobras-12bn-project/",
+        "fetchedAt": "2026-04-15T09:27:09.296135Z",
+        "excerpt": "<p>Brazilian state-owned giant Petrobras has approved the final investment decision for the SEAP I project in the Sergipe-Alagoas Basin, consolidating the development of the Sergipe Deepwater project (SEAP), a new oil and gas production frontier in the country. Petrobras revised several contractual terms and conditions enabling the structuring of joint negotiations for the P-81 and &#8230;</p>\n</p>\n"
+      }
+    ]
+  },
+  {
+    "id": "rss-321",
     "date": "Fri, 10 Ap",
     "companies": [],
     "topics": [
       "news"
     ],
     "impact": "neutral",
-    "title": " After jumping 2,200% over the last twelve months, DDR4 spot prices fall 5%, the first decline in nearly a year — DDR5 pricing sees some relief in China channel market ",
-    "summary": "\n                             DDR4 16Gb spot prices fell about 5% over the past month to roughly $74.10, ending nearly a year of consecutive monthly gains. \n                                           ",
+    "title": "Fuel shock, Middle East turmoil push global freight rates higher - FreightWaves",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxNazM4Ykc1UXBZckNwcnYya0hmU2d3aWZsT1JFM0drTzFGX3dySGVLeW9fMGpMWXBObUJoU2tpRUVRRmpwZG5RYTM1R3J1eXR1YkJRbVljS2tzc1pJcXkxNnc2b1RmYkxhT0tobXN1ZH",
     "sources": [
       {
         "type": "news",
-        "title": " After jumping 2,200% over the last twelve months, DDR4 spot prices fall 5%, the first decline in nearly a year — DDR5 pricing sees some relief in China channel market ",
-        "url": "https://www.tomshardware.com/tech-industry/ddr4-spot-prices-fall-for-first-time-in-nearly-a-year-as-chinese-channel-inventory-clears",
-        "fetchedAt": "2026-04-14T23:00:25.025930Z",
-        "excerpt": "\n                             DDR4 16Gb spot prices fell about 5% over the past month to roughly $74.10, ending nearly a year of consecutive monthly gains. \n                                                                                                            "
+        "title": "Fuel shock, Middle East turmoil push global freight rates higher - FreightWaves",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNazM4Ykc1UXBZckNwcnYya0hmU2d3aWZsT1JFM0drTzFGX3dySGVLeW9fMGpMWXBObUJoU2tpRUVRRmpwZG5RYTM1R3J1eXR1YkJRbVljS2tzc1pJcXkxNnc2b1RmYkxhT0tobXN1ZHl5Tlg5bnBZOXNub0lqVTBTQk96cks4WXBJMlFNM3ZnX0hHNkJwQlBtbGpKemtNdw?oc=5",
+        "fetchedAt": "2026-04-15T09:27:09.934814Z",
+        "excerpt": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxNazM4Ykc1UXBZckNwcnYya0hmU2d3aWZsT1JFM0drTzFGX3dySGVLeW9fMGpMWXBObUJoU2tpRUVRRmpwZG5RYTM1R3J1eXR1YkJRbVljS2tzc1pJcXkxNnc2b1RmYkxhT0tobXN1ZHl5Tlg5bnBZOXNub0lqVTBTQk96cks4WXBJMlFNM3ZnX0hHNkJwQlBtbGpKemtNdw?oc=5\" target=\"_blank\">Fuel shock, Middle East turmoil push global freight rates higher</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">FreightWaves</font>"
       }
     ]
   },
   {
-    "id": "rss-87103",
-    "date": "Fri, 03 Ap",
+    "id": "rss-81866",
+    "date": "Tue, 14 Ap",
     "companies": [],
     "topics": [
       "news"
     ],
     "impact": "neutral",
-    "title": " Memory will consume 30% of hyperscaler AI data center spending this year, a 4X increase over 2023 — Nvidia gets preferential supply terms well below standard market rates, says analyst firm ",
-    "summary": "\n                             SemiAnalysis estimates on Thursday that memory will account for roughly 30% of total hyperscaler capex in calendar year 2026. \n                                           ",
+    "title": "Lower freight rates hit Q1 revenues for Taiwan’s ‘Big Three’ carriers - Journal of Commerce",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxNOW1IU0dxbTVKclpwUmhGTm9fSmpFTjFpcGw1SXdVOTVZV3E1MDhhUkQzVGNKdnY1R2VGd3VHWEpwNW1BSndlQUdBSnI5Wk9fRlhYVDVPcFNqNTB0TWx0T1U4bU5Qa0dsQXo5RC1sS3",
     "sources": [
       {
         "type": "news",
-        "title": " Memory will consume 30% of hyperscaler AI data center spending this year, a 4X increase over 2023 — Nvidia gets preferential supply terms well below standard market rates, says analyst firm ",
-        "url": "https://www.tomshardware.com/tech-industry/memory-will-consume-30-percent-of-hyperscaler-spending-this-year",
-        "fetchedAt": "2026-04-14T23:00:25.025937Z",
-        "excerpt": "\n                             SemiAnalysis estimates on Thursday that memory will account for roughly 30% of total hyperscaler capex in calendar year 2026. \n                                                                                                            "
+        "title": "Lower freight rates hit Q1 revenues for Taiwan’s ‘Big Three’ carriers - Journal of Commerce",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNOW1IU0dxbTVKclpwUmhGTm9fSmpFTjFpcGw1SXdVOTVZV3E1MDhhUkQzVGNKdnY1R2VGd3VHWEpwNW1BSndlQUdBSnI5Wk9fRlhYVDVPcFNqNTB0TWx0T1U4bU5Qa0dsQXo5RC1sS3hSbUVPczV2UFR6RWNzTHhMQjl5Z0RtS1BFR0s1R0xWQjFGVG1BemNtRjN3a1lHejZHUk5RdA?oc=5",
+        "fetchedAt": "2026-04-15T09:27:09.934825Z",
+        "excerpt": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxNOW1IU0dxbTVKclpwUmhGTm9fSmpFTjFpcGw1SXdVOTVZV3E1MDhhUkQzVGNKdnY1R2VGd3VHWEpwNW1BSndlQUdBSnI5Wk9fRlhYVDVPcFNqNTB0TWx0T1U4bU5Qa0dsQXo5RC1sS3hSbUVPczV2UFR6RWNzTHhMQjl5Z0RtS1BFR0s1R0xWQjFGVG1BemNtRjN3a1lHejZHUk5RdA?oc=5\" target=\"_blank\">Lower freight rates hit Q1 revenues for Taiwan’s ‘Big Three’ carriers</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Journal of Commerce</font>"
       }
     ]
   },
   {
-    "id": "rss-11635",
-    "date": "Sun, 22 Ma",
+    "id": "rss-58478",
+    "date": "Fri, 10 Ap",
     "companies": [],
     "topics": [
       "news"
     ],
     "impact": "neutral",
-    "title": " Micron predicts that cars will need 300GB of RAM — memory-laden vehicles could exacerbate shortages but create 'robust long-term growth in automotive memory demand' ",
-    "summary": "\n                             Micron CEO Sanjay Mehrotra predicts that self-driving vehicles would require at least 300GB of RAM, meaning increasing demand could drive another memory chip shortage as ",
+    "title": "Two-week US-Iran ceasefire not enough to end ocean container shipping disruption or surging freight rates - Xeneta",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxNeVNDbWUtLVJtNzdtWGtCel9iQ1o0b2hmdVFRd0VCT00wZm85QUFkWGVYckV3NlhpX2U0eHhfY2xzclRSM2N4cTFEcElELTA0NE1FaHVYOWZNczhfMkpxN0VlalBSTU5WbWtzU0d0LV",
     "sources": [
       {
         "type": "news",
-        "title": " Micron predicts that cars will need 300GB of RAM — memory-laden vehicles could exacerbate shortages but create 'robust long-term growth in automotive memory demand' ",
-        "url": "https://www.tomshardware.com/pc-components/dram/micron-predicts-that-cars-will-need-300gb-of-ram-memory-laden-vehicles-could-exacerbate-shortages-but-create-robust-long-term-growth-in-automotive-memory-demand",
-        "fetchedAt": "2026-04-14T23:00:25.025939Z",
-        "excerpt": "\n                             Micron CEO Sanjay Mehrotra predicts that self-driving vehicles would require at least 300GB of RAM, meaning increasing demand could drive another memory chip shortage as these cars are essentially AI supercomputers on wheels. \n                                                                                                            "
+        "title": "Two-week US-Iran ceasefire not enough to end ocean container shipping disruption or surging freight rates - Xeneta",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNeVNDbWUtLVJtNzdtWGtCel9iQ1o0b2hmdVFRd0VCT00wZm85QUFkWGVYckV3NlhpX2U0eHhfY2xzclRSM2N4cTFEcElELTA0NE1FaHVYOWZNczhfMkpxN0VlalBSTU5WbWtzU0d0LV9STXJ4ZmtFSUdkZmNwZlc5NlNWMXB4YWlxUVlleFFqM3VaemhabUstUWRkYklWZ3I1SjJUeWlIdjB6R0dVQWVXbXJtQ1pSaXByRlgteU1OLUstWTZrenk4d2NaWmdEUQ?oc=5",
+        "fetchedAt": "2026-04-15T09:27:09.934828Z",
+        "excerpt": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxNeVNDbWUtLVJtNzdtWGtCel9iQ1o0b2hmdVFRd0VCT00wZm85QUFkWGVYckV3NlhpX2U0eHhfY2xzclRSM2N4cTFEcElELTA0NE1FaHVYOWZNczhfMkpxN0VlalBSTU5WbWtzU0d0LV9STXJ4ZmtFSUdkZmNwZlc5NlNWMXB4YWlxUVlleFFqM3VaemhabUstUWRkYklWZ3I1SjJUeWlIdjB6R0dVQWVXbXJtQ1pSaXByRlgteU1OLUstWTZrenk4d2NaWmdEUQ?oc=5\" target=\"_blank\">Two-week US-Iran ceasefire not enough to end ocean container shipping disruption or surging freight rates</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Xeneta"
       }
     ]
   },
   {
-    "id": "rss-35101",
-    "date": "Sun, 22 Ma",
+    "id": "rss-52550",
+    "date": "Wed, 15 Ap",
     "companies": [],
     "topics": [
       "news"
     ],
     "impact": "neutral",
-    "title": " Corsair’s limited-time memory sale brings 25% savings, but persistent DDR5 price hikes paint a grim outlook for buyers ",
-    "summary": "\n                             While Corsair’s DDR5 deal offers notable discounts, rising DRAM prices mean buyers still pay significantly more than before. \n                                            ",
+    "title": "Container shipping costs to U.S., Middle East rise in March: data - Yonhap News Agency",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTFAwMW9uVjBOeXRfdEh2WWlfdWNoOXZSdGFtNS1RdEJqYTB4bXd0R2lfcFBfZkt5WFRkbDRMdG9vbEl3dHdRTHhuM2J1TG9EbnFYQk5ScjdmSnlGZw?oc=5\" target=\"_blank\">Conta",
     "sources": [
       {
         "type": "news",
-        "title": " Corsair’s limited-time memory sale brings 25% savings, but persistent DDR5 price hikes paint a grim outlook for buyers ",
-        "url": "https://www.tomshardware.com/pc-components/ram/corsairs-limited-time-memory-sale-brings-25-percent-savings-but-persistent-ddr5-price-hikes-paint-a-grim-outlook-for-buyers",
-        "fetchedAt": "2026-04-14T23:00:25.025942Z",
-        "excerpt": "\n                             While Corsair’s DDR5 deal offers notable discounts, rising DRAM prices mean buyers still pay significantly more than before. \n                                                                                                            "
+        "title": "Container shipping costs to U.S., Middle East rise in March: data - Yonhap News Agency",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFAwMW9uVjBOeXRfdEh2WWlfdWNoOXZSdGFtNS1RdEJqYTB4bXd0R2lfcFBfZkt5WFRkbDRMdG9vbEl3dHdRTHhuM2J1TG9EbnFYQk5ScjdmSnlGZw?oc=5",
+        "fetchedAt": "2026-04-15T09:27:09.934831Z",
+        "excerpt": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTFAwMW9uVjBOeXRfdEh2WWlfdWNoOXZSdGFtNS1RdEJqYTB4bXd0R2lfcFBfZkt5WFRkbDRMdG9vbEl3dHdRTHhuM2J1TG9EbnFYQk5ScjdmSnlGZw?oc=5\" target=\"_blank\">Container shipping costs to U.S., Middle East rise in March: data</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yonhap News Agency</font>"
       }
     ]
   },
   {
-    "id": "rss-41882",
-    "date": "Wed, 18 Ma",
-    "companies": [],
-    "topics": [
-      "news"
-    ],
-    "impact": "neutral",
-    "title": " SK Group chairman says memory chip shortage will last until 2030 — wafer supply trails demand by 20% ",
-    "summary": "\n                             SK Group chairman Chey Tae-won told reporters at Nvidia's GTC conference in San Jose on Monday that the global memory chip shortage is likely to persist for another four ",
-    "sources": [
-      {
-        "type": "news",
-        "title": " SK Group chairman says memory chip shortage will last until 2030 — wafer supply trails demand by 20% ",
-        "url": "https://www.tomshardware.com/pc-components/dram/sk-group-chairman-says-memory-chip-shortage-will-last-until-2030",
-        "fetchedAt": "2026-04-14T23:00:25.025943Z",
-        "excerpt": "\n                             SK Group chairman Chey Tae-won told reporters at Nvidia's GTC conference in San Jose on Monday that the global memory chip shortage is likely to persist for another four to five years. \n                                                                                                            "
-      }
-    ]
-  },
-  {
-    "id": "rss-6673",
-    "date": "Wed, 11 Ma",
-    "companies": [],
-    "topics": [
-      "news"
-    ],
-    "impact": "neutral",
-    "title": " Seagate CCO says storage price hikes are ‘the new normal’ — demand enters an unprecedented ‘supercycle’ driven by AI growth  ",
-    "summary": "\n                             Seagate CCO Ban-Seng Teh said this week that memory price hikes are \"the new normal\" for the storage industry, describing current market conditions as a supercycle driven",
-    "sources": [
-      {
-        "type": "news",
-        "title": " Seagate CCO says storage price hikes are ‘the new normal’ — demand enters an unprecedented ‘supercycle’ driven by AI growth  ",
-        "url": "https://www.tomshardware.com/tech-industry/seagate-cco-says-memory-price-hikes-are-the-new-normal",
-        "fetchedAt": "2026-04-14T23:00:25.025945Z",
-        "excerpt": "\n                             Seagate CCO Ban-Seng Teh said this week that memory price hikes are \"the new normal\" for the storage industry, describing current market conditions as a supercycle driven by AI data center demand that shows no sign of following historical patterns of recovery. \n                                                                                                            "
-      }
-    ]
-  },
-  {
-    "id": "rss-45980",
-    "date": "Sun, 08 Ma",
-    "companies": [],
-    "topics": [
-      "news"
-    ],
-    "impact": "neutral",
-    "title": " Memory bit flips cause up to 15% of Firefox crashes, asserts Mozilla engineer — figure inferred from 470,000 auto-submitted crash reports ",
-    "summary": "\n                             A Mozilla engineer has shared survey data and calculations suggesting that up to 15% of Firefox crashes are due to a bit flip. \n                                          ",
-    "sources": [
-      {
-        "type": "news",
-        "title": " Memory bit flips cause up to 15% of Firefox crashes, asserts Mozilla engineer — figure inferred from 470,000 auto-submitted crash reports ",
-        "url": "https://www.tomshardware.com/pc-components/ram/bit-flips-cause-up-to-15-percent-of-firefox-crashes-asserts-mozilla-engineer-figure-inferred-from-470-000-auto-submitted-crash-reports",
-        "fetchedAt": "2026-04-14T23:00:25.025947Z",
-        "excerpt": "\n                             A Mozilla engineer has shared survey data and calculations suggesting that up to 15% of Firefox crashes are due to a bit flip. \n                                                                                                            "
-      }
-    ]
-  },
-  {
-    "id": "rss-86544",
-    "date": "Fri, 06 Ma",
-    "companies": [],
-    "topics": [
-      "news"
-    ],
-    "impact": "neutral",
-    "title": " Apple pulls $4,000 512GB Mac Studio upgrade option as AI RAM squeeze continues, raises 256GB upgrade price — M3 256GB upgrade now costs $2,000 ",
-    "summary": "\n                             The 512GB option, which was exclusive to the M3 Ultra chip and previously cost $4,000, no longer appears on Apple's configuration page. \n                                 ",
-    "sources": [
-      {
-        "type": "news",
-        "title": " Apple pulls $4,000 512GB Mac Studio upgrade option as AI RAM squeeze continues, raises 256GB upgrade price — M3 256GB upgrade now costs $2,000 ",
-        "url": "https://www.tomshardware.com/tech-industry/apple-pulls-512-mac-studio-upgrade-option",
-        "fetchedAt": "2026-04-14T23:00:25.025948Z",
-        "excerpt": "\n                             The 512GB option, which was exclusive to the M3 Ultra chip and previously cost $4,000, no longer appears on Apple's configuration page. \n                                                                                                            "
-      }
-    ]
-  },
-  {
-    "id": "rss-34566",
-    "date": "Thu, 05 Ma",
-    "companies": [],
-    "topics": [
-      "news"
-    ],
-    "impact": "neutral",
-    "title": " Spiralling memory spot prices could trigger 'industry cycle collapse,' report warns — NAND wafer costs surge 25% in a single month ",
-    "summary": "\n                             DDR5 16G (2Gx8) chips averaged $39, up 7.4% month-over-month, while 1Tb TLC flash wafers jumped 25% to $25. \n                                                             ",
-    "sources": [
-      {
-        "type": "news",
-        "title": " Spiralling memory spot prices could trigger 'industry cycle collapse,' report warns — NAND wafer costs surge 25% in a single month ",
-        "url": "https://www.tomshardware.com/tech-industry/memory-spot-prices-climbed-again-in-february-nand-wafer-costs-surge-25-percent",
-        "fetchedAt": "2026-04-14T23:00:25.025950Z",
-        "excerpt": "\n                             DDR5 16G (2Gx8) chips averaged $39, up 7.4% month-over-month, while 1Tb TLC flash wafers jumped 25% to $25. \n                                                                                                            "
-      }
-    ]
-  },
-  {
-    "id": "rss-43444",
-    "date": "Tue, 03 Ma",
-    "companies": [],
-    "topics": [
-      "news"
-    ],
-    "impact": "neutral",
-    "title": " AI memory crunch forces DRAM market into 'hourly pricing' model, report claims — small and medium-sized businesses fighting for survival ",
-    "summary": "\n                             According to DigiTimes, these companies began struggling to absorb soaring memory costs in the second half of 2025. \n                                                     ",
-    "sources": [
-      {
-        "type": "news",
-        "title": " AI memory crunch forces DRAM market into 'hourly pricing' model, report claims — small and medium-sized businesses fighting for survival ",
-        "url": "https://www.tomshardware.com/pc-components/ram/memory-prices-now-shifting-hourly-as-smaller-firms-fight-over-scraps",
-        "fetchedAt": "2026-04-14T23:00:25.025952Z",
-        "excerpt": "\n                             According to DigiTimes, these companies began struggling to absorb soaring memory costs in the second half of 2025. \n                                                                                                            "
-      }
-    ]
-  },
-  {
-    "id": "rss-85093",
-    "date": "Tue, 03 Ma",
-    "companies": [],
-    "topics": [
-      "news"
-    ],
-    "impact": "neutral",
-    "title": " 2026 will bring sharpest PC declines in over a decade — PC shipments to fall 10.4% ",
-    "summary": "\n                             The forecast puts 2026 on track for the steepest device shipment contraction in over a decade, according to Ranjit Atwal, senior director analyst at Gartner. \n           ",
-    "sources": [
-      {
-        "type": "news",
-        "title": " 2026 will bring sharpest PC declines in over a decade — PC shipments to fall 10.4% ",
-        "url": "https://www.tomshardware.com/tech-industry/2026-will-bring-sharpest-pc-declines-in-over-a-decade",
-        "fetchedAt": "2026-04-14T23:00:25.025953Z",
-        "excerpt": "\n                             The forecast puts 2026 on track for the steepest device shipment contraction in over a decade, according to Ranjit Atwal, senior director analyst at Gartner. \n                                                                                                            "
-      }
-    ]
-  },
-  {
-    "id": "rss-38992",
-    "date": "Mon, 02 Ma",
-    "companies": [],
-    "topics": [
-      "news"
-    ],
-    "impact": "neutral",
-    "title": " Entry-level PC market to ‘disappear’ by 2028 — rising memory prices pile more strain on consumer PC market ",
-    "summary": "\n                             A 130% surge in combined DRAM and SSD prices by the end of 2026 will push PC prices up 17% compared to 2025 levels and wipe out the sub-$500 PC market. \n                 ",
-    "sources": [
-      {
-        "type": "news",
-        "title": " Entry-level PC market to ‘disappear’ by 2028 — rising memory prices pile more strain on consumer PC market ",
-        "url": "https://www.tomshardware.com/tech-industry/rising-memory-prices-pile-more-strain-on-consumer-pc-market",
-        "fetchedAt": "2026-04-14T23:00:25.025955Z",
-        "excerpt": "\n                             A 130% surge in combined DRAM and SSD prices by the end of 2026 will push PC prices up 17% compared to 2025 levels and wipe out the sub-$500 PC market. \n                                                                                                            "
-      }
-    ]
-  },
-  {
-    "id": "rss-65247",
-    "date": "Sun, 22 Fe",
-    "companies": [],
-    "topics": [
-      "news"
-    ],
-    "impact": "neutral",
-    "title": " 55 years ago, the first computer search warrant was issued — in February 1971, a Santa Clara judge authorized police to seize punch cards and a 'computer memory bank' ",
-    "summary": "\n                             In February 1971, an order authorized Oakland Police to enter offices in Palo Alto and homes in Menlo Park to look not just for papers but also for data stored on machine",
-    "sources": [
-      {
-        "type": "news",
-        "title": " 55 years ago, the first computer search warrant was issued — in February 1971, a Santa Clara judge authorized police to seize punch cards and a 'computer memory bank' ",
-        "url": "https://www.tomshardware.com/tech-industry/55-years-ago-today-the-first-computer-search-warrant-was-issued",
-        "fetchedAt": "2026-04-14T23:00:25.025956Z",
-        "excerpt": "\n                             In February 1971, an order authorized Oakland Police to enter offices in Palo Alto and homes in Menlo Park to look not just for papers but also for data stored on machines. \n                                                                                                            "
-      }
-    ]
-  },
-  {
-    "id": "rss-29591",
-    "date": "Mon, 16 Fe",
-    "companies": [],
-    "topics": [
-      "news"
-    ],
-    "impact": "neutral",
-    "title": " Turkish wedding party receives Nvidia RTX 5090, RAM necklaces, and Intel CPU for elaborate wedding gifts — A Turkish tech delight for the age of PC shortages  ",
-    "summary": "\n                             A video from a Turkish wedding reveals a delighted bride and groom being showered with opulent PC tech gifts. \n                                                           ",
-    "sources": [
-      {
-        "type": "news",
-        "title": " Turkish wedding party receives Nvidia RTX 5090, RAM necklaces, and Intel CPU for elaborate wedding gifts — A Turkish tech delight for the age of PC shortages  ",
-        "url": "https://www.tomshardware.com/pc-components/ddr5/turkish-wedding-party-receive-rtx-5090-ram-and-intel-cpu-wedding-gifts-a-turkish-tech-delight-for-the-ai-age",
-        "fetchedAt": "2026-04-14T23:00:25.025958Z",
-        "excerpt": "\n                             A video from a Turkish wedding reveals a delighted bride and groom being showered with opulent PC tech gifts. \n                                                                                                            "
-      }
-    ]
-  },
-  {
-    "id": "rss-70638",
-    "date": "Sun, 15 Fe",
-    "companies": [],
-    "topics": [
-      "news"
-    ],
-    "impact": "neutral",
-    "title": " OpenClaw-fueled ordering frenzy creates Apple Mac shortage — delivery for high Unified Memory units now ranges from 6 days to 6 weeks ",
-    "summary": "\n                             The Unified Memory architecture used by Apple Macs and MacBooks make it the ideal device for locally run agentic AI, driving demand for high-memory models and increasing ",
-    "sources": [
-      {
-        "type": "news",
-        "title": " OpenClaw-fueled ordering frenzy creates Apple Mac shortage — delivery for high Unified Memory units now ranges from 6 days to 6 weeks ",
-        "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/openclaw-fueled-ordering-frenzy-creates-apple-mac-shortage-delivery-for-high-unified-memory-units-now-ranges-from-6-days-to-6-weeks",
-        "fetchedAt": "2026-04-14T23:00:25.025959Z",
-        "excerpt": "\n                             The Unified Memory architecture used by Apple Macs and MacBooks make it the ideal device for locally run agentic AI, driving demand for high-memory models and increasing order lead times to more than a month. \n                                                                                                            "
-      }
-    ]
-  },
-  {
-    "id": "rss-39430",
-    "date": "Sat, 14 Fe",
-    "companies": [],
-    "topics": [
-      "news"
-    ],
-    "impact": "neutral",
-    "title": " 7x increase in memory costs fueling price increases in ISP-provided routers, gateways, and set-top boxes — home fiber rollouts may slow, and installations could become more expensive ",
-    "summary": "\n                             7x DRAM price jump affecting ISP routers, gateways, and STBs \n                                                                                                            ",
-    "sources": [
-      {
-        "type": "news",
-        "title": " 7x increase in memory costs fueling price increases in ISP-provided routers, gateways, and set-top boxes — home fiber rollouts may slow, and installations could become more expensive ",
-        "url": "https://www.tomshardware.com/networking/routers/isp-provided-routers-gateways-and-set-top-boxes-face-price-increases-due-to-7x-uplift-in-memory-costs-home-fiber-rollouts-may-slow-and-installations-could-become-more-expensive",
-        "fetchedAt": "2026-04-14T23:00:25.025961Z",
-        "excerpt": "\n                             7x DRAM price jump affecting ISP routers, gateways, and STBs \n                                                                                                            "
-      }
-    ]
-  },
-  {
-    "id": "rss-12705",
-    "date": "Fri, 13 Fe",
-    "companies": [],
-    "topics": [
-      "news"
-    ],
-    "impact": "neutral",
-    "title": " Framework's latest update brings more bad news about memory and storage pricing crisis — RAM costs increased to $12 to $16 per GB, recommends purchasing some models elsewhere for Framework Laptop DIY Edition customers ",
-    "summary": "\n                             Framework said that it's releasing a monthly update to monitor the memory chip situation and also announced that it will try to keep its RAM pricing as close as possible ",
-    "sources": [
-      {
-        "type": "news",
-        "title": " Framework's latest update brings more bad news about memory and storage pricing crisis — RAM costs increased to $12 to $16 per GB, recommends purchasing some models elsewhere for Framework Laptop DIY Edition customers ",
-        "url": "https://www.tomshardware.com/laptops/framework-releases-monthly-update-about-memory-and-storage-pricing-woes-ram-costs-increased-to-usd12-to-usd16-per-gb-recommends-purchasing-some-models-elsewhere-for-framework-laptop-diy-edition-customers",
-        "fetchedAt": "2026-04-14T23:00:25.025962Z",
-        "excerpt": "\n                             Framework said that it's releasing a monthly update to monitor the memory chip situation and also announced that it will try to keep its RAM pricing as close as possible to the weighted average of its costs. \n                                                                                                            "
-      }
-    ]
-  },
-  {
-    "id": "rss-23887",
-    "date": "Wed, 11 Fe",
-    "companies": [],
-    "topics": [
-      "news"
-    ],
-    "impact": "neutral",
-    "title": " Samsung and SK hynix shorten memory contracts as pricing power shifts back to suppliers — both companies now at 40-50% operating margins  ",
-    "summary": "\n                             Samsung and SK hynix have begun moving away from long-term, fixed-price supply contracts, replacing them with shorter agreements and post-settlement pricing mechanisms. \n",
-    "sources": [
-      {
-        "type": "news",
-        "title": " Samsung and SK hynix shorten memory contracts as pricing power shifts back to suppliers — both companies now at 40-50% operating margins  ",
-        "url": "https://www.tomshardware.com/tech-industry/samsung-and-sk-hynix-shorten-memory-contracts-as-pricing-power-shifts-back-to-suppliers",
-        "fetchedAt": "2026-04-14T23:00:25.025964Z",
-        "excerpt": "\n                             Samsung and SK hynix have begun moving away from long-term, fixed-price supply contracts, replacing them with shorter agreements and post-settlement pricing mechanisms. \n                                                                                                            "
-      }
-    ]
-  },
-  {
-    "id": "rss-23216",
-    "date": "Thu, 05 Fe",
-    "companies": [],
-    "topics": [
-      "news"
-    ],
-    "impact": "neutral",
-    "title": " Leading PC manufacturers considering using Chinese memory chips, report claims — HP and Dell qualifying CXMT DRAM, Acer and Asus asking Chinese partners to source locally-made memory chips ",
-    "summary": "\n                             HP and Dell are reportedly qualifying CXMT memory chips for their products, while Asus and Acer are asking their partners to source locally-made memory modules. The ongoi",
-    "sources": [
-      {
-        "type": "news",
-        "title": " Leading PC manufacturers considering using Chinese memory chips, report claims — HP and Dell qualifying CXMT DRAM, Acer and Asus asking Chinese partners to source locally-made memory chips ",
-        "url": "https://www.tomshardware.com/pc-components/dram/leading-pc-manufacturers-considering-using-chinese-memory-chips-report-claims-hp-and-dell-qualifying-cxmt-dram-acer-and-asus-asking-chinese-partners-to-source-locally-made-memory-chips",
-        "fetchedAt": "2026-04-14T23:00:25.025966Z",
-        "excerpt": "\n                             HP and Dell are reportedly qualifying CXMT memory chips for their products, while Asus and Acer are asking their partners to source locally-made memory modules. The ongoing memory chip shortage is forcing even big companies to look for alternative sources to Micron, Samsung, and SK hynix. \n                                                                                                            "
-      }
-    ]
-  },
-  {
-    "id": "rss-96454",
-    "date": "Mon, 02 Fe",
-    "companies": [],
-    "topics": [
-      "news"
-    ],
-    "impact": "neutral",
-    "title": " AI infrastructure surge begins squeezing Apple’s component costs — company considering supplier other than TSMC for lower-end chips, report claims ",
-    "summary": "\n                             Apple is beginning to feel the downstream effects of the AI infrastructure boom, as surging demand for data center hardware pushes up component costs and weakens its leve",
-    "sources": [
-      {
-        "type": "news",
-        "title": " AI infrastructure surge begins squeezing Apple’s component costs — company considering supplier other than TSMC for lower-end chips, report claims ",
-        "url": "https://www.tomshardware.com/tech-industry/ai-infrastructure-surge-begins-squeezing-apples-component-costs",
-        "fetchedAt": "2026-04-14T23:00:25.025967Z",
-        "excerpt": "\n                             Apple is beginning to feel the downstream effects of the AI infrastructure boom, as surging demand for data center hardware pushes up component costs and weakens its leverage. \n                                                                                                            "
-      }
-    ]
-  },
-  {
-    "id": "rss-7894",
-    "date": "Sun, 12 Ap",
-    "companies": [],
-    "topics": [
-      "news"
-    ],
-    "impact": "neutral",
-    "title": " $27 platypus PCIe adapter converts half-height GPUs into full-height while adding two M.2 slots for SSDs — enthusiast demos low-profile RTX 4060 with two SSDs thanks to PCIe bifurcation ",
-    "summary": "\n                             A Redditor got his hands on this PCIe adapter that does the job of two different ones at the same time. It converts half-height GPUs into full height while adding M.2 slo",
-    "sources": [
-      {
-        "type": "news",
-        "title": " $27 platypus PCIe adapter converts half-height GPUs into full-height while adding two M.2 slots for SSDs — enthusiast demos low-profile RTX 4060 with two SSDs thanks to PCIe bifurcation ",
-        "url": "https://www.tomshardware.com/pc-components/ssds/usd27-platypus-pcie-adapter-converts-half-height-gpus-into-full-height-while-adding-two-m-2-slots-for-ssds-enthusiast-demos-low-profile-rtx-4060-with-two-ssds-thanks-to-pcie-bifurcation",
-        "fetchedAt": "2026-04-14T23:00:25.087258Z",
-        "excerpt": "\n                             A Redditor got his hands on this PCIe adapter that does the job of two different ones at the same time. It converts half-height GPUs into full height while adding M.2 slots for storage expansion. All this is possible thanks to PCIe bifurcation, splitting an x16 slot into x8 for the GPU, and two x4 lanes for the SSDs. \n                                                                                                            "
-      }
-    ]
-  },
-  {
-    "id": "rss-80442",
+    "id": "rss-42615",
     "date": "Sat, 11 Ap",
     "companies": [],
     "topics": [
       "news"
     ],
     "impact": "neutral",
-    "title": " Two manufacturers commit to keep Blu-ray alive after others quit manufacturing — Verbatim and I-O Data extend Blu-ray supply pledge as manufacturers exit the market ",
-    "summary": "\n                             Verbatim Japan and I-O Data have widened their joint commitment to keep recordable Blu-ray products on shelves in Japan, this time covering drive hardware as well as medi",
+    "title": "Freight Rates Tick Up as Fuel Pressures and Hormuz Tensions Reshape Shipping Markets - Global Trade Magazine",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxOelpiMk8zZ1Y5cEpFdnQ4a3BfdS1qTDBvLVVEeWczZW9zQ2ZIVjF1eUN6VVdwd0prNUdhaUZFbGtSblRiYlN6ZWZEMEVCSzVkSGNFVnU1Wm54c3dFdm5XNWQxR0djbjZRX3o1b0xHTk",
     "sources": [
       {
         "type": "news",
-        "title": " Two manufacturers commit to keep Blu-ray alive after others quit manufacturing — Verbatim and I-O Data extend Blu-ray supply pledge as manufacturers exit the market ",
-        "url": "https://www.tomshardware.com/tech-industry/verbatim-and-i-o-data-extend-blu-ray-supply-pledge-as-manufacturers-exit-the-market",
-        "fetchedAt": "2026-04-14T23:00:25.087266Z",
-        "excerpt": "\n                             Verbatim Japan and I-O Data have widened their joint commitment to keep recordable Blu-ray products on shelves in Japan, this time covering drive hardware as well as media. \n                                                                                                            "
+        "title": "Freight Rates Tick Up as Fuel Pressures and Hormuz Tensions Reshape Shipping Markets - Global Trade Magazine",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOelpiMk8zZ1Y5cEpFdnQ4a3BfdS1qTDBvLVVEeWczZW9zQ2ZIVjF1eUN6VVdwd0prNUdhaUZFbGtSblRiYlN6ZWZEMEVCSzVkSGNFVnU1Wm54c3dFdm5XNWQxR0djbjZRX3o1b0xHTk5fb1pVQTFXNURVb0lnYzNkRnQxdm5VU2tOWExORVRQREhYT2JXbGtPN2psUTFlY1MxUmRsbnpHcjFRNkducG1idEtOYmNycW8?oc=5",
+        "fetchedAt": "2026-04-15T09:27:09.934833Z",
+        "excerpt": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxOelpiMk8zZ1Y5cEpFdnQ4a3BfdS1qTDBvLVVEeWczZW9zQ2ZIVjF1eUN6VVdwd0prNUdhaUZFbGtSblRiYlN6ZWZEMEVCSzVkSGNFVnU1Wm54c3dFdm5XNWQxR0djbjZRX3o1b0xHTk5fb1pVQTFXNURVb0lnYzNkRnQxdm5VU2tOWExORVRQREhYT2JXbGtPN2psUTFlY1MxUmRsbnpHcjFRNkducG1idEtOYmNycW8?oc=5\" target=\"_blank\">Freight Rates Tick Up as Fuel Pressures and Hormuz Tensions Reshape Shipping Markets</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Global Trade Magazine</font>"
       }
     ]
   },
   {
-    "id": "rss-579",
+    "id": "rss-6607",
+    "date": "Mon, 13 Ap",
+    "companies": [],
+    "topics": [
+      "news"
+    ],
+    "impact": "neutral",
+    "title": "Sea and air freight rates are seeking a new balance - FashionNetwork - The World's Fashion Business News",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxQQzlxbG50bkhlZEpnOWJCSEI0bUlyTDJmZkNieTBjemZscldGeTBSMVphbW1wbEFMb2tfdVpYNHdyS0Q1STM5WjB4S3NXbTZLbHNaUFk5OGRQQU54cWpNMlZYRU5LZUw5U2s0SDZLZ3",
+    "sources": [
+      {
+        "type": "news",
+        "title": "Sea and air freight rates are seeking a new balance - FashionNetwork - The World's Fashion Business News",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQQzlxbG50bkhlZEpnOWJCSEI0bUlyTDJmZkNieTBjemZscldGeTBSMVphbW1wbEFMb2tfdVpYNHdyS0Q1STM5WjB4S3NXbTZLbHNaUFk5OGRQQU54cWpNMlZYRU5LZUw5U2s0SDZLZ3FUVWR3WUhjQWxaOWJJeXNjdmxPTVRlT1Q0T2hlclV1ZGFLUzhUNHcxUWc4WnJMWWpH?oc=5",
+        "fetchedAt": "2026-04-15T09:27:09.934835Z",
+        "excerpt": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxQQzlxbG50bkhlZEpnOWJCSEI0bUlyTDJmZkNieTBjemZscldGeTBSMVphbW1wbEFMb2tfdVpYNHdyS0Q1STM5WjB4S3NXbTZLbHNaUFk5OGRQQU54cWpNMlZYRU5LZUw5U2s0SDZLZ3FUVWR3WUhjQWxaOWJJeXNjdmxPTVRlT1Q0T2hlclV1ZGFLUzhUNHcxUWc4WnJMWWpH?oc=5\" target=\"_blank\">Sea and air freight rates are seeking a new balance</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">FashionNetwork - The World's Fashion Business News</font>"
+      }
+    ]
+  },
+  {
+    "id": "rss-85208",
     "date": "Fri, 10 Ap",
     "companies": [],
     "topics": [
       "news"
     ],
     "impact": "neutral",
-    "title": " Vdura hikes its enterprise SSD pricing, now costs 22.6x more than hard drives — the price of a 30TB SSD has climbed 472% ",
-    "summary": "\n                             Vdura has materially revised the enterprise SSD pricing figures in its Flash Volatility Index, telling customers in an April 8 update that the cost of a 30TB TLC enterpri",
+    "title": "Shippers weigh unusual routes as high air cargo rates, ocean gridlock persist - Reuters",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxOdEp2czVCa1N0YjdGYktkUWJrX3B0R1FjOU5WUU1xYlpFMy1zUGtDd1NidXFyNFlXbjFTVTNYNkh4WHdkNGFXdzZyQnB3Z2RSR3ZTV05POVRxUUVpbklPcU1icy1jb1B0UGkxeGhmVG",
     "sources": [
       {
         "type": "news",
-        "title": " Vdura hikes its enterprise SSD pricing, now costs 22.6x more than hard drives — the price of a 30TB SSD has climbed 472% ",
-        "url": "https://www.tomshardware.com/pc-components/ssds/vdura-sharply-revises-its-enterprise-ssd-pricing-figures",
-        "fetchedAt": "2026-04-14T23:00:25.087269Z",
-        "excerpt": "\n                             Vdura has materially revised the enterprise SSD pricing figures in its Flash Volatility Index, telling customers in an April 8 update that the cost of a 30TB TLC enterprise drive climbed 472%. \n                                                                                                            "
+        "title": "Shippers weigh unusual routes as high air cargo rates, ocean gridlock persist - Reuters",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOdEp2czVCa1N0YjdGYktkUWJrX3B0R1FjOU5WUU1xYlpFMy1zUGtDd1NidXFyNFlXbjFTVTNYNkh4WHdkNGFXdzZyQnB3Z2RSR3ZTV05POVRxUUVpbklPcU1icy1jb1B0UGkxeGhmVG91SUtqMUFoTzctRFVaT0xhWjIzeDhNdjg0bkt3RFV0S1lLejFtalFHajRURGpCTksza1lsakxpRDMtQlhvVDdzbnZ5NXdLSnA3TnN3R2loeGJURFk?oc=5",
+        "fetchedAt": "2026-04-15T09:27:09.934837Z",
+        "excerpt": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxOdEp2czVCa1N0YjdGYktkUWJrX3B0R1FjOU5WUU1xYlpFMy1zUGtDd1NidXFyNFlXbjFTVTNYNkh4WHdkNGFXdzZyQnB3Z2RSR3ZTV05POVRxUUVpbklPcU1icy1jb1B0UGkxeGhmVG91SUtqMUFoTzctRFVaT0xhWjIzeDhNdjg0bkt3RFV0S1lLejFtalFHajRURGpCTksza1lsakxpRDMtQlhvVDdzbnZ5NXdLSnA3TnN3R2loeGJURFk?oc=5\" target=\"_blank\">Shippers weigh unusual routes as high air cargo rates, ocean gridlock persist</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>"
       }
     ]
   },
   {
-    "id": "rss-19103",
-    "date": "Fri, 10 Ap",
+    "id": "rss-16594",
+    "date": "Fri, 03 Ap",
     "companies": [],
     "topics": [
       "news"
     ],
     "impact": "neutral",
-    "title": " 30 years of Lexar: What a look inside its R&D labs and factory reveals about its plans for an AI-ready future ",
-    "summary": "\n                             Lexar toured us around its R&D labs and production facilities to see how it's building storage solutions for today and tomorrow. \n                                        ",
+    "title": "CMA CGM Vessel Navigates Hormuz as Crisis Remains ‘Localized’ - WWD",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi8gFBVV95cUxPR20xQ2JQOWdSRGk1Y1c5RjFTUGxuNjVkeFV2ZFRsXzFLRWFjMEtzRUxuZWNRVVR5ejhwTThPQVFXZGJIczBTVlktNTk4LVhLTk81aFB1RHZ1VTdDSXF2THYxX0twMmRMN0pKSDRhWF",
     "sources": [
       {
         "type": "news",
-        "title": " 30 years of Lexar: What a look inside its R&D labs and factory reveals about its plans for an AI-ready future ",
-        "url": "https://www.tomshardware.com/pc-components/storage/30-years-of-lexar-what-a-look-inside-its-r-and-d-labs-and-factory-reveals-about-its-plans-for-an-ai-ready-future",
-        "fetchedAt": "2026-04-14T23:00:25.087273Z",
-        "excerpt": "\n                             Lexar toured us around its R&D labs and production facilities to see how it's building storage solutions for today and tomorrow. \n                                                                                                            "
+        "title": "CMA CGM Vessel Navigates Hormuz as Crisis Remains ‘Localized’ - WWD",
+        "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPR20xQ2JQOWdSRGk1Y1c5RjFTUGxuNjVkeFV2ZFRsXzFLRWFjMEtzRUxuZWNRVVR5ejhwTThPQVFXZGJIczBTVlktNTk4LVhLTk81aFB1RHZ1VTdDSXF2THYxX0twMmRMN0pKSDRhWFVpa1dIMGhoM2pJdENhTGVhSGpWTEx6VklzQ2xtRnpXRUhyRG53eTRxS1I2cU9BMkFwdkYxS0dXX2RwdVlqUmV1UTRyVG9OMERXRGVjNWRpU21KSXlneWpLdm9ta01KMDlHSFJVRFBLLWF0dzI5SGhsd1RHeVB4ZkJjd3gxZkpjRHN4dw?oc=5",
+        "fetchedAt": "2026-04-15T09:27:09.934841Z",
+        "excerpt": "<a href=\"https://news.google.com/rss/articles/CBMi8gFBVV95cUxPR20xQ2JQOWdSRGk1Y1c5RjFTUGxuNjVkeFV2ZFRsXzFLRWFjMEtzRUxuZWNRVVR5ejhwTThPQVFXZGJIczBTVlktNTk4LVhLTk81aFB1RHZ1VTdDSXF2THYxX0twMmRMN0pKSDRhWFVpa1dIMGhoM2pJdENhTGVhSGpWTEx6VklzQ2xtRnpXRUhyRG53eTRxS1I2cU9BMkFwdkYxS0dXX2RwdVlqUmV1UTRyVG9OMERXRGVjNWRpU21KSXlneWpLdm9ta01KMDlHSFJVRFBLLWF0dzI5SGhsd1RHeVB4ZkJjd3gxZkpjRHN4dw?oc=5\" target=\"_blank\">CMA CGM Vessel Navigates Hormuz as Crisis Remains ‘Localized’</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WW"
       }
     ]
   },
   {
-    "id": "rss-19989",
-    "date": "Fri, 10 Ap",
+    "id": "rss-60141",
+    "date": "Tue, 14 Ap",
     "companies": [],
     "topics": [
       "news"
     ],
     "impact": "neutral",
-    "title": " Engineer installs 3.5-inch floppy drive in a Tesla — modern EV recognizes and runs ancient storage device, even plays an MP3 file from diskette ",
-    "summary": "\n                             An engineer and software developer was able to make a 3.5-inch floppy drive work seamlessly with the Tesla with just a USB-to-FDD converter. \n                            ",
+    "title": "News Hormuz stalemate could reshape container trade flows, warns analyst - The Loadstar",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxPUjVSRXZDeDZDV2MtTU1NMm4wTy1tc28tOG93eFpzNmJ2OG1FVjNuS0IzX3RKYlBHcy1RYVBPUUw1X3JLSmlnV1RLTG05MkxyTVRtYzZnX2hJMHk4cGw2VmVVYnBXMk4waUk4SGFybE",
     "sources": [
       {
         "type": "news",
-        "title": " Engineer installs 3.5-inch floppy drive in a Tesla — modern EV recognizes and runs ancient storage device, even plays an MP3 file from diskette ",
-        "url": "https://www.tomshardware.com/pc-components/storage/engineer-installs-3-5-inch-floppy-drive-in-a-tesla-modern-ev-recognizes-and-runs-ancient-storage-device-even-plays-an-mp3-file-from-diskette",
-        "fetchedAt": "2026-04-14T23:00:25.087276Z",
-        "excerpt": "\n                             An engineer and software developer was able to make a 3.5-inch floppy drive work seamlessly with the Tesla with just a USB-to-FDD converter. \n                                                                                                            "
+        "title": "News Hormuz stalemate could reshape container trade flows, warns analyst - The Loadstar",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPUjVSRXZDeDZDV2MtTU1NMm4wTy1tc28tOG93eFpzNmJ2OG1FVjNuS0IzX3RKYlBHcy1RYVBPUUw1X3JLSmlnV1RLTG05MkxyTVRtYzZnX2hJMHk4cGw2VmVVYnBXMk4waUk4SGFybE03MnFHQzl5VE1feXJHU3NJeGtPd2V3VG1VNEJhNlVWdGhTUGhodHc?oc=5",
+        "fetchedAt": "2026-04-15T09:27:09.934843Z",
+        "excerpt": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxPUjVSRXZDeDZDV2MtTU1NMm4wTy1tc28tOG93eFpzNmJ2OG1FVjNuS0IzX3RKYlBHcy1RYVBPUUw1X3JLSmlnV1RLTG05MkxyTVRtYzZnX2hJMHk4cGw2VmVVYnBXMk4waUk4SGFybE03MnFHQzl5VE1feXJHU3NJeGtPd2V3VG1VNEJhNlVWdGhTUGhodHc?oc=5\" target=\"_blank\">News Hormuz stalemate could reshape container trade flows, warns analyst</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Loadstar</font>"
       }
     ]
   },
   {
-    "id": "rss-75728",
-    "date": "Tue, 07 Ap",
+    "id": "rss-51473",
+    "date": "Tue, 14 Ap",
     "companies": [],
     "topics": [
       "news"
     ],
     "impact": "neutral",
-    "title": " 2TB SanDisk memory card card surfaces for eye-watering $2,000 — top-tier Extreme Pro UHS-II SD promises more than 300 MB/s sequential read and write performance ",
-    "summary": "\n                             The 2TB SanDisk Extreme Pro UHS-II SD card costs $2,000, bringing its price per GB to nearly $1, making it more than four times more expensive than much faster microSD Ex",
+    "title": "Should India regulate ocean carriers to check profiteering? - ET Infra",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxPbW1heVAteThrME1YR2V4X29Ed1RPc2ZBWFd3Z3d4RmpTVWVOaHhSeC0tUjlOU0VTTFJLcVBLckdfUDdrTHV0ZmtDbW0zUWxmX1RDcXh6Y0JNYURld1loNkZvUzJqVDVFVmVva0NReF",
     "sources": [
       {
         "type": "news",
-        "title": " 2TB SanDisk memory card card surfaces for eye-watering $2,000 — top-tier Extreme Pro UHS-II SD promises more than 300 MB/s sequential read and write performance ",
-        "url": "https://www.tomshardware.com/pc-components/storage/2tb-sandisk-memory-card-card-surfaces-for-eye-watering-usd2-000-top-tier-extreme-pro-uhs-ii-sd-promises-more-than-300-mb-s-sequential-read-and-write-performance",
-        "fetchedAt": "2026-04-14T23:00:25.087277Z",
-        "excerpt": "\n                             The 2TB SanDisk Extreme Pro UHS-II SD card costs $2,000, bringing its price per GB to nearly $1, making it more than four times more expensive than much faster microSD Express cards. \n                                                                                                            "
+        "title": "Should India regulate ocean carriers to check profiteering? - ET Infra",
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPbW1heVAteThrME1YR2V4X29Ed1RPc2ZBWFd3Z3d4RmpTVWVOaHhSeC0tUjlOU0VTTFJLcVBLckdfUDdrTHV0ZmtDbW0zUWxmX1RDcXh6Y0JNYURld1loNkZvUzJqVDVFVmVva0NReFRMTmE5NklUdXNpMC1FaWQzMlVuNDFRLUpwZFpMc2JmN015MVpLVGNlY3BVT2IxVXp5MXRVQmNuMXF1M1lhX1J6eHVJS3ZmVDBCUTVWbnRWRnVlaWdSMHItTG1NWdIB0AFBVV95cUxNOVV3Tzk1YjZPMkVFNXlQREFpa0E3THBWQ2JjWDRLOFJ0SXFNQzhHSXpSSkpJRHgyaHpISVMwbkdaZUZwdjUyVmNuX1JkT1NvcmxfT09yczczaEpOMmo0SGc5VzlGLWpTQ1V2cHVGbVRaNmlkNHo1Q2NPZVBEaGhBYmJtSmx3Rmk1SE5GS0kteHlpUDBBYjhGdUlFVS05dWFxSnkwS3h0M0V0bUExZGl2UncxV2o0akh0bFVFQkJaazBqS0lIWFlDbzlhT2FzaldX?oc=5",
+        "fetchedAt": "2026-04-15T09:27:09.934846Z",
+        "excerpt": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxPbW1heVAteThrME1YR2V4X29Ed1RPc2ZBWFd3Z3d4RmpTVWVOaHhSeC0tUjlOU0VTTFJLcVBLckdfUDdrTHV0ZmtDbW0zUWxmX1RDcXh6Y0JNYURld1loNkZvUzJqVDVFVmVva0NReFRMTmE5NklUdXNpMC1FaWQzMlVuNDFRLUpwZFpMc2JmN015MVpLVGNlY3BVT2IxVXp5MXRVQmNuMXF1M1lhX1J6eHVJS3ZmVDBCUTVWbnRWRnVlaWdSMHItTG1NWdIB0AFBVV95cUxNOVV3Tzk1YjZPMkVFNXlQREFpa0E3THBWQ2JjWDRLOFJ0SXFNQzhHSXpSSkpJRHgyaHpISVMwbkdaZUZwdjUyVmNuX1JkT1NvcmxfT09yczczaEpOMmo0SGc5VzlGLWpTQ1V2cHVGbVRaNmlkNHo1Q2NPZVBEaGhBYm"
       }
     ]
   },
   {
-    "id": "rss-99232",
-    "date": "Mon, 06 Ap",
+    "id": "rss-38671",
+    "date": "Fri, 13 Ma",
     "companies": [],
     "topics": [
       "news"
     ],
     "impact": "neutral",
-    "title": " WD Innovation Day 2026 press Q&A transcript: roadmap plans to reach 60TB with ePMR and 100TB via HAMR by 2029 — 'at some point, the laws of physics will require us to transition to HAMR' ",
-    "summary": "\n                             WD's leadership, now fully split from Sandisk, talks about its expectations for the future with industry analysts. We cover the full transcript of the press-only session ",
+    "title": "Container Shipping Costs Rise as Routes Shift - stonex.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxOMVlVd3ZMaGxuaXVkcGx6SmRES0ZfTzhpRU84bjlleWJwWWQ1Rl9wLWFUNGxvanVBYUZCOWhaVDBwMVhjZXNQbGlBUmdia2daYjBKQUJzQVE0azJmOUVjejlEQVFXU0ZuRmtrWWVPWm",
     "sources": [
       {
         "type": "news",
-        "title": " WD Innovation Day 2026 press Q&A transcript: roadmap plans to reach 60TB with ePMR and 100TB via HAMR by 2029 — 'at some point, the laws of physics will require us to transition to HAMR' ",
-        "url": "https://www.tomshardware.com/pc-components/hdds/wd-innovation-day-2026-press-q-and-a-transcript-roadmap-plans-to-reach-60tb-with-epmr-and-100tb-via-hamr-by-2029-at-some-point-the-laws-of-physics-will-require-us-to-transition-to-hamr",
-        "fetchedAt": "2026-04-14T23:00:25.087279Z",
-        "excerpt": "\n                             WD's leadership, now fully split from Sandisk, talks about its expectations for the future with industry analysts. We cover the full transcript of the press-only session right here. \n                                                                                                            "
+        "title": "Container Shipping Costs Rise as Routes Shift - stonex.com",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOMVlVd3ZMaGxuaXVkcGx6SmRES0ZfTzhpRU84bjlleWJwWWQ1Rl9wLWFUNGxvanVBYUZCOWhaVDBwMVhjZXNQbGlBUmdia2daYjBKQUJzQVE0azJmOUVjejlEQVFXU0ZuRmtrWWVPWm1feWQydXZRbG1Tck1GNlhQWDd6QlBWbTFL?oc=5",
+        "fetchedAt": "2026-04-15T09:27:09.934848Z",
+        "excerpt": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxOMVlVd3ZMaGxuaXVkcGx6SmRES0ZfTzhpRU84bjlleWJwWWQ1Rl9wLWFUNGxvanVBYUZCOWhaVDBwMVhjZXNQbGlBUmdia2daYjBKQUJzQVE0azJmOUVjejlEQVFXU0ZuRmtrWWVPWm1feWQydXZRbG1Tck1GNlhQWDd6QlBWbTFL?oc=5\" target=\"_blank\">Container Shipping Costs Rise as Routes Shift</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">stonex.com</font>"
       }
     ]
   },
   {
-    "id": "rss-27051",
-    "date": "Sat, 04 Ap",
+    "id": "rss-24467",
+    "date": "Thu, 12 Ma",
     "companies": [],
     "topics": [
       "news"
     ],
     "impact": "neutral",
-    "title": " Sharge Disk Pro 2TB review: Great sustained writes, active cooling, and a built-in hub ",
-    "summary": "\n                             Sharge's Disk Pro pairs a snappy 10 Gbps SSD with a handy port hub and active cooling, all in a compact, eye-catching shell with a magnetic back. It's an impressive packa",
+    "title": "Maersk faces a tougher 2026 as container overcapacity pressures freight rates - S&P Global",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi7AFBVV95cUxQNmp3RGpWdTZzZWtIdDdSQ3Y0NEZwVTluN3hGQzk4VVBVNDFZNFpORXVKSWF6UXlvU3htSVVoUjlJQjZiVXhTWDZubUdYbWlfdE5PR0MzOFNmdEpGenFYOU9NQ0pQSEJQQkFWY0czdV",
     "sources": [
       {
         "type": "news",
-        "title": " Sharge Disk Pro 2TB review: Great sustained writes, active cooling, and a built-in hub ",
-        "url": "https://www.tomshardware.com/pc-components/external-ssds/sharge-disk-pro-2tb-review",
-        "fetchedAt": "2026-04-14T23:00:25.087281Z",
-        "excerpt": "\n                             Sharge's Disk Pro pairs a snappy 10 Gbps SSD with a handy port hub and active cooling, all in a compact, eye-catching shell with a magnetic back. It's an impressive package for gamers and road warriors, but you'll pay a high price for all these features. \n                                                                                                            "
+        "title": "Maersk faces a tougher 2026 as container overcapacity pressures freight rates - S&P Global",
+        "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQNmp3RGpWdTZzZWtIdDdSQ3Y0NEZwVTluN3hGQzk4VVBVNDFZNFpORXVKSWF6UXlvU3htSVVoUjlJQjZiVXhTWDZubUdYbWlfdE5PR0MzOFNmdEpGenFYOU9NQ0pQSEJQQkFWY0czdVI3M1dqWXRma05OY214Yi1PZzY4dmhEMnBEMmlqMFRqWWJHTUROajRFZW5uRGx3RkQxRWlIRktNeFRNMHNGOHh3elZYdVJxUTNBTXVwNzdGNGs2ajNFN0M3OXBRUF9oUFdzS21ZZlpOaURUdzhxWjZPRzVZYmYwNTc5WHNlSw?oc=5",
+        "fetchedAt": "2026-04-15T09:27:09.934851Z",
+        "excerpt": "<a href=\"https://news.google.com/rss/articles/CBMi7AFBVV95cUxQNmp3RGpWdTZzZWtIdDdSQ3Y0NEZwVTluN3hGQzk4VVBVNDFZNFpORXVKSWF6UXlvU3htSVVoUjlJQjZiVXhTWDZubUdYbWlfdE5PR0MzOFNmdEpGenFYOU9NQ0pQSEJQQkFWY0czdVI3M1dqWXRma05OY214Yi1PZzY4dmhEMnBEMmlqMFRqWWJHTUROajRFZW5uRGx3RkQxRWlIRktNeFRNMHNGOHh3elZYdVJxUTNBTXVwNzdGNGs2ajNFN0M3OXBRUF9oUFdzS21ZZlpOaURUdzhxWjZPRzVZYmYwNTc5WHNlSw?oc=5\" target=\"_blank\">Maersk faces a tougher 2026 as container overcapacity pressures freight rates</a>&nbsp;&nbsp;<font color=\"#6f"
       }
     ]
   },
   {
-    "id": "rss-77463",
+    "id": "rss-51236",
+    "date": "Tue, 27 Ja",
+    "companies": [],
+    "topics": [
+      "news"
+    ],
+    "impact": "neutral",
+    "title": "Container Shipping Overcapacity & Rate Outlook 2026 - Freightos",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxPcnRaVG40VUh2XzNxbmNHWE5ucF96bnRZRnlfRVM4SHRaaVJnRzJncEJVazV0a0ozQlpxT2hBRERYcW00X2N0S2lnWGdiVHVQbHM2SDc0cE02eEdRTDdBX1Jwb1U0MEk0T1ZtSmlVV2",
+    "sources": [
+      {
+        "type": "news",
+        "title": "Container Shipping Overcapacity & Rate Outlook 2026 - Freightos",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPcnRaVG40VUh2XzNxbmNHWE5ucF96bnRZRnlfRVM4SHRaaVJnRzJncEJVazV0a0ozQlpxT2hBRERYcW00X2N0S2lnWGdiVHVQbHM2SDc0cE02eEdRTDdBX1Jwb1U0MEk0T1ZtSmlVV2lIZjk4QUx1Z0ZibzFpRjJSMkVZWGZSWWFEUDJmZHlLS01WU1U2RjE0STZwTlJkTFVsUHNySDBobjJTdmhMMmZxMWY3NTVmZTFq?oc=5",
+        "fetchedAt": "2026-04-15T09:27:09.934854Z",
+        "excerpt": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxPcnRaVG40VUh2XzNxbmNHWE5ucF96bnRZRnlfRVM4SHRaaVJnRzJncEJVazV0a0ozQlpxT2hBRERYcW00X2N0S2lnWGdiVHVQbHM2SDc0cE02eEdRTDdBX1Jwb1U0MEk0T1ZtSmlVV2lIZjk4QUx1Z0ZibzFpRjJSMkVZWGZSWWFEUDJmZHlLS01WU1U2RjE0STZwTlJkTFVsUHNySDBobjJTdmhMMmZxMWY3NTVmZTFq?oc=5\" target=\"_blank\">Container Shipping Overcapacity & Rate Outlook 2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Freightos</font>"
+      }
+    ]
+  },
+  {
+    "id": "rss-46879",
     "date": "Thu, 02 Ap",
     "companies": [],
     "topics": [
       "news"
     ],
     "impact": "neutral",
-    "title": " GameStop NVMe SSD 2TB SSD Review: A surprisingly capable budget drive for the PS5 ",
-    "summary": "\n                             The GameStop NVMe SSD is a decent gamer-oriented drive with good performance and a nice heatsink at a reasonable price. SMI and Samsung hardware come together for a compe",
+    "title": "Strait of Hormuz closure pushes Asia-US ocean rates up 29% - FreightWaves",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxOTWFwMjJCUlB0eVRCOWllZUowNHg5TzJ0RVl0T2o0WHk4T1VubVVhRHowZG52cFBxcElzSG4xSklpeVNTX0g1bWxHWjRQOU1jYkYtQTdjbEZMWk9ucDFyeXlZUTJOZXBWbWhqZVg4Wn",
     "sources": [
       {
         "type": "news",
-        "title": " GameStop NVMe SSD 2TB SSD Review: A surprisingly capable budget drive for the PS5 ",
-        "url": "https://www.tomshardware.com/pc-components/ssds/gamestop-nvme-ssd-2tb-ssd-review",
-        "fetchedAt": "2026-04-14T23:00:25.087282Z",
-        "excerpt": "\n                             The GameStop NVMe SSD is a decent gamer-oriented drive with good performance and a nice heatsink at a reasonable price. SMI and Samsung hardware come together for a compelling package. \n                                                                                                            "
+        "title": "Strait of Hormuz closure pushes Asia-US ocean rates up 29% - FreightWaves",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOTWFwMjJCUlB0eVRCOWllZUowNHg5TzJ0RVl0T2o0WHk4T1VubVVhRHowZG52cFBxcElzSG4xSklpeVNTX0g1bWxHWjRQOU1jYkYtQTdjbEZMWk9ucDFyeXlZUTJOZXBWbWhqZVg4WnVEelpGUUhLQ3RZS0FZZlotc3I1TVZUX0J6VEd5d3gxemhSVGR3U2c?oc=5",
+        "fetchedAt": "2026-04-15T09:27:09.934856Z",
+        "excerpt": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxOTWFwMjJCUlB0eVRCOWllZUowNHg5TzJ0RVl0T2o0WHk4T1VubVVhRHowZG52cFBxcElzSG4xSklpeVNTX0g1bWxHWjRQOU1jYkYtQTdjbEZMWk9ucDFyeXlZUTJOZXBWbWhqZVg4WnVEelpGUUhLQ3RZS0FZZlotc3I1TVZUX0J6VEd5d3gxemhSVGR3U2c?oc=5\" target=\"_blank\">Strait of Hormuz closure pushes Asia-US ocean rates up 29%</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">FreightWaves</font>"
       }
     ]
   },
   {
-    "id": "rss-74114",
-    "date": "Tue, 31 Ma",
+    "id": "rss-95702",
+    "date": "Mon, 13 Ap",
     "companies": [],
     "topics": [
       "news"
     ],
     "impact": "neutral",
-    "title": " Kioxia discontinues 2D NAND products, last shipments to be made in 2028 — 1980s planar NAND memory reaches end of life ",
-    "summary": "\n                             After nearly four decades in production, Kioxia is set to discontinue its final 2D NAND devices by late 2028. \n                                                           ",
+    "title": "War-driven fuel costs add new twist to trans-Pacific service contract talks - Journal of Commerce",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxQeEdkVll0bXBvUGcwZVFUdUxNeTZwUnEtd0hVUGFycDFVVk5yY0pLajdzejdmZE50NS1tSW5xVGJTNEhuVjdPY09Ibm5FekxicjdTSDlBSUVpYWZyWmFWbEhEWVJGX2dySXJUUG9jNm",
     "sources": [
       {
         "type": "news",
-        "title": " Kioxia discontinues 2D NAND products, last shipments to be made in 2028 — 1980s planar NAND memory reaches end of life ",
-        "url": "https://www.tomshardware.com/pc-components/ssds/kioxia-discontinues-2d-nand-products-last-shipments-to-be-made-in-2028-1980s-planar-nand-memory-reaches-end-of-life",
-        "fetchedAt": "2026-04-14T23:00:25.087284Z",
-        "excerpt": "\n                             After nearly four decades in production, Kioxia is set to discontinue its final 2D NAND devices by late 2028. \n                                                                                                            "
+        "title": "War-driven fuel costs add new twist to trans-Pacific service contract talks - Journal of Commerce",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQeEdkVll0bXBvUGcwZVFUdUxNeTZwUnEtd0hVUGFycDFVVk5yY0pLajdzejdmZE50NS1tSW5xVGJTNEhuVjdPY09Ibm5FekxicjdTSDlBSUVpYWZyWmFWbEhEWVJGX2dySXJUUG9jNmNEWFdrX2JFTjlrd0tEbVFrd3pnZVU1SDY2RlIyajg2Y2kyUXFyMXkwRWNrYkY0QXdPTVk5N2tmdzlKYlF0ODJnYg?oc=5",
+        "fetchedAt": "2026-04-15T09:27:09.934858Z",
+        "excerpt": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxQeEdkVll0bXBvUGcwZVFUdUxNeTZwUnEtd0hVUGFycDFVVk5yY0pLajdzejdmZE50NS1tSW5xVGJTNEhuVjdPY09Ibm5FekxicjdTSDlBSUVpYWZyWmFWbEhEWVJGX2dySXJUUG9jNmNEWFdrX2JFTjlrd0tEbVFrd3pnZVU1SDY2RlIyajg2Y2kyUXFyMXkwRWNrYkY0QXdPTVk5N2tmdzlKYlF0ODJnYg?oc=5\" target=\"_blank\">War-driven fuel costs add new twist to trans-Pacific service contract talks</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Journal of Commerce</font>"
       }
     ]
   },
   {
-    "id": "rss-63484",
-    "date": "Tue, 31 Ma",
+    "id": "rss-61033",
+    "date": "Mon, 09 Ma",
     "companies": [],
     "topics": [
       "news"
     ],
     "impact": "neutral",
-    "title": " At just $17.68 per Terabyte, this 22TB external Seagate Expansion HDD is one of the cheapest hard drives on the market — backup copious amounts of data for $389 ",
-    "summary": "\n                             It's World Backup Day! Have you considered how your data is protected and stored? \n                                                                                       ",
+    "title": "Container Shipping Rates Rise as Asian Exports Recover, Hormuz Tensions Add Uncertainty - Global Trade Magazine",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxPc3MxZGJ2ZXFhUVhjSHp6ZzRHYlV0S0FIZmg3U0RNNmNwenk0dnExNDRSaFFDeFFodzExTDgtZWFLcHAwZlpFdG9TenBTa1l0R3o2b3Rfd2poM2hkeDdoZHhfczFhdklwREt1T1NPYX",
     "sources": [
       {
         "type": "news",
-        "title": " At just $17.68 per Terabyte, this 22TB external Seagate Expansion HDD is one of the cheapest hard drives on the market — backup copious amounts of data for $389 ",
-        "url": "https://www.tomshardware.com/pc-components/external-hdds/at-just-usd17-68-per-terabyte-this-22tb-external-seagate-expansion-hdd-is-one-of-the-cheapest-hard-drives-on-the-market-backup-copious-amounts-of-data-for-usd389",
-        "fetchedAt": "2026-04-14T23:00:25.087286Z",
-        "excerpt": "\n                             It's World Backup Day! Have you considered how your data is protected and stored? \n                                                                                                            "
+        "title": "Container Shipping Rates Rise as Asian Exports Recover, Hormuz Tensions Add Uncertainty - Global Trade Magazine",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPc3MxZGJ2ZXFhUVhjSHp6ZzRHYlV0S0FIZmg3U0RNNmNwenk0dnExNDRSaFFDeFFodzExTDgtZWFLcHAwZlpFdG9TenBTa1l0R3o2b3Rfd2poM2hkeDdoZHhfczFhdklwREt1T1NPYXdBY1pOZHlsQ2ZSazNDNFFQVndVXzJEVXd6a1oyWTdpb2tZdXJDZDJJOEYyLS1kdWdlUF9aNDRQMHgzbk5JMUFTVlJadlhlNWt4UGc?oc=5",
+        "fetchedAt": "2026-04-15T09:27:09.934861Z",
+        "excerpt": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxPc3MxZGJ2ZXFhUVhjSHp6ZzRHYlV0S0FIZmg3U0RNNmNwenk0dnExNDRSaFFDeFFodzExTDgtZWFLcHAwZlpFdG9TenBTa1l0R3o2b3Rfd2poM2hkeDdoZHhfczFhdklwREt1T1NPYXdBY1pOZHlsQ2ZSazNDNFFQVndVXzJEVXd6a1oyWTdpb2tZdXJDZDJJOEYyLS1kdWdlUF9aNDRQMHgzbk5JMUFTVlJadlhlNWt4UGc?oc=5\" target=\"_blank\">Container Shipping Rates Rise as Asian Exports Recover, Hormuz Tensions Add Uncertainty</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Global Trade Magazine</font>"
       }
     ]
   },
   {
-    "id": "rss-88194",
-    "date": "Tue, 31 Ma",
+    "id": "rss-372",
+    "date": "Fri, 27 Fe",
     "companies": [],
     "topics": [
       "news"
     ],
     "impact": "neutral",
-    "title": " Grab an SSD or HDD upgrade for World Backup Day 2026 to keep your files safe, with 1TB drives starting from $109 — beat the AI-fueled storage price hikes with these savings on internal and external drives, enclosures, and accessories ",
-    "summary": "\n                             It's time to celebrate World Backup Day 2026 with these huge promotional deals on storage, from discounted hard drives to SSD cloners, flash drives, and more. \n          ",
+    "title": "XENETA WEEKLY OCEAN CONTAINER SHIPPING MARKET UPDATE – 27.02.2026 - Xeneta",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxOWjhieFZKd3VJRE9rT01ORnp6clZ3LXpKLXhobmk0Zk1vVGRHcFBCeV9pMXI2ZHNHZ3BZc2tGR2s2V0x4YlAzWXR1WjhVNFlnTGFLczZkOUFBTDQ3Uk43cFJ5OW5PeFg0R3UyWkhQeD",
     "sources": [
       {
         "type": "news",
-        "title": " Grab an SSD or HDD upgrade for World Backup Day 2026 to keep your files safe, with 1TB drives starting from $109 — beat the AI-fueled storage price hikes with these savings on internal and external drives, enclosures, and accessories ",
-        "url": "https://www.tomshardware.com/pc-components/storage/grab-an-ssd-or-hdd-upgrade-for-world-backup-day-2026-to-keep-your-files-safe-with-1tb-drives-starting-from-usd109-beat-the-ai-fueled-storage-price-hikes-with-these-savings-on-internal-and-external-drives-enclosures-and-accessories",
-        "fetchedAt": "2026-04-14T23:00:25.087288Z",
-        "excerpt": "\n                             It's time to celebrate World Backup Day 2026 with these huge promotional deals on storage, from discounted hard drives to SSD cloners, flash drives, and more. \n                                                                                                            "
+        "title": "XENETA WEEKLY OCEAN CONTAINER SHIPPING MARKET UPDATE – 27.02.2026 - Xeneta",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOWjhieFZKd3VJRE9rT01ORnp6clZ3LXpKLXhobmk0Zk1vVGRHcFBCeV9pMXI2ZHNHZ3BZc2tGR2s2V0x4YlAzWXR1WjhVNFlnTGFLczZkOUFBTDQ3Uk43cFJ5OW5PeFg0R3UyWkhQeDlONVFhandzZ296eGZDWGhCbkpHa0lycU5TRUs2d0k4RUNlOFdEQ3c?oc=5",
+        "fetchedAt": "2026-04-15T09:27:09.934863Z",
+        "excerpt": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxOWjhieFZKd3VJRE9rT01ORnp6clZ3LXpKLXhobmk0Zk1vVGRHcFBCeV9pMXI2ZHNHZ3BZc2tGR2s2V0x4YlAzWXR1WjhVNFlnTGFLczZkOUFBTDQ3Uk43cFJ5OW5PeFg0R3UyWkhQeDlONVFhandzZ296eGZDWGhCbkpHa0lycU5TRUs2d0k4RUNlOFdEQ3c?oc=5\" target=\"_blank\">XENETA WEEKLY OCEAN CONTAINER SHIPPING MARKET UPDATE – 27.02.2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Xeneta</font>"
       }
     ]
   },
   {
-    "id": "rss-57325",
-    "date": "Tue, 31 Ma",
+    "id": "rss-5222",
+    "date": "Thu, 22 Ja",
     "companies": [],
     "topics": [
       "news"
     ],
     "impact": "neutral",
-    "title": " This $28 floppy disk SSD enclosure is a fun and fast way to keep your storage safe — both practical and nostalgic, this rugged USB-C aluminum enclosure for M.2 drives supports speeds of up to 1,200 MB/s ",
-    "summary": "\n                             Take your files on-the-go with this classic-looking SSD enclosure from Hagibis in celeberation of World Backup Day. Just $27.99 nets you this USB-C 3.2 Gen 2 M.2 NVMe SSD",
+    "title": "Red Sea Return: What It Means for 2026 Container Shipping Contract Rates - Xeneta",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxNMjBBOVhValhhczdtYm9XUFpaS0pRcnhJLXZVZHlpREVQQ08zeFE3Y3h4Z21NbmowVE9VeHhqR3ZCaUsxeXBDS0VCbmJsUVA0ZzJDRzRkLUtleVdoX0lzbXY4SGxhYTZpLWxVdkZ4Vn",
     "sources": [
       {
         "type": "news",
-        "title": " This $28 floppy disk SSD enclosure is a fun and fast way to keep your storage safe — both practical and nostalgic, this rugged USB-C aluminum enclosure for M.2 drives supports speeds of up to 1,200 MB/s ",
-        "url": "https://www.tomshardware.com/pc-components/storage/this-usd28-floppy-disk-ssd-enclosure-is-a-fun-and-fast-way-to-keep-your-storage-safe-both-practical-and-nostalgic-this-rugged-usb-c-aluminum-enclosure-for-m-2-drives-supports-speeds-of-up-to-1-200-mb-s",
-        "fetchedAt": "2026-04-14T23:00:25.087289Z",
-        "excerpt": "\n                             Take your files on-the-go with this classic-looking SSD enclosure from Hagibis in celeberation of World Backup Day. Just $27.99 nets you this USB-C 3.2 Gen 2 M.2 NVMe SSD enclosure, shaped like an old floppy disk. \n                                                                                                            "
+        "title": "Red Sea Return: What It Means for 2026 Container Shipping Contract Rates - Xeneta",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNMjBBOVhValhhczdtYm9XUFpaS0pRcnhJLXZVZHlpREVQQ08zeFE3Y3h4Z21NbmowVE9VeHhqR3ZCaUsxeXBDS0VCbmJsUVA0ZzJDRzRkLUtleVdoX0lzbXY4SGxhYTZpLWxVdkZ4Vnd2SUtJQTRBLWJPeW5FOHd5czVFQy12SEc5aGRUVl9QZS01NTY0ekdvZWVnTXAyUEph?oc=5",
+        "fetchedAt": "2026-04-15T09:27:09.934866Z",
+        "excerpt": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxNMjBBOVhValhhczdtYm9XUFpaS0pRcnhJLXZVZHlpREVQQ08zeFE3Y3h4Z21NbmowVE9VeHhqR3ZCaUsxeXBDS0VCbmJsUVA0ZzJDRzRkLUtleVdoX0lzbXY4SGxhYTZpLWxVdkZ4Vnd2SUtJQTRBLWJPeW5FOHd5czVFQy12SEc5aGRUVl9QZS01NTY0ekdvZWVnTXAyUEph?oc=5\" target=\"_blank\">Red Sea Return: What It Means for 2026 Container Shipping Contract Rates</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Xeneta</font>"
       }
     ]
   },
   {
-    "id": "rss-28689",
-    "date": "Sat, 28 Ma",
+    "id": "rss-6327",
+    "date": "Wed, 11 Fe",
     "companies": [],
     "topics": [
       "news"
     ],
     "impact": "neutral",
-    "title": " Samsung preps PCIe 5.0 QLC SSD with a controller based on open-source RISC-V architecture — BM9K1 delivers speeds up to 11.4 GB/s for 'personal AI workloads' ",
-    "summary": "\n                             The BM9K1 reportedly delivers sequential read speeds of up to 11.4 GB/s, which Samsung said is 1.6 times faster than its predecessor, the PCIe 4.0 BM9C1. \n               ",
+    "title": "Asia-U.S. ocean freight rates give up 2026 gains - FreightWaves",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxNNzBRUTBRQ2FZTEFJVER4NFZTSjhFTC1STUhLNmd1RVNwMjYyWHJxTldWVkwzdDJHV1h5ZHhyOWwzNG9UbDRPQWxQYWV2OWp6NWRkNnIzUl9pSlpFVkZxZUY2anFiekcyT1JqMXEtTH",
     "sources": [
       {
         "type": "news",
-        "title": " Samsung preps PCIe 5.0 QLC SSD with a controller based on open-source RISC-V architecture — BM9K1 delivers speeds up to 11.4 GB/s for 'personal AI workloads' ",
-        "url": "https://www.tomshardware.com/pc-components/ssds/samsung-announces-bm9k1-pcie-5-0-qlc-ssd",
-        "fetchedAt": "2026-04-14T23:00:25.087291Z",
-        "excerpt": "\n                             The BM9K1 reportedly delivers sequential read speeds of up to 11.4 GB/s, which Samsung said is 1.6 times faster than its predecessor, the PCIe 4.0 BM9C1. \n                                                                                                            "
+        "title": "Asia-U.S. ocean freight rates give up 2026 gains - FreightWaves",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNNzBRUTBRQ2FZTEFJVER4NFZTSjhFTC1STUhLNmd1RVNwMjYyWHJxTldWVkwzdDJHV1h5ZHhyOWwzNG9UbDRPQWxQYWV2OWp6NWRkNnIzUl9pSlpFVkZxZUY2anFiekcyT1JqMXEtTHpjNW9xNmllTXVrMGhjTmtaNnp6dWlUTmNx?oc=5",
+        "fetchedAt": "2026-04-15T09:27:09.934867Z",
+        "excerpt": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxNNzBRUTBRQ2FZTEFJVER4NFZTSjhFTC1STUhLNmd1RVNwMjYyWHJxTldWVkwzdDJHV1h5ZHhyOWwzNG9UbDRPQWxQYWV2OWp6NWRkNnIzUl9pSlpFVkZxZUY2anFiekcyT1JqMXEtTHpjNW9xNmllTXVrMGhjTmtaNnp6dWlUTmNx?oc=5\" target=\"_blank\">Asia-U.S. ocean freight rates give up 2026 gains</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">FreightWaves</font>"
       }
     ]
   },
   {
-    "id": "rss-90625",
-    "date": "Sat, 28 Ma",
+    "id": "rss-32362",
+    "date": "Sat, 28 Fe",
     "companies": [],
     "topics": [
       "news"
     ],
     "impact": "neutral",
-    "title": " Sony freezes memory card orders in Japan amid growing storage crisis — the company attributes the cause to ‘shortage of semiconductors’ ",
-    "summary": "\n                             Sony Japan has announced that it will no longer accept orders for almost its entire lineup of CFexpress and SD memory cards as of March 27. \n                             ",
+    "title": "US AND ISRAEL MILITARY STRIKES AGAINST IRAN SHATTER PROSPECTS OF CONTAINER SHIPPING RETURN TO RED SEA - Xeneta",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxPQmVwRXFGcmp1YTI1QmFOc1YyUk5KbXZCdFVBWnNEMWpZeXRuc3NDbEJBMlp0RWdIUjZUT3RQajJEamo0Zi1kcHh1eVhweWRBTjgyam5iclhRYkJpNTg2LWJXbV90WXZsdW9Vd1d3R2",
     "sources": [
       {
         "type": "news",
-        "title": " Sony freezes memory card orders in Japan amid growing storage crisis — the company attributes the cause to ‘shortage of semiconductors’ ",
-        "url": "https://www.tomshardware.com/tech-industry/sony-suspends-nearly-all-memory-card-orders-in-japan",
-        "fetchedAt": "2026-04-14T23:00:25.087293Z",
-        "excerpt": "\n                             Sony Japan has announced that it will no longer accept orders for almost its entire lineup of CFexpress and SD memory cards as of March 27. \n                                                                                                            "
+        "title": "US AND ISRAEL MILITARY STRIKES AGAINST IRAN SHATTER PROSPECTS OF CONTAINER SHIPPING RETURN TO RED SEA - Xeneta",
+        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPQmVwRXFGcmp1YTI1QmFOc1YyUk5KbXZCdFVBWnNEMWpZeXRuc3NDbEJBMlp0RWdIUjZUT3RQajJEamo0Zi1kcHh1eVhweWRBTjgyam5iclhRYkJpNTg2LWJXbV90WXZsdW9Vd1d3R2daRmdSMXNsWTZSUTFfUjBKeEhMU2U2WktERXZIcXpVTlEtNm9MVkZkTXNZQk5nSDVfYjBvWWEtZndLZkR0X181ZlZNa0V1ak1wZDA4ZWN5SFBPdnplR3FwWlF3eVc?oc=5",
+        "fetchedAt": "2026-04-15T09:27:09.934869Z",
+        "excerpt": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxPQmVwRXFGcmp1YTI1QmFOc1YyUk5KbXZCdFVBWnNEMWpZeXRuc3NDbEJBMlp0RWdIUjZUT3RQajJEamo0Zi1kcHh1eVhweWRBTjgyam5iclhRYkJpNTg2LWJXbV90WXZsdW9Vd1d3R2daRmdSMXNsWTZSUTFfUjBKeEhMU2U2WktERXZIcXpVTlEtNm9MVkZkTXNZQk5nSDVfYjBvWWEtZndLZkR0X181ZlZNa0V1ak1wZDA4ZWN5SFBPdnplR3FwWlF3eVc?oc=5\" target=\"_blank\">US AND ISRAEL MILITARY STRIKES AGAINST IRAN SHATTER PROSPECTS OF CONTAINER SHIPPING RETURN TO RED SEA</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Xeneta</font>"
       }
     ]
   },
   {
-    "id": "rss-67849",
-    "date": "Fri, 27 Ma",
+    "id": "rss-68448",
+    "date": "Wed, 12 No",
     "companies": [],
     "topics": [
       "news"
     ],
     "impact": "neutral",
-    "title": " Exceptional fake SSD clone of Samsung 990 Pro is almost impossible to spot — near-identical performance blurs the line between real and fake as AI crunch drives knock-off market ",
-    "summary": "\n                             Japanese news outlet Akiba PC Hotline! examines a fake Samsung 990 Pro SSD that's starting to show up in the Japanese market. \n                                           ",
+    "title": "Why Dry Bulk Is A Top Pick In 2026 - Seeking Alpha",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxPVi0wTzhWNWJKYzdRbWs2QjNPdHJEa0VpbFJ0aUt4a3c5TDZxakkxb2hNbGNFNFUxVmlMdEV1X2dzSXhDTHZ1N3NFSWhXQ2pOS01iV0Q2WXhrcklGY1laR280YVdEMzE5Q0owZUtlNH",
     "sources": [
       {
         "type": "news",
-        "title": " Exceptional fake SSD clone of Samsung 990 Pro is almost impossible to spot — near-identical performance blurs the line between real and fake as AI crunch drives knock-off market ",
-        "url": "https://www.tomshardware.com/pc-components/ssds/exceptional-fake-ssd-clone-of-samsung-990-pro-is-almost-impossible-to-spot-near-identical-performance-blurs-the-line-between-real-and-fake-as-ai-crunch-drives-knock-off-market",
-        "fetchedAt": "2026-04-14T23:00:25.087294Z",
-        "excerpt": "\n                             Japanese news outlet Akiba PC Hotline! examines a fake Samsung 990 Pro SSD that's starting to show up in the Japanese market. \n                                                                                                            "
+        "title": "Why Dry Bulk Is A Top Pick In 2026 - Seeking Alpha",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPVi0wTzhWNWJKYzdRbWs2QjNPdHJEa0VpbFJ0aUt4a3c5TDZxakkxb2hNbGNFNFUxVmlMdEV1X2dzSXhDTHZ1N3NFSWhXQ2pOS01iV0Q2WXhrcklGY1laR280YVdEMzE5Q0owZUtlNHlTcmJvcDhXaHZkZmtyY2IyRQ?oc=5",
+        "fetchedAt": "2026-04-15T09:27:10.368674Z",
+        "excerpt": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxPVi0wTzhWNWJKYzdRbWs2QjNPdHJEa0VpbFJ0aUt4a3c5TDZxakkxb2hNbGNFNFUxVmlMdEV1X2dzSXhDTHZ1N3NFSWhXQ2pOS01iV0Q2WXhrcklGY1laR280YVdEMzE5Q0owZUtlNHlTcmJvcDhXaHZkZmtyY2IyRQ?oc=5\" target=\"_blank\">Why Dry Bulk Is A Top Pick In 2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Seeking Alpha</font>"
       }
     ]
   },
   {
-    "id": "rss-89907",
-    "date": "Wed, 25 Ma",
+    "id": "rss-30213",
+    "date": "Fri, 16 Ja",
     "companies": [],
     "topics": [
       "news"
     ],
     "impact": "neutral",
-    "title": " Samsung’s 870 EVO SATA SSD quietly gets 8TB variant despite storage shortage and skyrocketing pricing — new model spotted in Europe for €1,300 with higher cache and endurance ",
-    "summary": "\n                             Samsung’s unlisted 870 EVO 8TB model appears at European retailers with pricing starting at €1,300. \n                                                                     ",
+    "title": "Bulk carrier asset values remain strong as BDI descends - Lloyd's List",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxOVVdPRHVEeTZLelZOVlR1bUxmdHNOS0RsTWFlekVZX3FvbElXd1BIcWZUa2RCanU4ejNvRGptdkwtRmc5QjVzSk1NVDRBU3FZdlNKNUtWUjJ0STV4SlJrNHdKMkUzX3NoYVdjX0FoVm",
     "sources": [
       {
         "type": "news",
-        "title": " Samsung’s 870 EVO SATA SSD quietly gets 8TB variant despite storage shortage and skyrocketing pricing — new model spotted in Europe for €1,300 with higher cache and endurance ",
-        "url": "https://www.tomshardware.com/pc-components/ssds/samsungs-870-evo-sata-ssd-quietly-gets-8tb-variant-despite-ai-storage-struggle-new-model-spotted-in-europe-for-eur1-300-with-higher-cache-and-endurance",
-        "fetchedAt": "2026-04-14T23:00:25.087296Z",
-        "excerpt": "\n                             Samsung’s unlisted 870 EVO 8TB model appears at European retailers with pricing starting at €1,300. \n                                                                                                            "
+        "title": "Bulk carrier asset values remain strong as BDI descends - Lloyd's List",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOVVdPRHVEeTZLelZOVlR1bUxmdHNOS0RsTWFlekVZX3FvbElXd1BIcWZUa2RCanU4ejNvRGptdkwtRmc5QjVzSk1NVDRBU3FZdlNKNUtWUjJ0STV4SlJrNHdKMkUzX3NoYVdjX0FoVmN2ZVUwTXhlZ3Vsb2hXOXJ1XzRyS1Viek52TnVUS0g0ejBCa3ZZcnZV?oc=5",
+        "fetchedAt": "2026-04-15T09:27:10.368684Z",
+        "excerpt": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxOVVdPRHVEeTZLelZOVlR1bUxmdHNOS0RsTWFlekVZX3FvbElXd1BIcWZUa2RCanU4ejNvRGptdkwtRmc5QjVzSk1NVDRBU3FZdlNKNUtWUjJ0STV4SlJrNHdKMkUzX3NoYVdjX0FoVmN2ZVUwTXhlZ3Vsb2hXOXJ1XzRyS1Viek52TnVUS0g0ejBCa3ZZcnZV?oc=5\" target=\"_blank\">Bulk carrier asset values remain strong as BDI descends</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Lloyd's List</font>"
       }
     ]
   },
   {
-    "id": "rss-60082",
-    "date": "Wed, 25 Ma",
+    "id": "rss-3053",
+    "date": "Tue, 10 Fe",
     "companies": [],
     "topics": [
       "news"
     ],
     "impact": "neutral",
-    "title": " Seagate FireCuda 530R 2TB SSD Review: A stealthy workstation powerhouse ",
-    "summary": "\n                             The Seagate FireCuda 530R is a specialized workstation SSD that prioritizes reliability and performance consistency. With high write endurance and bundled data recovery s",
+    "title": "BDI vs BCI Ahead of the Lunar New Year - Hellenic Shipping News",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxNWVlQd2lNQkN3VDlpN2l1X2lvUkkyelNCSXlCMzFUalFieDYwRUxkRUlPeU9udEtFSkdwWjNyRGZlMnpfLWpVNWdjcmJOZDhTUTBtNDVIZGd5OFN3bHNIZ0tLNGh5NnlHUk1QWlBJal",
     "sources": [
       {
         "type": "news",
-        "title": " Seagate FireCuda 530R 2TB SSD Review: A stealthy workstation powerhouse ",
-        "url": "https://www.tomshardware.com/pc-components/ssds/seagate-firecuda-530r-2tb-ssd-review",
-        "fetchedAt": "2026-04-14T23:00:25.087298Z",
-        "excerpt": "\n                             The Seagate FireCuda 530R is a specialized workstation SSD that prioritizes reliability and performance consistency. With high write endurance and bundled data recovery services, it provides extra peace of mind. \n                                                                                                            "
+        "title": "BDI vs BCI Ahead of the Lunar New Year - Hellenic Shipping News",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNWVlQd2lNQkN3VDlpN2l1X2lvUkkyelNCSXlCMzFUalFieDYwRUxkRUlPeU9udEtFSkdwWjNyRGZlMnpfLWpVNWdjcmJOZDhTUTBtNDVIZGd5OFN3bHNIZ0tLNGh5NnlHUk1QWlBJal9id28wYWlMNVhMVHAzR3Y0VXln?oc=5",
+        "fetchedAt": "2026-04-15T09:27:10.368687Z",
+        "excerpt": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxNWVlQd2lNQkN3VDlpN2l1X2lvUkkyelNCSXlCMzFUalFieDYwRUxkRUlPeU9udEtFSkdwWjNyRGZlMnpfLWpVNWdjcmJOZDhTUTBtNDVIZGd5OFN3bHNIZ0tLNGh5NnlHUk1QWlBJal9id28wYWlMNVhMVHAzR3Y0VXln?oc=5\" target=\"_blank\">BDI vs BCI Ahead of the Lunar New Year</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Hellenic Shipping News</font>"
       }
     ]
   },
   {
-    "id": "rss-29887",
-    "date": "Mon, 23 Ma",
+    "id": "rss-23455",
+    "date": "Thu, 15 Ma",
     "companies": [],
     "topics": [
       "news"
     ],
     "impact": "neutral",
-    "title": " MacBook Neo costs more in Portugal due to copyright levy for piracy compensation taxes — storage costs extra in multiple countries, thanks to draconian laws that pre-punish buyers ",
-    "summary": "\n                             Macbook Neo Portuguese copyright levy fee highlights draconian piracy compensation laws \n                                                                                 ",
+    "title": "Dry Bulk Ship Breaking Skids To 17-Year Low - Marine News Magazine",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxNZHRQR3JfVjg0QU4zbDJlUEkxWnFFNjhZSWpzendxVkdldUhWb1B1QVdCU2dZZ0hEY0dxS210NExsYUlSaUZIaTNiNHVodVdIeGtwQjFrRWljbE42WUE0elFyUlBfc3BHQjN0bDFnNV",
     "sources": [
       {
         "type": "news",
-        "title": " MacBook Neo costs more in Portugal due to copyright levy for piracy compensation taxes — storage costs extra in multiple countries, thanks to draconian laws that pre-punish buyers ",
-        "url": "https://www.tomshardware.com/pc-components/storage/macbook-neo-costs-more-in-portugal-due-to-copyright-levy-for-piracy-compensation-taxes-storage-costs-extra-in-multiple-countries-thanks-to-draconian-laws-that-pre-punish-buyers",
-        "fetchedAt": "2026-04-14T23:00:25.087299Z",
-        "excerpt": "\n                             Macbook Neo Portuguese copyright levy fee highlights draconian piracy compensation laws \n                                                                                                            "
+        "title": "Dry Bulk Ship Breaking Skids To 17-Year Low - Marine News Magazine",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNZHRQR3JfVjg0QU4zbDJlUEkxWnFFNjhZSWpzendxVkdldUhWb1B1QVdCU2dZZ0hEY0dxS210NExsYUlSaUZIaTNiNHVodVdIeGtwQjFrRWljbE42WUE0elFyUlBfc3BHQjN0bDFnNVlUcFhaSVQwS2h5VmhOSHhEdXF3?oc=5",
+        "fetchedAt": "2026-04-15T09:27:10.368689Z",
+        "excerpt": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxNZHRQR3JfVjg0QU4zbDJlUEkxWnFFNjhZSWpzendxVkdldUhWb1B1QVdCU2dZZ0hEY0dxS210NExsYUlSaUZIaTNiNHVodVdIeGtwQjFrRWljbE42WUE0elFyUlBfc3BHQjN0bDFnNVlUcFhaSVQwS2h5VmhOSHhEdXF3?oc=5\" target=\"_blank\">Dry Bulk Ship Breaking Skids To 17-Year Low</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Marine News Magazine</font>"
       }
     ]
   },
   {
-    "id": "rss-32648",
-    "date": "Sun, 22 Ma",
+    "id": "rss-32491",
+    "date": "Wed, 17 De",
     "companies": [],
     "topics": [
       "news"
     ],
     "impact": "neutral",
-    "title": " City has roads named Tape Drive and Disk Drive from bygone HDD-making era — area was once home to the StorageTek empire ",
-    "summary": "\n                             Tape Drive and Disk Drive rods in the Louisville/Broomfield area are a relic of the STK diskmaker's time in the city. \n                                                   ",
+    "title": "Dry cargo moves closer to the edge - Splash247",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTE8xZ2tsZVpBakpWTzV2b1hEOUNjMFNCRFBvUVlGRVZaZ0NXWTJmLXVDdlJjVndMMWdOeGJYdlNFbWpUdXhTX2JDN2U1RDIyN2o4MlJMcjhOVGY4cW5Gek1nR3hKN0tuRzBV?oc=5\" tar",
     "sources": [
       {
         "type": "news",
-        "title": " City has roads named Tape Drive and Disk Drive from bygone HDD-making era — area was once home to the StorageTek empire ",
-        "url": "https://www.tomshardware.com/tech-industry/city-has-roads-named-tape-drive-and-disk-drive-from-bygone-hdd-making-era-area-was-once-home-to-the-storagetek-empire",
-        "fetchedAt": "2026-04-14T23:00:25.087301Z",
-        "excerpt": "\n                             Tape Drive and Disk Drive rods in the Louisville/Broomfield area are a relic of the STK diskmaker's time in the city. \n                                                                                                            "
+        "title": "Dry cargo moves closer to the edge - Splash247",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE8xZ2tsZVpBakpWTzV2b1hEOUNjMFNCRFBvUVlGRVZaZ0NXWTJmLXVDdlJjVndMMWdOeGJYdlNFbWpUdXhTX2JDN2U1RDIyN2o4MlJMcjhOVGY4cW5Gek1nR3hKN0tuRzBV?oc=5",
+        "fetchedAt": "2026-04-15T09:27:10.368691Z",
+        "excerpt": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTE8xZ2tsZVpBakpWTzV2b1hEOUNjMFNCRFBvUVlGRVZaZ0NXWTJmLXVDdlJjVndMMWdOeGJYdlNFbWpUdXhTX2JDN2U1RDIyN2o4MlJMcjhOVGY4cW5Gek1nR3hKN0tuRzBV?oc=5\" target=\"_blank\">Dry cargo moves closer to the edge</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Splash247</font>"
+      }
+    ]
+  },
+  {
+    "id": "rss-13109",
+    "date": "Tue, 25 No",
+    "companies": [],
+    "topics": [
+      "news"
+    ],
+    "impact": "neutral",
+    "title": "Rates in dry bulk sector trend up, hit peak - Freightnews.co.za",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxOelROVnpqaWpXcG55S0ttYWpoWU9WNS1POVY0dUtWb1RwcmVrQ3M2LWJMcWZMU0VCd3NUNzFUWXNXc0FhbzVvdzlNeEdQZy1LbGVOb1g2QXNYV1Q1UU9qb1RNM0F0QTN3MGVsUXNwLU",
+    "sources": [
+      {
+        "type": "news",
+        "title": "Rates in dry bulk sector trend up, hit peak - Freightnews.co.za",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOelROVnpqaWpXcG55S0ttYWpoWU9WNS1POVY0dUtWb1RwcmVrQ3M2LWJMcWZMU0VCd3NUNzFUWXNXc0FhbzVvdzlNeEdQZy1LbGVOb1g2QXNYV1Q1UU9qb1RNM0F0QTN3MGVsUXNwLU5nUzBwNUJkMTlMdDNfMmNXb3JaSnFEeXM?oc=5",
+        "fetchedAt": "2026-04-15T09:27:10.368693Z",
+        "excerpt": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxOelROVnpqaWpXcG55S0ttYWpoWU9WNS1POVY0dUtWb1RwcmVrQ3M2LWJMcWZMU0VCd3NUNzFUWXNXc0FhbzVvdzlNeEdQZy1LbGVOb1g2QXNYV1Q1UU9qb1RNM0F0QTN3MGVsUXNwLU5nUzBwNUJkMTlMdDNfMmNXb3JaSnFEeXM?oc=5\" target=\"_blank\">Rates in dry bulk sector trend up, hit peak</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Freightnews.co.za</font>"
+      }
+    ]
+  },
+  {
+    "id": "rss-46670",
+    "date": "Wed, 11 Ma",
+    "companies": [],
+    "topics": [
+      "news"
+    ],
+    "impact": "neutral",
+    "title": "HTCO Leverages Upward BDI Cycle to Unleash Full Momentum for Earnings Growth - The Manila Times",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4gFBVV95cUxPRmRESXJzZmMwWGpjaW84TS10bmlQa3dabHUtZUVDYlVpTHc1WlIydDE2cXlhV19DVzBCWGtkZlFjS0xBSzczbHg1bXd2MUE4MjY1RFp5WjZmWVA3S2JremRTZmdwYUNXdXZDSHkwNF",
+    "sources": [
+      {
+        "type": "news",
+        "title": "HTCO Leverages Upward BDI Cycle to Unleash Full Momentum for Earnings Growth - The Manila Times",
+        "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPRmRESXJzZmMwWGpjaW84TS10bmlQa3dabHUtZUVDYlVpTHc1WlIydDE2cXlhV19DVzBCWGtkZlFjS0xBSzczbHg1bXd2MUE4MjY1RFp5WjZmWVA3S2JremRTZmdwYUNXdXZDSHkwNFU0dkNqS0QtWlhwYUEzbEtRLTVNY25aWnBSZUZINkNMTEpXVTVqQngwUm5qU3o4aDNqUDk4Nm1WdWpEWUhsZDRjMlo1S0NyOGl4a3BDclRkZTl2T1RGYmZmaExLbkdkbGdhblFVMW9YOUVqeXVQRzBNTm930gHnAUFVX3lxTE9nMzhUWXhsVkVRWURyS1VzZFFkaFkwcDhtNWpBLWxPUXJlcTRnRkNoVS1udW5vX1Z1dkVqYUJSdmJMWHlVa1hzaWlHMHJKblNIXzU4S2tFODVVelczUUFSTXJNOWpkbjliTzB3cmE2VHBtdXVIMmkxV1ppdzZ3YTRkczQzVEVKNmVXajQyNFRjYkwyckpOX0Zwd3hHVEljV0Q0LUhnOU02T2VGQXJIZEFNaGpHaWpyNlFXNmdLV1dmZlJRMHllOXI0TmN6OFBmYmNvVnRDS0hoZy1RbkFPOW5HNy1TNDhRNA?oc=5",
+        "fetchedAt": "2026-04-15T09:27:10.368696Z",
+        "excerpt": "<a href=\"https://news.google.com/rss/articles/CBMi4gFBVV95cUxPRmRESXJzZmMwWGpjaW84TS10bmlQa3dabHUtZUVDYlVpTHc1WlIydDE2cXlhV19DVzBCWGtkZlFjS0xBSzczbHg1bXd2MUE4MjY1RFp5WjZmWVA3S2JremRTZmdwYUNXdXZDSHkwNFU0dkNqS0QtWlhwYUEzbEtRLTVNY25aWnBSZUZINkNMTEpXVTVqQngwUm5qU3o4aDNqUDk4Nm1WdWpEWUhsZDRjMlo1S0NyOGl4a3BDclRkZTl2T1RGYmZmaExLbkdkbGdhblFVMW9YOUVqeXVQRzBNTm930gHnAUFVX3lxTE9nMzhUWXhsVkVRWURyS1VzZFFkaFkwcDhtNWpBLWxPUXJlcTRnRkNoVS1udW5vX1Z1dkVqYUJSdmJMWHlVa1hzaWlHMHJKblNIXzU4S2tFODVVelczUUFSTXJNOWpkbjliTz"
+      }
+    ]
+  },
+  {
+    "id": "rss-23582",
+    "date": "Fri, 17 Fe",
+    "companies": [],
+    "topics": [
+      "news"
+    ],
+    "impact": "neutral",
+    "title": "Baltic Dry Index has collapsed: Ominous sign for economy? - FreightWaves",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxNTlF4Y25RZC1Sbkdra2pZb1p4ZG9SOUFXUEwwcGNaMFpzcnBfRzVVcjhNTzdYREY4Wi1rY1o1WEZpWDdXcHlzcUtoZHk3b3NKODlxV0hwMlFpQ3RnMTdPYzNOR0h4LUJGNE9hdDk2aU",
+    "sources": [
+      {
+        "type": "news",
+        "title": "Baltic Dry Index has collapsed: Ominous sign for economy? - FreightWaves",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNTlF4Y25RZC1Sbkdra2pZb1p4ZG9SOUFXUEwwcGNaMFpzcnBfRzVVcjhNTzdYREY4Wi1rY1o1WEZpWDdXcHlzcUtoZHk3b3NKODlxV0hwMlFpQ3RnMTdPYzNOR0h4LUJGNE9hdDk2aU9UX3Z1b09YWFpoWHZoUUoxYkt6Wmx4SkV2WjFhbVhack9vWEU?oc=5",
+        "fetchedAt": "2026-04-15T09:27:10.368698Z",
+        "excerpt": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxNTlF4Y25RZC1Sbkdra2pZb1p4ZG9SOUFXUEwwcGNaMFpzcnBfRzVVcjhNTzdYREY4Wi1rY1o1WEZpWDdXcHlzcUtoZHk3b3NKODlxV0hwMlFpQ3RnMTdPYzNOR0h4LUJGNE9hdDk2aU9UX3Z1b09YWFpoWHZoUUoxYkt6Wmx4SkV2WjFhbVhack9vWEU?oc=5\" target=\"_blank\">Baltic Dry Index has collapsed: Ominous sign for economy?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">FreightWaves</font>"
+      }
+    ]
+  },
+  {
+    "id": "rss-29466",
+    "date": "Wed, 06 Au",
+    "companies": [],
+    "topics": [
+      "news"
+    ],
+    "impact": "neutral",
+    "title": "Dry Bulk Shipping Market Overview & Outlook - Cyprus Shipping News",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxQQjVCTzBGOFVpY3ZiYUZRQUhKNnhCeTRDaW5EZ0lkcjBfWjZQcWh3YXZUU3JtbVZWWkgxTmFjcGdQRUhFTlJSb0NYclhlNzB5Y3FvTDlxLTF3UFR5cUVhRGNiTVVQcV93YmNBY3c2WU",
+    "sources": [
+      {
+        "type": "news",
+        "title": "Dry Bulk Shipping Market Overview & Outlook - Cyprus Shipping News",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQQjVCTzBGOFVpY3ZiYUZRQUhKNnhCeTRDaW5EZ0lkcjBfWjZQcWh3YXZUU3JtbVZWWkgxTmFjcGdQRUhFTlJSb0NYclhlNzB5Y3FvTDlxLTF3UFR5cUVhRGNiTVVQcV93YmNBY3c2WUc5TzJ0VEUxUnVLLU5ET2ljLWlSeTRRUS12cHNvdA?oc=5",
+        "fetchedAt": "2026-04-15T09:27:10.368701Z",
+        "excerpt": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxQQjVCTzBGOFVpY3ZiYUZRQUhKNnhCeTRDaW5EZ0lkcjBfWjZQcWh3YXZUU3JtbVZWWkgxTmFjcGdQRUhFTlJSb0NYclhlNzB5Y3FvTDlxLTF3UFR5cUVhRGNiTVVQcV93YmNBY3c2WUc5TzJ0VEUxUnVLLU5ET2ljLWlSeTRRUS12cHNvdA?oc=5\" target=\"_blank\">Dry Bulk Shipping Market Overview & Outlook</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Cyprus Shipping News</font>"
+      }
+    ]
+  },
+  {
+    "id": "rss-22107",
+    "date": "Tue, 04 Ju",
+    "companies": [],
+    "topics": [
+      "news"
+    ],
+    "impact": "neutral",
+    "title": "Shipping market outlook Q2 2022 - Container vs Dry bulk - S&P Global",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxOMUE0dV85RUQ0eURheGFMTmtKSk53cFJQUXhxTjJGeEdmTE9ZUWd4QlJRLWtyM2RzVXlhaFdTUUN2aklsNWgxdWp3T19xQncyRzNoU3pCOTFKVVNFMHRSdDBVNHkwM0N0anpKRGdxeV",
+    "sources": [
+      {
+        "type": "news",
+        "title": "Shipping market outlook Q2 2022 - Container vs Dry bulk - S&P Global",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOMUE0dV85RUQ0eURheGFMTmtKSk53cFJQUXhxTjJGeEdmTE9ZUWd4QlJRLWtyM2RzVXlhaFdTUUN2aklsNWgxdWp3T19xQncyRzNoU3pCOTFKVVNFMHRSdDBVNHkwM0N0anpKRGdxeVhMN2ptNWJHSjkyNnZlVTBjbzNfRFR0WjFtUXd0RURiUzRMQkdK?oc=5",
+        "fetchedAt": "2026-04-15T09:27:10.368703Z",
+        "excerpt": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxOMUE0dV85RUQ0eURheGFMTmtKSk53cFJQUXhxTjJGeEdmTE9ZUWd4QlJRLWtyM2RzVXlhaFdTUUN2aklsNWgxdWp3T19xQncyRzNoU3pCOTFKVVNFMHRSdDBVNHkwM0N0anpKRGdxeVhMN2ptNWJHSjkyNnZlVTBjbzNfRFR0WjFtUXd0RURiUzRMQkdK?oc=5\" target=\"_blank\">Shipping market outlook Q2 2022 - Container vs Dry bulk</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">S&P Global</font>"
+      }
+    ]
+  },
+  {
+    "id": "rss-44715",
+    "date": "Wed, 11 De",
+    "companies": [],
+    "topics": [
+      "news"
+    ],
+    "impact": "neutral",
+    "title": "Dry bulk shipping rates collapse in Q4 - Seatrade Maritime News",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxNOEVxRk5Kd2FxdlZ1Ym00dVZTV0phc0ZTVlJoMUFjODg1ellSQkh2Zk5RV2hJeGloTXkxSHpwX0xuM1NUdC1EUjdWWEZzbUpyMm1jTjVEX0FRVHpiajZaRm53Uk1MQzZnSjNUNDlzaE",
+    "sources": [
+      {
+        "type": "news",
+        "title": "Dry bulk shipping rates collapse in Q4 - Seatrade Maritime News",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNOEVxRk5Kd2FxdlZ1Ym00dVZTV0phc0ZTVlJoMUFjODg1ellSQkh2Zk5RV2hJeGloTXkxSHpwX0xuM1NUdC1EUjdWWEZzbUpyMm1jTjVEX0FRVHpiajZaRm53Uk1MQzZnSjNUNDlzaEtiNTBNR1JkTW0xdjEyWlY0Q1NfMXgtajBH?oc=5",
+        "fetchedAt": "2026-04-15T09:27:10.368706Z",
+        "excerpt": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxNOEVxRk5Kd2FxdlZ1Ym00dVZTV0phc0ZTVlJoMUFjODg1ellSQkh2Zk5RV2hJeGloTXkxSHpwX0xuM1NUdC1EUjdWWEZzbUpyMm1jTjVEX0FRVHpiajZaRm53Uk1MQzZnSjNUNDlzaEtiNTBNR1JkTW0xdjEyWlY0Q1NfMXgtajBH?oc=5\" target=\"_blank\">Dry bulk shipping rates collapse in Q4</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Seatrade Maritime News</font>"
+      }
+    ]
+  },
+  {
+    "id": "rss-22793",
+    "date": "Tue, 17 Ju",
+    "companies": [],
+    "topics": [
+      "news"
+    ],
+    "impact": "neutral",
+    "title": "SCI, GE Shipping in focus as Baltic Dry Index up 47% in 1-mth; time to buy? - Business Standard",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxPQ3dSREMzUTlXakttWkhyYXdpdThRZG50NmVwT3UzZHZUQ01YR0o1UHA1MWVCLWxNWnpxb3ZpSWJqaFhyakFxckFudDhkRVFvZlpYSnhGQlRlaHBaTFZfUEpFeFRPNkhuMDREWDNHd0",
+    "sources": [
+      {
+        "type": "news",
+        "title": "SCI, GE Shipping in focus as Baltic Dry Index up 47% in 1-mth; time to buy? - Business Standard",
+        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPQ3dSREMzUTlXakttWkhyYXdpdThRZG50NmVwT3UzZHZUQ01YR0o1UHA1MWVCLWxNWnpxb3ZpSWJqaFhyakFxckFudDhkRVFvZlpYSnhGQlRlaHBaTFZfUEpFeFRPNkhuMDREWDNHd0c0bmUyQTYxY290cVBOZ0JScno1czAwTm1FMU1KNUVzc3NaWmhKdVhDOFIwVzFtVk43OE9XMDNoWGpRc1IzX3k2WmlaS0NPOHhRZjRVR2YzaVEtMi1kMjFLelhETzh2UmtCbV95ctIB2gFBVV95cUxNMUZlN0RHbUo5eXJDM1BGc2dCQ0I0MC1hNXFmcmpfdFJFbmhFbGItVXpMdEt6YlB2SVhPNjJobmZwVEd5WWFfekNabm5waXR1VGpqVTNUVlRJSzh5NTYxZWxITGJ5aVNPSndxZFFWTVNrU2w3VGxyX25TZG5FT0REZmxqVThraE1uOHg2TEVYWW9leV9pQWhkZkFjVFI5YzJ3WWNmMGtka3lrSEo3WFZmOV9aQklvSVNOUF9FZWV4ZEhBXzRyOGNQTEVXREFubzA0ZXI0M1QtendOQQ?oc=5",
+        "fetchedAt": "2026-04-15T09:27:10.368708Z",
+        "excerpt": "<a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxPQ3dSREMzUTlXakttWkhyYXdpdThRZG50NmVwT3UzZHZUQ01YR0o1UHA1MWVCLWxNWnpxb3ZpSWJqaFhyakFxckFudDhkRVFvZlpYSnhGQlRlaHBaTFZfUEpFeFRPNkhuMDREWDNHd0c0bmUyQTYxY290cVBOZ0JScno1czAwTm1FMU1KNUVzc3NaWmhKdVhDOFIwVzFtVk43OE9XMDNoWGpRc1IzX3k2WmlaS0NPOHhRZjRVR2YzaVEtMi1kMjFLelhETzh2UmtCbV95ctIB2gFBVV95cUxNMUZlN0RHbUo5eXJDM1BGc2dCQ0I0MC1hNXFmcmpfdFJFbmhFbGItVXpMdEt6YlB2SVhPNjJobmZwVEd5WWFfekNabm5waXR1VGpqVTNUVlRJSzh5NTYxZWxITGJ5aVNPSndxZFFWTVNrU2w3VGxyX2"
+      }
+    ]
+  },
+  {
+    "id": "rss-22478",
+    "date": "Mon, 11 No",
+    "companies": [],
+    "topics": [
+      "news"
+    ],
+    "impact": "neutral",
+    "title": "How macro funds can make waves with exposure to global shipping - Marex",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxPSW1pSkJkb1JnWnkxZTByZEtLWGRLQnk3Z3NVcy02dUQ0eHZ1S1o3aWJHVnhFMUdFYU1IT2NKREcyQ2ktQ1dPWGJqYXFOYmROZDZkbmU1NlFJU2RGRUhLdXUycXZkWEFWcG9KdXIwWH",
+    "sources": [
+      {
+        "type": "news",
+        "title": "How macro funds can make waves with exposure to global shipping - Marex",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPSW1pSkJkb1JnWnkxZTByZEtLWGRLQnk3Z3NVcy02dUQ0eHZ1S1o3aWJHVnhFMUdFYU1IT2NKREcyQ2ktQ1dPWGJqYXFOYmROZDZkbmU1NlFJU2RGRUhLdXUycXZkWEFWcG9KdXIwWHpCTE14WXdrM1RiWHUzMGxKY2FURWo0UkpjTjRLNUUtYmdGQzNoYVdyaGhPcTVHblRN?oc=5",
+        "fetchedAt": "2026-04-15T09:27:10.368711Z",
+        "excerpt": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxPSW1pSkJkb1JnWnkxZTByZEtLWGRLQnk3Z3NVcy02dUQ0eHZ1S1o3aWJHVnhFMUdFYU1IT2NKREcyQ2ktQ1dPWGJqYXFOYmROZDZkbmU1NlFJU2RGRUhLdXUycXZkWEFWcG9KdXIwWHpCTE14WXdrM1RiWHUzMGxKY2FURWo0UkpjTjRLNUUtYmdGQzNoYVdyaGhPcTVHblRN?oc=5\" target=\"_blank\">How macro funds can make waves with exposure to global shipping</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Marex</font>"
+      }
+    ]
+  },
+  {
+    "id": "rss-22762",
+    "date": "Tue, 13 Se",
+    "companies": [],
+    "topics": [
+      "news"
+    ],
+    "impact": "neutral",
+    "title": "Drybulk Shipping Market: A Dead Cat Bounce Or…? - gCaptain",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE96VGVOVkpod2hMczE5TEJYc1ZtVWkwOTJZM0NjVFNLbHlZWkVpMEoteVRRQVRSWWtLOEFtZVFtMVh1anpXaWlNRkdDVkpFVWUtWkxyVzVlZHB4N0hwQVl5RzI1SmdjNlYzaE1yUU80ck",
+    "sources": [
+      {
+        "type": "news",
+        "title": "Drybulk Shipping Market: A Dead Cat Bounce Or…? - gCaptain",
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE96VGVOVkpod2hMczE5TEJYc1ZtVWkwOTJZM0NjVFNLbHlZWkVpMEoteVRRQVRSWWtLOEFtZVFtMVh1anpXaWlNRkdDVkpFVWUtWkxyVzVlZHB4N0hwQVl5RzI1SmdjNlYzaE1yUU80ck9qTjVk?oc=5",
+        "fetchedAt": "2026-04-15T09:27:10.368713Z",
+        "excerpt": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE96VGVOVkpod2hMczE5TEJYc1ZtVWkwOTJZM0NjVFNLbHlZWkVpMEoteVRRQVRSWWtLOEFtZVFtMVh1anpXaWlNRkdDVkpFVWUtWkxyVzVlZHB4N0hwQVl5RzI1SmdjNlYzaE1yUU80ck9qTjVk?oc=5\" target=\"_blank\">Drybulk Shipping Market: A Dead Cat Bounce Or…?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">gCaptain</font>"
+      }
+    ]
+  },
+  {
+    "id": "rss-16293",
+    "date": "Mon, 10 Ma",
+    "companies": [],
+    "topics": [
+      "news"
+    ],
+    "impact": "neutral",
+    "title": "Super cycle: Dry bulk shipping making historic run - American Journal of Transportation",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxPczJnWVVfWlR3TXZGTWRQN0pFN3VGdnMzNXRndWdKWjJWOVhTdnhwcUlfUjhlSWpqemlrX1FvOV95dmV5Rk9BR2pISnpFcjI1WFRHT0QtcHpTdk1NMzhxQU5jd01NdG56NGdGT3EtM0",
+    "sources": [
+      {
+        "type": "news",
+        "title": "Super cycle: Dry bulk shipping making historic run - American Journal of Transportation",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPczJnWVVfWlR3TXZGTWRQN0pFN3VGdnMzNXRndWdKWjJWOVhTdnhwcUlfUjhlSWpqemlrX1FvOV95dmV5Rk9BR2pISnpFcjI1WFRHT0QtcHpTdk1NMzhxQU5jd01NdG56NGdGT3EtM08zQkVIUkl5VlViTU5Edi1VTU1tU0psZw?oc=5",
+        "fetchedAt": "2026-04-15T09:27:10.368716Z",
+        "excerpt": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxPczJnWVVfWlR3TXZGTWRQN0pFN3VGdnMzNXRndWdKWjJWOVhTdnhwcUlfUjhlSWpqemlrX1FvOV95dmV5Rk9BR2pISnpFcjI1WFRHT0QtcHpTdk1NMzhxQU5jd01NdG56NGdGT3EtM08zQkVIUkl5VlViTU5Edi1VTU1tU0psZw?oc=5\" target=\"_blank\">Super cycle: Dry bulk shipping making historic run</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">American Journal of Transportation</font>"
+      }
+    ]
+  },
+  {
+    "id": "rss-29539",
+    "date": "Mon, 03 Fe",
+    "companies": [],
+    "topics": [
+      "news"
+    ],
+    "impact": "neutral",
+    "title": "Dry bulk shipping rates poised to hit a new all-time low - FreightWaves",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxQbmtUVHplc0lLZUQyMGs5Vk1PZGhFQjVtclBvRkREVzRXWGJtR2p3WE44VTZkX014UmZTbkhtbmVKUEJFbFlHZFZfZnd2R2N0ZWdtNFhCaGpuMEcyRkhya043bkt6OV8ybGRrWkd4Rj",
+    "sources": [
+      {
+        "type": "news",
+        "title": "Dry bulk shipping rates poised to hit a new all-time low - FreightWaves",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQbmtUVHplc0lLZUQyMGs5Vk1PZGhFQjVtclBvRkREVzRXWGJtR2p3WE44VTZkX014UmZTbkhtbmVKUEJFbFlHZFZfZnd2R2N0ZWdtNFhCaGpuMEcyRkhya043bkt6OV8ybGRrWkd4RjZOUWw1YTh4RFBDRDM2S3hIamkwX2J5UkpK?oc=5",
+        "fetchedAt": "2026-04-15T09:27:10.368718Z",
+        "excerpt": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxQbmtUVHplc0lLZUQyMGs5Vk1PZGhFQjVtclBvRkREVzRXWGJtR2p3WE44VTZkX014UmZTbkhtbmVKUEJFbFlHZFZfZnd2R2N0ZWdtNFhCaGpuMEcyRkhya043bkt6OV8ybGRrWkd4RjZOUWw1YTh4RFBDRDM2S3hIamkwX2J5UkpK?oc=5\" target=\"_blank\">Dry bulk shipping rates poised to hit a new all-time low</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">FreightWaves</font>"
+      }
+    ]
+  },
+  {
+    "id": "rss-30129",
+    "date": "Thu, 05 Se",
+    "companies": [],
+    "topics": [
+      "news"
+    ],
+    "impact": "neutral",
+    "title": "Weak dry bulk market forecast in 2023, BDI average down 20 – 30% - Seatrade Maritime News",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxPX25HTkkzRUNsWkxSQ012dFRSVUFkR0dPZ05zSU5XOXJtZTJjTDlsMVBiNVgxenZjVGpLQV9uNl9STWdqWUdTSlpjWTR5R2FwNGRyM1ZNOFNDRGNjT0NXUE0wVG5JbDZ6YkVERFA3dl",
+    "sources": [
+      {
+        "type": "news",
+        "title": "Weak dry bulk market forecast in 2023, BDI average down 20 – 30% - Seatrade Maritime News",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPX25HTkkzRUNsWkxSQ012dFRSVUFkR0dPZ05zSU5XOXJtZTJjTDlsMVBiNVgxenZjVGpLQV9uNl9STWdqWUdTSlpjWTR5R2FwNGRyM1ZNOFNDRGNjT0NXUE0wVG5JbDZ6YkVERFA3dllySUJJb29HZUtMZDR3cWVYVk51UlAtMzRsS1hqcjhzak9OTVlhZ2RvVDFRa1F2d1RwcjlscnpTQQ?oc=5",
+        "fetchedAt": "2026-04-15T09:27:10.368721Z",
+        "excerpt": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxPX25HTkkzRUNsWkxSQ012dFRSVUFkR0dPZ05zSU5XOXJtZTJjTDlsMVBiNVgxenZjVGpLQV9uNl9STWdqWUdTSlpjWTR5R2FwNGRyM1ZNOFNDRGNjT0NXUE0wVG5JbDZ6YkVERFA3dllySUJJb29HZUtMZDR3cWVYVk51UlAtMzRsS1hqcjhzak9OTVlhZ2RvVDFRa1F2d1RwcjlscnpTQQ?oc=5\" target=\"_blank\">Weak dry bulk market forecast in 2023, BDI average down 20 – 30%</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Seatrade Maritime News</font>"
+      }
+    ]
+  },
+  {
+    "id": "rss-88711",
+    "date": "Thu, 01 Ma",
+    "companies": [],
+    "topics": [
+      "news"
+    ],
+    "impact": "neutral",
+    "title": "Dry Bulk Shipping: US tariff increases drive weaker demand outlook - Hellenic Shipping News",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxQS1NqZlhpZWE4M00yQzdLTzNqMUJTS3JVd2oxSzVSN284S242X1EzV2NCajJkLXQxTV9MV3NFbVYyaWVSOWw1RlZoaHNJaTk2cmxpZDZzcFcxcUxNbHJRWHFINHpVT2ZySVNNX18yOX",
+    "sources": [
+      {
+        "type": "news",
+        "title": "Dry Bulk Shipping: US tariff increases drive weaker demand outlook - Hellenic Shipping News",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQS1NqZlhpZWE4M00yQzdLTzNqMUJTS3JVd2oxSzVSN284S242X1EzV2NCajJkLXQxTV9MV3NFbVYyaWVSOWw1RlZoaHNJaTk2cmxpZDZzcFcxcUxNbHJRWHFINHpVT2ZySVNNX18yOXVacG92eEtfUTI4T1ZzaTdYTnNadS1VZzJLYkdTdjZtMHNSekRER2FxYWZfVkdaS0gtSlVCdXRB?oc=5",
+        "fetchedAt": "2026-04-15T09:27:10.368723Z",
+        "excerpt": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxQS1NqZlhpZWE4M00yQzdLTzNqMUJTS3JVd2oxSzVSN284S242X1EzV2NCajJkLXQxTV9MV3NFbVYyaWVSOWw1RlZoaHNJaTk2cmxpZDZzcFcxcUxNbHJRWHFINHpVT2ZySVNNX18yOXVacG92eEtfUTI4T1ZzaTdYTnNadS1VZzJLYkdTdjZtMHNSekRER2FxYWZfVkdaS0gtSlVCdXRB?oc=5\" target=\"_blank\">Dry Bulk Shipping: US tariff increases drive weaker demand outlook</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Hellenic Shipping News</font>"
+      }
+    ]
+  },
+  {
+    "id": "rss-53344",
+    "date": "Tue, 16 Ju",
+    "companies": [],
+    "topics": [
+      "news"
+    ],
+    "impact": "neutral",
+    "title": "How to go ‘straight to the freight’ when betting on dry bulk - FreightWaves",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxQMXJjb1hWSld0X0RTNkRQMVNkdnVMSjlocWNPbWRqNGxaT3BTTDlXdjMwX3lVbXdRdXZjaDgzZ0ZWQUlwSVFMa3prbElJYUR6RlN5T0h5aWdadExfVEo5amRJMWx0YVVLNnlfSEs3NV",
+    "sources": [
+      {
+        "type": "news",
+        "title": "How to go ‘straight to the freight’ when betting on dry bulk - FreightWaves",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQMXJjb1hWSld0X0RTNkRQMVNkdnVMSjlocWNPbWRqNGxaT3BTTDlXdjMwX3lVbXdRdXZjaDgzZ0ZWQUlwSVFMa3prbElJYUR6RlN5T0h5aWdadExfVEo5amRJMWx0YVVLNnlfSEs3NVlMNWxRNFVUenhnOFZSeGNmd094NzNWSnZjbGljdTVScC1TaFk0NDBN?oc=5",
+        "fetchedAt": "2026-04-15T09:27:10.368726Z",
+        "excerpt": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxQMXJjb1hWSld0X0RTNkRQMVNkdnVMSjlocWNPbWRqNGxaT3BTTDlXdjMwX3lVbXdRdXZjaDgzZ0ZWQUlwSVFMa3prbElJYUR6RlN5T0h5aWdadExfVEo5amRJMWx0YVVLNnlfSEs3NVlMNWxRNFVUenhnOFZSeGNmd094NzNWSnZjbGljdTVScC1TaFk0NDBN?oc=5\" target=\"_blank\">How to go ‘straight to the freight’ when betting on dry bulk</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">FreightWaves</font>"
+      }
+    ]
+  },
+  {
+    "id": "rss-90509",
+    "date": "Mon, 05 Fe",
+    "companies": [],
+    "topics": [
+      "news"
+    ],
+    "impact": "neutral",
+    "title": "Baltic Dry Index re-weighted for futures investors - FreightWaves",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxNaFNMRXBKcEJYV3ZIaGFKbmJwTWxiRmJXeWxyMWl0ZVFyWjVmUTRpWHgwZmVSSktMRDRKZGRVNDVCQjMyQWw5dmJEdGE2OVhzQ1lJQV9hZkNOc3pSMk9xMFgyajRTdzR0SkJ2RFN0QT",
+    "sources": [
+      {
+        "type": "news",
+        "title": "Baltic Dry Index re-weighted for futures investors - FreightWaves",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNaFNMRXBKcEJYV3ZIaGFKbmJwTWxiRmJXeWxyMWl0ZVFyWjVmUTRpWHgwZmVSSktMRDRKZGRVNDVCQjMyQWw5dmJEdGE2OVhzQ1lJQV9hZkNOc3pSMk9xMFgyajRTdzR0SkJ2RFN0QTBwV2M5ZGpKdTVZdzRuUUNmNVRLajhOa0hkODVlTFJPYjJkR1BzZ0NVRQ?oc=5",
+        "fetchedAt": "2026-04-15T09:27:10.368728Z",
+        "excerpt": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxNaFNMRXBKcEJYV3ZIaGFKbmJwTWxiRmJXeWxyMWl0ZVFyWjVmUTRpWHgwZmVSSktMRDRKZGRVNDVCQjMyQWw5dmJEdGE2OVhzQ1lJQV9hZkNOc3pSMk9xMFgyajRTdzR0SkJ2RFN0QTBwV2M5ZGpKdTVZdzRuUUNmNVRLajhOa0hkODVlTFJPYjJkR1BzZ0NVRQ?oc=5\" target=\"_blank\">Baltic Dry Index re-weighted for futures investors</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">FreightWaves</font>"
       }
     ]
   }

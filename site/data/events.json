@@ -1,5 +1,17 @@
 [
   {
+    "id": "unknown-2026-04-15-001",
+    "date": "2026-04-15",
+    "companies": [],
+    "topics": [
+      "shipbuilding_orders"
+    ],
+    "impact": "neutral",
+    "title": "Ernst Russ moves into tankers with four-ship newbuild deal",
+    "summary": "<p>Frankfurt-listed shipowner Ernst Russ is branching into tankers, agreeing to acquire four 18,500 dwt intermediate-class chemical/product newbuildings backed by long-term charters. The Hamburg-based",
+    "sources": []
+  },
+  {
     "id": "unknown-2026-04-14-002",
     "date": "2026-04-14",
     "companies": [],
@@ -72,6 +84,20 @@
     "sources": []
   },
   {
+    "id": "maersk-2026-03-12-002",
+    "date": "2026-03-12",
+    "companies": [
+      "maersk"
+    ],
+    "topics": [
+      "container_freight"
+    ],
+    "impact": "negative",
+    "title": "Maersk faces a tougher 2026 as container overcapacity pressures freight rates - S&P Global",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi7AFBVV95cUxQNmp3RGpWdTZzZWtIdDdSQ3Y0NEZwVTluN3hGQzk4VVBVNDFZNFpORXVKSWF6UXlvU3htSVVoUjlJQjZiVXhTWDZubUdYbWlfdE5PR0MzOFNmdEpGenFYOU9NQ0pQSEJQQkFWY0czdV",
+    "sources": []
+  },
+  {
     "id": "unknown-2026-03-11-008",
     "date": "2026-03-11",
     "companies": [],
@@ -81,6 +107,30 @@
     "impact": "positive",
     "title": "HTCO Leverages Upward BDI Cycle to Unleash Full Momentum for Earnings Growth - The Manila Times",
     "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4gFBVV95cUxPRmRESXJzZmMwWGpjaW84TS10bmlQa3dabHUtZUVDYlVpTHc1WlIydDE2cXlhV19DVzBCWGtkZlFjS0xBSzczbHg1bXd2MUE4MjY1RFp5WjZmWVA3S2JremRTZmdwYUNXdXZDSHkwNF",
+    "sources": []
+  },
+  {
+    "id": "unknown-2026-02-11-003",
+    "date": "2026-02-11",
+    "companies": [],
+    "topics": [
+      "container_freight"
+    ],
+    "impact": "neutral",
+    "title": "Asia-U.S. ocean freight rates give up 2026 gains - FreightWaves",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxNNzBRUTBRQ2FZTEFJVER4NFZTSjhFTC1STUhLNmd1RVNwMjYyWHJxTldWVkwzdDJHV1h5ZHhyOWwzNG9UbDRPQWxQYWV2OWp6NWRkNnIzUl9pSlpFVkZxZUY2anFiekcyT1JqMXEtTH",
+    "sources": []
+  },
+  {
+    "id": "unknown-2026-02-10-004",
+    "date": "2026-02-10",
+    "companies": [],
+    "topics": [
+      "dry_bulk_rate"
+    ],
+    "impact": "neutral",
+    "title": "BDI vs BCI Ahead of the Lunar New Year - Hellenic Shipping News",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxNWVlQd2lNQkN3VDlpN2l1X2lvUkkyelNCSXlCMzFUalFieDYwRUxkRUlPeU9udEtFSkdwWjNyRGZlMnpfLWpVNWdjcmJOZDhTUTBtNDVIZGd5OFN3bHNIZ0tLNGh5NnlHUk1QWlBJal",
     "sources": []
   },
   {

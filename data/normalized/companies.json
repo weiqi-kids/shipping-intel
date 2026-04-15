@@ -6,7 +6,7 @@
       "short_name": "韓國造船海洋",
       "position": "upstream",
       "role": "造船",
-      "x": 0.08,
+      "x": 0.05,
       "y": 0.17
     },
     {
@@ -15,7 +15,7 @@
       "short_name": "三星重工",
       "position": "upstream",
       "role": "造船",
-      "x": 0.36,
+      "x": 0.35,
       "y": 0.17
     },
     {
@@ -24,7 +24,7 @@
       "short_name": "韓華海洋",
       "position": "upstream",
       "role": "造船",
-      "x": 0.64,
+      "x": 0.65,
       "y": 0.17
     },
     {
@@ -33,7 +33,7 @@
       "short_name": "中國船舶",
       "position": "upstream",
       "role": "造船",
-      "x": 0.92,
+      "x": 0.95,
       "y": 0.17
     },
     {
@@ -42,8 +42,8 @@
       "short_name": "長榮海運",
       "position": "midstream",
       "role": "貨櫃航運",
-      "x": 0.08,
-      "y": 0.36
+      "x": 0.05,
+      "y": 0.35
     },
     {
       "id": "yang_ming",
@@ -51,8 +51,8 @@
       "short_name": "陽明海運",
       "position": "midstream",
       "role": "貨櫃航運",
-      "x": 0.248,
-      "y": 0.36
+      "x": 0.2,
+      "y": 0.35
     },
     {
       "id": "wan_hai",
@@ -60,8 +60,8 @@
       "short_name": "萬海航運",
       "position": "midstream",
       "role": "貨櫃航運",
-      "x": 0.416,
-      "y": 0.36
+      "x": 0.35,
+      "y": 0.35
     },
     {
       "id": "maersk",
@@ -69,8 +69,8 @@
       "short_name": "馬士基",
       "position": "midstream",
       "role": "貨櫃航運",
-      "x": 0.584,
-      "y": 0.36
+      "x": 0.5,
+      "y": 0.35
     },
     {
       "id": "hapag",
@@ -78,8 +78,8 @@
       "short_name": "赫伯羅特",
       "position": "midstream",
       "role": "貨櫃航運",
-      "x": 0.752,
-      "y": 0.36
+      "x": 0.65,
+      "y": 0.35
     },
     {
       "id": "zim",
@@ -87,8 +87,8 @@
       "short_name": "ZIM Integrated Shipping",
       "position": "midstream",
       "role": "貨櫃航運",
-      "x": 0.92,
-      "y": 0.36
+      "x": 0.8,
+      "y": 0.35
     },
     {
       "id": "cosco",
@@ -96,8 +96,8 @@
       "short_name": "中遠海控",
       "position": "midstream",
       "role": "貨櫃航運",
-      "x": 0.08,
-      "y": 0.64
+      "x": 0.95,
+      "y": 0.35
     },
     {
       "id": "u_ming",
@@ -105,8 +105,8 @@
       "short_name": "裕民航運",
       "position": "midstream",
       "role": "散裝航運",
-      "x": 0.36,
-      "y": 0.64
+      "x": 0.05,
+      "y": 0.65
     },
     {
       "id": "wisdom",
@@ -114,8 +114,8 @@
       "short_name": "慧洋海運",
       "position": "midstream",
       "role": "散裝航運",
-      "x": 0.64,
-      "y": 0.64
+      "x": 0.5,
+      "y": 0.65
     },
     {
       "id": "star_bulk",
@@ -123,8 +123,8 @@
       "short_name": "Star Bulk Carriers",
       "position": "midstream",
       "role": "散裝航運",
-      "x": 0.92,
-      "y": 0.64
+      "x": 0.95,
+      "y": 0.65
     }
   ],
   "links": [
@@ -176,9 +176,12 @@
   ],
   "etfs": [
     {
-      "id": "sea",
+      "id": "etf_sea",
       "name": "U.S. Global Sea to Sky Cargo ETF",
-      "ticker": "SEA"
+      "ticker": "SEA",
+      "market": "NYSE",
+      "currency": "USD",
+      "description": "航運與物流 ETF"
     }
   ]
 }
