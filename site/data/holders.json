@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-15T09:27:18.371405+00:00",
+  "updated_at": "2026-04-15T12:06:33.237154+00:00",
   "companies": {
     "maersk": {
       "name": "A.P. Moller-Maersk",
@@ -10,7 +10,7 @@
           "holder": "Pacer Advisors, Inc.",
           "shares": 21,
           "pct_held": 0.0,
-          "value": 331380
+          "value": 330645
         }
       ]
     },
@@ -23,7 +23,7 @@
           "holder": "Pacer Advisors, Inc.",
           "shares": 357,
           "pct_held": 0.0,
-          "value": 41090
+          "value": 41697
         }
       ]
     },
