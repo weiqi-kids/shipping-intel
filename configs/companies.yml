@@ -103,6 +103,7 @@ companies:
   position: midstream
   role: 貨櫃航運
   description: 全球最大貨櫃航運公司
+  rss_url: https://investor.maersk.com/rss/news?items=50
   upstream:
   - hd_korea
   - samsung_heavy
@@ -117,6 +118,7 @@ companies:
   position: midstream
   role: 貨櫃航運
   description: 德國貨櫃航運公司
+  rss_url: https://www.hapag-lloyd.com/en/news-insights/rss-feeds.html
   upstream:
   - samsung_heavy
 - id: zim
@@ -128,6 +130,7 @@ companies:
   position: midstream
   role: 貨櫃航運
   description: 以色列貨櫃航運公司
+  rss_url: https://investors.zim.com/rss/news-releases.xml
 - id: cosco
   name: COSCO Shipping
   aliases:

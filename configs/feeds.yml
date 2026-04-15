@@ -1,0 +1,49 @@
+# Shipping & Maritime industry news feeds
+feeds:
+# --- Company IR feeds ---
+- id: maersk_ir
+  name: Maersk Investor Relations
+  url: https://investor.maersk.com/rss/news?items=50
+  description: A.P. Moller-Maersk investor news and press releases
+
+- id: hapag_news
+  name: Hapag-Lloyd News
+  url: https://www.hapag-lloyd.com/en/news-insights/rss-feeds.html
+  description: Hapag-Lloyd customer news and press releases
+
+- id: zim_ir
+  name: ZIM Investor Relations
+  url: https://investors.zim.com/rss/news-releases.xml
+  description: ZIM Integrated Shipping investor news
+
+# --- Industry media feeds ---
+- id: gcaptain
+  name: gCaptain Maritime News
+  url: https://gcaptain.com/feed/
+  description: Leading source for maritime and shipping news
+
+- id: maritime_executive
+  name: The Maritime Executive
+  url: https://maritime-executive.com/articles.rss
+  description: Maritime industry news, shipping and offshore coverage
+
+- id: freightwaves
+  name: FreightWaves
+  url: https://www.freightwaves.com/feed
+  description: Supply chain, logistics and freight news
+
+- id: splash247
+  name: Splash247
+  url: https://splash247.com/feed/
+  description: Maritime and shipping news from Asia and global
+
+# --- Google News topic feeds ---
+- id: google_container_shipping
+  name: Google News - Container Shipping
+  url: https://news.google.com/rss/search?q=container+shipping+freight+rates&hl=en
+  description: Google News aggregation for container shipping and freight rates
+
+- id: google_dry_bulk
+  name: Google News - Dry Bulk Shipping
+  url: https://news.google.com/rss/search?q=dry+bulk+shipping+BDI&hl=en
+  description: Google News aggregation for dry bulk shipping and BDI index
