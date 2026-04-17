@@ -1,0 +1,168 @@
+{
+  "date": "2026-04-17",
+  "generated_at": "2026-04-17T09:25:29.059677Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "cosco-2026-04-17-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "COSCO adds panamax tankers to orderbook - Splash247",
+      "companies": [
+        "cosco"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "dry_bulk_rate",
+        "shipbuilding_orders"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": null
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-04-17-005",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Yangzijiang Maritime places major VLCC bet with eight-ship order",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "shipbuilding_orders"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": null
+    },
+    {
+      "rank": 3,
+      "event_id": "cosco-2026-04-17-006",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "COSCO adds panamax tankers to orderbook",
+      "companies": [
+        "cosco"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "dry_bulk_rate",
+        "shipbuilding_orders"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": null
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-04-17-008",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Container freight rally ends as global shipping rates fall - InteriorDaily",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "container_freight"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": null
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "dry_bulk_rate": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "shipbuilding_orders": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "container_freight": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 4,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 4,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "cosco",
+        "count": 2
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "shipbuilding_orders",
+        "count": 3
+      },
+      {
+        "id": "dry_bulk_rate",
+        "count": 2
+      },
+      {
+        "id": "container_freight",
+        "count": 1
+      }
+    ]
+  },
+  "llm_analysis": {
+    "summary": "今日共 4 則事件，焦點為中遠海控相關動態：「COSCO adds panamax tankers to orderbook - Splash247」。主要關注主題為造船訂單、散裝運價、貨櫃運價，市場情緒中性。",
+    "signals": [
+      {
+        "text": "COSCO adds panamax tankers to orderbook - Splash247（散裝運價、造船訂單）",
+        "level": "green"
+      },
+      {
+        "text": "Yangzijiang Maritime places major VLCC bet with eight-ship order（造船訂單）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

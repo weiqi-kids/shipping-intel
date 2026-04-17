@@ -1,0 +1,29 @@
+{
+  "date": "2026-04-17",
+  "total_events": 4,
+  "by_company": {
+    "cosco": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "dry_bulk_rate": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "shipbuilding_orders": {
+      "count": 3,
+      "sentiment_avg": 0.0
+    },
+    "container_freight": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}

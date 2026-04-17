@@ -1,5 +1,59 @@
 [
   {
+    "id": "cosco-2026-04-17-002",
+    "date": "2026-04-17",
+    "companies": [
+      "cosco"
+    ],
+    "topics": [
+      "dry_bulk_rate",
+      "shipbuilding_orders"
+    ],
+    "impact": "neutral",
+    "title": "COSCO adds panamax tankers to orderbook - Splash247",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTE1PYzhZUExvcWFUaURXZlBzQk9qTEFlUUoxTjZ3SjNxb1c0M3lqS1BTdV83aVdEbjRqWEFlZ2lvT3M3X09iNFFXZk96bGZiYUl2X3ZkMHIyV0QweS0weFFVdjN5QXo3LWJ6dnVMbzhRaw",
+    "sources": []
+  },
+  {
+    "id": "unknown-2026-04-17-005",
+    "date": "2026-04-17",
+    "companies": [],
+    "topics": [
+      "shipbuilding_orders"
+    ],
+    "impact": "neutral",
+    "title": "Yangzijiang Maritime places major VLCC bet with eight-ship order",
+    "summary": "<p>Yangzijiang Maritime Development is doubling down on crude tankers, lining up a major series of VLCC newbuilds as it looks to scale up in the large tanker segment. The Singapore-listed company said",
+    "sources": []
+  },
+  {
+    "id": "cosco-2026-04-17-006",
+    "date": "2026-04-17",
+    "companies": [
+      "cosco"
+    ],
+    "topics": [
+      "dry_bulk_rate",
+      "shipbuilding_orders"
+    ],
+    "impact": "neutral",
+    "title": "COSCO adds panamax tankers to orderbook",
+    "summary": "<p>COSCO Shipping Energy Transportation (CSET) is adding to its already sizeable orderbook, booking more tanker tonnage. The listed oil and gas shipping business of COSCO Shipping Group said its subsi",
+    "sources": []
+  },
+  {
+    "id": "unknown-2026-04-17-008",
+    "date": "2026-04-17",
+    "companies": [],
+    "topics": [
+      "container_freight"
+    ],
+    "impact": "neutral",
+    "title": "Container freight rally ends as global shipping rates fall - InteriorDaily",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxOZUJYdVlPLWhaT1FEeHpjV1dIUnJCUFpkTFQ1WTV4em01bXJDUjhpX0huVGhxZzlBSXZ5Szg1S1BrVUVEeXBHOS1IMlRaNFZWWFptaGhtaUxSOElTZDBETUNlLUVnYjFnVDkybDdydW",
+    "sources": []
+  },
+  {
     "id": "cosco-2026-04-16-005",
     "date": "2026-04-16",
     "companies": [
@@ -63,6 +117,30 @@
     "impact": "neutral",
     "title": "Marielena Procopiou tanker venture enters suezmax segment with China order",
     "summary": "<p>Akrotiri Tankers is pushing further into the newbuilding market, branching out into larger crude tonnage. The Athens-based owner, run by Marielena Procopiou and Konstantinos Lampsias, has returned ",
+    "sources": []
+  },
+  {
+    "id": "unknown-2026-04-16-004",
+    "date": "2026-04-16",
+    "companies": [],
+    "topics": [
+      "container_freight"
+    ],
+    "impact": "negative",
+    "title": "Six-Week Container Spot Rate Rally Runs Out of Steam",
+    "summary": "The six-week rally in global container freight rates has come to an end, with the latest reading from the Drewry World Container Index (WCI) showing a 3% decline to $2,246 per 40-foot container....",
+    "sources": []
+  },
+  {
+    "id": "unknown-2026-04-16-007",
+    "date": "2026-04-16",
+    "companies": [],
+    "topics": [
+      "container_freight"
+    ],
+    "impact": "neutral",
+    "title": "Six-Week Container Spot Rate Rally Runs Out of Steam - gCaptain",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE1qeHgxRjVzeWtPdDk4ajRhazRyRFlQcC1jLTNBcDFnTFdYZFNxbWhxeHZfZjdvaVAyM0lqN3NqckZGMjF6MmgzcTlqV1FMYVZ4TzY4MmVZSTJmMjRxblZQODZLU3dQTFBiVTczN1djZ2",
     "sources": []
   },
   {
@@ -229,6 +307,20 @@
     "impact": "neutral",
     "title": "China’s COSCO Shipping sees limited impact on revenue from Middle East tensions - Global Times",
     "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE12RnFYczA0NTdVanRCV2RrN0JRVWNuQWFHWlc2b3RnREhVLTB1NjJURllKTnBGcmZfQ0duT0VOaTFEaDZMOFFEYWE1MDhzeVE3MFZGel9JZ0ZEUnVKOXBra2xn?oc=5\" target=\"_bl",
+    "sources": []
+  },
+  {
+    "id": "evergreen-2026-04-09-001",
+    "date": "2026-04-09",
+    "companies": [
+      "evergreen"
+    ],
+    "topics": [
+      "shipbuilding_orders"
+    ],
+    "impact": "neutral",
+    "title": "Evergreen to splash up to $1.77 billion on new LNG-fueled containership order - LNG Prime",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxPYnZYbi1fSVBQYm1TaHRlUkwzeEtUUXZiTXFURXdvU1luaUpYTlNiS3JHY2pFRlIwSjlRX3pDN3Q0d0RBektCOHdMQjRSdmpGa3JDUXJ6a3lpRktzQ1ZpRDl0V2d2VzEwNFRSUVY4WW",
     "sources": []
   },
   {
@@ -540,6 +632,18 @@
     "sources": []
   },
   {
+    "id": "unknown-2025-12-31-010",
+    "date": "2025-12-31",
+    "companies": [],
+    "topics": [
+      "container_freight"
+    ],
+    "impact": "neutral",
+    "title": "Ocean Freight Rates: Sea Freight Shipping 2025 - Freightos",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTE4zNndTZTFieHVZQ2RpVWFCaXA5d3BTQzZ0OGJOQ2kyU3duQUE2OFpibDk0YmI0dmhfY2VuRWxzWkZqM0hiYkpxTHdOTXRnY0E1b254bTRwV1ZTU2t0LTVoalNyeWt4SFdjdWpPS3NwbE",
+    "sources": []
+  },
+  {
     "id": "star_bulk-2025-11-18-020",
     "date": "2025-11-18",
     "companies": [
@@ -561,6 +665,42 @@
     "impact": "neutral",
     "title": "Evergreen net profit hits $1.85b, orders seven LNG dual-fuel newbuilds - Baird Maritime",
     "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxPbmdaZkdzYkJxaDFTRl9CdVprOTVPaEtCYnRSeFFHcGpUc09BbGZLU19oRXJZUExLcU0wRi1OQ21zcGlJV0JOaU9nbUVNU2drTEVpTnRwRlMzUkZrR3RMdnB4MVlqcWFVakpjMFZ5YX",
+    "sources": []
+  },
+  {
+    "id": "star_bulk-2025-11-10-003",
+    "date": "2025-11-10",
+    "companies": [
+      "star_bulk"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Star Bulk Carriers Corp. Schedules Third Quarter 2025 Financial Results Release and Conference Call - Quiver Quantitative",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxPWmpzdjIySGRZSXVxZU54U2U3NDRPYUFSR3lHcHl5alBuSGVQNVZPTDJjRko5VmNmMGNBd1U1WS1kaUZHZTVJSk14Y0VVNEg2amV3WVI3QjBxYmJTNkxlQlZCMjRhWUZJcHFUemJvR3",
+    "sources": []
+  },
+  {
+    "id": "unknown-2025-10-31-009",
+    "date": "2025-10-31",
+    "companies": [],
+    "topics": [
+      "container_freight"
+    ],
+    "impact": "positive",
+    "title": "US-China trade truce will not revive weakening ocean container shipping market with freight rates still expected to fall in 2026 - Xeneta",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi7AFBVV95cUxOaEhvNWVITjZCS3MwSDRXZE5wX0VaQ0VqRDNRaXhlT0JVYVVRUTJsTldOR0VKaWMwbmtDRXRVZS10NWp0REZUc3RPT2FORHVWY1VxdnhzeDE4aWZQdjRMRzFsXzNiX2NCVkU3T3hXUV",
+    "sources": []
+  },
+  {
+    "id": "unknown-2025-08-06-011",
+    "date": "2025-08-06",
+    "companies": [],
+    "topics": [
+      "container_freight"
+    ],
+    "impact": "neutral",
+    "title": "Will plummeting ocean container freight rates drop to pre-Red Sea crisis levels? - Xeneta",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxPdW5Ba2lYRjhVRUVJY3JOVnB5VkU2T2k4bExOcTNvTWlIakNVYWY3RElxQjZZLXVMaVhFckk5UHZvX3YtemhEWHZqR25XR3ZNS3lXMjJjWm4ydUFWOHRKRGpZU3VpUm9Pbld2NjFJbW",
     "sources": []
   },
   {
