@@ -1,5 +1,42 @@
 [
   {
+    "id": "unknown-2026-04-20-001",
+    "date": "2026-04-20",
+    "companies": [],
+    "topics": [
+      "shipbuilding_orders"
+    ],
+    "impact": "neutral",
+    "title": "MOL lands LNG carrier charter deal with Inpex",
+    "summary": "<p>Mitsui OSK Lines (MOL) has tied up long-term employment for an LNG carrier newbuilding, marking its first such deal with compatriot energy player Inpex Corporation. The charter has been agreed betw",
+    "sources": []
+  },
+  {
+    "id": "unknown-2026-04-20-002",
+    "date": "2026-04-20",
+    "companies": [],
+    "topics": [
+      "container_freight"
+    ],
+    "impact": "negative",
+    "title": "Smaller carriers retreat from transpacific as rates slide",
+    "summary": "<p>Smaller containerlines are rapidly exiting the transpacific trades as weakening freight rates erode margins, according to Danish consultancy Sea-Intelligence. Fresh analysis shows that capacity off",
+    "sources": []
+  },
+  {
+    "id": "unknown-2026-04-20-003",
+    "date": "2026-04-20",
+    "companies": [],
+    "topics": [
+      "container_freight",
+      "dry_bulk_rate"
+    ],
+    "impact": "neutral",
+    "title": "SITC Posts Higher Q1 Shipping Volumes but Faces Lower Freight Rates - TipRanks",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxNdzYxeUhPUXBvZ2RJZ292Q3Y3RFZOODZ0UDYxb3pWOE00WUUxSm94X3I5ME9wbXpjQ2JVM2xjU3JFaGJ6dmNDRUlYNm1FZlBfVFlfMU4yZFhiRnF2Vk5EVFhZUEFKMVhubDIyWVJQRW",
+    "sources": []
+  },
+  {
     "id": "cosco-2026-04-17-002",
     "date": "2026-04-17",
     "companies": [
@@ -476,6 +513,18 @@
     "impact": "neutral",
     "title": "We Think You Can Look Beyond Star Bulk Carriers' (NASDAQ:SBLK) Lackluster Earnings - simplywall.st",
     "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2wFBVV95cUxOa3ZFRGt1ZlZ4Q1ZxMm52dEpldXFOZWhuU19yYm15SURoYVVFdXB4MllCSWRjX3ltb0syTWUwTXZsdFVXTVYybmF6Mm9jT3huX3Z1UUtjaVZzTEFaUUxaNmw3aHU1TE9fbFI4al91dG",
+    "sources": []
+  },
+  {
+    "id": "unknown-2026-03-30-004",
+    "date": "2026-03-30",
+    "companies": [],
+    "topics": [
+      "container_freight"
+    ],
+    "impact": "neutral",
+    "title": "Readers Speak: Freight rates lead impact of Middle East tensions - Container News",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxQdVdXRXNsTEpDaFFSM291Rjdmc09pdVIzVFhIMmhhTlNvMkVwN3FTZ1RxeEQ0R2ppUTdQNzE0cE82cTk4T2ZkSk5zczFxcVpWWTdPcnkzYUhUbWNac2pteVA3OVAzUUFVbVJPa0Raaj",
     "sources": []
   },
   {
