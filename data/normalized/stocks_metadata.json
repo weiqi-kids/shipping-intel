@@ -1,77 +1,77 @@
 {
   "hd_korea": {
-    "earliest": "2023-05-04",
-    "latest": "2026-04-21",
-    "count": 720
+    "earliest": "2023-02-03",
+    "latest": "2026-04-22",
+    "count": 783
   },
   "samsung_heavy": {
-    "earliest": "2023-05-04",
-    "latest": "2026-04-21",
-    "count": 720
+    "earliest": "2023-02-03",
+    "latest": "2026-04-22",
+    "count": 783
   },
   "hanwha_ocean": {
-    "earliest": "2023-05-04",
-    "latest": "2026-04-21",
-    "count": 720
+    "earliest": "2023-02-03",
+    "latest": "2026-04-22",
+    "count": 783
   },
   "cssc": {
-    "earliest": "2023-05-04",
-    "latest": "2026-04-21",
-    "count": 719
+    "earliest": "2023-02-03",
+    "latest": "2026-04-22",
+    "count": 780
   },
   "evergreen": {
-    "earliest": "2023-05-08",
-    "latest": "2026-04-21",
-    "count": 716
+    "earliest": "2023-02-07",
+    "latest": "2026-04-22",
+    "count": 775
   },
   "yang_ming": {
-    "earliest": "2023-05-08",
-    "latest": "2026-04-21",
-    "count": 716
+    "earliest": "2023-02-07",
+    "latest": "2026-04-22",
+    "count": 775
   },
   "wan_hai": {
-    "earliest": "2023-05-08",
-    "latest": "2026-04-21",
-    "count": 716
+    "earliest": "2023-02-07",
+    "latest": "2026-04-22",
+    "count": 775
   },
   "maersk": {
-    "earliest": "2023-05-08",
-    "latest": "2026-04-21",
-    "count": 737
+    "earliest": "2023-02-07",
+    "latest": "2026-04-22",
+    "count": 798
   },
   "hapag": {
-    "earliest": "2023-05-05",
-    "latest": "2026-04-21",
-    "count": 752
+    "earliest": "2023-02-06",
+    "latest": "2026-04-22",
+    "count": 814
   },
   "zim": {
-    "earliest": "2023-05-04",
-    "latest": "2026-04-20",
-    "count": 742
+    "earliest": "2023-02-03",
+    "latest": "2026-04-21",
+    "count": 805
   },
   "cosco": {
-    "earliest": "2023-05-05",
-    "latest": "2026-04-21",
-    "count": 726
+    "earliest": "2023-02-06",
+    "latest": "2026-04-22",
+    "count": 787
   },
   "u_ming": {
-    "earliest": "2023-05-08",
-    "latest": "2026-04-21",
-    "count": 716
+    "earliest": "2023-02-07",
+    "latest": "2026-04-22",
+    "count": 775
   },
   "wisdom": {
-    "earliest": "2023-05-08",
-    "latest": "2026-04-21",
-    "count": 716
+    "earliest": "2023-02-07",
+    "latest": "2026-04-22",
+    "count": 775
   },
   "star_bulk": {
-    "earliest": "2023-05-04",
-    "latest": "2026-04-20",
-    "count": 742
+    "earliest": "2023-02-03",
+    "latest": "2026-04-21",
+    "count": 805
   },
   "etf_sea": {
-    "earliest": "2023-05-04",
-    "latest": "2026-04-20",
-    "count": 742
+    "earliest": "2023-02-03",
+    "latest": "2026-04-21",
+    "count": 805
   }
 }

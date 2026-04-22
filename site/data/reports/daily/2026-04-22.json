@@ -1,0 +1,69 @@
+{
+  "date": "2026-04-22",
+  "generated_at": "2026-04-22T09:27:40.341569Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-04-22-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "JP Morgan tipped for $500m VLCC move at DSIC",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "shipbuilding_orders"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": null
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "shipbuilding_orders": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 1,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 1,
+      "negative": 0
+    },
+    "top_companies": [],
+    "top_topics": [
+      {
+        "id": "shipbuilding_orders",
+        "count": 1
+      }
+    ]
+  },
+  "llm_analysis": {
+    "summary": "今日共 1 則事件，焦點為造船訂單相關動態：「JP Morgan tipped for $500m VLCC move at DSIC」。主要關注主題為造船訂單，市場情緒中性。",
+    "signals": [
+      {
+        "text": "JP Morgan tipped for $500m VLCC move at DSIC（造船訂單）",
+        "level": "green"
+      },
+      {
+        "text": "建議持續監控後續發展動態。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

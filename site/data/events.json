@@ -1,5 +1,41 @@
 [
   {
+    "id": "unknown-2026-04-22-003",
+    "date": "2026-04-22",
+    "companies": [],
+    "topics": [
+      "shipbuilding_orders"
+    ],
+    "impact": "neutral",
+    "title": "JP Morgan tipped for $500m VLCC move at DSIC",
+    "summary": "<p>US banking giant JP Morgan is being linked to a fresh push into crude shipping, with multiple brokers pointing to a VLCC newbuilding order worth around $500m at China’s Dalian Shipbuilding Industry",
+    "sources": []
+  },
+  {
+    "id": "unknown-2026-04-21-001",
+    "date": "2026-04-21",
+    "companies": [],
+    "topics": [
+      "container_freight"
+    ],
+    "impact": "negative",
+    "title": "Your Truck Is Getting More Expensive to Fix. Here Is the Data on Why — and What to Do Before It Gets Worse.",
+    "summary": "<p>The maintenance cost story in trucking has been quietly telling the truth about the freight recession in a way that spot rates and load volumes never fully captured. When freight slows down, trucks",
+    "sources": []
+  },
+  {
+    "id": "unknown-2026-04-21-002",
+    "date": "2026-04-21",
+    "companies": [],
+    "topics": [
+      "container_freight"
+    ],
+    "impact": "neutral",
+    "title": "Trans-Pacific container rates rise, but there’s a catch",
+    "summary": "<p>Persian Gulf vessel traffic still at a trickle as the U.S. presses a blockade of the Strait of Hormuz.</p>\n<p>The post <a href=\"https://www.freightwaves.com/news/trans-pacific-container-rates-rise-",
+    "sources": []
+  },
+  {
     "id": "unknown-2026-04-20-001",
     "date": "2026-04-20",
     "companies": [],
@@ -435,6 +471,18 @@
     "impact": "neutral",
     "title": "Freight rate volatility rises but remains below Covid levels - FloralDaily",
     "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxQN2duOEtQRHFRUHlqQ3AzRTQyRVhBU0xwODlqNnlSYVhwR0lVVTIxZjY3cGx1WnliamZUU1NwbFZMMFFhaXREaURUanh4TUgxNHZUVmRDb01NUXNkczM5YkUyZkZWbWhjbXdzWFdBY0",
+    "sources": []
+  },
+  {
+    "id": "unknown-2026-04-03-004",
+    "date": "2026-04-03",
+    "companies": [],
+    "topics": [
+      "container_freight"
+    ],
+    "impact": "neutral",
+    "title": "Freight rate volatility rises but remains below Covid levels - Hortidaily",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxPU2lsNUZfc1dlZ21kM1JfWW91dG0xWXJaSEt1ZTZSSWJFSzhyNVpwS3lDRzFsWlN0NHVoRXpaYzNycnNrZ29SUXdMVV9tUHJ0QjR2UWRSODlPQmxKeGpMazJKaGh0WV8td2pXakt2cz",
     "sources": []
   },
   {
