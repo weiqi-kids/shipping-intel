@@ -1,5 +1,31 @@
 [
   {
+    "id": "unknown-2026-04-23-002",
+    "date": "2026-04-23",
+    "companies": [],
+    "topics": [
+      "shipbuilding_orders"
+    ],
+    "impact": "neutral",
+    "title": "Odfjell lines up four newbuilds in Japan",
+    "summary": "<p>Norwegian chemical tanker owner Odfjell is pressing ahead with its fleet renewal drive, securing four 40,000 dwt fully stainless-steel newbuildings from Japan. The Bergen-based group said it has ag",
+    "sources": []
+  },
+  {
+    "id": "hanwha_ocean-2026-04-23-003",
+    "date": "2026-04-23",
+    "companies": [
+      "hanwha_ocean"
+    ],
+    "topics": [
+      "shipbuilding_orders"
+    ],
+    "impact": "neutral",
+    "title": "JHI Steamship deepens tanker push with VLCC newbuild",
+    "summary": "<p>Greek owner JHI Steamship has stepped further into the crude tanker arena, lining up a VLCC newbuilding in South Korea as part of a wider fleet build-out. The Athens-based company has disclosed an ",
+    "sources": []
+  },
+  {
     "id": "unknown-2026-04-22-003",
     "date": "2026-04-22",
     "companies": [],
@@ -9,6 +35,18 @@
     "impact": "neutral",
     "title": "JP Morgan tipped for $500m VLCC move at DSIC",
     "summary": "<p>US banking giant JP Morgan is being linked to a fresh push into crude shipping, with multiple brokers pointing to a VLCC newbuilding order worth around $500m at China’s Dalian Shipbuilding Industry",
+    "sources": []
+  },
+  {
+    "id": "unknown-2026-04-22-001",
+    "date": "2026-04-22",
+    "companies": [],
+    "topics": [
+      "shipbuilding_orders"
+    ],
+    "impact": "neutral",
+    "title": "HD Hyundai Samho wins 349.8 bln-won LPG ship order from Greece - MSN",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMizAJBVV95cUxPcGZvdVJSTFZLTEhyUXpuSWJOSnNRYkRwMGdHTmdRTklfYlJGX0V2VDRvcW1LMWU0YWFEdjhQODZNSllsZmQ0U0M2VTJDN3NWMkx3OHRVbDNvTS1uNEE2emRBUDMwSUxqYzhtRUpDTF",
     "sources": []
   },
   {
