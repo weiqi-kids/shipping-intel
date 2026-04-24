@@ -1,0 +1,103 @@
+{
+  "date": "2026-04-24",
+  "generated_at": "2026-04-24T09:50:41.113585Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-04-24-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Canada’s submarine renewal: What will it take to deliver? - Hanwha Group",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "container_freight"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": null
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-04-24-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "JHI Steamship Orders VLCC in South Korea for 2029 Delivery | Greek Shipping News - News and Statistics - IndexBox",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "shipbuilding_orders"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": null
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "container_freight": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "shipbuilding_orders": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 2,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 2,
+      "negative": 0
+    },
+    "top_companies": [],
+    "top_topics": [
+      {
+        "id": "container_freight",
+        "count": 1
+      },
+      {
+        "id": "shipbuilding_orders",
+        "count": 1
+      }
+    ]
+  },
+  "llm_analysis": {
+    "summary": "今日共 2 則事件，焦點為貨櫃運價、造船訂單相關動態：「Canada’s submarine renewal: What will it take to deliver?...」。主要關注主題為貨櫃運價、造船訂單，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Canada’s submarine renewal: What will it take to deliver? - Hanwha Group（貨櫃運價）",
+        "level": "green"
+      },
+      {
+        "text": "JHI Steamship Orders VLCC in South Korea for 2029 Delivery | Greek Shipping N...（造船訂單）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

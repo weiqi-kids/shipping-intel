@@ -1,0 +1,20 @@
+{
+  "date": "2026-04-24",
+  "total_events": 2,
+  "by_company": {},
+  "by_topic": {
+    "container_freight": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "shipbuilding_orders": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}
