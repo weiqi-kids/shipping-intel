@@ -20,6 +20,42 @@
     ]
   },
   {
+    "id": "hd_korea-2026-04-25-002",
+    "date": "2026-04-25",
+    "companies": [
+      "hd_korea"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "HD Korea Shipbuilding wins 745.1 bln won in orders for 4 vessels - MSN",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi7gJBVV95cUxNaldLYlhUdnpDaXQ2MWpocU53YkRWaVdCNFRZZThxNk00Vlh3LTVqa0JaNnU1Yk9WNWtFRzJtTEF1Y3V5djhhcGEyMWdvX0F4aENLdUZ2eVdQcnFoVlpmMUM2dGNNWFlENTRZLUJDYV",
+    "sources": [
+      {
+        "name": "hd_korea",
+        "url": "https://news.google.com/rss/articles/CBMi7gJBVV95cUxNaldLYlhUdnpDaXQ2MWpocU53YkRWaVdCNFRZZThxNk00Vlh3LTVqa0JaNnU1Yk9WNWtFRzJtTEF1Y3V5djhhcGEyMWdvX0F4aENLdUZ2eVdQcnFoVlpmMUM2dGNNWFlENTRZLUJDYVY3cTFQdVFNOEZNU0tkVWVXSThvUU9ZT0ltY2FLeUJCRGNqT25kc0pOb0pJR1FTNjJlcTB1TjlQdFpWeUZ4OFQyRXNkNDVOelBETGhVbk5qa1V4bnVPdy1yRGVtdno5TDFGRWJuczM4ZDNSNFYyaHV1RTRpVERybV9qVFdRdC11VUE3OEt3QkpCVlJrUFp2TnRKQ3h3QnB3RmdUY05QNU9jNTlKN2VCa2RhNm1sal83YlJfQlpDN1A3elY2MkJMLS1vRHBCbEdZOVNlRkt6UklmWTQ4dzVzQkxTSHBiU21tdnRxbFo4SU93YVBFZXBVVFJhUTBid01HbXZJOXlERnc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "samsung_heavy-2026-04-25-003",
+    "date": "2026-04-25",
+    "companies": [
+      "samsung_heavy"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "GTT Secures Six LNGC Tank Design Contracts with HD KSOE and Samsung Heavy Industries - imarinenews.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiT0FVX3lxTE9Na3dpVTJXZDE0cV94aHd4cUZLaDVYUDNUblBMLXRBbmxuZjNqU2YyN2NNcDFZTWxNcW1aTVozQkdmOUZGTVdVWG5vTzlCeDg?oc=5\" target=\"_blank\">GTT Secures Six LNGC",
+    "sources": [
+      {
+        "name": "samsung_heavy",
+        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9Na3dpVTJXZDE0cV94aHd4cUZLaDVYUDNUblBMLXRBbmxuZjNqU2YyN2NNcDFZTWxNcW1aTVozQkdmOUZGTVdVWG5vTzlCeDg?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "unknown-2026-04-24-001",
     "date": "2026-04-24",
     "companies": [],
@@ -68,6 +104,60 @@
     "sources": []
   },
   {
+    "id": "samsung_heavy-2026-04-24-007",
+    "date": "2026-04-24",
+    "companies": [
+      "samsung_heavy"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Samsung Heavy Industries Launches Offshore Data Centers to Target Global Market - 아시아경제",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTE1ST01PMGx1dVQtN09ZZEVwTnVxQVBIb1FrMVMybEtqdUFrNlc1d180blFiYXpPaWM3Nm5wZTUxc0JmYjNlaDlXdFlVWlNacHNDZE9jbDktYzhsTHlKcFh0d3g0dmNSS1RXMHVKX3hiMA",
+    "sources": [
+      {
+        "name": "samsung_heavy",
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1ST01PMGx1dVQtN09ZZEVwTnVxQVBIb1FrMVMybEtqdUFrNlc1d180blFiYXpPaWM3Nm5wZTUxc0JmYjNlaDlXdFlVWlNacHNDZE9jbDktYzhsTHlKcFh0d3g0dmNSS1RXMHVKX3hiMA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "cosco-2026-04-24-008",
+    "date": "2026-04-24",
+    "companies": [
+      "cosco"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Cosco Shipping Car Carriers and UECC form strategic partnership - Seatrade Maritime News",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxNTnZkQlhTYmJzWHhySFFEWWVQU2xTODhSODlmaXo5Q05YOVdaQVhPTGdKNC1scFNPZVBEWDI5LWpyRVBjVFRWZ0kxdFhjT2hSNzNqMEowYVEzX1hMUU1rMm5LZmxHWXpSYXZXV05xR0",
+    "sources": [
+      {
+        "name": "cosco",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNTnZkQlhTYmJzWHhySFFEWWVQU2xTODhSODlmaXo5Q05YOVdaQVhPTGdKNC1scFNPZVBEWDI5LWpyRVBjVFRWZ0kxdFhjT2hSNzNqMEowYVEzX1hMUU1rMm5LZmxHWXpSYXZXV05xR0doTUNMVmZuZ25JZ0x2SGN1VWdad2RFOTRXWUpvRkxNR0wweWtKWl8zcHhGcFV5ek5FRDEwRmhGa0xiU1NSWXRHZTBTTHpTRGhzOXktV3dn?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "star_bulk-2026-04-24-009",
+    "date": "2026-04-24",
+    "companies": [
+      "star_bulk"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Star Bulk Carriers (NASDAQ:SBLK) Upgraded by Zacks Research to Strong-Buy Rating - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxOanlxNU9HNGpoNjNLTFlEYTJkS3paSnZNT3c2dnRkWnRyZTdQQkNYZnY5cFdFbVV4RTJVUnJzVDZqdlF5aEpJaEhIWGlheVVrNnFZNXpmLXcyaUs5dEpjNTB3QmN0T2VIUEhvUl9iSV",
+    "sources": [
+      {
+        "name": "star_bulk",
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOanlxNU9HNGpoNjNLTFlEYTJkS3paSnZNT3c2dnRkWnRyZTdQQkNYZnY5cFdFbVV4RTJVUnJzVDZqdlF5aEpJaEhIWGlheVVrNnFZNXpmLXcyaUs5dEpjNTB3QmN0T2VIUEhvUl9iSVMteXZTRGJXYmZib1FTNFhfU3RYQVpJaHc0c1hiN1NERFdkOGVDS0FUVUxlbzFyY05UQnBEUm95TWxRT3FFQWJRUzE5NmNSUG8zeUdDOVhLSzU1SFItb05YT0RhOA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "unknown-2026-04-23-002",
     "date": "2026-04-23",
     "companies": [],
@@ -94,6 +184,60 @@
     "sources": []
   },
   {
+    "id": "cssc-2026-04-23-004",
+    "date": "2026-04-23",
+    "companies": [
+      "cssc"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "China CSSC Rises After Securing USD1.2 Billion Order for 12 Container Ships - Yicai Global",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxPTnBESEJ6M2ZPeWRWSDBZbjI2QzV2SHpWQW9OUVo3UUVNeDJZQkpFZlRfdHZ3YVZlbGJINUpCYlJ3QWNBNFpFYmQ0MlN5bHVRdDc0MmVoQ0RPTVgzeTF2MVdIczkzbFVsUk9WY0VuST",
+    "sources": [
+      {
+        "name": "cssc",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPTnBESEJ6M2ZPeWRWSDBZbjI2QzV2SHpWQW9OUVo3UUVNeDJZQkpFZlRfdHZ3YVZlbGJINUpCYlJ3QWNBNFpFYmQ0MlN5bHVRdDc0MmVoQ0RPTVgzeTF2MVdIczkzbFVsUk9WY0VuSTJOUC1GQmRMaFJNOS1XN0V4NUN2X3FVQnBJOGZOTVN3b0ZmTy1mdFQydExPdGdGMEh3c2trT3BEZ29vdG1rT1JrNkd2VHFKQQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "cosco-2026-04-23-005",
+    "date": "2026-04-23",
+    "companies": [
+      "cosco"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Foton launches ocean freight joint venture with COSCO Shipping - Automotive Logistics",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwJBVV95cUxNZzNtak53alczM0UwUWdQUXozcHpnaXlEYm9vV0UzN21YNm1BU3BJc3ZpOEE1MjJHaHZKcGRiZDl2Y0gwUmRTRURzZnJiY3NSMlh2aGVLYXdQNWRBOVR4bVlneDNmc2hnbEFCMThVOH",
+    "sources": [
+      {
+        "name": "cosco",
+        "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxNZzNtak53alczM0UwUWdQUXozcHpnaXlEYm9vV0UzN21YNm1BU3BJc3ZpOEE1MjJHaHZKcGRiZDl2Y0gwUmRTRURzZnJiY3NSMlh2aGVLYXdQNWRBOVR4bVlneDNmc2hnbEFCMThVOHF3b2FnVVl6N3JIbHROQ2k1N0VhZmVHejBFSk9mSEVkcGl6MGxydmpZU2hLY3I3czN2WHA4eGliVEZiWFc2ZmVFUTcza3BDWkhIN2hzblFTRExveUVGYlVOVGFNUWhLTnlRUE45b05DbS1aWkhwY2d6S3gtMHNFRTQyYXF6d1dnTTRGLWRZRnh4al9jZkZYOFp4RkJ5R2QyQ3V6N3lyaXNV?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "star_bulk-2026-04-23-006",
+    "date": "2026-04-23",
+    "companies": [
+      "star_bulk"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Investors heavily search Star Bulk Carriers Corp. (SBLK): Here is what you need to know - MSN",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxPMHFaSWM4VTVIQmkwVGtmX2NkTFFRbmtZUV9Zc0dkZDZSQ3N3RFNJN0UxQ3JVN3M5UnNMRnhrVmF2UnI1dFA5LUYtdk9Vd1JFV2U4VnJVVEl3aUVYNVp0a1B3aWlzVTJZYmNTQjBrWD",
+    "sources": [
+      {
+        "name": "star_bulk",
+        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPMHFaSWM4VTVIQmkwVGtmX2NkTFFRbmtZUV9Zc0dkZDZSQ3N3RFNJN0UxQ3JVN3M5UnNMRnhrVmF2UnI1dFA5LUYtdk9Vd1JFV2U4VnJVVEl3aUVYNVp0a1B3aWlzVTJZYmNTQjBrWDJjWi1wNnlJNlNEYVFBbkR2a3lfMHAzYlRvUXBhUzdTdmNLck1VVlZ2NnhaNGFXdEl3ZTk5OUg0NG5sTS14VDBRWnVRWXI4UURPWUxaWnU0NzZjbVI5Ty1vcWYxbG1YQmFGVEpJ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "unknown-2026-04-22-003",
     "date": "2026-04-22",
     "companies": [],
@@ -118,6 +262,60 @@
     "sources": []
   },
   {
+    "id": "hd_korea-2026-04-22-003",
+    "date": "2026-04-22",
+    "companies": [
+      "hd_korea"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "HD Korea Shipbuilding Secures KRW515 Billion Order; Shares Jump 7% - Moomoo",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxPSmUtTGpOVThnTEtkMXZwdG03NWlDS0J1d1piRGswT0R1V1I1Qkk4bm9YLXpQZmVWcEJrN2x1RGh3NjFxRXZFa083MVdyd2NQQnBaOHZNVWhnYkFPYnpJMVBJUGtDc3NsTWF4amtBMl",
+    "sources": [
+      {
+        "name": "hd_korea",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPSmUtTGpOVThnTEtkMXZwdG03NWlDS0J1d1piRGswT0R1V1I1Qkk4bm9YLXpQZmVWcEJrN2x1RGh3NjFxRXZFa083MVdyd2NQQnBaOHZNVWhnYkFPYnpJMVBJUGtDc3NsTWF4amtBMl9CTkdFQVZ5YmlQcHhPcFNaZXpSSXNrQzNwMXhmV2l2XzBZTDE3Q2ZrUHRLajQ0NXNUTHRuSVdlQWR0UQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "hd_korea-2026-04-22-004",
+    "date": "2026-04-22",
+    "companies": [
+      "hd_korea"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "HD Korea Shipbuilding Secures KRW515 Billion Order; Shares Jump 7% - marketscreener.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxQTzFJZTlfTGhWdTcxeFluckxwaVgwQ0JMcGFrRGJpQUxqeTFwRERPU2VYZ0tOdF94dWhvV25ORnJQMEhTUXo2dGt5bXREZlg2OGtEaXNWbzBZMGRYcVpCSXBHV3F0UUtIV3BWc1lHTE",
+    "sources": [
+      {
+        "name": "hd_korea",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQTzFJZTlfTGhWdTcxeFluckxwaVgwQ0JMcGFrRGJpQUxqeTFwRERPU2VYZ0tOdF94dWhvV25ORnJQMEhTUXo2dGt5bXREZlg2OGtEaXNWbzBZMGRYcVpCSXBHV3F0UUtIV3BWc1lHTE9RazZNazNZYm1BSmRjWEhfQ1BHWVRpeFktTnZ5M1ZlMVY1Zm9kRmlITHVOOEF5OVdmT0RNZy1KRmszV1NpTzZjZjkwQm44aHBt?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "star_bulk-2026-04-22-005",
+    "date": "2026-04-22",
+    "companies": [
+      "star_bulk"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Star Bulk Carriers: Updated Dividend Policy And Macro Tailwinds Triggered A Buy (Upgrade) - Seeking Alpha",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxNSWpvWWg0MUlmanUzTGZiVVFlaFQzb1NNZ09DN04wTEJndnBsVjFFRDRCUVg3a1ktNG5IRGlfbUlJejJiMTFRaEVsR1QxNkFmQnZHS3ZqMTRxT3dqZFM2V010ay05WC0tUGhkekhndj",
+    "sources": [
+      {
+        "name": "star_bulk",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNSWpvWWg0MUlmanUzTGZiVVFlaFQzb1NNZ09DN04wTEJndnBsVjFFRDRCUVg3a1ktNG5IRGlfbUlJejJiMTFRaEVsR1QxNkFmQnZHS3ZqMTRxT3dqZFM2V010ay05WC0tUGhkekhndjZGV1ZTcnB5T0ptUDZsS2paVVdja25tRHh2eG45d181YzdUWEhfekphdWZvLUpQOGxFVElBQnpvRXozWE5iUVZub1czdDNyMmJxTU02MjdDakU?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "unknown-2026-04-21-001",
     "date": "2026-04-21",
     "companies": [],
@@ -140,6 +338,60 @@
     "title": "Trans-Pacific container rates rise, but there’s a catch",
     "summary": "<p>Persian Gulf vessel traffic still at a trickle as the U.S. presses a blockade of the Strait of Hormuz.</p>\n<p>The post <a href=\"https://www.freightwaves.com/news/trans-pacific-container-rates-rise-",
     "sources": []
+  },
+  {
+    "id": "hd_korea-2026-04-21-003",
+    "date": "2026-04-21",
+    "companies": [
+      "hd_korea"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "HD Korea Shipbuilding to sell shipyard construction methods globally - MSN",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAJBVV95cUxNRnBtbHprdWZnbENnMGtjZlk0dEtfSlpaeW5ab25ralppQlZaNDFiZzBMVjV1cDNHQnpwV21qdV9TNlBSQTNRQWxoZDllYmdGZVJBT1Y1R1Faa0dVSmlMenFuSXJhb2lNdzlaU1lHbT",
+    "sources": [
+      {
+        "name": "hd_korea",
+        "url": "https://news.google.com/rss/articles/CBMiwAJBVV95cUxNRnBtbHprdWZnbENnMGtjZlk0dEtfSlpaeW5ab25ralppQlZaNDFiZzBMVjV1cDNHQnpwV21qdV9TNlBSQTNRQWxoZDllYmdGZVJBT1Y1R1Faa0dVSmlMenFuSXJhb2lNdzlaU1lHbTJ2Vm5LdGlkbkJabUxBVVlWbFVKRmNRSUlxZ25taHlkVlRtbkpjSWdGQkJENU40RWJ4ZG5XZ1BfRmJPOVluY2tVZDJPYWEta0Z4Ti1VQTdicTRxS0hQZk40TXZZUGg2aE1ZTkxzMm5zenVSdEY2VkhLaU5xLXhlZjA3ZWo5OHNEMlhaem1tc2t2VmxRNThraV9IaElESjU3a3pGNkVaUWlnWmE4UDRYYVdEZFpUM2tzVU1pQ2M5SUZibmRmbGZ4TENralNROVBxNmFVSXNFdjEtMg?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "hanwha_ocean-2026-04-21-004",
+    "date": "2026-04-21",
+    "companies": [
+      "hanwha_ocean"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Hanwha Ocean Strengthens Ties with Canada’s Irving Shipbuilding for Naval Capability - imarinenews.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiT0FVX3lxTE13OG90V2hrVkgwWFlDS0dxSndZV2tnVGV2bjVPaTFmSDhFTWtPQ0ZYVlNWSElwMFdHM2VoaGxGR3ZlYUphTFE2TGE0TWM1eTA?oc=5\" target=\"_blank\">Hanwha Ocean Strengt",
+    "sources": [
+      {
+        "name": "hanwha_ocean",
+        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE13OG90V2hrVkgwWFlDS0dxSndZV2tnVGV2bjVPaTFmSDhFTWtPQ0ZYVlNWSElwMFdHM2VoaGxGR3ZlYUphTFE2TGE0TWM1eTA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "wan_hai-2026-04-21-005",
+    "date": "2026-04-21",
+    "companies": [
+      "wan_hai"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "WAN HAI Lines Fleet Adopts EVERCOOL Heat Shield Coating for Crew Welfare & Efficiency - News and Statistics - IndexBox",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxQbGVNOWhwZ19PNU9XRWdCeWY3czBoYWZmTW50cU9VNWVYcXRfNVJzM2lQZmZubU94MmtKLU0wbzczaFQzUjVYSmI1aVlzVFpCSDFYTTIyM3ZSUnJzMVBxazlIbng0QmdjaTNXUE5mUz",
+    "sources": [
+      {
+        "name": "wan_hai",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQbGVNOWhwZ19PNU9XRWdCeWY3czBoYWZmTW50cU9VNWVYcXRfNVJzM2lQZmZubU94MmtKLU0wbzczaFQzUjVYSmI1aVlzVFpCSDFYTTIyM3ZSUnJzMVBxazlIbng0QmdjaTNXUE5mUzQ3c1h1YzlaeHVkYXBpNGNsdXVGejM2cGoxSFZxU213U2R2WnRPR0ZSbEZBYkUwVE9y?oc=5",
+        "type": "rss"
+      }
+    ]
   },
   {
     "id": "unknown-2026-04-20-001",
@@ -177,6 +429,78 @@
     "title": "SITC Posts Higher Q1 Shipping Volumes but Faces Lower Freight Rates - TipRanks",
     "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxNdzYxeUhPUXBvZ2RJZ292Q3Y3RFZOODZ0UDYxb3pWOE00WUUxSm94X3I5ME9wbXpjQ2JVM2xjU3JFaGJ6dmNDRUlYNm1FZlBfVFlfMU4yZFhiRnF2Vk5EVFhZUEFKMVhubDIyWVJQRW",
     "sources": []
+  },
+  {
+    "id": "samsung_heavy-2026-04-20-004",
+    "date": "2026-04-20",
+    "companies": [
+      "samsung_heavy"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Gtt Receives Samsung Heavy Industries Order For Tank Design Of Two New LNG Carriers - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi6AFBVV95cUxNZXg1eHFpamZEZGRGczRtaW5BWXZXTWtsNVFnRmoxSE9wUnRmWHk1eTQtX0lfUm5uNkh4eF9uVXNfMVgxNHVNUlZFbWpNb3BYdUtVZE5FXzFFcndQZ2liWkNUdlozaUszdFFSZEFTTn",
+    "sources": [
+      {
+        "name": "samsung_heavy",
+        "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNZXg1eHFpamZEZGRGczRtaW5BWXZXTWtsNVFnRmoxSE9wUnRmWHk1eTQtX0lfUm5uNkh4eF9uVXNfMVgxNHVNUlZFbWpNb3BYdUtVZE5FXzFFcndQZ2liWkNUdlozaUszdFFSZEFTTndubVRSVzJFcnNhYmpENVp3a0ZYWEUwMWZpRDFZNzVNTU43cWZSdGpxOE9BRkl5b2dCejd2UGN5WnBaMFB6WjN2LXZNV1ZKbnZwVDk5aW5HTmo2bG1vci15X3FodVY2WE5qZUpBeXFUZFRTbnRMTm5WQ0FxdDZ5NUhh?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "samsung_heavy-2026-04-20-005",
+    "date": "2026-04-20",
+    "companies": [
+      "samsung_heavy"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "GTT New Order from Samsung Heavy Industries for Tank Design of LNG Carriers - The Maritime Executive",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxNWXdZSGZOLUdiRFJWM0tUTGQ3NDVfbmJoSzdYSXIzaF9XMTJZb1JFM0pNYjY4NWhXbGJjdXZOQWgtbFVpRXEwNVNUeFFxRGZYdkZKeXpFSXRMTDNCUzF1TWl3ZDhuY0xpcEJZZ3B0X0",
+    "sources": [
+      {
+        "name": "samsung_heavy",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNWXdZSGZOLUdiRFJWM0tUTGQ3NDVfbmJoSzdYSXIzaF9XMTJZb1JFM0pNYjY4NWhXbGJjdXZOQWgtbFVpRXEwNVNUeFFxRGZYdkZKeXpFSXRMTDNCUzF1TWl3ZDhuY0xpcEJZZ3B0X0I1djM3T1FBemNHMVFSR1VWdXNWbkxMc1RFV0ZKX1JwSGx6WG5GTndjMkhzMUtkVDNuVk9VTFFEQmhBOGhGQ09ySHoxcnRmQjQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "yang_ming-2026-04-20-006",
+    "date": "2026-04-20",
+    "companies": [
+      "yang_ming"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Yang Ming Marine Transport stock (TW0002609005): Why container shipping volatility now tests long-te - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxNdFg1SGxxbFZBZmtIT1NnRldlZGJPSzRqNXhFSGdsV21wSjVfOXlBaEJIeDNGNzR4eEtGT2s1Rlc4TkRCbWVnd213bEcwbHZYODVnUEtRcmxLLTBFelp2RTZDcFBMS0RsOEphQXpXX2",
+    "sources": [
+      {
+        "name": "yang_ming",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNdFg1SGxxbFZBZmtIT1NnRldlZGJPSzRqNXhFSGdsV21wSjVfOXlBaEJIeDNGNzR4eEtGT2s1Rlc4TkRCbWVnd213bEcwbHZYODVnUEtRcmxLLTBFelp2RTZDcFBMS0RsOEphQXpXX2ZnMzRYWk54N1dWOVp6NjhCenMyY1JBWTRsd1lCTkhtWl9wSHlXZFFBSk5QWm5kVzNmc0NaQVEwNHppRHppM0drWUVmU3Q3SHFQSm9sYzJTZw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "evergreen-2026-04-19-001",
+    "date": "2026-04-19",
+    "companies": [
+      "evergreen"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Evergreen Marine Corp stock (TW0002603008): Is container shipping recovery strong enough for sustain - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxQZ1l4OEF4QTYwOXNOUUlIU2pnWEFIcjk2RjBaNm10V2pnTHBMb3lqLUdvdWpHR2Y5aURmdjM1SUpQX0VGdkhIbG5HZzNiNXdjVmZIbkVITUVpbnZ0V3otSjI0ZEtiUTRNZ09HSzRYYW",
+    "sources": [
+      {
+        "name": "evergreen",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQZ1l4OEF4QTYwOXNOUUlIU2pnWEFIcjk2RjBaNm10V2pnTHBMb3lqLUdvdWpHR2Y5aURmdjM1SUpQX0VGdkhIbG5HZzNiNXdjVmZIbkVITUVpbnZ0V3otSjI0ZEtiUTRNZ09HSzRYYW5HRWg4alM1Mm1PbzZlekpPV01FMmFodktPWVo0R2kxMTFnT29DbkpmVENGdjlCcEJrdFZrZHNNM0tPbVZlcG50LUdGdVgtTnBmY2h1Z2ljMl80VWc?oc=5",
+        "type": "rss"
+      }
+    ]
   },
   {
     "id": "cosco-2026-04-17-002",

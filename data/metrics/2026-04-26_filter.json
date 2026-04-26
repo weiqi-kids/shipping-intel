@@ -1,10 +1,16 @@
 {
-  "total_raw": 0,
-  "dup_title": 0,
+  "total_raw": 322,
+  "dup_title": 51,
   "no_date": 0,
-  "too_old": 0,
-  "gate1_fail": 0,
-  "gate2_fail": 0,
+  "too_old": 179,
+  "gate1_fail": 83,
+  "gate2_fail": 9,
   "passed": 0,
-  "gate2_samples": []
+  "gate2_samples": [
+    "HD Korea Shipbuilding stock (KR7010620003): Why does its shipbuilding dominance matter more now for ",
+    "French firm gets more work with Samsung Heavy Industries for LNG vessel pair - Offshore-Energy.biz",
+    "Evergreen Marine's Unit Buys Containers From Licht, Rosemary Shipping For $41.7 Mln - TradingView",
+    "Evergreen Marine's unit buys containers from Licht, Rosemary Shipping for $41.7 mln - marketscreener",
+    "Evergreen Marine Corp stock (TW0002603008): Is container shipping's cycle shift now testing its prem"
+  ]
 }
