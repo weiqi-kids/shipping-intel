@@ -1,5 +1,25 @@
 [
   {
+    "id": "hanwha_ocean-2026-04-25-001",
+    "date": "2026-04-25",
+    "companies": [
+      "hanwha_ocean"
+    ],
+    "topics": [
+      "shipbuilding_orders"
+    ],
+    "impact": "neutral",
+    "title": "JHI Steamship Orders VLCC from Hanwha Ocean - imarinenews.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiT0FVX3lxTE4wNGp6MHFMN0M5RWVYMl9URkUtSV9tN0lkYXU0YWhZMDVKRWo0cm9yYThGS2Q2SzdId1B6WGsxZTAta1RGQXhWd28wd3dGaVU?oc=5\" target=\"_blank\">JHI Steamship Orders",
+    "sources": [
+      {
+        "name": "hanwha_ocean",
+        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE4wNGp6MHFMN0M5RWVYMl9URkUtSV9tN0lkYXU0YWhZMDVKRWo0cm9yYThGS2Q2SzdId1B6WGsxZTAta1RGQXhWd28wd3dGaVU?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "unknown-2026-04-24-001",
     "date": "2026-04-24",
     "companies": [],
