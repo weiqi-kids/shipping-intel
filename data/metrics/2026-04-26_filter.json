@@ -1,11 +1,11 @@
 {
-  "total_raw": 352,
-  "dup_title": 44,
+  "total_raw": 684,
+  "dup_title": 93,
   "no_date": 0,
-  "too_old": 177,
-  "gate1_fail": 116,
-  "gate2_fail": 10,
-  "passed": 5,
+  "too_old": 354,
+  "gate1_fail": 136,
+  "gate2_fail": 12,
+  "passed": 89,
   "gate2_samples": [
     "French firm gets more work with Samsung Heavy Industries for LNG vessel pair - Offshore-Energy.biz",
     "Defense firms form united front against Hanwha's dominance - The Korea Times",

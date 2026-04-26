@@ -1,77 +1,78 @@
 {
   "hd_korea": {
-    "earliest": "2021-11-12",
+    "earliest": "2021-08-17",
     "latest": "2026-04-24",
-    "count": 1086
+    "count": 1144
   },
   "samsung_heavy": {
-    "earliest": "2021-11-12",
+    "earliest": "2021-08-17",
     "latest": "2026-04-24",
-    "count": 1086
+    "count": 1144
   },
   "hanwha_ocean": {
-    "earliest": "2021-11-12",
+    "earliest": "2021-08-17",
     "latest": "2026-04-24",
-    "count": 1086
+    "count": 1144
   },
   "cssc": {
-    "earliest": "2021-11-12",
+    "earliest": "2021-08-16",
     "latest": "2026-04-24",
-    "count": 1078
+    "count": 1135
   },
   "evergreen": {
-    "earliest": "2021-11-16",
+    "earliest": "2021-08-18",
     "latest": "2026-04-24",
-    "count": 1073
+    "count": 1134
   },
   "yang_ming": {
-    "earliest": "2021-11-16",
+    "earliest": "2021-08-18",
     "latest": "2026-04-24",
-    "count": 1073
+    "count": 1134
   },
   "wan_hai": {
-    "earliest": "2021-11-16",
+    "earliest": "2021-08-18",
     "latest": "2026-04-24",
-    "count": 1073
+    "count": 1134
   },
   "maersk": {
-    "earliest": "2021-11-17",
+    "earliest": "2021-08-19",
     "latest": "2026-04-24",
-    "count": 1109
+    "count": 1173
   },
   "hapag": {
-    "earliest": "2021-11-15",
+    "earliest": "2021-08-17",
     "latest": "2026-04-24",
-    "count": 1131
+    "count": 1195
   },
   "zim": {
-    "earliest": "2021-11-12",
+    "earliest": "2021-08-16",
     "latest": "2026-04-24",
-    "count": 1115
+    "count": 1178
   },
   "cosco": {
-    "earliest": "2021-11-15",
+    "earliest": "2021-08-17",
     "latest": "2026-04-24",
-    "count": 1090
+    "count": 1150
   },
   "u_ming": {
-    "earliest": "2021-11-16",
+    "earliest": "2021-08-18",
     "latest": "2026-04-24",
-    "count": 1073
+    "count": 1134
   },
   "wisdom": {
-    "earliest": "2021-11-16",
+    "earliest": "2021-08-18",
     "latest": "2026-04-24",
-    "count": 1073
+    "count": 1134
   },
   "star_bulk": {
-    "earliest": "2021-11-12",
+    "earliest": "2021-08-16",
     "latest": "2026-04-24",
-    "count": 1115
+    "count": 1178
   },
   "etf_sea": {
     "earliest": "2022-01-20",
     "latest": "2026-04-24",
-    "count": 1069
+    "count": 1069,
+    "history_complete": true
   }
 }

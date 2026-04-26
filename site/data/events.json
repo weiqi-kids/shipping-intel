@@ -1,5 +1,95 @@
 [
   {
+    "id": "unknown-2026-04-26-001",
+    "date": "2026-04-26",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "HD Hyundai Wins First Domestic Contract for U.S. Office of Naval Research Vessel Performance Improvement Project - 매일경제",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiU0FVX3lxTE43YVNXekNnS2ZOWmItTTJHQXJaRTFJNTNqekNUTjRHcU9pNXNRZGwyemFfSnVWRDR4NlN6bWItRVNGanhQQVpqaExYTkY4TS11Z1Fn?oc=5\" target=\"_blank\">HD Hyundai Wins",
+    "sources": [
+      {
+        "name": "hd_korea",
+        "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE43YVNXekNnS2ZOWmItTTJHQXJaRTFJNTNqekNUTjRHcU9pNXNRZGwyemFfSnVWRDR4NlN6bWItRVNGanhQQVpqaExYTkY4TS11Z1Fn?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-04-26-002",
+    "date": "2026-04-26",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "HD Hyundai wins first ONR warship R&D deals, deepens Korea–US defense ties - CHOSUNBIZ - Chosunbiz",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxOWVIyUTJnQkxNQ0dYVHd5WlZ3LU5zWEt0VW9sUkt2WkNROUpxbTZuREJPTjViZ2NmMzRRTmdpVml4Q0VweFgxdWFPbFlsQkh2VWRTeC1PWF9SWVJTcS1qZU9ySkhIYnZCRVo4allocn",
+    "sources": [
+      {
+        "name": "hd_korea",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOWVIyUTJnQkxNQ0dYVHd5WlZ3LU5zWEt0VW9sUkt2WkNROUpxbTZuREJPTjViZ2NmMzRRTmdpVml4Q0VweFgxdWFPbFlsQkh2VWRTeC1PWF9SWVJTcS1qZU9ySkhIYnZCRVo4allocnJGREdIMWJWbWxjdXJDVUZXUm9n0gGWAUFVX3lxTE15cEo0R25waUxDZWpyV1R0Q09oakcwLUFDaFYtVGprVHpoVHBmZWluOEduUWl2QXRWM1JBZzhoNm53ZXo2U3ZzcURyelo4aTBHX0FDNlJGR3VJQ2Jwbl9yVUlPbHVDd1hCQWo1VlBQUWQyMEhkdjVwOUl5bWlDcmlrdmczazdSdkxaeXpsQUJEQkVUeGpDdw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-04-26-003",
+    "date": "2026-04-26",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "US Says Navy Intercepted Iran-Linked Vessel in Arabian Sea",
+    "summary": "By&#160;Sam Kim and Tony Czuczka Apr 25, 2026 (Bloomberg) &#8211;US naval forces intercepted a sanctioned vessel in the Arabian Sea on Saturday as part of the Trump administration’s blockade of...",
+    "sources": [
+      {
+        "name": "gcaptain",
+        "url": "https://gcaptain.com/us-says-navy-intercepted-iran-linked-vessel-in-arabian-sea/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-04-26-004",
+    "date": "2026-04-26",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Iran War Leaves Seafarers Stranded In The Gulf",
+    "summary": "By Saurabh Sharma NEW DELHI, April 24 (Reuters)&#160;&#8211;&#160;Ankit Yadav, a seafarer from India, has been stuck on a boat at an inland Iranian port for about 2-1/2 weeks, surviving with...",
+    "sources": [
+      {
+        "name": "gcaptain",
+        "url": "https://gcaptain.com/iran-war-leaves-seafarers-stranded-in-the-gulf/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-04-26-005",
+    "date": "2026-04-26",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Trump cancels US envoy trip – ‘If they want to talk, all they have to do is call’",
+    "summary": "<p>CNBC reports:<br />\nPresident Donald Trump on Saturday said he has canceled plans to send U.S. special envoy Steve Witkoff and Jared Kushner to Pakistan after Iran’s chief negotiator left Islamabad",
+    "sources": [
+      {
+        "name": "loadstar",
+        "url": "https://theloadstar.com/trump-cancels-us-envoy-trip-if-they-want-to-talk-all-they-have-to-do-is-call/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "hanwha_ocean-2026-04-25-001",
     "date": "2026-04-25",
     "companies": [
@@ -51,6 +141,134 @@
       {
         "name": "samsung_heavy",
         "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9Na3dpVTJXZDE0cV94aHd4cUZLaDVYUDNUblBMLXRBbmxuZjNqU2YyN2NNcDFZTWxNcW1aTVozQkdmOUZGTVdVWG5vTzlCeDg?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "star_bulk-2026-04-25-004",
+    "date": "2026-04-25",
+    "companies": [
+      "star_bulk"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Jefferies Financial Group Upgrades Star Bulk Carriers (NASDAQ:SBLK) to Strong-Buy - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxQUGtzdzlsdmR5SFRLUEVFSUNIR1BtRzVaRE5YNE1BSlpZVjZIbEVycmNaeVBPeG5fekswSERJOWRBdkpqd0N3Ry1PLUNNSkVyc1dNdnJncGZzZk5kWFVCRk9WSW1kbmRKd0NFVmJBUz",
+    "sources": [
+      {
+        "name": "star_bulk",
+        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQUGtzdzlsdmR5SFRLUEVFSUNIR1BtRzVaRE5YNE1BSlpZVjZIbEVycmNaeVBPeG5fekswSERJOWRBdkpqd0N3Ry1PLUNNSkVyc1dNdnJncGZzZk5kWFVCRk9WSW1kbmRKd0NFVmJBUzhEam8wSUdFTy0xU0s4S0V6QURmeFAzLXJwbVk1N0pUMUgyYzhURlhTWWJCcWpNNjhZcjVRdnVrUE1qeDhtYi15eHZ3b0VuNnViRjV4cHJSUXRCSHg4NkhjLXg2c08?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-04-25-005",
+    "date": "2026-04-25",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Strait of Hormuz Remains Near-Empty With Just A Few Iran Ships Moving",
+    "summary": "By&#160;Prejula Prem and Julian Lee Apr 25, 2026 (Bloomberg) &#8211;The Strait of Hormuz remains largely empty of merchant ships, with only a few Tehran-linked vessels moving through the waterway, fol",
+    "sources": [
+      {
+        "name": "gcaptain",
+        "url": "https://gcaptain.com/strait-of-hormuz-remains-near-empty-with-just-a-few-iran-ships-moving/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-04-25-006",
+    "date": "2026-04-25",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "India Mulls Options On Iran Port Stake Before Sanctions Kick In",
+    "summary": "By&#160;Sudhi Ranjan Sen and Mihir Mishra Apr 25, 2026 (Bloomberg) &#8211;India is considering various options regarding its stake in the Chabahar port in Iran, including temporarily divesting from it",
+    "sources": [
+      {
+        "name": "gcaptain",
+        "url": "https://gcaptain.com/india-mulls-options-on-iran-port-stake-before-sanctions-kick-in/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-04-25-007",
+    "date": "2026-04-25",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Disney and Port of San Diego Extend Homeport Through At Least 2031",
+    "summary": "\n                Disney Cruise Line and the Port of San Diego today announced a new agreement through at least 2031, which will approximately double the number of Disn...\n            ",
+    "sources": [
+      {
+        "name": "maritime_executive",
+        "url": "https://maritime-executive.com/article/disney-and-port-of-san-diego-extend-homeport-through-at-least-2031",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-04-25-008",
+    "date": "2026-04-25",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Birdon America and Mythos AI Jointly Pursuing U.S. Navy MUSV Opportunities",
+    "summary": "\n                Birdon America and Mythos AI yesterday announced the signing of a memorandum of understanding at Sea-Air-Space 2026 to collaborate on the development...\n            ",
+    "sources": [
+      {
+        "name": "maritime_executive",
+        "url": "https://maritime-executive.com/article/birdon-america-and-mythos-ai-jointly-pursuing-u-s-navy-musv-opportunities",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-04-25-009",
+    "date": "2026-04-25",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "ABS & Fleet Robotics to Bring Autonomous Robotic Systems to Maritime",
+    "summary": "\n                ABS and Fleet Robotics signed a memorandum of understanding (MOU) to collaborate on autonomous robotic systems for continuous hull cleaning and inspec...\n            ",
+    "sources": [
+      {
+        "name": "maritime_executive",
+        "url": "https://maritime-executive.com/article/abs-fleet-robotics-to-bring-autonomous-robotic-systems-to-maritime",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-04-25-010",
+    "date": "2026-04-25",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Phi Earth and ABS Sign MOU at Singapore Maritime Week",
+    "summary": "\n                Phi Earth Technologies Pte. Ltd. has signed a Memorandum of Understanding (MOU) with the American Bureau of Shipping (ABS), a leading global maritime...\n            ",
+    "sources": [
+      {
+        "name": "maritime_executive",
+        "url": "https://maritime-executive.com/article/phi-earth-and-abs-sign-mou-at-singapore-maritime-week",
         "type": "rss"
       }
     ]
@@ -213,6 +431,694 @@
     ]
   },
   {
+    "id": "unknown-2026-04-24-013",
+    "date": "2026-04-24",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "HD Hyundai drives Korea’s shipbuilding future with digital twins, autonomy, AI robots - CHOSUNBIZ - Chosunbiz",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxQb3lIVkl5UWVKcnM5azJOb2p6Z0UzTUttaFFjWmNPMGNwN1lPZnVpUGVFMHlwT3BCajMtVGRmdmQ4YXJpc25FVzloNG9hQ196TXNjWVpfdVRPQ0sxZl8zWVluREUyVkFUY1oyUmppQi",
+    "sources": [
+      {
+        "name": "hd_korea",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQb3lIVkl5UWVKcnM5azJOb2p6Z0UzTUttaFFjWmNPMGNwN1lPZnVpUGVFMHlwT3BCajMtVGRmdmQ4YXJpc25FVzloNG9hQ196TXNjWVpfdVRPQ0sxZl8zWVluREUyVkFUY1oyUmppQi1uSzVCUUV4cWtHRmlLMUM3N3RR0gGWAUFVX3lxTFB0RC16anhDYzF4NjV3MVh1d0tCNXhBRE9LNF9HeXRGVEJUT05TQlJkM01wT09JMzJYa3o3Rl8yQlotS2ZmWVlQNlFudF9nY0RTUy1XWVlhTnRJVXNBUkpJOHBBMnFlcWZSLVllMlNfY01SQ25UeERDbEVDWEt2XzIwQy1iSDJOd3FlTHkzV003NTd3Qmdsdw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "samsung_heavy-2026-04-24-014",
+    "date": "2026-04-24",
+    "companies": [
+      "samsung_heavy"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "French firm gets more work with Samsung Heavy Industries for LNG vessel pair - Offshore-Energy.biz",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxPWm5aWHNSOG9kY0MtZDI4MkNFUlJaaVBQcDJqZlNSWEVsazM0azFVWE04QnczOURTMUIwVmVMamVkM0d1c3NyYXFfVDE4NDJ0UmpLaXdNVmpYZVo2Q2N5b1Q5SE1ScXlXUkdneTJ1RW",
+    "sources": [
+      {
+        "name": "samsung_heavy",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPWm5aWHNSOG9kY0MtZDI4MkNFUlJaaVBQcDJqZlNSWEVsazM0azFVWE04QnczOURTMUIwVmVMamVkM0d1c3NyYXFfVDE4NDJ0UmpLaXdNVmpYZVo2Q2N5b1Q5SE1ScXlXUkdneTJ1RW5aYXBmaWxPTlR3TVUwUmktRnNDRGhHNk1iYlN4T2NETkNvR053OFdjLTVxQkpCNV9oWDNSMmZaVlRzMDlYemc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-04-24-015",
+    "date": "2026-04-24",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Samsung Heavy advances US floating data centers with approvals and partnerships - CHOSUNBIZ - Chosunbiz",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxPZGp1VHlPalNtQTNqaFFFQjZIT005M01wS0tEcW5iMWFWbHQ1MkFxZXdyUVEyaUl0SFlRUnYybmJwV1lVS1FGMlZNUVlPVVdGNGFPaENsUHhkYThYbFJLcTJaVkVqeExkVTJ3cTJjRl",
+    "sources": [
+      {
+        "name": "samsung_heavy",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPZGp1VHlPalNtQTNqaFFFQjZIT005M01wS0tEcW5iMWFWbHQ1MkFxZXdyUVEyaUl0SFlRUnYybmJwV1lVS1FGMlZNUVlPVVdGNGFPaENsUHhkYThYbFJLcTJaVkVqeExkVTJ3cTJjRlRQQXBLeEdVNVpDU0dLUzRxcllR0gGWAUFVX3lxTE94NGtWdVlIZFZWSE83UjNTeVJBcHhOTzRFRFdJa1Uwc0xUVlJya2FOSXp3V1lTalBNTmJTLWhYUE5WbkVldHVxZmVoMDV3a0pBOE00Y19yZHFmeU1VS00yUmZUQTdodFNqUlpmbmZHbUtHU0hWLWpZUEYyLWFGRmlQbXRVSF8yekFDY0dtLU96cy1HM3F6Zw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "hanwha_ocean-2026-04-24-016",
+    "date": "2026-04-24",
+    "companies": [
+      "hanwha_ocean"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Cohort and Hanwha Ocean MoU for RTN frigate programme - MSN",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2gJBVV95cUxOVS1VbjZEUmFmb041aUxRWTVLeTVnWGR0bk8zeEUzWnhsSkxCOHlucWhyZzJCWjdrSE0zTS1vVUlpOXowS0Q3ZWFBQm1ZWmw0bVZUQkt1SkpUWmJUQV9XU1JzQloyUkJwSHh3bUI0Nm",
+    "sources": [
+      {
+        "name": "hanwha_ocean",
+        "url": "https://news.google.com/rss/articles/CBMi2gJBVV95cUxOVS1VbjZEUmFmb041aUxRWTVLeTVnWGR0bk8zeEUzWnhsSkxCOHlucWhyZzJCWjdrSE0zTS1vVUlpOXowS0Q3ZWFBQm1ZWmw0bVZUQkt1SkpUWmJUQV9XU1JzQloyUkJwSHh3bUI0NmxIbUNYVnpsR2drVGhIclgtVkhrLU4xak04QU5qeGRValVQdHNyTG9Mdk01c3dXR1EtelowSDNKV1VxZEY0RWxBSWZsNmlHdXlqbWtkeGJ3OFZQM01FVTBHNm92c01nUndGc0RtXzdPbTU5czBiTmxBUVJpbkQ4S0phNFctbExDT1pMQ1JidUoyNjFtNG0xVmpuakEtekpzcDhoVHBxNHh2bzVxRzNZLXlCWDRrWHppSXU1X2xuQl9fWlVMTmh5YXNzbWcwcno1dVdyeUwxS3dERGtmdFBtQ2tFdlVNQlJiVE9XWF9JUU8weDlB?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "star_bulk-2026-04-24-017",
+    "date": "2026-04-24",
+    "companies": [
+      "star_bulk"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Jefferies initiates Star Bulk Carriers stock with buy rating - Investing.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxPdDFTbnBJdkdERld6TUYtMGNacFk5VXRGOTlYLVFUY2dlMHh4NDU2cmNNU1VwSExSLW9BQUFUQ05vUzBNWWF0aXduX2p6UkxLZjBVOUgycWdKYVFuck5CMi1WWVpQbW5ZSmdhQ1kyc1",
+    "sources": [
+      {
+        "name": "star_bulk",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPdDFTbnBJdkdERld6TUYtMGNacFk5VXRGOTlYLVFUY2dlMHh4NDU2cmNNU1VwSExSLW9BQUFUQ05vUzBNWWF0aXduX2p6UkxLZjBVOUgycWdKYVFuck5CMi1WWVpQbW5ZSmdhQ1kyc191V2FWUmZZNlp1Nm1rX2JCOXNLUnJYNW42Z2FyODNQRHNYRjVlLU5XTTFCNEQyN0R2SmVCaGNEbERERkE2UVBlWmlya3ZkZm1KMWdyZQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-04-24-018",
+    "date": "2026-04-24",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "U.S. Targets Major Chinese Refinery and Ships in Escalating Crackdown on Iran’s Oil Trade",
+    "summary": "The Trump administration on Friday escalated its “Economic Fury” campaign against Tehran, targeting one of China’s largest independent refineries alongside a new wave of sanctions on vessels and shipp",
+    "sources": [
+      {
+        "name": "gcaptain",
+        "url": "https://gcaptain.com/u-s-targets-major-chinese-refinery-and-ships-in-escalating-crackdown-on-irans-oil-trade/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-04-24-019",
+    "date": "2026-04-24",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Damen and UK Dredging sign contract for advanced TSHD",
+    "summary": "Damen Shipyards Group and Associated British Ports (ABP), the UK’s largest port operator, have signed a contract for the construction of a new Trailing Suction Grab Hopper Dredger. The agreement,...",
+    "sources": [
+      {
+        "name": "gcaptain",
+        "url": "https://gcaptain.com/damen-and-uk-dredging-sign-contract-for-advanced-tshd/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-04-24-020",
+    "date": "2026-04-24",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "White House Extends Jones Act Shipping Waiver to August",
+    "summary": "President Donald Trump’s administration has given a 90-day extension to a shipping waiver making it easier to move oil, fuel and fertilizer around the US, marking the latest effort by the White House ",
+    "sources": [
+      {
+        "name": "gcaptain",
+        "url": "https://gcaptain.com/white-house-extends-jones-act-shipping-waiver-to-august/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-04-24-021",
+    "date": "2026-04-24",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "negative",
+    "title": "IMO’s MEPC 84 Opens as Key Test for Delayed Shipping Climate Pact",
+    "summary": "The International Maritime Organization convenes its 84th Marine Environment Protection Committee session in London next week under the shadow of last year’s dramatic delay of the sector’s proposed Ne",
+    "sources": [
+      {
+        "name": "gcaptain",
+        "url": "https://gcaptain.com/imos-mepc-84-opens-as-key-test-for-delayed-shipping-climate-pact/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-04-24-022",
+    "date": "2026-04-24",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "The Maritime Executive's Annual Energy Edition is Now Available Online",
+    "summary": "\n                 “Strait Outa Compton\"That's the witty title of View From the E.U. columnist Erik Kravets' tongue-in-cheek comparison  of N.W.A's hip-hop hit from 198...\n            ",
+    "sources": [
+      {
+        "name": "maritime_executive",
+        "url": "https://maritime-executive.com/article/the-maritime-executive-s-annual-energy-edition-is-now-available-online",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-04-24-023",
+    "date": "2026-04-24",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Odfjell Advances Fleet Renewal After Committing $290M for Four Newbuilds",
+    "summary": "\n                Norwegian shipping major Odfjell is pushing ahead with an ambitious fleet renewal program after committing $290 million for four 40,000 dwt newbuild v...\n            ",
+    "sources": [
+      {
+        "name": "maritime_executive",
+        "url": "https://maritime-executive.com/article/odfjell-advances-fleet-renewal-after-committing-290m-for-four-newbuilds",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-04-24-024",
+    "date": "2026-04-24",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "negative",
+    "title": "EU Breaks Deadlock on Russian Sanctions but Defers Maritime Services Ban",
+    "summary": "\n                The European Council broke weeks of deadlock, in part after the election loss for Hungarian President Victor Orban, and adopted its 20th sanction pack...\n            ",
+    "sources": [
+      {
+        "name": "maritime_executive",
+        "url": "https://maritime-executive.com/article/eu-breaks-deadlock-on-russian-sanctions-but-defers-maritime-services-ban",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-04-24-025",
+    "date": "2026-04-24",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "DP World Joins Clean Seas Initiative to Cut Maritime Plastic Waste",
+    "summary": "\n                DP World has joined the Maritime Association for Clean Seas (MACS), expanding its efforts to reduce plastic waste across global supply chains and supp...\n            ",
+    "sources": [
+      {
+        "name": "maritime_executive",
+        "url": "https://maritime-executive.com/article/dp-world-joins-clean-seas-initiative-to-cut-maritime-plastic-waste",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-04-24-026",
+    "date": "2026-04-24",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "SINAY Boosts Maritime Intelligence Platform with MariTrace Acquisition",
+    "summary": "\n                Maritime intelligence specialist SINAY has acquired UK-based vessel tracking platform MariTrace, strengthening the French company's position as an int...\n            ",
+    "sources": [
+      {
+        "name": "maritime_executive",
+        "url": "https://maritime-executive.com/article/sinay-boosts-maritime-intelligence-platform-with-maritrace-acquisition",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-04-24-027",
+    "date": "2026-04-24",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Iranian Shipping Blockade to Expand Says US as Hormuz Remains at Standstill",
+    "summary": "\n                The Pentagon on Friday, during a press briefing on the conflict with Iran, vowed to expand the blockade on shipping while saying it was becoming more...\n            ",
+    "sources": [
+      {
+        "name": "maritime_executive",
+        "url": "https://maritime-executive.com/article/iranian-shipping-blockade-to-expand-says-us-as-hormuz-remains-at-standstill",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-04-24-028",
+    "date": "2026-04-24",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Houthis Remain on the Sideline While Iran Threatens to Widen Conflict",
+    "summary": "\n                 Senior political figures associated with the IRGC-dominated hardliner faction in the Iranian leadership continue to make escalatory threats in an att...\n            ",
+    "sources": [
+      {
+        "name": "maritime_executive",
+        "url": "https://maritime-executive.com/article/houthis-remain-on-the-sideline-while-iran-threatens-to-widen-conflict",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-04-24-029",
+    "date": "2026-04-24",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Report: Pirates Hijacked Small Product Tanker off Somalia",
+    "summary": "\n                 In a developing story, it is being reported that a small product tanker has apparently been seized off the coast of Somalia. The BBC was the first to...\n            ",
+    "sources": [
+      {
+        "name": "maritime_executive",
+        "url": "https://maritime-executive.com/article/report-pirates-hijacked-small-product-tanker-off-somalia",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-04-24-030",
+    "date": "2026-04-24",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Ukraine Destroys Sea Drone as Russian Strikes Odesa Ports and Cargo Ships",
+    "summary": "\n                Ukrainian officials report that Russia continues to target the port infrastructure in the Greater Odesa region in an effort to disrupt commercial trad...\n            ",
+    "sources": [
+      {
+        "name": "maritime_executive",
+        "url": "https://maritime-executive.com/article/ukraine-destroys-sea-drone-as-russian-strikes-odesa-ports-and-cargo-ships",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-04-24-031",
+    "date": "2026-04-24",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Panama Canal prices take flight on Iran butterfly effect",
+    "summary": "<p>The Panama Canal has recorded a significant rise in vessel transits and tonnage in the first half of its 2026 fiscal year, with demand for its reservation system climbing sharply amid heightened gl",
+    "sources": [
+      {
+        "name": "splash247",
+        "url": "https://splash247.com/panama-canal-prices-take-flight-on-iran-butterfly-effect/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-04-24-032",
+    "date": "2026-04-24",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Splash Wrap: Why the Hormuz conflict is a world war",
+    "summary": "<p>The Hormuz shipping crisis led coverage all week, with Splash carrying reports on the conflict’s effects on fertiliser, sulphur and seafarers. “De-escalation, meaningful actions and restoring the f",
+    "sources": [
+      {
+        "name": "splash247",
+        "url": "https://splash247.com/splash-wrap-why-the-hormuz-conflict-is-a-world-war/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-04-24-033",
+    "date": "2026-04-24",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Geneva Dry Dialogues: Devbulk",
+    "summary": "<p>Hakki Deval has spent more than two decades in dry bulk shipping, from his student days at Solent University to leading Istanbul-based Devbulk as managing director and CEO. A former Turkish Navy li",
+    "sources": [
+      {
+        "name": "splash247",
+        "url": "https://splash247.com/geneva-dry-dialogues-devbulk/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-04-24-034",
+    "date": "2026-04-24",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "TEN extends shuttle tanker deals into next decade",
+    "summary": "<p>Greece’s Tsakos Energy Navigation (TEN) has secured long-term employment for two shuttle tankers, extending their charters for up to five years each and reinforcing its position in the offshore loa",
+    "sources": [
+      {
+        "name": "splash247",
+        "url": "https://splash247.com/ten-extends-shuttle-tanker-deals-into-next-decade/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-04-24-035",
+    "date": "2026-04-24",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "dship Carriers and NSB launch MPP management platform",
+    "summary": "<p>German MPP specialist dship Carriers and shipmanager NSB Group have teamed up to launch a dedicated joint venture aimed at managing a new series of multipurpose vessels, as owners continue to sharp",
+    "sources": [
+      {
+        "name": "splash247",
+        "url": "https://splash247.com/dship-carriers-and-nsb-launch-mpp-management-platform/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-04-24-036",
+    "date": "2026-04-24",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Mumbai owner’s MR splurge keeps brokers busy",
+    "summary": "<p>Mumbai-based Seven Islands Shipping’s appetite for MR tankers continues to turn heads, with fresh deals underlining an aggressive expansion drive amid India’s rising energy demand. The company has ",
+    "sources": [
+      {
+        "name": "splash247",
+        "url": "https://splash247.com/mumbai-owners-mr-splurge-keeps-brokers-busy/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-04-24-037",
+    "date": "2026-04-24",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Can the Net Zero Framework be saved? Splash’s MEPC curtain-raiser",
+    "summary": "<p>One of shipping&#8217;s most consequential regulatory gatherings gets underway in London on Monday, with the future of the world&#8217;s first global carbon pricing mechanism on any industry hangin",
+    "sources": [
+      {
+        "name": "splash247",
+        "url": "https://splash247.com/can-the-net-zero-framework-be-saved-splashs-mepc-curtain-raiser/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-04-24-038",
+    "date": "2026-04-24",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Helix–Hornbeck merger creates deepwater services heavyweight",
+    "summary": "<p>Houston-based offshore energy services company Helix Energy Solutions has entered into a definitive agreement to merge with compatriot offshore vessel owner Hornbeck Offshore Services in an all-sto",
+    "sources": [
+      {
+        "name": "splash247",
+        "url": "https://splash247.com/helix-hornbeck-merger-creates-deepwater-services-heavyweight/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-04-24-039",
+    "date": "2026-04-24",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Union Maritime expands offshore footprint with new joint venture",
+    "summary": "<p>Laurent Cadji-led shipowner Union Maritime has expanded its offshore presence by forming a new joint venture with Vega Maritime. According to Union Maritime, the joint venture, named Union Vega Off",
+    "sources": [
+      {
+        "name": "splash247",
+        "url": "https://splash247.com/union-maritime-expands-offshore-footprint-with-new-joint-venture/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-04-24-040",
+    "date": "2026-04-24",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "CNBC: Kushner, Witkoff – not Vance – heading to Pakistan for ‘direct talks’ with Iran",
+    "summary": "<p>CNBC reports:<br />\nU.S. special envoy Steve Witkoff and Jared Kushner will head to Pakistan on Saturday morning to engage in “direct talks” with their Iranian counterparts, White House press secre",
+    "sources": [
+      {
+        "name": "loadstar",
+        "url": "https://theloadstar.com/cnbc-kushner-witkoff-not-vance-heading-to-pakistan-for-direct-talks-with-iran/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-04-24-041",
+    "date": "2026-04-24",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "China’s maritime code revision a ‘substantive change’ for cargo",
+    "summary": "<p>The upcoming implementation of Article 295 of China’s revised Maritime Code on 1 May is drawing cautious attention across the shipping industry, with legal experts suggesting it could mark a meanin",
+    "sources": [
+      {
+        "name": "loadstar",
+        "url": "https://theloadstar.com/chinas-maritime-code-revision-a-substantive-change-for-cargo/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-04-24-042",
+    "date": "2026-04-24",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Middle East landbridge costs soar as demand exceeds supply four/five-fold",
+    "summary": "<p>Middle East landbridge solutions to fulfil container supply chains into markets cut off from shipping due to the Hormuz closure are buckling under massive demand.<br />\nAccording to Loadstar source",
+    "sources": [
+      {
+        "name": "loadstar",
+        "url": "https://theloadstar.com/middle-east-landbridge-costs-soar-as-demand-exceeds-supply-4-5-times/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-04-24-043",
+    "date": "2026-04-24",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "X-Press feeder vessels join box ships stranded in Hormuz",
+    "summary": "<p>Mega-container lines are not alone in seeing their vessels stranded in the Strait of Hormuz amid the US/Israel-Iran conflict.<br />\nSingapore-based X-Press Feeders has three ships held up in the st",
+    "sources": [
+      {
+        "name": "loadstar",
+        "url": "https://theloadstar.com/x-press-feeder-vessels-join-box-ships-stranded-in-hormuz/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-04-24-044",
+    "date": "2026-04-24",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Crypto scam targets ships seeking safe passage in Strait of Hormuz",
+    "summary": "<p>Crypto scammers are exploiting the chaos in the Strait of Hormuz by posing as Iranian authorities and offering ships “safe passage” in exchange for payments in bitcoin or stablecoins.<br />\nAccordi",
+    "sources": [
+      {
+        "name": "loadstar",
+        "url": "https://theloadstar.com/crypto-scam-targets-ships-seeking-safe-passage-in-strait-of-hormuz/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-04-24-045",
+    "date": "2026-04-24",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Panama Canal auction slots more than double in price",
+    "summary": "Middle East conflict raises auction slot prices as containers and LPG lift Panama Canal transits and cargo volumes.",
+    "sources": [
+      {
+        "name": "seatrade_maritime",
+        "url": "https://www.seatrade-maritime.com/maritime-transportation/panama-canal-auction-slots-more-than-double-in-price",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-04-24-046",
+    "date": "2026-04-24",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Listed tanker stocks – full ahead or full astern?",
+    "summary": "Analysts covering US-listed tanker stocks are divided on whether there is upside potential or whether this has already been reflected",
+    "sources": [
+      {
+        "name": "seatrade_maritime",
+        "url": "https://www.seatrade-maritime.com/tankers/listed-tanker-stocks-full-ahead-or-full-astern-",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-04-24-047",
+    "date": "2026-04-24",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "India Subcontinent gains in liner Middle East conflict restructuring",
+    "summary": "Analysts see the shift by container lines as more than diversions and rather a fundamental shift in network design",
+    "sources": [
+      {
+        "name": "seatrade_maritime",
+        "url": "https://www.seatrade-maritime.com/containers/india-subcontinent-gains-in-liner-middle-east-conflict-restructuring",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-04-24-048",
+    "date": "2026-04-24",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Top maritime news stories for week ended 24 April",
+    "summary": "US and Iran seize commercial vessels and freedom of navigation in the Straits of Singapore and Malacca",
+    "sources": [
+      {
+        "name": "seatrade_maritime",
+        "url": "https://www.seatrade-maritime.com/security/top-maritime-news-stories-for-week-ended-24-april",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-04-24-049",
+    "date": "2026-04-24",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "US maritime industries up in arms at Jones Act waiver extension plan",
+    "summary": "Reports say Jone Act waiver is likely to be extended to 90 days by the Trump administration",
+    "sources": [
+      {
+        "name": "seatrade_maritime",
+        "url": "https://www.seatrade-maritime.com/regulations/us-maritime-industries-up-in-arms-at-jones-act-waiver-extension-plan",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-04-24-050",
+    "date": "2026-04-24",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "15 Filipino seafarers on ships seized by Iran safe and unharmed",
+    "summary": "Filipino seafarers on board the Epaminondas and MSC Francesca seized in the Strait of Hormuz are the latest be caught up in an attack in the region",
+    "sources": [
+      {
+        "name": "seatrade_maritime",
+        "url": "https://www.seatrade-maritime.com/crewing/15-filipino-seafarers-on-ships-seized-by-iran-safe-and-unharmed",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "unknown-2026-04-23-002",
     "date": "2026-04-23",
     "companies": [],
@@ -306,6 +1212,278 @@
       {
         "name": "seatrade_maritime",
         "url": "https://www.seatrade-maritime.com/shipyards/dsic-bags-1-31bn-container-ship-order",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-04-23-008",
+    "date": "2026-04-23",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Hyundai’s plan to set up a giant $4 bn shipyard in Tamil Nadu gains steam with new MoU - ET Infra",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMigAJBVV95cUxPQ25hVnRWUHU4bU8yNG94bVZKRUI0RlZ0UE5mVTRDd1hkRHA0SUpHdnBFZjVscC1qUjkwQmxKdXZpRFFWcFhHQnZubllybDRhdk9oNVdSLS0zb3IxRXRITjBVNlY3T2V2bWxVNnZfZW",
+    "sources": [
+      {
+        "name": "hd_korea",
+        "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPQ25hVnRWUHU4bU8yNG94bVZKRUI0RlZ0UE5mVTRDd1hkRHA0SUpHdnBFZjVscC1qUjkwQmxKdXZpRFFWcFhHQnZubllybDRhdk9oNVdSLS0zb3IxRXRITjBVNlY3T2V2bWxVNnZfZWp4Z3dYZXV6MFpTel9OU2NzWFk3czVUZGZOTWpyN2JFVHhjcUFvV0pab2txMlFWUUtwN0Rkc0QzemtMNmkzYzM0T21lc25Id0h6M291VjgzbVIwS2hUMklGOTVvdTh2QXdxbm5xbzB0UUhHVlBhaUtZV2FYSm9GRVVsNGNUV3VXSVJVVGlSMlBlTWVxWDd1bVFV0gGGAkFVX3lxTE50N1Rnb0V2a2NNamY1N1V3c1AzcjMtQkV5bENLTTFhUzVjdjV2WUJuV3R3c1VVd0JkcEpVN3d2bjFpN1g0Zl9XNVB4LXctUnJ3dzBxR0d3bUw2WV9ISFVDYWstZEM2aEZFaEVja3daT1RNbG83di01cXlLcmdDYWI3TmxsNnI0NXlFeXUxVXpGcExERDFzbUlTZzctaXdnNHVPcDJ5MHFVa3ktbExMN3NxMXFfMk5tOUpwQ3ZhcEgwZy1PUXhUVjdrM2V5WlUyUXNHYy1Ldm1TODlxYk5KNTNwbEFmX3dyWDllVWZwb3JKUzNuWXctZzVFb1ppMEJkTEowUXN0X3c?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-04-23-009",
+    "date": "2026-04-23",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "HD Hyundai to Establish Shipbuilding Joint Venture in India - thelec.net",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE9PZnN3STQyYkRYMWNvQlhkZVU2VzBFc0NLZVBfZW9lMFFDNzVwZWo5em02VTNVTHc4ZXQxWFVra2IxWHZQbDRDQ01uSFkxRVd6aVlZOVBIU04tMkpqTWU2WVZHWENYQQ?oc=5\" targe",
+    "sources": [
+      {
+        "name": "hd_korea",
+        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9PZnN3STQyYkRYMWNvQlhkZVU2VzBFc0NLZVBfZW9lMFFDNzVwZWo5em02VTNVTHc4ZXQxWFVra2IxWHZQbDRDQ01uSFkxRVd6aVlZOVBIU04tMkpqTWU2WVZHWENYQQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-04-23-010",
+    "date": "2026-04-23",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Behind Hanwha Philly Shipyard's push to hire up to 10,000 workers - Philadelphia Business Journal - The Business Journals",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxPMVU4ZlA4RDUtRmRPeHNlRkpZX2lUQkJNbEduVENvNURXSThpM1Z2WXRSMGZWams0emNhR0VjR3FOdFBFTDBUajVDcHdBWEtvYk9UbUtqejZxX3dlZ3NLQ1ZxRUt4Mmw3bVM1cTJDQT",
+    "sources": [
+      {
+        "name": "hanwha_ocean",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPMVU4ZlA4RDUtRmRPeHNlRkpZX2lUQkJNbEduVENvNURXSThpM1Z2WXRSMGZWams0emNhR0VjR3FOdFBFTDBUajVDcHdBWEtvYk9UbUtqejZxX3dlZ3NLQ1ZxRUt4Mmw3bVM1cTJDQTlnQmI1YmFhVkgyZ3V4bDJpNVJEa3ZnVnplRXoyTzBJS2ZadHJfa3ZpbUdQcnRWQzg1TmZkWlBJcDNGRDFEcFE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-04-23-011",
+    "date": "2026-04-23",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Taiwan’s Yang Ming to raise shipping rates - Taiwan News",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiVEFVX3lxTE9ETk1UVy1FeXJ6M0dLbHMzUlNGbWFINVh0b0tWck1WLTVnWkpDanpnRXc3NGdlMDBKWHpPdndPODQ3WTlHMVVPRUFyWHhJdWhvd0NjOA?oc=5\" target=\"_blank\">Taiwan’s Yang",
+    "sources": [
+      {
+        "name": "yang_ming",
+        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9ETk1UVy1FeXJ6M0dLbHMzUlNGbWFINVh0b0tWck1WLTVnWkpDanpnRXc3NGdlMDBKWHpPdndPODQ3WTlHMVVPRUFyWHhJdWhvd0NjOA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "star_bulk-2026-04-23-012",
+    "date": "2026-04-23",
+    "companies": [
+      "star_bulk"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "A Look At Star Bulk Carriers (SBLK) Valuation After Strong Shareholder Returns - simplywall.st",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2wFBVV95cUxQN0xscFdpSzRHbjdKV3JJcTN0MDRFMU9TemhNVHVyWU1Ib2UtS2VtVEtkazhjLXQ4OTg3dGdrcHVwdkMySlA5d2ttX2tReVBrdmFCUDdOSUp1RDNqbXhmSno3MTRJTVpJQlJBMEVJQ1",
+    "sources": [
+      {
+        "name": "star_bulk",
+        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQN0xscFdpSzRHbjdKV3JJcTN0MDRFMU9TemhNVHVyWU1Ib2UtS2VtVEtkazhjLXQ4OTg3dGdrcHVwdkMySlA5d2ttX2tReVBrdmFCUDdOSUp1RDNqbXhmSno3MTRJTVpJQlJBMEVJQ1lST2s2VFRyUXQycHQxLTJaNHF2b2VBN0EzMFlwZkF6ZDc2el9UQUJobkcwamdaUzFQbVhYZHZqTWZyaml4QmFXNVhWclA3ZzhqZXVRclZHTC1sZ1hhV0tvZVc3dGRHOXlrV3ZEamJTZS02QXfSAeABQVVfeXFMUENkNXZyLUFRYk41LWlnQkhPdms2dGV5UGlodDQ3TTN1WlVOWG1VblNiVmZSc1BNVVlRUk4yTDNydGgtRXgxTFJlbTMzOURRTjBCeU5qRmZ5MUxLcHJ2TXVUdS1QOU5vS2VKdTZETzkyT0R1NXlkemRmTFg4Q1pKNkJfZU0zdXY4YWs5OGhjdEVQVUpJYXdIajM3LVc4eE9HU1ZFWXduZ1A2UmJrMVBFNHB1QzU4UTB1WGl1eWplSC1UN094R3BaNlVEcnV1b1JHWW5OZEVRVl82S3g1cmRza2g?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-04-23-013",
+    "date": "2026-04-23",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "China's Naval Drills Show Growing Focus on Capturing Taiwan",
+    "summary": "\n                China's military has been conducting exercises near the self-governing island of Taiwan for years, simulating naval blockades, air incursions and land...\n            ",
+    "sources": [
+      {
+        "name": "maritime_executive",
+        "url": "https://maritime-executive.com/article/china-s-naval-drills-show-growing-focus-on-capturing-taiwan",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-04-23-014",
+    "date": "2026-04-23",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Cruise Ship Sapphire Princess Recovers Five Bodies From the Mediterranean",
+    "summary": "\n                On Tuesday, the crew of the cruise ship Sapphire Princess took on the difficult task of recovering five bodies from the waters of the western Mediterr...\n            ",
+    "sources": [
+      {
+        "name": "maritime_executive",
+        "url": "https://maritime-executive.com/article/cruise-ship-sapphire-princess-recovers-five-bodies-from-the-mediterranean",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-04-23-015",
+    "date": "2026-04-23",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "U.S.-Backed War Risk Cover for Hormuz Will Have to Wait for Convoys",
+    "summary": "\n                 The Trump administration has worked out a co-insurance arrangement to provide war risk cover for shipping in the Strait of Hormuz and Arabian Gulf, t...\n            ",
+    "sources": [
+      {
+        "name": "maritime_executive",
+        "url": "https://maritime-executive.com/article/u-s-backed-war-risk-cover-for-hormuz-will-have-to-wait-for-convoys",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-04-23-016",
+    "date": "2026-04-23",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Middle East Escalation Disrupts Global Ocean and Air Freight Networks - Flexport",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxPcG1WTXpHcWJlOVFxeUZDa2Y5aVJ5b3VLM3NUVzZZM0ZaQ05FYkRoNHVHT0VYMG5BTldZYS1faERGNHNWRE5QU25kdDJnQ0k1N3hwWElYcGNBMUs1cWQxUTh1NlFFN0ZuTXZ3OFNFVk",
+    "sources": [
+      {
+        "name": "google_container_shipping",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPcG1WTXpHcWJlOVFxeUZDa2Y5aVJ5b3VLM3NUVzZZM0ZaQ05FYkRoNHVHT0VYMG5BTldZYS1faERGNHNWRE5QU25kdDJnQ0k1N3hwWElYcGNBMUs1cWQxUTh1NlFFN0ZuTXZ3OFNFVkVvaGxQcWV3S203cDVnbHA4M1FZaFdrSXItTU1JeG5aMjNzZlNyVmliSThyQ0RIS0xLR1E?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-04-23-017",
+    "date": "2026-04-23",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "XENETA WEEKLY OCEAN CONTAINER SHIPPING MARKET UPDATE – 23.4.2026 - Xeneta",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxOY1R6dEhxdW03NmJYMDRHSHpfZE1nSERvWmtCNUhESWNjLTQycndNU1doMDJFZnhHeU0zbXR6cG1sWnVOY2FUeVdydzNmVUdpY1lnbXREdjBCNnJRVEtldzNZWmNoRGtEOVFqMUQzSF",
+    "sources": [
+      {
+        "name": "google_container_shipping",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOY1R6dEhxdW03NmJYMDRHSHpfZE1nSERvWmtCNUhESWNjLTQycndNU1doMDJFZnhHeU0zbXR6cG1sWnVOY2FUeVdydzNmVUdpY1lnbXREdjBCNnJRVEtldzNZWmNoRGtEOVFqMUQzSFZrSXItSndINUhmYTFoYV8wcDBfZ204dVYxWkQxSm9DYmtTTktp?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-04-23-018",
+    "date": "2026-04-23",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Asyad buys second-hand Kamsarmax pair",
+    "summary": "Asyad Shipping Company to take delivery of bulker pair later this year for around $72.7m.",
+    "sources": [
+      {
+        "name": "seatrade_maritime",
+        "url": "https://www.seatrade-maritime.com/dry-bulk/asyad-buys-second-hand-kamsarmax-pair",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-04-23-019",
+    "date": "2026-04-23",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "US seizes Iran-linked tanker Majestic X",
+    "summary": "Laden dark fleet VLCC boarded by US forces for transporting sanctioned Iranian oil.",
+    "sources": [
+      {
+        "name": "seatrade_maritime",
+        "url": "https://www.seatrade-maritime.com/security/us-seizes-iran-linked-tanker-majestic-x",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-04-23-020",
+    "date": "2026-04-23",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Odfjell to pick up four Japanese newbuilds on delivery",
+    "summary": "Chemical tanker owner splashes $290m as part of fleet renewal programme.",
+    "sources": [
+      {
+        "name": "seatrade_maritime",
+        "url": "https://www.seatrade-maritime.com/tankers/odfjell-to-pick-up-four-japanese-newbuilds-on-delivery",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-04-23-021",
+    "date": "2026-04-23",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Rallying support to revitalize the SHIPS for America Act",
+    "summary": "A new US Shipbuilding Coalition has been formed as the SHIPS Act is re-introduced to the House of Representatives",
+    "sources": [
+      {
+        "name": "seatrade_maritime",
+        "url": "https://www.seatrade-maritime.com/shipyards/rallying-support-to-revitalize-the-ships-for-america-act",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-04-23-022",
+    "date": "2026-04-23",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Escaping the Strait of Hormuz – not worth the risk",
+    "summary": "The seizure of container ships MSC Francesca and the Epaminondas by Iran  underscores the dangers of transiting the Middle East waterway",
+    "sources": [
+      {
+        "name": "seatrade_maritime",
+        "url": "https://www.seatrade-maritime.com/security/escaping-the-strait-of-hormuz-not-worth-the-risk",
         "type": "rss"
       }
     ]
@@ -407,6 +1585,208 @@
     ]
   },
   {
+    "id": "unknown-2026-04-22-007",
+    "date": "2026-04-22",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Hanwha Group expands defense, naval partnerships in Canada, U.S. - Korea JoongAng Daily",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxPcjhjeG1OcF8xeU9mbjJ6MnBTbEIzSzRpRnY4RDNvSVpqMWQ2QTNocEV4SFY4WVcyanBXM19kQVJfZlhOQnhqeTJ2RXlycHBqUEJBYjM5YkRkS1hHaXNNOU9mYktHeTlLcWhUZ1M3Yn",
+    "sources": [
+      {
+        "name": "hanwha_ocean",
+        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPcjhjeG1OcF8xeU9mbjJ6MnBTbEIzSzRpRnY4RDNvSVpqMWQ2QTNocEV4SFY4WVcyanBXM19kQVJfZlhOQnhqeTJ2RXlycHBqUEJBYjM5YkRkS1hHaXNNOU9mYktHeTlLcWhUZ1M3YnBIb1Jhb0lEUE5tUkVqWUxpY0F3YzZyR3ZPN2hJaTNYVzk4ckdCWnk0bTFZcVN0RGlSZktCNDJzaTVpMXY3Xzc2WllJY2t3aWpYbC11d3d0Wk5aVWlYZ1NFYU9mV0xCVkkzRUthNF93?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-04-22-008",
+    "date": "2026-04-22",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Hanwha expands foothold in Canada through partnership with Alberta - The Korea Times",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxQX2Y2cW1GVUJVdDJWUnlpUGRqeEhhU1Zfa3BaS0pSaGhaSmFjUmVONlQ2azBFeDIxV3p5VGhjclk0elVQa0pCWXo3ZDZVZlk0SHJMTDdPRHJPSXc5YkpPb3JHRUtNdnR2UDRIVTZoQU",
+    "sources": [
+      {
+        "name": "hanwha_ocean",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQX2Y2cW1GVUJVdDJWUnlpUGRqeEhhU1Zfa3BaS0pSaGhaSmFjUmVONlQ2azBFeDIxV3p5VGhjclk0elVQa0pCWXo3ZDZVZlk0SHJMTDdPRHJPSXc5YkpPb3JHRUtNdnR2UDRIVTZoQU0xcGg3SS1JRTlyRTZsZGFjd0NFbDhVWW5BUmhkZEZKNFJDQVU2QThFRzU5VWQ0VE40bHFNZjFDNkZOcndfMm1jdmdCY9IBuAFBVV95cUxNdDBLdmpaMzRNekc5X3pEc21vdUpuZVBzUXFLSm9xLVB6NGV4bF83MFRaV0RjUkpZcENiT2puN1NBRENzbVJfaUxySmsyVjBWN1ZGT1B0YjVuT00wZlVLUHp1YTFaWVpjdXloakp5Y2xhcWhhUjJpRWRoRnp5OGhkbWhxemY0eS11OWNMTkV1VXk0NTYwYkpRQVI2bHZST1p2T3B0M09paUl0YWN2ZzhuSk5FblRrV2Zz?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-04-22-009",
+    "date": "2026-04-22",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Dire straits provide China's shipbuilders great opportunities - China Daily",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTE15ZFBMMGwtb1N3WXJUMmk3cWpQSEdpc2tMRmdNWlNocmlsT284YVpzXzhPdXctdjg3R0U2UTdDNEU2UlhEb0s5TURlUzgyVC1Tb2ZVZzYzZy13S2JFUVdvSnQyMThtUklxVzV4MHR2WT",
+    "sources": [
+      {
+        "name": "cssc",
+        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE15ZFBMMGwtb1N3WXJUMmk3cWpQSEdpc2tMRmdNWlNocmlsT284YVpzXzhPdXctdjg3R0U2UTdDNEU2UlhEb0s5TURlUzgyVC1Tb2ZVZzYzZy13S2JFUVdvSnQyMThtUklxVzV4MHR2WTllb1NzbXZjUG1pMklXUQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "evergreen-2026-04-22-010",
+    "date": "2026-04-22",
+    "companies": [
+      "evergreen"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Evergreen Marine's Unit Buys Containers From Licht, Rosemary Shipping For $41.7 Mln - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5gFBVV95cUxNb2VTSHJLa194LXc5SjlVVVJYUVptc1paM0JWVThSbGI5OHd3RGhFU3JZb3p1d2FkNDRSWGVyMkszMmJ0cTVIODRXalM0QmJpR05iUDJNV2h5X1JENWlnVmtfWjB0a3lqcFN3Y2oxNH",
+    "sources": [
+      {
+        "name": "evergreen",
+        "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNb2VTSHJLa194LXc5SjlVVVJYUVptc1paM0JWVThSbGI5OHd3RGhFU3JZb3p1d2FkNDRSWGVyMkszMmJ0cTVIODRXalM0QmJpR05iUDJNV2h5X1JENWlnVmtfWjB0a3lqcFN3Y2oxNHFfWUhjMWJaUUltSWM1YlZ2bWFxcUo2d2o4c3g5ZDNOaVg0TkJkQ2pwZ0VFSG9NT1BJc2xvNUtmalJKUmFPN2FsS1hMMEFpMm01SjZ0MnR0Zjk3VmkwM1BIYURSZjJPTFR0UEFrbU1jcnZJVEh4eldqSVU3QUk0dw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "evergreen-2026-04-22-011",
+    "date": "2026-04-22",
+    "companies": [
+      "evergreen"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Evergreen Marine's unit buys containers from Licht, Rosemary Shipping for $41.7 mln - marketscreener.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxQX0NCZTZfemxKbWFJU3R6SGduMG8yTFBUOXQtYm5uTUNOUm0za0FETFJzZ2FzTHBMWDRZcnFNVWM1YWw3UGxvX3hsRmNOZV9BX0pQNUVJMzlMVnZvOUpEUU9QZHhOZnR5MmJPUkJDYm",
+    "sources": [
+      {
+        "name": "evergreen",
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQX0NCZTZfemxKbWFJU3R6SGduMG8yTFBUOXQtYm5uTUNOUm0za0FETFJzZ2FzTHBMWDRZcnFNVWM1YWw3UGxvX3hsRmNOZV9BX0pQNUVJMzlMVnZvOUpEUU9QZHhOZnR5MmJPUkJDYm9KZzdRcTQ0S1lzeURVUHVtVS13X0puVmUyQkcydzhNQ0xNand4NUtGTGVialJmaTlpdVZaZ0IxX25LNTlMeTc0andYdmlpZmJSMXY1M2F0ZTRMbTZCUjU2SVlvaDY2Z3M?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-04-22-012",
+    "date": "2026-04-22",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "War Has Sent Shipping Rates Soaring. 6 Stocks That Could Win, According to This Analyst. - Barron's",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE01eldFNEdUZGhIZjZidGFHdW5xc1VuUWU0aXVaSzltZ0NUbnNHZlhVSmRPaXlMbHZ0bHczek5QWVo4NjJTVzc1bUpablhOOGxBeEZRemZGbWxHS3lXS0h5SE5BbWVfd2VWeTVEWkpzVU",
+    "sources": [
+      {
+        "name": "google_container_shipping",
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE01eldFNEdUZGhIZjZidGFHdW5xc1VuUWU0aXVaSzltZ0NUbnNHZlhVSmRPaXlMbHZ0bHczek5QWVo4NjJTVzc1bUpablhOOGxBeEZRemZGbWxHS3lXS0h5SE5BbWVfd2VWeTVEWkpzVUMwdUEt?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-04-22-013",
+    "date": "2026-04-22",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Charity urges seafarers not to run Hormuz gauntlet as attacks escalate",
+    "summary": "Organisations condemn latest wave of attacks on ships in Strait of Hormuz, call for end of attacks on civilian workers.",
+    "sources": [
+      {
+        "name": "seatrade_maritime",
+        "url": "https://www.seatrade-maritime.com/security/charity-urges-seafarers-not-to-run-hormuz-gauntlet-as-attacks-escalate",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-04-22-014",
+    "date": "2026-04-22",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Weekly tanker and dry bulk time charter rates - April 22",
+    "summary": "Dry bulk and tanker shipping time charter rates",
+    "sources": [
+      {
+        "name": "seatrade_maritime",
+        "url": "https://www.seatrade-maritime.com/tankers/weekly-tanker-and-dry-bulk-time-charter-rates-april-22",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-04-22-015",
+    "date": "2026-04-22",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Singapore eyes autonomous feeders between container terminals",
+    "summary": "Interested parties are invited to submit proposals for autonomous inter-gateway container feeder vessels",
+    "sources": [
+      {
+        "name": "seatrade_maritime",
+        "url": "https://www.seatrade-maritime.com/maritime-technology/singapore-eyes-autonomous-feeders-between-container-terminals",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-04-22-016",
+    "date": "2026-04-22",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Three container ships come under fire from Iran in Hormuz",
+    "summary": "All three ships are linked to MSC and the IRGC Navy claims to have seized two of the vessels Epaminondas and MSC Francesca",
+    "sources": [
+      {
+        "name": "seatrade_maritime",
+        "url": "https://www.seatrade-maritime.com/containers/three-container-ships-come-under-fire-from-iran-in-hormuz",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-04-22-017",
+    "date": "2026-04-22",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Seacon and China Marine Bunker formalise partnership",
+    "summary": "Strategic co-operation aims to jointly promote the green and low-carbon transformation of the shipping industry.",
+    "sources": [
+      {
+        "name": "seatrade_maritime",
+        "url": "https://www.seatrade-maritime.com/bunkering/seacon-and-china-marine-bunker-formalise-partnership",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "unknown-2026-04-21-001",
     "date": "2026-04-21",
     "companies": [],
@@ -480,6 +1860,78 @@
       {
         "name": "wan_hai",
         "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQbGVNOWhwZ19PNU9XRWdCeWY3czBoYWZmTW50cU9VNWVYcXRfNVJzM2lQZmZubU94MmtKLU0wbzczaFQzUjVYSmI1aVlzVFpCSDFYTTIyM3ZSUnJzMVBxazlIbng0QmdjaTNXUE5mUzQ3c1h1YzlaeHVkYXBpNGNsdXVGejM2cGoxSFZxU213U2R2WnRPR0ZSbEZBYkUwVE9y?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-04-21-006",
+    "date": "2026-04-21",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "India-South Korea Maritime & Industrial Partnerships: Agreements and Investments - News and Statistics - IndexBox",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxQZWRLUlRTN2swbUFqZ2pUT3lkUmR1d2NpS3Fsckc0OWRtNGgwaUZoWG11QjdDOFRiRy10WFpzN0JrbkJsM01hejFYd3BJYThYLTVITFF6RVBiZW9VUEFEeTdobmNUTzNqSkVhd3dnWk",
+    "sources": [
+      {
+        "name": "hd_korea",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQZWRLUlRTN2swbUFqZ2pUT3lkUmR1d2NpS3Fsckc0OWRtNGgwaUZoWG11QjdDOFRiRy10WFpzN0JrbkJsM01hejFYd3BJYThYLTVITFF6RVBiZW9VUEFEeTdobmNUTzNqSkVhd3dnWkhPN2lZTmlxaHp2RlJrN29wQ3VOUk9BR29RNzNUVE52MzFfMHI2OG1FcmMyeEVnS3VWM1ZZNXBQYi1SQjBJM0FpVHFpbw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-04-21-007",
+    "date": "2026-04-21",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "HD Hyundai's India shipyard takes shape in latest deal - Korea JoongAng Daily",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxOQmFDdlR2cWxwc3dFNlVHZm9DTTlKNi1Vc1pQWG1qTEc3ektFTzJrd2lZMHhFN3RSZm1jblR5cXdzRjdNTnRaUTNmOEdfT3U5Y1M5MUs0MDctc0JnTjRmajNIMmx0ZlE2UFU1bC1nMm",
+    "sources": [
+      {
+        "name": "hd_korea",
+        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOQmFDdlR2cWxwc3dFNlVHZm9DTTlKNi1Vc1pQWG1qTEc3ektFTzJrd2lZMHhFN3RSZm1jblR5cXdzRjdNTnRaUTNmOEdfT3U5Y1M5MUs0MDctc0JnTjRmajNIMmx0ZlE2UFU1bC1nMmY3YVRocHJ1Z1BUZlh5SVpYZWxhUGlIUmdCZFdpWnRSLV95VlNjR2lBME1BckNxU0J2RE5CejE5RW8wRzRoSi1ocnNVOWVjM2FqeGJ0d090QkdhRXZZeG95ZjlJNEY?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-04-21-008",
+    "date": "2026-04-21",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "HD Hyundai Signs MOU With India to Expand Shipbuilding - Businesskorea",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTFA0RWg4OWFCb2RKazg2cDBmQmE1bmxsRWRWU3FmSWRuM29nUmt6VEJfWUxCc1c0ejNYbVhmMks1YlpYTWtCY1ZmNWhZZDZTaGZ0TGFyXzNmcXA1TThqUUVTRjcwWXo1dF9DWkVaV3RkTz",
+    "sources": [
+      {
+        "name": "hd_korea",
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFA0RWg4OWFCb2RKazg2cDBmQmE1bmxsRWRWU3FmSWRuM29nUmt6VEJfWUxCc1c0ejNYbVhmMks1YlpYTWtCY1ZmNWhZZDZTaGZ0TGFyXzNmcXA1TThqUUVTRjcwWXo1dF9DWkVaV3RkTzllMXJW?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-04-21-009",
+    "date": "2026-04-21",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "HD Hyundai expands India push with shipyard joint venture - The Korea Herald",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTE05cDcyS3BmdWdyQlpsaGFhZmtTcFdsVVhOakZ1dzRkU19HVVJfRzRyR1lzVEpDbFh4RjBVa05QY2VmUjRzSjFSM3ZvWjVudk5KUXY5S2xjSQ?oc=5\" target=\"_blank\">HD Hyunda",
+    "sources": [
+      {
+        "name": "hd_korea",
+        "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE05cDcyS3BmdWdyQlpsaGFhZmtTcFdsVVhOakZ1dzRkU19HVVJfRzRyR1lzVEpDbFh4RjBVa05QY2VmUjRzSjFSM3ZvWjVudk5KUXY5S2xjSQ?oc=5",
         "type": "rss"
       }
     ]
@@ -571,6 +2023,80 @@
       {
         "name": "yang_ming",
         "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNdFg1SGxxbFZBZmtIT1NnRldlZGJPSzRqNXhFSGdsV21wSjVfOXlBaEJIeDNGNzR4eEtGT2s1Rlc4TkRCbWVnd213bEcwbHZYODVnUEtRcmxLLTBFelp2RTZDcFBMS0RsOEphQXpXX2ZnMzRYWk54N1dWOVp6NjhCenMyY1JBWTRsd1lCTkhtWl9wSHlXZFFBSk5QWm5kVzNmc0NaQVEwNHppRHppM0drWUVmU3Q3SHFQSm9sYzJTZw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "yang_ming-2026-04-20-007",
+    "date": "2026-04-20",
+    "companies": [
+      "yang_ming"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Yang Ming Marine Transport Corporation reroutes Middle East cargo via Khor Fakkan - Container News",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxPTTBLam1zeWpyejNQSzZ3VDNDcFdSUEFrQ0FmSmlYQUhjRF9BbzlKaUljcjc3dXE4OGI1dVZFZk1XQ2cwVVBRelVZSUNmMmxjOWpyQ3hWRWxqMi1mVjBwNGdhYVFKUXpBaTc5U3ZlbE",
+    "sources": [
+      {
+        "name": "yang_ming",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPTTBLam1zeWpyejNQSzZ3VDNDcFdSUEFrQ0FmSmlYQUhjRF9BbzlKaUljcjc3dXE4OGI1dVZFZk1XQ2cwVVBRelVZSUNmMmxjOWpyQ3hWRWxqMi1mVjBwNGdhYVFKUXpBaTc5U3ZlbElRajN0TDkyQkpVUW1wNU5wZGlVbnFINm5xR3dUWU1qOFVvMU9tNWpyNWhRc1hvUFo4VmdPZFltZUVpY28tTVE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-04-20-008",
+    "date": "2026-04-20",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Yang Ming Greenlights Six 13,000 TEU LNG Dual-Fuel Vessels for Fleet Renewal - LM - Logistics Manager",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxOb2RtU2tVSEFRZ1F2WHBSNk5HRFBLWlY1QkhWUWRPZlVmaTR1OU9BeDBsVjZIUjFXQXRZdWxyRHY3RmVfRHF0TGhCSG4zRjhsemNJWkxST0dvZVdmRHdsRUZwX1pkZHpDSl9NSi1Pbz",
+    "sources": [
+      {
+        "name": "yang_ming",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOb2RtU2tVSEFRZ1F2WHBSNk5HRFBLWlY1QkhWUWRPZlVmaTR1OU9BeDBsVjZIUjFXQXRZdWxyRHY3RmVfRHF0TGhCSG4zRjhsemNJWkxST0dvZVdmRHdsRUZwX1pkZHpDSl9NSi1PbzlQNzQ1MG1za0p3eFpRZUpfYUxiMU9QZXc1ZVFYVzhFQVFHbzBvSGFwM3ZIRks1VUI3aU1OQXBtZHJaZw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-04-20-009",
+    "date": "2026-04-20",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "U Ming Marine Transport : Description of the Proposals - marketscreener.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxNa2JVaGlaNjJHQXUyc1ZtcXIySk9Od3VfdnFUSDZ5eFJ6bUdhdXdrcFVKb3gzU0VCZF8xUERNWmVVNHdoOUNfSnBReEljaGhTcVRqT1ltY0I5XzBkNl84ZHNGMGhxVGVqS2c2bkpuWE",
+    "sources": [
+      {
+        "name": "u_ming",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNa2JVaGlaNjJHQXUyc1ZtcXIySk9Od3VfdnFUSDZ5eFJ6bUdhdXdrcFVKb3gzU0VCZF8xUERNWmVVNHdoOUNfSnBReEljaGhTcVRqT1ltY0I5XzBkNl84ZHNGMGhxVGVqS2c2bkpuWE84NXI2N2ItZUlsajNwaUpMUENadFo2aGlTNnJvaS15U3JfTDVWTHVTT0J3VHpoMzZrcEw0U0RXWlI?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-04-20-010",
+    "date": "2026-04-20",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "U Ming Marine Transport : Meeting Notice - marketscreener.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxPdkNNeUtWLTlObFVEcEswaWNJUnZuZERQZi03Zmw2SlE2U01DNjN6TFJyVXZXQk1IemZ4b3o2THFGZXl0WUdOdDgyakMyOXZ5cG1sZ3RjQXNOT0FZamRxb2tiVG44T2NJQTREc3lYb3",
+    "sources": [
+      {
+        "name": "u_ming",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPdkNNeUtWLTlObFVEcEswaWNJUnZuZERQZi03Zmw2SlE2U01DNjN6TFJyVXZXQk1IemZ4b3o2THFGZXl0WUdOdDgyakMyOXZ5cG1sZ3RjQXNOT0FZamRxb2tiVG44T2NJQTREc3lYb3FLV1ZEbmJuZTFhd1pMYU13c0hiVHIxSWEwc1dOS0h2TldkMDBWOWc?oc=5",
         "type": "rss"
       }
     ]

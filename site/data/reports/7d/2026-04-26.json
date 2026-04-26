@@ -4,7 +4,7 @@
     "start": "2026-04-20",
     "end": "2026-04-26"
   },
-  "generated_at": "2026-04-26T09:09:09.379592Z",
+  "generated_at": "2026-04-26T14:10:21.968685Z",
   "highlights": [
     {
       "rank": 1,
@@ -34,6 +34,12 @@
       "last_week": 4,
       "week_over_week_change": "-75%",
       "sentiment_this_week": 0.0
+    },
+    "industry_general": {
+      "this_week": 5,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.1
     }
   },
   "company_7d_summary": {
@@ -46,9 +52,9 @@
   "comparisons": {
     "vs_last_week": {
       "event_count": {
-        "this": 8,
+        "this": 13,
         "last": 10,
-        "change_pct": -20.0
+        "change_pct": 30.0
       }
     }
   },
@@ -85,12 +91,12 @@
     },
     {
       "date": "2026-04-26",
-      "event_count": 0,
+      "event_count": 5,
       "sentiment_avg": 0
     }
   ],
   "llm_analysis": {
-    "summary": "本週（2026-04-20 ~ 2026-04-26）共 8 則事件，重點為「Carriers forced to manage capacity to prevent s...」。造船訂單、貨櫃運價、散裝運價為本週焦點話題。",
+    "summary": "本週（2026-04-20 ~ 2026-04-26）共 13 則事件，重點為「Carriers forced to manage capacity to prevent s...」。造船訂單、航運產業通用、貨櫃運價為本週焦點話題。",
     "watchlist": [
       {
         "company": "韓華海洋",

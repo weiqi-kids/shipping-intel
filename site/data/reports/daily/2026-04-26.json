@@ -1,29 +1,146 @@
 {
   "date": "2026-04-26",
-  "generated_at": "2026-04-26T09:09:09.318692Z",
-  "top_events": [],
+  "generated_at": "2026-04-26T14:10:21.906800Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-04-26-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "HD Hyundai Wins First Domestic Contract for U.S. Office of Naval Research Vessel Performance Improvement Project - 매일경제",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE43YVNXekNnS2ZOWmItTTJHQXJaRTFJNTNqekNUTjRHcU9pNXNRZGwyemFfSnVWRDR4NlN6bWItRVNGanhQQVpqaExYTkY4TS11Z1Fn?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-04-26-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "HD Hyundai wins first ONR warship R&D deals, deepens Korea–US defense ties - CHOSUNBIZ - Chosunbiz",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOWVIyUTJnQkxNQ0dYVHd5WlZ3LU5zWEt0VW9sUkt2WkNROUpxbTZuREJPTjViZ2NmMzRRTmdpVml4Q0VweFgxdWFPbFlsQkh2VWRTeC1PWF9SWVJTcS1qZU9ySkhIYnZCRVo4allocnJGREdIMWJWbWxjdXJDVUZXUm9n0gGWAUFVX3lxTE15cEo0R25waUxDZWpyV1R0Q09oakcwLUFDaFYtVGprVHpoVHBmZWluOEduUWl2QXRWM1JBZzhoNm53ZXo2U3ZzcURyelo4aTBHX0FDNlJGR3VJQ2Jwbl9yVUlPbHVDd1hCQWo1VlBQUWQyMEhkdjVwOUl5bWlDcmlrdmczazdSdkxaeXpsQUJEQkVUeGpDdw?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-04-26-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "US Says Navy Intercepted Iran-Linked Vessel in Arabian Sea",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://gcaptain.com/us-says-navy-intercepted-iran-linked-vessel-in-arabian-sea/"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-04-26-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Iran War Leaves Seafarers Stranded In The Gulf",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://gcaptain.com/iran-war-leaves-seafarers-stranded-in-the-gulf/"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-04-26-005",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Trump cancels US envoy trip – ‘If they want to talk, all they have to do is call’",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://theloadstar.com/trump-cancels-us-envoy-trip-if-they-want-to-talk-all-they-have-to-do-is-call/"
+    }
+  ],
   "anomalies": [],
-  "topic_trends": {},
+  "topic_trends": {
+    "industry_general": {
+      "today": 5,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.1,
+      "sentiment_7d_avg": null
+    }
+  },
   "supply_chain_activity": [],
   "stats": {
-    "total_events": 0,
+    "total_events": 5,
     "sentiment_distribution": {
-      "positive": 0,
-      "neutral": 0,
+      "positive": 1,
+      "neutral": 4,
       "negative": 0
     },
     "top_companies": [],
-    "top_topics": []
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 5
+      }
+    ]
   },
   "filter_audit": {
-    "total_raw": 352,
-    "dup_title": 44,
-    "too_old": 177,
-    "gate1_blocked": 116,
-    "gate2_blocked": 10,
-    "passed": 5,
-    "pass_rate": "1.6%",
-    "gate2_block_rate": "3.2%",
+    "total_raw": 684,
+    "dup_title": 93,
+    "too_old": 354,
+    "gate1_blocked": 136,
+    "gate2_blocked": 12,
+    "passed": 89,
+    "pass_rate": "15.1%",
+    "gate2_block_rate": "2.0%",
     "gate2_samples": [
       "French firm gets more work with Samsung Heavy Industries for LNG vessel pair - Offshore-Energy.biz",
       "Defense firms form united front against Hanwha's dominance - The Korea Times",
@@ -34,14 +151,14 @@
     "alert": false
   },
   "llm_analysis": {
-    "summary": "2026-04-26 無航運產業相關事件。市場處於平靜狀態，無重大訊號。",
+    "summary": "今日共 5 則事件，焦點為航運產業通用相關動態：「HD Hyundai Wins First Domestic Contract for U.S. Office o...」。整體情緒偏正面，市場信心回溫。",
     "signals": [
       {
-        "text": "今日無重大異常訊號，產業動態平穩。",
+        "text": "HD Hyundai Wins First Domestic Contract for U.S. Office of Naval Research Ves...（航運產業通用）",
         "level": "green"
       },
       {
-        "text": "建議持續監控後續發展動態。",
+        "text": "HD Hyundai wins first ONR warship R&D deals, deepens Korea–US defense ties - ...（航運產業通用）",
         "level": "green"
       }
     ]
