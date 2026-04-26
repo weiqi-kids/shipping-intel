@@ -42,3 +42,32 @@ topics:
     - 塞港
     - waiting time
     - vessel queue
+  industry_general:
+    display: 航運產業通用
+    keywords:
+    - ship
+    - vessel
+    - container
+    - port
+    - freight
+    - cargo
+    - maritime
+    - bulk
+    - tanker
+    - fleet
+    - charter
+    - FEU
+    - TEU
+    - bunker
+    - dry dock
+    - 航運
+    - 貨櫃
+    - 船舶
+    - 港口
+    - shipping
+    - LNG carrier
+    - shipbuilding
+    - naval
+    - liner
+    - 航線
+    - 運費
