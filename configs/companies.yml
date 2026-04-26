@@ -15,6 +15,7 @@ companies:
   - maersk
   - evergreen
   - cosco
+  fetch_mode: http
 - id: samsung_heavy
   name: Samsung Heavy Industries
   aliases:
@@ -30,6 +31,7 @@ companies:
   downstream:
   - maersk
   - hapag
+  fetch_mode: http
 - id: hanwha_ocean
   name: Hanwha Ocean
   aliases:
@@ -45,6 +47,7 @@ companies:
   downstream:
   - maersk
   - cosco
+  fetch_mode: http
 - id: cssc
   name: China State Shipbuilding
   aliases:
@@ -60,6 +63,7 @@ companies:
   downstream:
   - cosco
   - evergreen
+  fetch_mode: http
 - id: evergreen
   name: Evergreen Marine
   aliases:
@@ -75,6 +79,7 @@ companies:
   upstream:
   - hd_korea
   - cssc
+  fetch_mode: http
 - id: yang_ming
   name: Yang Ming Marine
   aliases:
@@ -87,6 +92,7 @@ companies:
   role: 貨櫃航運
   description: 台灣第二大貨櫃航運公司
   rss_url: https://news.google.com/rss/search?q="Yang+Ming+Marine"&hl=en&gl=US&ceid=US:en
+  fetch_mode: http
 - id: wan_hai
   name: Wan Hai Lines
   aliases:
@@ -99,6 +105,7 @@ companies:
   role: 貨櫃航運
   description: 台灣第三大貨櫃航運公司，亞洲區間為主
   rss_url: https://news.google.com/rss/search?q="Wan+Hai+Lines"&hl=en&gl=US&ceid=US:en
+  fetch_mode: http
 - id: maersk
   name: A.P. Moller-Maersk
   aliases:
@@ -115,6 +122,7 @@ companies:
   - hd_korea
   - samsung_heavy
   - hanwha_ocean
+  fetch_mode: http
 - id: hapag
   name: Hapag-Lloyd
   aliases:
@@ -128,6 +136,7 @@ companies:
   rss_url: https://www.hapag-lloyd.com/en/news-insights/rss-feeds.html
   upstream:
   - samsung_heavy
+  fetch_mode: http
 - id: zim
   name: ZIM Integrated Shipping
   aliases: []
@@ -138,6 +147,7 @@ companies:
   role: 貨櫃航運
   description: 以色列貨櫃航運公司
   rss_url: https://investors.zim.com/rss/news-releases.xml
+  fetch_mode: http
 - id: cosco
   name: COSCO Shipping
   aliases:
@@ -154,6 +164,7 @@ companies:
   - cssc
   - hd_korea
   - hanwha_ocean
+  fetch_mode: http
 - id: u_ming
   name: U-Ming Marine
   aliases:
@@ -166,6 +177,7 @@ companies:
   role: 散裝航運
   description: 台灣散裝航運龍頭
   rss_url: https://news.google.com/rss/search?q="U-Ming+Marine"&hl=en&gl=US&ceid=US:en
+  fetch_mode: http
 - id: wisdom
   name: Wisdom Marine Lines
   aliases:
@@ -178,6 +190,7 @@ companies:
   role: 散裝航運
   description: 台灣小型散裝船隊
   rss_url: https://news.google.com/rss/search?q="Wisdom+Marine+Lines"&hl=en&gl=US&ceid=US:en
+  fetch_mode: http
 - id: star_bulk
   name: Star Bulk Carriers
   aliases: []
@@ -188,6 +201,7 @@ companies:
   role: 散裝航運
   description: 全球主要散裝航運公司
   rss_url: https://news.google.com/rss/search?q="Star+Bulk+Carriers"+bulk+shipping&hl=en&gl=US&ceid=US:en
+  fetch_mode: http
 etfs:
 - id: sea
   name: U.S. Global Sea to Sky Cargo ETF
