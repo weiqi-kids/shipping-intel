@@ -1,6 +1,6 @@
 {
   "date": "2026-04-26",
-  "generated_at": "2026-04-26T03:19:16.264471Z",
+  "generated_at": "2026-04-26T09:09:09.318692Z",
   "top_events": [],
   "anomalies": [],
   "topic_trends": {},
@@ -14,6 +14,24 @@
     },
     "top_companies": [],
     "top_topics": []
+  },
+  "filter_audit": {
+    "total_raw": 352,
+    "dup_title": 44,
+    "too_old": 177,
+    "gate1_blocked": 116,
+    "gate2_blocked": 10,
+    "passed": 5,
+    "pass_rate": "1.6%",
+    "gate2_block_rate": "3.2%",
+    "gate2_samples": [
+      "French firm gets more work with Samsung Heavy Industries for LNG vessel pair - Offshore-Energy.biz",
+      "Defense firms form united front against Hanwha's dominance - The Korea Times",
+      "Evergreen Marine's Unit Buys Containers From Licht, Rosemary Shipping For $41.7 Mln - TradingView",
+      "Evergreen Marine's unit buys containers from Licht, Rosemary Shipping for $41.7 mln - marketscreener",
+      "Yang Ming Marine Transport Corporation reroutes Middle East cargo via Khor Fakkan - Container News"
+    ],
+    "alert": false
   },
   "llm_analysis": {
     "summary": "2026-04-26 無航運產業相關事件。市場處於平靜狀態，無重大訊號。",

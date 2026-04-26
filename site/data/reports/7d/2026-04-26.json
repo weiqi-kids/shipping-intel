@@ -4,15 +4,15 @@
     "start": "2026-04-20",
     "end": "2026-04-26"
   },
-  "generated_at": "2026-04-26T03:19:16.327010Z",
+  "generated_at": "2026-04-26T09:09:09.379592Z",
   "highlights": [
     {
       "rank": 1,
       "type": "top_event",
-      "event_id": "unknown-2026-04-20-001",
-      "date": "2026-04-20",
-      "title": "MOL lands LNG carrier charter deal with Inpex",
-      "importance_score": 0.5
+      "event_id": "unknown-2026-04-24-010",
+      "date": "2026-04-24",
+      "title": "Carriers forced to manage capacity to prevent spot rate ‘free-fall’",
+      "importance_score": 0.65
     }
   ],
   "anomalies_7d": [],
@@ -90,7 +90,7 @@
     }
   ],
   "llm_analysis": {
-    "summary": "本週（2026-04-20 ~ 2026-04-26）共 8 則事件，重點為「MOL lands LNG carrier charter deal with Inpex」。造船訂單、貨櫃運價、散裝運價為本週焦點話題。",
+    "summary": "本週（2026-04-20 ~ 2026-04-26）共 8 則事件，重點為「Carriers forced to manage capacity to prevent s...」。造船訂單、貨櫃運價、散裝運價為本週焦點話題。",
     "watchlist": [
       {
         "company": "韓華海洋",

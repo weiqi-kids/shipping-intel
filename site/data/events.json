@@ -158,6 +158,61 @@
     ]
   },
   {
+    "id": "unknown-2026-04-24-010",
+    "date": "2026-04-24",
+    "companies": [],
+    "topics": [
+      "container_freight"
+    ],
+    "impact": "positive",
+    "title": "Carriers forced to manage capacity to prevent spot rate ‘free-fall’",
+    "summary": "<p>Container freight spot rates on the Asia-Europe trades largely returned to pre-Iran conflict levels this week, as container supply chains settled after the war’s outbreak and settled into what appe",
+    "sources": [
+      {
+        "name": "loadstar",
+        "url": "https://theloadstar.com/carriers-forced-to-manage-capacity-to-prevent-spot-rate-free-fall/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-04-24-011",
+    "date": "2026-04-24",
+    "companies": [],
+    "topics": [
+      "shipbuilding_orders",
+      "port_congestion"
+    ],
+    "impact": "positive",
+    "title": "European buyers circle Chinese feeder ships as supply tightens",
+    "summary": "<p>As availability of feeder ships tightens and waiting times for newbuild deliveries increase, European liner operators and tonnage suppliers have been seeking them from Chinese owners.<br />\nThose t",
+    "sources": [
+      {
+        "name": "loadstar",
+        "url": "https://theloadstar.com/european-buyers-circle-chinese-feeder-ships-as-supply-tightens/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "cosco-2026-04-24-012",
+    "date": "2026-04-24",
+    "companies": [
+      "cosco"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Cosco Shipping Car Carriers and UECC form strategic partnership",
+    "summary": "The two companies seek to broaden their China–Europe vehicle shipping network",
+    "sources": [
+      {
+        "name": "seatrade_maritime",
+        "url": "https://www.seatrade-maritime.com/maritime-transportation/cosco-shipping-car-carriers-and-uecc-form-strategic-partnership",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "unknown-2026-04-23-002",
     "date": "2026-04-23",
     "companies": [],
@@ -238,6 +293,24 @@
     ]
   },
   {
+    "id": "unknown-2026-04-23-007",
+    "date": "2026-04-23",
+    "companies": [],
+    "topics": [
+      "shipbuilding_orders"
+    ],
+    "impact": "neutral",
+    "title": "DSIC bags $1.31bn container ship order",
+    "summary": "Dalian Shipbuilding Industry’s Corp receives an order for 12 container ship newbuilds",
+    "sources": [
+      {
+        "name": "seatrade_maritime",
+        "url": "https://www.seatrade-maritime.com/shipyards/dsic-bags-1-31bn-container-ship-order",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "unknown-2026-04-22-003",
     "date": "2026-04-22",
     "companies": [],
@@ -311,6 +384,24 @@
       {
         "name": "star_bulk",
         "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNSWpvWWg0MUlmanUzTGZiVVFlaFQzb1NNZ09DN04wTEJndnBsVjFFRDRCUVg3a1ktNG5IRGlfbUlJejJiMTFRaEVsR1QxNkFmQnZHS3ZqMTRxT3dqZFM2V010ay05WC0tUGhkekhndjZGV1ZTcnB5T0ptUDZsS2paVVdja25tRHh2eG45d181YzdUWEhfekphdWZvLUpQOGxFVElBQnpvRXozWE5iUVZub1czdDNyMmJxTU02MjdDakU?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "hanwha_ocean-2026-04-22-006",
+    "date": "2026-04-22",
+    "companies": [
+      "hanwha_ocean"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Hanwha Ocean partners with Leidos Gibbs & Cox to target U.S. Navy market - CHOSUNBIZ - Chosunbiz",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxOZER1Rm5CWXpkR0JvR2NGVXoxUGl0b2FQSy1lV2VSOU84Q3RfOTJlQmdkVFhCbENwNFRMY0NBZVZZQjdpRHF4cjRWTC13N0pkczItR0lEOWpqLTBwR1pKVUJyNy1VdUZNMDYybnhwTj",
+    "sources": [
+      {
+        "name": "hanwha_ocean",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOZER1Rm5CWXpkR0JvR2NGVXoxUGl0b2FQSy1lV2VSOU84Q3RfOTJlQmdkVFhCbENwNFRMY0NBZVZZQjdpRHF4cjRWTC13N0pkczItR0lEOWpqLTBwR1pKVUJyNy1VdUZNMDYybnhwTjFqWVQ0WWlDRGxqaFk2LS1GR0Nn0gGWAUFVX3lxTE5VbFphZnlJMmQyWjlFb1ZuU21WYVh6cnNwUnVVbTRINXFaWmRZVnpjbXJyZDRuWE9HN2l3RUhHTDR4VXczUnV3RUk5VmZqZk9SOEpTWDFhd3R6TmFFSlVnZy12M24wOUdwWDJZWmlkMXBtdjVhZnBEY1B2YkNWdGFTblpTbnB1QzRFNkNxZkViRDZkRnZQQQ?oc=5",
         "type": "rss"
       }
     ]
