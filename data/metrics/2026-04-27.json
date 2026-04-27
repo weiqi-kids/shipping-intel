@@ -1,13 +1,30 @@
 {
   "date": "2026-04-27",
-  "total_events": 6,
-  "by_company": {},
+  "total_events": 35,
+  "by_company": {
+    "samsung_heavy": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "hanwha_ocean": {
+      "count": 12,
+      "sentiment_avg": -0.04
+    },
+    "cosco": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
   "by_topic": {
     "industry_general": {
-      "count": 6,
-      "sentiment_avg": -0.33
+      "count": 28,
+      "sentiment_avg": -0.11
     },
     "dry_bulk_rate": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "container_freight": {
       "count": 1,
       "sentiment_avg": 0.0
     }

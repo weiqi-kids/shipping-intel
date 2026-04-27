@@ -109,6 +109,542 @@
     ]
   },
   {
+    "id": "unknown-2026-04-27-007",
+    "date": "2026-04-27",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Korean Shipbuilders Target AI Power Shortages - Businesskorea",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE9RNmZhXzBvb19TUVB3VTVLaHBFTDNBY05TaXE0cGVBYl9kTGNTcC1Ma0hsREZZVVF2R3B3azlRSzhaNWZ3NlQ2NjhEZ1Z3VVFjOW5DdjlHRUZPTmZDZzNEQkh1aTR2WFR3MTBCU2hzVE",
+    "sources": [
+      {
+        "name": "samsung_heavy",
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9RNmZhXzBvb19TUVB3VTVLaHBFTDNBY05TaXE0cGVBYl9kTGNTcC1Ma0hsREZZVVF2R3B3azlRSzhaNWZ3NlQ2NjhEZ1Z3VVFjOW5DdjlHRUZPTmZDZzNEQkh1aTR2WFR3MTBCU2hzVEFxVjN4?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "samsung_heavy-2026-04-27-008",
+    "date": "2026-04-27",
+    "companies": [
+      "samsung_heavy",
+      "hanwha_ocean"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "\"Profits from Hanwha Ocean and Samsung Heavy Industries\": Jung Ji-seon's 13-year-old son reveals stock investing - 매일경제",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiVkFVX3lxTFBqa2hGNHUzdzZKUERsV3U3SXg0M1ViTzYwR2c3MngzRzFhYmQzbjRmNHVfWjV3S1cxN2UyWG9IY1hIX200TFhTRVFwTXBNeFVObzBYUVFB?oc=5\" target=\"_blank\">\"Profits fr",
+    "sources": [
+      {
+        "name": "samsung_heavy",
+        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBqa2hGNHUzdzZKUERsV3U3SXg0M1ViTzYwR2c3MngzRzFhYmQzbjRmNHVfWjV3S1cxN2UyWG9IY1hIX200TFhTRVFwTXBNeFVObzBYUVFB?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "hanwha_ocean-2026-04-27-009",
+    "date": "2026-04-27",
+    "companies": [
+      "hanwha_ocean"
+    ],
+    "topics": [
+      "container_freight",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Hanwha Ocean and Leidos partner on naval ship design - Hanwha Group",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxOd0tLTkNEYjBpYUVYRFZqWG93TUg5YmdPR0FRcDNRcTZVYzVNWlRUOWppWVhFUFBXejVCa190eWpiRzN4UDJ2WlN5djVYY193V3lNaDZOVWgtamxCcTlaWi1kZXllRElxdUdRUXlFTn",
+    "sources": [
+      {
+        "name": "hanwha_ocean",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOd0tLTkNEYjBpYUVYRFZqWG93TUg5YmdPR0FRcDNRcTZVYzVNWlRUOWppWVhFUFBXejVCa190eWpiRzN4UDJ2WlN5djVYY193V3lNaDZOVWgtamxCcTlaWi1kZXllRElxdUdRUXlFTnJQdVlPUllpbmQ5OVFMc3pfTnp4Q212TTVZOTFqU29DME9tUHJ2dFFGRzBUT0ZDS04yWTFsOW1LcllzNTdUczNEakl5ZEgySjc0UXZ1X3FTZ3A0WnM?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "hanwha_ocean-2026-04-27-010",
+    "date": "2026-04-27",
+    "companies": [
+      "hanwha_ocean"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "negative",
+    "title": "Hanwha Ocean Flags Rising Uncertainty Over Ship Demand - Marine News Magazine",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxQem9sSnJfS1FWQ0sxb2ZrTnBHbXdHZGxUS3o4Y2ZEYV9fQmI0a1AyVkZvTUpnUDRfS2EwUkNXUDVaby1JYjd5M0N5VEVnbmx0c3oyU0kyclYtNm9HaEtLWVBUWFRST3NYdGtXTE9YNE",
+    "sources": [
+      {
+        "name": "hanwha_ocean",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQem9sSnJfS1FWQ0sxb2ZrTnBHbXdHZGxUS3o4Y2ZEYV9fQmI0a1AyVkZvTUpnUDRfS2EwUkNXUDVaby1JYjd5M0N5VEVnbmx0c3oyU0kyclYtNm9HaEtLWVBUWFRST3NYdGtXTE9YNERmRkdIaloxRHFfTGtab1hWT2J3?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "hanwha_ocean-2026-04-27-011",
+    "date": "2026-04-27",
+    "companies": [
+      "hanwha_ocean"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Hanwha Ocean beats Q1 forecasts on LNG-led profits - The Korea Herald",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTE5VWW5FXzJJdk9NVEE2Tmh5Qk1SOEFHNU5mZWppbXZydlc5ZnMzNThGNWRCaGFDN2VCdFlfbjlwcDFlcTM0MUpCUHZPRktmTUlRbzhVdVVHNA?oc=5\" target=\"_blank\">Hanwha Oc",
+    "sources": [
+      {
+        "name": "hanwha_ocean",
+        "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5VWW5FXzJJdk9NVEE2Tmh5Qk1SOEFHNU5mZWppbXZydlc5ZnMzNThGNWRCaGFDN2VCdFlfbjlwcDFlcTM0MUpCUHZPRktmTUlRbzhVdVVHNA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "hanwha_ocean-2026-04-27-012",
+    "date": "2026-04-27",
+    "companies": [
+      "hanwha_ocean"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Hanwha Ocean sails to consensus-beating operating profit of $299.5M in Q1 - Korea JoongAng Daily",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4wFBVV95cUxOOGUzSEZ2dktHZExOMWdnLTNjZ2FiaG9yT2F6VGFwUG5KbHBPLWtVWmxtRFdJRGZKMDRfNzRidU9sVFlCU0hEUV9FTmVza0JFMThYZDNTa3JpOFZjRTI3RlN2UTRTeTlid1hsazRGUF",
+    "sources": [
+      {
+        "name": "hanwha_ocean",
+        "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOOGUzSEZ2dktHZExOMWdnLTNjZ2FiaG9yT2F6VGFwUG5KbHBPLWtVWmxtRFdJRGZKMDRfNzRidU9sVFlCU0hEUV9FTmVza0JFMThYZDNTa3JpOFZjRTI3RlN2UTRTeTlid1hsazRGUFVkLTBDUlU1WThsN3J5UU9HNkVWYm1iVUtaUm5GWGhzS3U5LVRmaDhESlZPR1JkdFBsZS1DYU91ZWh6NUVVX0JNSGRNa2dNVmNJSjVPa2NJTlB3NUxTU25vak14TThxQWEybEZfdWVvRjB5NlpJOE00aGlUWQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "hanwha_ocean-2026-04-27-013",
+    "date": "2026-04-27",
+    "companies": [
+      "hanwha_ocean"
+    ],
+    "topics": [],
+    "impact": "positive",
+    "title": "(LEAD) Hanwha Ocean's Q1 net more than doubles on LNG projects, improved profitability - Yonhap News Agency",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE5Lc2VFZjNaYURlY1hIT2hBbWw4UWwzWjlJTzFyRjhQWGxGUldJWFRMamdtNUJOUmlJTnhOQWlhMnNhb3d4ZEstdmY3ZU1iUjBxQUdxbHBOdjZ4QQ?oc=5\" target=\"_blank\">(LEAD",
+    "sources": [
+      {
+        "name": "hanwha_ocean",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5Lc2VFZjNaYURlY1hIT2hBbWw4UWwzWjlJTzFyRjhQWGxGUldJWFRMamdtNUJOUmlJTnhOQWlhMnNhb3d4ZEstdmY3ZU1iUjBxQUdxbHBOdjZ4QQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "hanwha_ocean-2026-04-27-014",
+    "date": "2026-04-27",
+    "companies": [
+      "hanwha_ocean"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Hanwha Ocean sees ‘solid’ mid-term demand for LNG newbuilds - LNG Prime",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxOSzA5Q3k4WlVvN0xIZWM0UWhxaFBqM0pLTkhqN2RHWlJQbWJEbnd1Y1pCbkdSZEJ6T05iaFF0LWU5ZlRYLUxMZzhmUHBReGpBYkktVEhtQ0Z0U3hLQ2M0c2JaZW1GZUl2VHhpb05xaW",
+    "sources": [
+      {
+        "name": "hanwha_ocean",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOSzA5Q3k4WlVvN0xIZWM0UWhxaFBqM0pLTkhqN2RHWlJQbWJEbnd1Y1pCbkdSZEJ6T05iaFF0LWU5ZlRYLUxMZzhmUHBReGpBYkktVEhtQ0Z0U3hLQ2M0c2JaZW1GZUl2VHhpb05xaWZNUG9DZVlHTEhGVHFfRURIZTdMMUZMeVVwQTNnekNPaVBybkxtMmc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "hanwha_ocean-2026-04-27-015",
+    "date": "2026-04-27",
+    "companies": [
+      "hanwha_ocean"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "negative",
+    "title": "Hanwha Ocean says uncertainty rises over outlook for ship demand amid Iran war - marketscreener.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxNQU5FSjF4SENJa29pdGRIb0c3czlnc0JfTTJXUlcxdDlUV0haTVpKWi1fQXpMVHVxaUZHRkZoX1hQVVVlVHJuR3Z6c2dQU2ZKa2hHRjMzNmo0d2FuOUpidGp3NV9XM3JmcjJtN21EdD",
+    "sources": [
+      {
+        "name": "hanwha_ocean",
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNQU5FSjF4SENJa29pdGRIb0c3czlnc0JfTTJXUlcxdDlUV0haTVpKWi1fQXpMVHVxaUZHRkZoX1hQVVVlVHJuR3Z6c2dQU2ZKa2hHRjMzNmo0d2FuOUpidGp3NV9XM3JmcjJtN21EdDhpanBEck5QZld1N3JEdXVtckliZjBxT1JodTRrMlp3aE9oMW9uTmVZeVdpam41ZGYzSHc0NEZvU3FpVWNEV1pQenFvaC1vbEQ4cTdYM29HWGd1cWhyLUdDbXF0dw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "hanwha_ocean-2026-04-27-016",
+    "date": "2026-04-27",
+    "companies": [
+      "hanwha_ocean"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Hanwha Ocean: Ship Demand Is Uncertain Amid Iran War - Marine News Magazine",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxQY0xaeHpEVmZ6akM3RG9OekFOZGdPeHlyMmIyYTI0MUVoWGtfTXNmVG5oak1vYUc1aEIzaUZfcElrOFRrUXVINmR1TFVUajFpWVBGMUZIajRUdHFXVGpETDlteHhCVTNpT0UxcVRvLW",
+    "sources": [
+      {
+        "name": "hanwha_ocean",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQY0xaeHpEVmZ6akM3RG9OekFOZGdPeHlyMmIyYTI0MUVoWGtfTXNmVG5oak1vYUc1aEIzaUZfcElrOFRrUXVINmR1TFVUajFpWVBGMUZIajRUdHFXVGpETDlteHhCVTNpT0UxcVRvLWFBcXdTbk1uLW9nSzZyMlZGbGRyU05UbUdNNWdTdXgyV0dZVkUxSkZTYV9UTVo?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-04-27-017",
+    "date": "2026-04-27",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "South Korean shipbuilder warns of slump in oil carrier demand - Latest news from Azerbaijan",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxONHo4U2d6VndJbXd2angzc2JIZW9DcWJ0TzNNdjVmY1g3X3RtQ215bC1BQ25DcU5JckRlRlZwZHZYRkRuTnY5ai05U0NQb0pINEdpbFh3bi15cV9UdTZrZWRBX3o3VVpZVEF5anZPOG",
+    "sources": [
+      {
+        "name": "hanwha_ocean",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxONHo4U2d6VndJbXd2angzc2JIZW9DcWJ0TzNNdjVmY1g3X3RtQ215bC1BQ25DcU5JckRlRlZwZHZYRkRuTnY5ai05U0NQb0pINEdpbFh3bi15cV9UdTZrZWRBX3o3VVpZVEF5anZPOGN4T1c0SUs0bDE2bEEydzhmdWI4ckRObVpKTlE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "hanwha_ocean-2026-04-27-018",
+    "date": "2026-04-27",
+    "companies": [
+      "hanwha_ocean"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Hanwha Ocean surges on high-priced ship deliveries, beating Korea forecasts - CHOSUNBIZ - Chosunbiz",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxPd0FTMjBadkNJZnVBZ2ItVU9fS0JtMFczM2VnUTZ6NVNpNWpNalV2aDBHMlVxa2dmUUpVNHBURGpXbjhPM2Rnd20yUVV6UXZITVpaRURHMnRDMTZMRDMwZXRub1BrcWE4cGpYUy1pcG",
+    "sources": [
+      {
+        "name": "hanwha_ocean",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPd0FTMjBadkNJZnVBZ2ItVU9fS0JtMFczM2VnUTZ6NVNpNWpNalV2aDBHMlVxa2dmUUpVNHBURGpXbjhPM2Rnd20yUVV6UXZITVpaRURHMnRDMTZMRDMwZXRub1BrcWE4cGpYUy1pcGNZaVdsY29ydTluSXpPUkk4RXh30gGWAUFVX3lxTFBOdmFyX29wRlgyV0xPMVhzV2VCdWVSZlpUZDVyaU9SSlRCbktOX21oZVFJT1F6YUtxQTZLLS1JV0FNUWI0a2o0b19ndFdwVXQ4ZFhtckVJcHRuT0RXWUNGTC1ITFVyWndvVXZ3OGt3V01ZdjFYMXJfU2x5ckI5SGNjcXJjTjlkZTFmQTVxMFB2UjU1N1BNUQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "hanwha_ocean-2026-04-27-019",
+    "date": "2026-04-27",
+    "companies": [
+      "hanwha_ocean"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Hanwha Ocean Q1 Operating Profit Jumps 70.6% to 441.1 Billion Won - Seoul Economic Daily",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxQT1ZqVkEwcUN6eE1adXdnVEJKMTJaOXRLNHhuaURyVnloUC0xZktuNzJIYkhKdzJMNU8yXzRRR3hYS1BvdVNEWnRDSnhpVUIzNmstdkhkamVWcUVfNVE1QTdiYWg0VllsZjFDam1sN1",
+    "sources": [
+      {
+        "name": "hanwha_ocean",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQT1ZqVkEwcUN6eE1adXdnVEJKMTJaOXRLNHhuaURyVnloUC0xZktuNzJIYkhKdzJMNU8yXzRRR3hYS1BvdVNEWnRDSnhpVUIzNmstdkhkamVWcUVfNVE1QTdiYWg0VllsZjFDam1sN1V4anBSWkw3TERuSjNGdFFBUlJFZVhaQjZYQXJ3bnpnX1gtM2ZxQTRYWGFUUWN1VmRsQ2c?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "hanwha_ocean-2026-04-27-020",
+    "date": "2026-04-27",
+    "companies": [
+      "hanwha_ocean"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Hanwha Ocean Q1 operating profit 441 billion won, up 70.6% from year earlier - marketscreener.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxPUUd2QzhDQVMweGtQT0VpUzN2c2FiRVFrRklLcHB6TnczZ05zbVQ3MmRUU19tVG5lRHRZMG5ybW5Id0E2cjNvLXN4QmFxOERjNmlQbUEwQkdQRTcyYmE2X2cyUVMxWUp0T0xtN2RLS0",
+    "sources": [
+      {
+        "name": "hanwha_ocean",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPUUd2QzhDQVMweGtQT0VpUzN2c2FiRVFrRklLcHB6TnczZ05zbVQ3MmRUU19tVG5lRHRZMG5ybW5Id0E2cjNvLXN4QmFxOERjNmlQbUEwQkdQRTcyYmE2X2cyUVMxWUp0T0xtN2RLS0RiZFFNNjJlemVtX29ocTVGZmV3Q05TanNpTVBMcVpfM3BNaEpDSHAwVVllQ2hXY1N1bmwxZzJNQ003MGUtTFBHUVNaUkx5dVU2VU9KQWp1QklBWWw3OFE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "cosco-2026-04-27-021",
+    "date": "2026-04-27",
+    "companies": [
+      "cosco"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "China Merchants steps in to back COSCO in CK Hutchison port deal - Baird Maritime",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxQMnN6RlpmSDAtcjJTdVU0MUxMUGlhOG14UkZaQXJkXzB5QXlJbUxGc3V4d0lXRW1pVzdKbVBuRy1BdTVCWElDZVNHbVBkeFltNGVaaWNCdUdqVjZQUU04MEFBODFaalRVM2RqVlFNdT",
+    "sources": [
+      {
+        "name": "cosco",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQMnN6RlpmSDAtcjJTdVU0MUxMUGlhOG14UkZaQXJkXzB5QXlJbUxGc3V4d0lXRW1pVzdKbVBuRy1BdTVCWElDZVNHbVBkeFltNGVaaWNCdUdqVjZQUU04MEFBODFaalRVM2RqVlFNdTZ3QVJJbmhON3ZvTHdGUDJXUjA2UEFVT2VqSm0tYnFfWE5BY1RDMzFfZ284NVVSQTNWMURrRTc1OXR4SlFaQkHSAbsBQVVfeXFMTTJWNVhreEx4ODJTclpXT2ZlcUkyc3o1ZzVZVVZkR202S2FPY3BjR09TSS13aUd6OFFtS0I3MnlXYU9vVFpfZVBGdGdNZTA0dmxIcnNEUWtkS3A0NTFNOXlrTEp5YkhNbTFiS2s5dW83dTBHcHpxNHRkSGhqLUo4bXJFWlQyS1BXM2EzRXI2NTZvQWs5OFRicThHa2pnY0hEMUZrUjR4M0pHZjVFYnFicFp0T1E0NkdPdzRQZw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-04-27-022",
+    "date": "2026-04-27",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Diana Shipping raises offer for Genco Shipping to $23.50/share - MSN",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5wJBVV95cUxOU2piSFVScThOMTJfb1RLdlpmNmtBaFJoaGxZOGVTSUNNdUg4alc0dnBJX0hPVjRkaU91c09sWXg0R2tRckMzTkdiR3c2WXdQa2JoeFVaTG9mOUE0Y01nckdBV3VjR0ZTM3hXMFhVZW",
+    "sources": [
+      {
+        "name": "star_bulk",
+        "url": "https://news.google.com/rss/articles/CBMi5wJBVV95cUxOU2piSFVScThOMTJfb1RLdlpmNmtBaFJoaGxZOGVTSUNNdUg4alc0dnBJX0hPVjRkaU91c09sWXg0R2tRckMzTkdiR3c2WXdQa2JoeFVaTG9mOUE0Y01nckdBV3VjR0ZTM3hXMFhVZWJhQThDTml1TkY2RVhTSDN5UTJsVXZFcC1ITENCV0ZmUkx5NGtkQjkydU1nX2lWcnR1ODV5Z2R0cnBlN01DVkVxeG9xYkx3SkJld3M1RUxrR19EcnNqR3RPZVZOLXp3Um5LOXoyRGZxeFBSeFZia2hsZlBud2FEQ1p0cUZlUjJydGVaU001R095azI5V210eVBLdkkwZmhVNWhQUFRSZVRFcy1lMVhKYldYR0xoUTlyU3lPTl92aDlIM0Izc2RnanRhZGZHVm9BMU52dFcyM2UtWjBTa0UxNElualdyOV9DZ1R2QVM4R0hKUGo0VmNPelRmSmFsc2NsQQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-04-27-023",
+    "date": "2026-04-27",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Workboat Hits and Damages Moored Fast Ferry Near Trondheim",
+    "summary": "\n                 [Brief] On Friday, a service vessel struck a moored fast ferry at a small port on the island of Froya, northwest of Trondheim, penetrating the ferry'...\n            ",
+    "sources": [
+      {
+        "name": "maritime_executive",
+        "url": "https://maritime-executive.com/article/workboat-hits-and-damages-moored-fast-ferry-near-trondheim",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-04-27-024",
+    "date": "2026-04-27",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Piracy resurges in Somali waters amid wider regional shipping crisis",
+    "summary": "<p>Somali piracy is back in the spotlight after four attacks in as many days, including two vessel hijackings, prompting authorities to raise the threat level for the region and warn commercial shippi",
+    "sources": [
+      {
+        "name": "splash247",
+        "url": "https://splash247.com/piracy-resurges-in-somali-waters-amid-wider-regional-shipping-crisis/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-04-27-025",
+    "date": "2026-04-27",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Container shipping’s ‘long covid’ reshapes capacity",
+    "summary": "<p>Container shipping appears to be suffering from long covid.&#160; New data from Danish consultancy Sea-Intelligence shows that the continuing lack of vessel reliability has created a new baseline f",
+    "sources": [
+      {
+        "name": "splash247",
+        "url": "https://splash247.com/container-shippings-long-covid-reshapes-capacity/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-04-27-026",
+    "date": "2026-04-27",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Trapped and forgotten: seafarers endure mounting toll in Gulf stand-off",
+    "summary": "<p>Twenty thousand seafarers aboard 1,600 vessels remain stranded in the Persian Gulf, and the men and women keeping global trade moving say the world has forgotten them. International Maritime Organi",
+    "sources": [
+      {
+        "name": "splash247",
+        "url": "https://splash247.com/trapped-and-forgotten-seafarers-endure-mounting-toll-in-gulf-stand-off/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-04-27-027",
+    "date": "2026-04-27",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "FuelEU Maritime calculation error exposes operators to millions in unintended penalties",
+    "summary": "<p>A flaw in the ice-class calculation methodology used under FuelEU Maritime has left compliant shipping operators facing potential penalties running into tens of millions of euros &#8211; through no",
+    "sources": [
+      {
+        "name": "splash247",
+        "url": "https://splash247.com/fueleu-maritime-calculation-error-exposes-operators-to-millions-in-unintended-penalties/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-04-27-028",
+    "date": "2026-04-27",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Shearwater trims fleet with disposal of idle vessel",
+    "summary": "<p>Norwegian offshore seismic vessel player Shearwater Geoservices has entered into an agreement to sell one of its vessels. Shearwater disclosed that it would sell its 2012-built vessel, SW Baret, to",
+    "sources": [
+      {
+        "name": "splash247",
+        "url": "https://splash247.com/shearwater-trims-fleet-with-disposal-of-idle-vessel/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-04-27-029",
+    "date": "2026-04-27",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Customs delays a hurdle to Lazaro Cardenas hub ambitions",
+    "summary": "<p>Mexico’s second-largest Pacific container gateway, Lazaro Cardenas, is seeing expansion to bring it closer to its hub ambitions. However, problems with customs clearance threaten to undermine the v",
+    "sources": [
+      {
+        "name": "loadstar",
+        "url": "https://theloadstar.com/customs-delays-a-hurdle-to-lazaro-cardenas-hub-ambitions/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-04-27-030",
+    "date": "2026-04-27",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Cathay Cargo’s cruel paradox",
+    "summary": "<p>In a nutshell: Hong Kong&#8217;s flag carrier is shipping more freight than ever, but the Middle East fuel crisis is steadily hollowing out the network it needs to do it.<br />\nCathay Cargo finds i",
+    "sources": [
+      {
+        "name": "loadstar",
+        "url": "https://theloadstar.com/cathay-cargos-cruel-paradox/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-04-27-031",
+    "date": "2026-04-27",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "APM Terminals Valencia concession extended until 2049",
+    "summary": "APM Terminals concession in Valencia now extends to the ordinary maximum of 50 years under Spanish port laws",
+    "sources": [
+      {
+        "name": "seatrade_maritime",
+        "url": "https://www.seatrade-maritime.com/ports-logistics/apm-terminals-valencia-concession-extended-until-2049",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-04-27-032",
+    "date": "2026-04-27",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "PIL and PSA launch Singapore’s first green transhipment shipping service",
+    "summary": "Trial set to launch in May builds on MoU signed in March 2025 between PIL, PSA and DNV.",
+    "sources": [
+      {
+        "name": "seatrade_maritime",
+        "url": "https://www.seatrade-maritime.com/containers/pil-and-psa-launch-singapore-s-first-green-transhipment-shipping-service",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-04-27-033",
+    "date": "2026-04-27",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "China Merchants Energy Shipping books eight containerships",
+    "summary": "Group to spend $556m on 1,800 teu and 8,200 teu methanol-ready ships due for delivery in 2028.",
+    "sources": [
+      {
+        "name": "seatrade_maritime",
+        "url": "https://www.seatrade-maritime.com/containers/china-merchants-energy-shipping-books-eight-containerships",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-04-27-034",
+    "date": "2026-04-27",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Elemental forces set to collide in IMO NZF battle",
+    "summary": "Will the dinosaurs win the day and keep maritime in fossil fuel, or can the progressives maintain the net zero momentum, the battle lines have been drawn",
+    "sources": [
+      {
+        "name": "seatrade_maritime",
+        "url": "https://www.seatrade-maritime.com/regulations/elemental-forces-set-to-collide-in-imo-nzf-battle",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-04-27-035",
+    "date": "2026-04-27",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Hormuz transits dry up, US intercepts newly sanctioned tanker",
+    "summary": "AIS tracking shows almost no traffic in the Strait of Hormuz and US blockade in the Arabian Sea has now turned around 38 vessels",
+    "sources": [
+      {
+        "name": "seatrade_maritime",
+        "url": "https://www.seatrade-maritime.com/security/hormuz-transits-dry-up-us-intercepts-newly-sanctioned-tanker",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "unknown-2026-04-26-001",
     "date": "2026-04-26",
     "companies": [],
@@ -376,6 +912,60 @@
       {
         "name": "loadstar",
         "url": "https://theloadstar.com/news-in-brief-podcast-week-17-2026-strait-uncertainty-shifting-capacity-and-steep-surcharges/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-04-26-016",
+    "date": "2026-04-26",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Search Called off for Cruise Crewmember Who Went Overboard off Cape Cod",
+    "summary": "\n                 The U.S. Coast Guard has called off a search for a crewmember who fell overboard from the cruise ship Norwegian Breakaway off the coast of Wellfleet,...\n            ",
+    "sources": [
+      {
+        "name": "maritime_executive",
+        "url": "https://maritime-executive.com/article/search-called-off-for-cruise-crewmember-who-went-overboard-off-cape-cod",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-04-26-017",
+    "date": "2026-04-26",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Hormuz Traffic Ticks Up With More Vessels Outbound",
+    "summary": "\n                 Traffic is picking up again in the Strait of Hormuz, despite dueling blockades by U.S. and Iranian forces, according to maritime security consultancy...\n            ",
+    "sources": [
+      {
+        "name": "maritime_executive",
+        "url": "https://maritime-executive.com/article/hormuz-traffic-ticks-up-with-more-vessels-outbound",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-04-26-018",
+    "date": "2026-04-26",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "MacGregor to Supply Deck Machinery for Ultra-Large Cable-Laying Vessels",
+    "summary": "\n                MacGregor has been selected to supply a comprehensive package of offshore and merchant deck machinery for ultra-large cable-laying vessels. The vessel...\n            ",
+    "sources": [
+      {
+        "name": "maritime_executive",
+        "url": "https://maritime-executive.com/article/macgregor-to-supply-deck-machinery-for-ultra-large-cable-laying-vessels",
         "type": "rss"
       }
     ]
@@ -2167,6 +2757,26 @@
       {
         "name": "cosco",
         "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPQTVhaF9MVTRHeTBWb1FOc2VHMFBiVnFuUTJOMmVwRERwa19HbFp3WlQwZUpSa192WlRUcUlpYTNfTUx2ZXNIOG9nczRYYk5hVHZKdWZyRVF2Y0RiY0RNLVRVcFBiUU9SX1o4YkZfNlpFcmpHVGE3LVU0eWRvRGg2RDdSemhPdDZ0Ymhoc0lEMHV3TTAzbEJLNmNuMVJoOVo5Y3oxaVJrSGEzU2xfWHdYak45c2lPeV9qcFA4bHFBYw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "hanwha_ocean-2026-04-22-021",
+    "date": "2026-04-22",
+    "companies": [
+      "hanwha_ocean"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Hanwha Ocean teams up with Leidos to enter US warship market - The Korea Herald",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTFBsWjl3aFRYTEJKelNGSl9icE1iTjg0NVd1ZVI5b1hBcmZQQlZfSzRlMlZNanJuM19vQ2VvOF9KM2NNRXBYT1c2MHVWa1hucjhaNWpDa1pLOA?oc=5\" target=\"_blank\">Hanwha Oc",
+    "sources": [
+      {
+        "name": "hanwha_ocean",
+        "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBsWjl3aFRYTEJKelNGSl9icE1iTjg0NVd1ZVI5b1hBcmZQQlZfSzRlMlZNanJuM19vQ2VvOF9KM2NNRXBYT1c2MHVWa1hucjhaNWpDa1pLOA?oc=5",
         "type": "rss"
       }
     ]

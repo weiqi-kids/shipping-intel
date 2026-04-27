@@ -1,15 +1,16 @@
 {
-  "total_raw": 664,
-  "dup_title": 229,
+  "total_raw": 995,
+  "dup_title": 332,
   "no_date": 0,
-  "too_old": 374,
-  "gate1_fail": 34,
-  "gate2_fail": 4,
-  "passed": 23,
+  "too_old": 551,
+  "gate1_fail": 50,
+  "gate2_fail": 6,
+  "passed": 56,
   "gate2_samples": [
     "Towage giant Boluda snaps up Seatrium assets in Singapore",
     "Kuehne + Nagel – give me a reason…",
     "Towage giant Boluda snaps up Seatrium assets in Singapore",
-    "Kuehne + Nagel – give me a reason…"
+    "Kuehne + Nagel – give me a reason…",
+    "Towage giant Boluda snaps up Seatrium assets in Singapore"
   ]
 }

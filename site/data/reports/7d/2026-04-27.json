@@ -4,15 +4,15 @@
     "start": "2026-04-21",
     "end": "2026-04-27"
   },
-  "generated_at": "2026-04-27T03:36:56.550168Z",
+  "generated_at": "2026-04-27T10:23:08.713868Z",
   "highlights": [
     {
       "rank": 1,
       "type": "top_event",
-      "event_id": "unknown-2026-04-24-010",
-      "date": "2026-04-24",
-      "title": "Carriers forced to manage capacity to prevent spot rate ‘free-fall’",
-      "importance_score": 0.65
+      "event_id": "samsung_heavy-2026-04-27-008",
+      "date": "2026-04-27",
+      "title": "\"Profits from Hanwha Ocean and Samsung Heavy Industries\": Jung Ji-seon's 13-year-old son reveals stock investing - 매일경제",
+      "importance_score": 0.7
     }
   ],
   "anomalies_7d": [],
@@ -24,16 +24,16 @@
       "sentiment_this_week": 0.0
     },
     "container_freight": {
-      "this_week": 1,
+      "this_week": 2,
       "last_week": 4,
-      "week_over_week_change": "-75%",
+      "week_over_week_change": "-50%",
       "sentiment_this_week": 0.0
     },
     "industry_general": {
-      "this_week": 11,
+      "this_week": 33,
       "last_week": 0,
       "week_over_week_change": "N/A",
-      "sentiment_this_week": -0.13
+      "sentiment_this_week": -0.08
     },
     "dry_bulk_rate": {
       "this_week": 1,
@@ -44,17 +44,27 @@
   },
   "company_7d_summary": {
     "hanwha_ocean": {
+      "event_count": 13,
+      "sentiment_avg": -0.04,
+      "rank": 1
+    },
+    "samsung_heavy": {
       "event_count": 1,
       "sentiment_avg": 0.0,
-      "rank": 1
+      "rank": 2
+    },
+    "cosco": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 3
     }
   },
   "comparisons": {
     "vs_last_week": {
       "event_count": {
-        "this": 136,
+        "this": 169,
         "last": 32,
-        "change_pct": 325.0
+        "change_pct": 428.1
       }
     }
   },
@@ -66,7 +76,7 @@
     },
     {
       "date": "2026-04-22",
-      "event_count": 20,
+      "event_count": 21,
       "sentiment_avg": 0
     },
     {
@@ -86,21 +96,21 @@
     },
     {
       "date": "2026-04-26",
-      "event_count": 15,
+      "event_count": 18,
       "sentiment_avg": 0
     },
     {
       "date": "2026-04-27",
-      "event_count": 6,
+      "event_count": 35,
       "sentiment_avg": 0
     }
   ],
   "llm_analysis": {
-    "summary": "本週（2026-04-21 ~ 2026-04-27）共 136 則事件，重點為「Carriers forced to manage capacity to prevent s...」。事件量較上週增加 325%，產業動態明顯升溫，需密切關注。",
+    "summary": "本週（2026-04-21 ~ 2026-04-27）共 169 則事件，重點為「\"Profits from Hanwha Ocean and Samsung Heavy In...」。事件量較上週增加 428%，產業動態明顯升溫，需密切關注。",
     "watchlist": [
       {
         "company": "韓華海洋",
-        "reason": "本週有 1 則相關事件，建議持續追蹤動態。"
+        "reason": "本週出現 13 則相關事件且情緒偏負面，需特別關注。"
       }
     ]
   },
