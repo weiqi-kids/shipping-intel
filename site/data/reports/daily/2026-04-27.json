@@ -1,6 +1,6 @@
 {
   "date": "2026-04-27",
-  "generated_at": "2026-04-27T01:42:12.247773Z",
+  "generated_at": "2026-04-27T03:36:56.487403Z",
   "top_events": [
     {
       "rank": 1,
@@ -26,6 +26,28 @@
     },
     {
       "rank": 2,
+      "event_id": "unknown-2026-04-27-006",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Somali piracy warning as second ship hijacked",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://www.seatrade-maritime.com/piracy/somali-piracy-warning-as-second-ship-hijacked"
+    },
+    {
+      "rank": 3,
       "event_id": "unknown-2026-04-27-001",
       "importance_score": 0.5,
       "importance_reasons": [],
@@ -45,7 +67,7 @@
       "source_url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBwbXhCRERuMkRzamNld2VGTHBwTjd1dDlscHBjdEROdjRTUmIzZnBieVJraUxJUnBZbENXaWkzcl83a1lSMWdnWFA1ekdZcnkzZTlIbVB3ZXpHelEzeXl2Q1JCMG81a0FVWnFkU1A5ekdXamdwNVFB?oc=5"
     },
     {
-      "rank": 3,
+      "rank": 4,
       "event_id": "unknown-2026-04-27-002",
       "importance_score": 0.5,
       "importance_reasons": [],
@@ -65,7 +87,7 @@
       "source_url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQNHpEd1k5bW5uT0dWbDVTdzZnbFk1b1FEcEpTajY3QjNFOUdBcjk3MFlXYkpIcTZrNy1WVDd3UjN3OFpOb2NYMTNaWVR5Nl9MQ3hLaHhDZDNLR0hzZjB1a2JaWTF4N095SWdvb2RIMGh0QnJYSFZGZ0xVdThHb0NXNXlxdk1iem9ZN0ozUEZPMDkxVGdldUdLS0RDbjBBOEsteXV3SWJBM2ZPUTFSUXhwcE9LWlJSMURRUnh3ZE5fTVpGQVhtY1dNYU9RV23SAdIBQVVfeXFMUHhvRDFSN213ZmRLY09mS0pnaS1Wc2dHWTBRaEp0ejBMOVZTSGpFZU93WDFvUlZnMkZYaFNCc1ExUEJ3b2s2S202Q0ZsaUhhd0NZbXdYSjZIYUxGbW9iVmNpRlNwa1d4TjRhUVhhNzJBLXNUc3ZoUG0yZTE2Rk9DcU1ZZDZhVWRmUVp6cjhEb3BESGUtMjBTYXdRSlNEWjRGM1p5eG9paE5FWVJLeUx5YkY3aXNoWUNtSUtKYjlFRFdLcmxZRld1YVVsbk5CSFp3UzFn?oc=5"
     },
     {
-      "rank": 4,
+      "rank": 5,
       "event_id": "unknown-2026-04-27-004",
       "importance_score": 0.5,
       "importance_reasons": [],
@@ -89,13 +111,13 @@
   "anomalies": [],
   "topic_trends": {
     "industry_general": {
-      "today": 4,
+      "today": 6,
       "7d_avg": 0,
       "30d_avg": 0,
       "yoy_same_week": null,
       "trend": "new",
       "consecutive_weeks_rising": 0,
-      "sentiment_today": -0.25,
+      "sentiment_today": -0.33,
       "sentiment_7d_avg": null
     },
     "dry_bulk_rate": {
@@ -111,17 +133,17 @@
   },
   "supply_chain_activity": [],
   "stats": {
-    "total_events": 4,
+    "total_events": 6,
     "sentiment_distribution": {
       "positive": 0,
-      "neutral": 3,
-      "negative": 1
+      "neutral": 4,
+      "negative": 2
     },
     "top_companies": [],
     "top_topics": [
       {
         "id": "industry_general",
-        "count": 4
+        "count": 6
       },
       {
         "id": "dry_bulk_rate",
@@ -130,29 +152,31 @@
     ]
   },
   "filter_audit": {
-    "total_raw": 332,
-    "dup_title": 106,
-    "too_old": 188,
-    "gate1_blocked": 17,
-    "gate2_blocked": 2,
-    "passed": 19,
-    "pass_rate": "8.4%",
+    "total_raw": 664,
+    "dup_title": 229,
+    "too_old": 374,
+    "gate1_blocked": 34,
+    "gate2_blocked": 4,
+    "passed": 23,
+    "pass_rate": "5.3%",
     "gate2_block_rate": "0.9%",
     "gate2_samples": [
+      "Towage giant Boluda snaps up Seatrium assets in Singapore",
+      "Kuehne + Nagel – give me a reason…",
       "Towage giant Boluda snaps up Seatrium assets in Singapore",
       "Kuehne + Nagel – give me a reason…"
     ],
     "alert": false
   },
   "llm_analysis": {
-    "summary": "今日共 4 則事件，焦點為航運產業通用、散裝運價相關動態：「Qatar LNG faces long road back after unprecedented disrup...」。整體情緒偏負面，需留意潛在風險。",
+    "summary": "今日共 6 則事件，焦點為航運產業通用、散裝運價相關動態：「Qatar LNG faces long road back after unprecedented disrup...」。整體情緒偏負面，需留意潛在風險。",
     "signals": [
       {
         "text": "Qatar LNG faces long road back after unprecedented disruption（航運產業通用）",
         "level": "green"
       },
       {
-        "text": "HD Hyundai wins US Naval Research Office projects - The Korea News Plus（航運產業通用）",
+        "text": "Somali piracy warning as second ship hijacked（航運產業通用）",
         "level": "green"
       }
     ]

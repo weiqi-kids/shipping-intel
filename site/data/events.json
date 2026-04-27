@@ -73,6 +73,42 @@
     ]
   },
   {
+    "id": "unknown-2026-04-27-005",
+    "date": "2026-04-27",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "HD Hyundai Wins First U.S. Naval Research Contract - Businesskorea",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTFBpTVoyMnEwYUNVS1VwOUZpRmFVV0lta1BBdlBWUEVwNGZxYlBmdTROX2l0NFRjb0UtN1dJMkt6OFQ2NHJ0X0FJOF9EczdOalRKd1RlbWFoSU9UeEFJdFhIeDkwZVhrTDI3c2FDOHpGOD",
+    "sources": [
+      {
+        "name": "hd_korea",
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBpTVoyMnEwYUNVS1VwOUZpRmFVV0lta1BBdlBWUEVwNGZxYlBmdTROX2l0NFRjb0UtN1dJMkt6OFQ2NHJ0X0FJOF9EczdOalRKd1RlbWFoSU9UeEFJdFhIeDkwZVhrTDI3c2FDOHpGODBjZm9a?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-04-27-006",
+    "date": "2026-04-27",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "negative",
+    "title": "Somali piracy warning as second ship hijacked",
+    "summary": "Commercial shipping is again facing the scourge of Somalia piracy with two vessels hijacked in less than a week and warnings from both UKMTO and JMIC",
+    "sources": [
+      {
+        "name": "seatrade_maritime",
+        "url": "https://www.seatrade-maritime.com/piracy/somali-piracy-warning-as-second-ship-hijacked",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "unknown-2026-04-26-001",
     "date": "2026-04-26",
     "companies": [],
@@ -524,6 +560,26 @@
       {
         "name": "maritime_executive",
         "url": "https://maritime-executive.com/article/phi-earth-and-abs-sign-mou-at-singapore-maritime-week",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "cosco-2026-04-25-011",
+    "date": "2026-04-25",
+    "companies": [
+      "cosco"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "EBIT per share of COSCO SHIPPING Energy Transportation Co., Ltd. Class H – MUN:HIFH - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxNZkRCOFJjbEkzNmFYUWc5bTZTNFFPdFlBV2JhYjJFZEFBWnlIbnAzUGxVdkhka2xCcHExekE1UEVmUjB0ZHJ2aGstby1obXhFVmRLMldPMTdGNHFqZlRrclQxdWI0QUxMbTAtZlFveV",
+    "sources": [
+      {
+        "name": "cosco",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNZkRCOFJjbEkzNmFYUWc5bTZTNFFPdFlBV2JhYjJFZEFBWnlIbnAzUGxVdkhka2xCcHExekE1UEVmUjB0ZHJ2aGstby1obXhFVmRLMldPMTdGNHFqZlRrclQxdWI0QUxMbTAtZlFveVhfM3haNjhPN0YwclBZcDhvaDlwaEgtUEdPNEFNVk5fRWt1enkzUzk2OQ?oc=5",
         "type": "rss"
       }
     ]
@@ -1739,6 +1795,24 @@
       {
         "name": "seatrade_maritime",
         "url": "https://www.seatrade-maritime.com/security/escaping-the-strait-of-hormuz-not-worth-the-risk",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-04-23-023",
+    "date": "2026-04-23",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Middle East Escalation Disrupts Global Ocean and Air Freight Networks - flexport.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxPcG1WTXpHcWJlOVFxeUZDa2Y5aVJ5b3VLM3NUVzZZM0ZaQ05FYkRoNHVHT0VYMG5BTldZYS1faERGNHNWRE5QU25kdDJnQ0k1N3hwWElYcGNBMUs1cWQxUTh1NlFFN0ZuTXZ3OFNFVk",
+    "sources": [
+      {
+        "name": "google_container_shipping",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPcG1WTXpHcWJlOVFxeUZDa2Y5aVJ5b3VLM3NUVzZZM0ZaQ05FYkRoNHVHT0VYMG5BTldZYS1faERGNHNWRE5QU25kdDJnQ0k1N3hwWElYcGNBMUs1cWQxUTh1NlFFN0ZuTXZ3OFNFVkVvaGxQcWV3S203cDVnbHA4M1FZaFdrSXItTU1JeG5aMjNzZlNyVmliSThyQ0RIS0xLR1E?oc=5",
         "type": "rss"
       }
     ]

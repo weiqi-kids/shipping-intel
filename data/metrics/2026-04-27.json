@@ -1,11 +1,11 @@
 {
   "date": "2026-04-27",
-  "total_events": 4,
+  "total_events": 6,
   "by_company": {},
   "by_topic": {
     "industry_general": {
-      "count": 4,
-      "sentiment_avg": -0.25
+      "count": 6,
+      "sentiment_avg": -0.33
     },
     "dry_bulk_rate": {
       "count": 1,
