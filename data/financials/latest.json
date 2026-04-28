@@ -1,7 +1,21 @@
 {
-  "updated_at": "2026-04-27T10:23:06.035548Z",
+  "updated_at": "2026-04-28T10:21:53.869860Z",
   "quarter": "2025-06-30, 2025-12-31",
   "companies": [
+    {
+      "id": "cosco",
+      "name": "中遠海控",
+      "ticker": "1919.HK",
+      "currency": "HKD",
+      "ar": 8058718000,
+      "ar_prev": 10223420000,
+      "ar_qoq": "-21%",
+      "inventory": 6665191000,
+      "inv_prev": 6736564000,
+      "inv_qoq": "-1%",
+      "alert": true,
+      "quarter_date": "2025-12-31"
+    },
     {
       "id": "cssc",
       "name": "中國船舶",
@@ -175,9 +189,9 @@
       "name": "ZIM Integrated Shipping",
       "ticker": "ZIM",
       "currency": "USD",
-      "ar": 501800000,
-      "ar_prev": 650100000,
-      "ar_qoq": "-23%",
+      "ar": 137000000,
+      "ar_prev": 44800000,
+      "ar_qoq": "+206%",
       "inventory": 167800000,
       "inv_prev": 182000000,
       "inv_qoq": "-8%",

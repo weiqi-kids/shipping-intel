@@ -1,0 +1,13 @@
+{
+  "total_raw": 332,
+  "dup_title": 72,
+  "no_date": 0,
+  "too_old": 159,
+  "gate1_fail": 25,
+  "gate2_fail": 2,
+  "passed": 74,
+  "gate2_samples": [
+    "Hanwha Ocean's Net Attributable Income Jumps 132% in Q1 - marketscreener.com",
+    "FedEx partners with Viettel Post in Vietnam"
+  ]
+}
