@@ -1,0 +1,15 @@
+{
+  "total_raw": 332,
+  "dup_title": 87,
+  "no_date": 0,
+  "too_old": 154,
+  "gate1_fail": 21,
+  "gate2_fail": 4,
+  "passed": 66,
+  "gate2_samples": [
+    "Samsung Heavy Industries to Deliver Floating Data Centers in the U.S. - Marine News Magazine",
+    "Samsung Heavy Industries Earns Zero Waste to Landfill Certification - Businesskorea",
+    "Kolon Spaceworks joins hands with Hanwha Ocean and Spartec to target North American defense market -",
+    "Dee4 doubles down on ultramax play"
+  ]
+}

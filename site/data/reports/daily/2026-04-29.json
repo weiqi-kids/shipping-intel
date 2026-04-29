@@ -1,0 +1,221 @@
+{
+  "date": "2026-04-29",
+  "generated_at": "2026-04-29T10:11:40.221397Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-04-29-015",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Delay tactics cast shadow over MEPC",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -0.75
+      },
+      "source_url": "https://splash247.com/delay-tactics-cast-shadow-over-mepc/"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-04-29-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "While international discussions on small module nuclear power plants (SMR) ships began in earnest th.. - 매일경제",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1YZjZyQlR5QW91WUVzdExFM2lwMVpzdjZMMzFVZ3hXWXdZWUh0em1SZ3lZRk5qTTRwTnNXc1cybS1kc0oyd2lXX0RtMA?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "hanwha_ocean-2026-04-29-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "LIG, Magellan Aerospace, and Hanwha Ocean forge alliance to work on CPSP - Naval Today",
+      "companies": [
+        "hanwha_ocean"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNanF0MXJYMnBUc2xabUZYVGVaNHRsVm5xUUVYd0R1YUI2QmVxeGdvQUZyaEdaUXFvZFJrTHJISkZfUGkwVzJESWxJeF9ucUE1emVpamFucUxENHI1MEtMcXBGeDU3cktoTGllV3Y1NDBuMFp5TkpneU1lSWtldGtWMzBfb2NITGgyWEFSNzVRNVRsS3h4VldnNjRUYnBLSXcwQXdaNlRhSnN6OWpQOWc?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "hanwha_ocean-2026-04-29-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Hanwha Ocean And Leidos Partner On Naval Shipbuilding - Marine News Magazine",
+      "companies": [
+        "hanwha_ocean"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE45RDlydFYxQllIX080NGwtVkdUQzFDSy1JNEhSdHA0emtYbUxUTFRDWGtQMU5sMWFIaDlTNy1zd2xJdUhBSm02UHZqQkRYenBKMW52Zl9zanhtT1hDQ052NV84bE9UQzZpdXJpUUo1aWs3MzVNeExPVkpYaXg?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-04-29-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Steel-cutting ceremony marks start of construction for Korea's second combat support ship - Korea JoongAng Daily",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPMl9MSTNZQmRwZFNPRVN5aldNQlM3Y01iVWJxRlFNenYtamJtS1dsRFhyd2s5VEFVTE9RbTduSURPR3JSQnh4OHpYVndjaTBHOGpCa0hMc3NRZXFiTVM4ZEdSRmdaaENZWDQ1T3hDX3ZEcHNyaW9FZW55a1Y0a20tWjI0LTdocnktRlRMeWtqX0NaV2ZuWjIzVm43RW5fcU5zQkxwLVFRZ196X3RSX21kbFRWR0F2ZGVyNEhEb05XdmhLSXVfcGNuTjVTc0xZSzVZdVVfbkNaOTB6RF9aSzJ4TUJ3YklXVjRkeWg4dDFZMWtGRWJsNjRQRQ?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 26,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.03,
+      "sentiment_7d_avg": null
+    },
+    "shipbuilding_orders": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "container_freight": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 27,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 26,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "cosco",
+        "count": 5
+      },
+      {
+        "id": "hanwha_ocean",
+        "count": 3
+      },
+      {
+        "id": "evergreen",
+        "count": 1
+      },
+      {
+        "id": "yang_ming",
+        "count": 1
+      },
+      {
+        "id": "cssc",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 26
+      },
+      {
+        "id": "shipbuilding_orders",
+        "count": 2
+      },
+      {
+        "id": "container_freight",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 332,
+    "dup_title": 87,
+    "too_old": 154,
+    "gate1_blocked": 21,
+    "gate2_blocked": 4,
+    "passed": 66,
+    "pass_rate": "26.9%",
+    "gate2_block_rate": "1.6%",
+    "gate2_samples": [
+      "Samsung Heavy Industries to Deliver Floating Data Centers in the U.S. - Marine News Magazine",
+      "Samsung Heavy Industries Earns Zero Waste to Landfill Certification - Businesskorea",
+      "Kolon Spaceworks joins hands with Hanwha Ocean and Spartec to target North American defense market -",
+      "Dee4 doubles down on ultramax play"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 27 則事件，焦點為中遠海控、韓華海洋、長榮海運相關動態：「Delay tactics cast shadow over MEPC」。整體情緒偏負面，需留意潛在風險。",
+    "signals": [
+      {
+        "text": "Delay tactics cast shadow over MEPC（航運產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "While international discussions on small module nuclear power plants (SMR) sh...（航運產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

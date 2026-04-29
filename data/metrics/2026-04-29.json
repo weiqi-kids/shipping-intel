@@ -1,0 +1,45 @@
+{
+  "date": "2026-04-29",
+  "total_events": 27,
+  "by_company": {
+    "hanwha_ocean": {
+      "count": 3,
+      "sentiment_avg": 0.0
+    },
+    "evergreen": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "yang_ming": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "cosco": {
+      "count": 5,
+      "sentiment_avg": 0.0
+    },
+    "cssc": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "industry_general": {
+      "count": 26,
+      "sentiment_avg": -0.03
+    },
+    "shipbuilding_orders": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "container_freight": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}
