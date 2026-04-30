@@ -1,0 +1,15 @@
+{
+  "total_raw": 331,
+  "dup_title": 76,
+  "no_date": 0,
+  "too_old": 145,
+  "gate1_fail": 25,
+  "gate2_fail": 4,
+  "passed": 81,
+  "gate2_samples": [
+    "Samsung Heavy Industries Earns Zero Waste to Landfill Certification - Businesskorea",
+    "Samsung Heavy Industries to Deliver Floating Data Centers in the U.S. - Marine News Magazine",
+    "Samsung Heavy Industries Archives - Dallas Innovates",
+    "STG Logistics says it ‘advances toward fully consensual emergence’ from Chapter 11"
+  ]
+}

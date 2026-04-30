@@ -1,0 +1,179 @@
+{
+  "date": "2026-04-30",
+  "generated_at": "2026-04-30T10:11:59.529538Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-04-30-010",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "FMC issues record $45.6m reparations ruling against OOCL",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://splash247.com/fmc-issues-record-45-6m-reparations-ruling-against-oocl/"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-04-30-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "South Korea eyes nuclear-powered SMR ships - upi.com",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQTWljSlQ5Q2xEQ19ZdllnQWdVZXBZaHBKOWdsTklwa25jVjBMNkMxUm52VWRDWmhEcEpnc1BXOU00S0pzN0hmTHhOeTU4VUVkeVp1WmJWUmJGZ25PS212MVI0NkxBWGx1UWlIZk9fTWNLRFR6b0JMWVNKRHpVNHFxTlFIYjdjSnU0alJtclhOXzVUSDBYcS0yUDdOUzNIdkxIVHFB0gGoAUFVX3lxTE1VZmJTSThzNENwV3VxMUVUaHNISXpZR3FSRllPVmxsck5KSWtDVEMtQmxqbDMxdkRNeU9NM3Y4YlNIWWRJaW5ydEJWTzM4T1lNWWNKcS1nWEY0S0hKa1FUeFBGY3ZKazM5cTR1RXlES0VlRW5zcDZjWjFYQnBvbTJmbDdjS3JnWktQa1VJOHh2dFhSdzhMQmZnU01xSFNGaVctYWhYMVl4UA?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "samsung_heavy-2026-04-30-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Samsung Heavy Industries Q1 Operating Profit Soars 122% to 273 Billion Won - Seoul Economic Daily",
+      "companies": [
+        "samsung_heavy"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNYVpPYzRNWG9EelBRQjVTb0tnVG5xazBtTXBYbGxaVmY0TF9Ba0pMTWw0WTBIdFkyXzg3MmN4dWZRNkZiN2x5d0RCTmxYTFlpd0RNYUdNRVpnQlNISzBTTGFzSEpadWd4a0JIeHJndEcyNS1meFd5UzdMakZKSzlJWGJpX1B0eE01LTA2eWxhX3pFZmFRWkw0UWJDUTk?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-04-30-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Orca AI and Samsung Heavy team up to speed autonomous shipping push - Splash247",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOSTY1SXlxSDZkTjZad0MtbXI2UkdPd0hmSGtIX18zMk8weUl5c2R0ZE5LMW82VGNYbWV1WVNlTlFybUFyWE9zU2tsTE9ySnU5eXc3UVNobHN6WnV5b3Y5MTJqdW94MXVqbm1Sc0NxWjdtVTVGOUhYcEFwVl9NbHFhZlZiUGJfbmxCTUx3Y3BDT1YxZk40?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "cosco-2026-04-30-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "A Look At COSCO SHIPPING Holdings (SEHK:1919) Valuation After Recent Share Price Gains - Yahoo Finance",
+      "companies": [
+        "cosco"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNZlBqTlRfSW9DZ09yMHJscGJvbnFDRUR6Z2M2ODFfZUw4ZVJIeWFOYkJ6TE5mNUlrU3FsOURKSXl1cDhrZ1VLUFNYNTZFeTEzMUoxS09JNENkdGZEbzUtQkJZS2dNNFh3cDFxdWZ4dHJPRXVCWjBVdEpDOTc0WC1xVGxwYWdCNVo2LXdVUVVIMFBnNUFWVnpxdVI5THc2WUU?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 22,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.05,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 23,
+    "sentiment_distribution": {
+      "positive": 3,
+      "neutral": 18,
+      "negative": 2
+    },
+    "top_companies": [
+      {
+        "id": "cosco",
+        "count": 6
+      },
+      {
+        "id": "samsung_heavy",
+        "count": 2
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 22
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 331,
+    "dup_title": 76,
+    "too_old": 145,
+    "gate1_blocked": 25,
+    "gate2_blocked": 4,
+    "passed": 81,
+    "pass_rate": "31.8%",
+    "gate2_block_rate": "1.6%",
+    "gate2_samples": [
+      "Samsung Heavy Industries Earns Zero Waste to Landfill Certification - Businesskorea",
+      "Samsung Heavy Industries to Deliver Floating Data Centers in the U.S. - Marine News Magazine",
+      "Samsung Heavy Industries Archives - Dallas Innovates",
+      "STG Logistics says it ‘advances toward fully consensual emergence’ from Chapter 11"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 23 則事件，焦點為中遠海控、三星重工相關動態：「FMC issues record $45.6m reparations ruling against OOCL」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "FMC issues record $45.6m reparations ruling against OOCL（航運產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "South Korea eyes nuclear-powered SMR ships - upi.com（航運產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

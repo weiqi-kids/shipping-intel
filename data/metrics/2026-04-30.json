@@ -1,0 +1,25 @@
+{
+  "date": "2026-04-30",
+  "total_events": 23,
+  "by_company": {
+    "samsung_heavy": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "cosco": {
+      "count": 6,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "industry_general": {
+      "count": 22,
+      "sentiment_avg": 0.05
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}
