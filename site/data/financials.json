@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-04-30T10:11:56.307487Z",
-  "quarter": "2025-06-30, 2025-12-31",
+  "updated_at": "2026-05-01T09:51:40.397813Z",
+  "quarter": "2025-12-31, 2026-03-31",
   "companies": [
     {
       "id": "cosco",
@@ -21,14 +21,14 @@
       "name": "中國船舶",
       "ticker": "600150.SS",
       "currency": "CNY",
-      "ar": 1814945440,
-      "ar_prev": 1834334764,
-      "ar_qoq": "-1%",
-      "inventory": 37094818032,
-      "inv_prev": 38395987804,
-      "inv_qoq": "-3%",
+      "ar": 10258133417,
+      "ar_prev": 8598956540,
+      "ar_qoq": "+19%",
+      "inventory": 70050248256,
+      "inv_prev": 74920604464,
+      "inv_qoq": "-7%",
       "alert": false,
-      "quarter_date": "2025-06-30"
+      "quarter_date": "2026-03-31"
     },
     {
       "id": "evergreen",

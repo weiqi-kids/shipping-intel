@@ -1,0 +1,13 @@
+{
+  "total_raw": 332,
+  "dup_title": 101,
+  "no_date": 0,
+  "too_old": 153,
+  "gate1_fail": 27,
+  "gate2_fail": 2,
+  "passed": 49,
+  "gate2_samples": [
+    "Samsung Heavy Industries Earns Zero Waste to Landfill Certification - Businesskorea",
+    "Samsung Heavy Industries to Deliver Floating Data Centers in the U.S. - Marine News Magazine"
+  ]
+}

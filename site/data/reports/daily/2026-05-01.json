@@ -1,0 +1,194 @@
+{
+  "date": "2026-05-01",
+  "generated_at": "2026-05-01T09:51:43.426419Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-05-01-003",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "ONE Profit Plunges 92% as Geopolitics and Overcapacity Squeeze Earnings",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -0.83
+      },
+      "source_url": "https://gcaptain.com/one-profit-plunges-92-as-geopolitics-and-overcapacity-squeeze-earnings/"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-05-01-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "World's largest car carrier highlights China's growing capabilities in high-end shipbuilding - 巴士的報",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOa25Fa0RSRHEwSWdWTFhqVTVURE42bGNSU1lhYWc3MUxXM0U3UVJnYTlFZERjVnEtV0N3b2Y3dkRvTlZZMU5aYmZuTlc5Y1NEempxaG5FNW9Cb2dXOEs3N1pfZXlfMllqMXdPdlNqc2F6aGpzYmRWQUpJOTBuM0xfQ0NWMkhNakh2Q2E0aDk0X2UzelpsXzItdGpoYmFUaFk3TFNpZmZYV1hhUURjd2Job0djS3ZwMHhrUC1ud3NhQUtNZHlJQ1hETEdWM0ZmVFBMVGJNVGRhTWxtUQ?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-05-01-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Trump Vows to Maintain Pressure on Iran Through Naval Blockade",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -0.5
+      },
+      "source_url": "https://gcaptain.com/trump-vows-to-maintain-pressure-on-iran-through-naval-blockade/"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-05-01-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Complexity, two-tier fleets and bunker fears dominate scene-setting opening panel at Geneva Dry",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://splash247.com/complexity-two-tier-fleets-and-bunker-fears-dominate-scene-setting-opening-panel-at-geneva-dry/"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-05-01-005",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Splash Wrap: Regulators, raiders and deals in Geneva shape shipping this week",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://splash247.com/splash-wrap-regulators-raiders-and-deals-in-geneva-shape-shipping-this-week/"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 14,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.06,
+      "sentiment_7d_avg": null
+    },
+    "dry_bulk_rate": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "container_freight": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.5,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 14,
+    "sentiment_distribution": {
+      "positive": 2,
+      "neutral": 9,
+      "negative": 3
+    },
+    "top_companies": [],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 14
+      },
+      {
+        "id": "dry_bulk_rate",
+        "count": 1
+      },
+      {
+        "id": "container_freight",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 332,
+    "dup_title": 101,
+    "too_old": 153,
+    "gate1_blocked": 27,
+    "gate2_blocked": 2,
+    "passed": 49,
+    "pass_rate": "21.2%",
+    "gate2_block_rate": "0.9%",
+    "gate2_samples": [
+      "Samsung Heavy Industries Earns Zero Waste to Landfill Certification - Businesskorea",
+      "Samsung Heavy Industries to Deliver Floating Data Centers in the U.S. - Marine News Magazine"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 14 則事件，焦點為航運產業通用、散裝運價、貨櫃運價相關動態：「ONE Profit Plunges 92% as Geopolitics and Overcapacity Sq...」。整體情緒偏負面，需留意潛在風險。",
+    "signals": [
+      {
+        "text": "ONE Profit Plunges 92% as Geopolitics and Overcapacity Squeeze Earnings（航運產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "World's largest car carrier highlights China's growing capabilities in high-e...（航運產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
