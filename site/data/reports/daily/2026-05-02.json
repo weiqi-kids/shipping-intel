@@ -1,0 +1,92 @@
+{
+  "date": "2026-05-02",
+  "generated_at": "2026-05-02T09:13:21.363108Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "cosco-2026-05-02-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Earnings Update: COSCO SHIPPING Holdings Co., Ltd. (HKG:1919) Just Reported Its First-Quarter Results And Analysts Are Updating Their Forecasts - simplywall.st",
+      "companies": [
+        "cosco"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQNm40aFQyY0R1RW1tYlA3VlVENW9hd3p4bjZQWE43XzhYekpzZFlzM096TmVZU1U3TnZ0aEF2V2tkMUR1bTdkV1BTMGN6OUZXb0tLMGRMNFJ2TXRZdDFPM0JJUkpQWExUT0dsQ05iczJUdEpVTmJBOFBVQklfLWpVTUhndVhtU3Q2MGRLZC1lS2VHMm5zV2o1Z3pRakVYSFhvZ3IyYWtzckoycU5vcE11c1kwOThlWGR3bTVCVDc4TjBRbkNGVmNiSkx2UlZWZEpaNE9VLUVkZGNtWmdRd2xNay1MMnBrd9IB6wFBVV95cUxQYTg0Sm93bHFTeU1IeWRpYzdhZlJpZ0VFUDMxbk9IbEZUZzJqR3IxWWlnNHREbTBLcVI4QkZlYUVvS2ZFaHgtbFV0YWo4cEVvYU03eWJabFMtRmJ4VjNVbndFZ0dGeVBqS2NnS09CLTh1alZLR25hWFIwMk14Q044dkdJTmFkNmlpbW5nWF9DRXl3MTYyN19TSXZqTVNUVlp1Z1BOSmlnWGQtSmk0RTNwVE4tbkdNYVNva0oweGhOalh0RHluU0RRSFIxbl9uanhoV2pmMnBLVF9XR3o1RERuX2lZRVI4VDlkak1B?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 1,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 1,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "cosco",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 332,
+    "dup_title": 128,
+    "too_old": 150,
+    "gate1_blocked": 21,
+    "gate2_blocked": 3,
+    "passed": 30,
+    "pass_rate": "14.7%",
+    "gate2_block_rate": "1.5%",
+    "gate2_samples": [
+      "Samsung Heavy Industries Earns Zero Waste to Landfill Certification - Businesskorea",
+      "Samsung Heavy Industries to Deliver Floating Data Centers in the U.S. - Marine News Magazine",
+      "HD Hyundai Withdraws from KDDX Batch 2 Concept Design Bidding; Hanwha Ocean Set to Be Sole Bidder - "
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 1 則事件，焦點為中遠海控相關動態：「Earnings Update: COSCO SHIPPING Holdings Co., Ltd. (HKG:1...」。主要關注主題為航運產業通用，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Earnings Update: COSCO SHIPPING Holdings Co., Ltd. (HKG:1919) Just Reported I...（航運產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "中遠海控為今日主要關注企業。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

@@ -1,0 +1,14 @@
+{
+  "total_raw": 332,
+  "dup_title": 128,
+  "no_date": 0,
+  "too_old": 150,
+  "gate1_fail": 21,
+  "gate2_fail": 3,
+  "passed": 30,
+  "gate2_samples": [
+    "Samsung Heavy Industries Earns Zero Waste to Landfill Certification - Businesskorea",
+    "Samsung Heavy Industries to Deliver Floating Data Centers in the U.S. - Marine News Magazine",
+    "HD Hyundai Withdraws from KDDX Batch 2 Concept Design Bidding; Hanwha Ocean Set to Be Sole Bidder - "
+  ]
+}
