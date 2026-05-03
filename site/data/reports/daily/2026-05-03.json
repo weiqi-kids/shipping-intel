@@ -1,0 +1,105 @@
+{
+  "date": "2026-05-03",
+  "generated_at": "2026-05-03T09:26:03.110948Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-05-03-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "India Linked Ship Carrying Cooking Fuel Manages Hormuz Exit",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://gcaptain.com/india-linked-ship-carrying-cooking-fuel-manages-hormuz-exit/"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-05-03-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Tanker hijacked off Yemen",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.seatrade-maritime.com/piracy/tanker-hijacked-off-yemen"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 2,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 2,
+      "negative": 0
+    },
+    "top_companies": [],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 2
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 332,
+    "dup_title": 140,
+    "too_old": 155,
+    "gate1_blocked": 24,
+    "gate2_blocked": 3,
+    "passed": 10,
+    "pass_rate": "5.2%",
+    "gate2_block_rate": "1.6%",
+    "gate2_samples": [
+      "Samsung Heavy Industries to Deliver Floating Data Centers in the U.S. - Marine News Magazine",
+      "Samsung Heavy Industries Earns Zero Waste to Landfill Certification - Businesskorea",
+      "HD Hyundai Withdraws from KDDX Batch 2 Concept Design Bidding; Hanwha Ocean Set to Be Sole Bidder - "
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 2 則事件，焦點為航運產業通用相關動態：「India Linked Ship Carrying Cooking Fuel Manages Hormuz Exit」。主要關注主題為航運產業通用，市場情緒中性。",
+    "signals": [
+      {
+        "text": "India Linked Ship Carrying Cooking Fuel Manages Hormuz Exit（航運產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "Tanker hijacked off Yemen（航運產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

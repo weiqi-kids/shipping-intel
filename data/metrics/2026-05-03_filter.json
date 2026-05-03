@@ -1,0 +1,14 @@
+{
+  "total_raw": 332,
+  "dup_title": 140,
+  "no_date": 0,
+  "too_old": 155,
+  "gate1_fail": 24,
+  "gate2_fail": 3,
+  "passed": 10,
+  "gate2_samples": [
+    "Samsung Heavy Industries to Deliver Floating Data Centers in the U.S. - Marine News Magazine",
+    "Samsung Heavy Industries Earns Zero Waste to Landfill Certification - Businesskorea",
+    "HD Hyundai Withdraws from KDDX Batch 2 Concept Design Bidding; Hanwha Ocean Set to Be Sole Bidder - "
+  ]
+}
