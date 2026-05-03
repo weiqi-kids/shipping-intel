@@ -1,0 +1,80 @@
+{
+  "date": "2025-06-23",
+  "date_range": {
+    "start": "2025-06-17",
+    "end": "2025-06-23"
+  },
+  "generated_at": "2026-05-03T02:44:08.438462Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "unknown-2025-06-17-010",
+      "date": "2025-06-17",
+      "title": "SCI, GE Shipping in focus as Baltic Dry Index up 47% in 1-mth; time to buy? - Business Standard",
+      "importance_score": 0.5
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "dry_bulk_rate": {
+      "this_week": 1,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    },
+    "container_freight": {
+      "this_week": 1,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    }
+  },
+  "company_7d_summary": {},
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 2,
+        "last": 0,
+        "change_pct": 0
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2025-06-17",
+      "event_count": 1,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2025-06-18",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2025-06-19",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2025-06-20",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2025-06-21",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2025-06-22",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2025-06-23",
+      "event_count": 1,
+      "sentiment_avg": 0
+    }
+  ]
+}

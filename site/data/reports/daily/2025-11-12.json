@@ -1,0 +1,44 @@
+{
+  "date": "2025-11-12",
+  "generated_at": "2026-05-03T02:44:09.201049Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "evergreen-2025-11-12-009",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Evergreen net profit hits $1.85b, orders seven LNG dual-fuel newbuilds - Baird Maritime",
+      "companies": [
+        "evergreen"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": null
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {},
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 1,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 1,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "evergreen",
+        "count": 1
+      }
+    ],
+    "top_topics": []
+  }
+}

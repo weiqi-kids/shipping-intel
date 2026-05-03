@@ -1,0 +1,91 @@
+{
+  "date": "2026-03-19",
+  "date_range": {
+    "start": "2026-03-13",
+    "end": "2026-03-19"
+  },
+  "generated_at": "2026-05-03T02:44:12.468443Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "evergreen-2026-03-13-008",
+      "date": "2026-03-13",
+      "title": "Evergreen’s 2025 profits nearly halved on sharp freight rate declines - Journal of Commerce",
+      "importance_score": 0.65
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "container_freight": {
+      "this_week": 2,
+      "last_week": 2,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": -0.5
+    },
+    "shipbuilding_orders": {
+      "this_week": 1,
+      "last_week": 1,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    }
+  },
+  "company_7d_summary": {
+    "evergreen": {
+      "event_count": 1,
+      "sentiment_avg": -1.0,
+      "rank": 1
+    },
+    "u_ming": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 2
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 3,
+        "last": 4,
+        "change_pct": -25.0
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-03-13",
+      "event_count": 1,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-03-14",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-03-15",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-03-16",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-03-17",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-03-18",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-03-19",
+      "event_count": 2,
+      "sentiment_avg": 0
+    }
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "date": "2026-03-31",
+  "generated_at": "2026-05-03T02:44:13.026786Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "cosco-2026-03-31-015",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Cosco Shipping Holdings lines up $2bn container ship order - Tradewinds News",
+      "companies": [
+        "cosco"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "shipbuilding_orders"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": null
+    },
+    {
+      "rank": 2,
+      "event_id": "cosco-2026-03-31-016",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Cosco Shipping Energy Transportation reports 2% profit increase - Seatrade Maritime News",
+      "companies": [
+        "cosco"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": null
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "shipbuilding_orders": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 2,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 1,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "cosco",
+        "count": 2
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "shipbuilding_orders",
+        "count": 1
+      }
+    ]
+  }
+}

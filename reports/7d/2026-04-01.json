@@ -1,0 +1,101 @@
+{
+  "date": "2026-04-01",
+  "date_range": {
+    "start": "2026-03-26",
+    "end": "2026-04-01"
+  },
+  "generated_at": "2026-05-03T02:44:13.324626Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "cssc-2026-03-27-001",
+      "date": "2026-03-27",
+      "title": "CSSC Offshore and Marine Engineering reports 2025 profit surge - Baird Maritime",
+      "importance_score": 0.5
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "container_freight": {
+      "this_week": 2,
+      "last_week": 1,
+      "week_over_week_change": "+100%",
+      "sentiment_this_week": 0.0
+    },
+    "shipbuilding_orders": {
+      "this_week": 2,
+      "last_week": 1,
+      "week_over_week_change": "+100%",
+      "sentiment_this_week": 0.0
+    }
+  },
+  "company_7d_summary": {
+    "cssc": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 3
+    },
+    "star_bulk": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 4
+    },
+    "cosco": {
+      "event_count": 2,
+      "sentiment_avg": 0.25,
+      "rank": 1
+    },
+    "samsung_heavy": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 2
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 7,
+        "last": 2,
+        "change_pct": 250.0
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-03-26",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-03-27",
+      "event_count": 1,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-03-28",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-03-29",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-03-30",
+      "event_count": 2,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-03-31",
+      "event_count": 2,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-04-01",
+      "event_count": 2,
+      "sentiment_avg": 0
+    }
+  ]
+}

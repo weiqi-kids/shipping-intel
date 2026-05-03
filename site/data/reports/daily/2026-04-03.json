@@ -1,0 +1,95 @@
+{
+  "date": "2026-04-03",
+  "generated_at": "2026-05-03T02:44:13.675096Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-04-03-012",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Freight rate volatility rises but remains below Covid levels - FloralDaily",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "container_freight"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": null
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-04-03-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Freight rate volatility rises but remains below Covid levels - Hortidaily",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "container_freight"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": null
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-04-03-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Freight rate volatility rises but remains below Covid levels - Floral Daily",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "container_freight"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": null
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "container_freight": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 3,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 3,
+      "negative": 0
+    },
+    "top_companies": [],
+    "top_topics": [
+      {
+        "id": "container_freight",
+        "count": 3
+      }
+    ]
+  }
+}

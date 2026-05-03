@@ -1,0 +1,80 @@
+{
+  "date": "2026-02-10",
+  "generated_at": "2026-05-03T02:44:10.900889Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-02-10-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "BDI vs BCI Ahead of the Lunar New Year - Hellenic Shipping News",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "dry_bulk_rate"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": null
+    },
+    {
+      "rank": 2,
+      "event_id": "star_bulk-2026-02-10-021",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Assessing Star Bulk Carriers (SBLK) Valuation After Recent Share Price Momentum And Earnings Profile - Yahoo Finance",
+      "companies": [
+        "star_bulk"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": null
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "dry_bulk_rate": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 2,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 2,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "star_bulk",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "dry_bulk_rate",
+        "count": 1
+      }
+    ]
+  }
+}

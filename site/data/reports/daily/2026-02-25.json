@@ -1,0 +1,44 @@
+{
+  "date": "2026-02-25",
+  "generated_at": "2026-05-03T02:44:11.329271Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "star_bulk-2026-02-25-022",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Star Bulk Carriers Corp. Reports Net Profit Of $65.2 - GlobeNewswire",
+      "companies": [
+        "star_bulk"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": null
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {},
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 1,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 1,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "star_bulk",
+        "count": 1
+      }
+    ],
+    "top_topics": []
+  }
+}

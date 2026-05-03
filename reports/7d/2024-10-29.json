@@ -1,0 +1,74 @@
+{
+  "date": "2024-10-29",
+  "date_range": {
+    "start": "2024-10-23",
+    "end": "2024-10-29"
+  },
+  "generated_at": "2026-05-03T02:44:08.006847Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "unknown-2024-10-29-005",
+      "date": "2024-10-29",
+      "title": "Is dry bulk shipping set for a Capesize rebound? - Seatrade Maritime News",
+      "importance_score": 0.5
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "dry_bulk_rate": {
+      "this_week": 1,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    }
+  },
+  "company_7d_summary": {},
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 1,
+        "last": 0,
+        "change_pct": 0
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2024-10-23",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2024-10-24",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2024-10-25",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2024-10-26",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2024-10-27",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2024-10-28",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2024-10-29",
+      "event_count": 1,
+      "sentiment_avg": 0
+    }
+  ]
+}
