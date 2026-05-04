@@ -1,0 +1,13 @@
+{
+  "total_raw": 329,
+  "dup_title": 114,
+  "no_date": 0,
+  "too_old": 145,
+  "gate1_fail": 21,
+  "gate2_fail": 2,
+  "passed": 47,
+  "gate2_samples": [
+    "Samsung Heavy Industries to Deliver Floating Data Centers in the U.S. - Marine News Magazine",
+    "Geneva Dry high sets the stage for Splash Singapore debut"
+  ]
+}
