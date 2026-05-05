@@ -1,0 +1,230 @@
+{
+  "date": "2026-05-05",
+  "generated_at": "2026-05-05T10:08:33.382231Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "cosco-2026-05-05-006",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "‘Incessant’ fight for market share pushes box sector towards overcapacity with record 13m teu on order",
+      "companies": [
+        "cosco",
+        "maersk"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "shipbuilding_orders",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -0.33
+      },
+      "source_url": "https://splash247.com/incessant-fight-for-market-share-pushes-box-sector-towards-overcapacity-with-record-13m-teu-on-order/"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-05-05-008",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Posidonia opens as Greek shipping embarks on historic fleet renewal",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "shipbuilding_orders",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://splash247.com/posidonia-opens-as-greek-shipping-embarks-on-historic-fleet-renewal/"
+    },
+    {
+      "rank": 3,
+      "event_id": "hanwha_ocean-2026-05-05-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "South Korean shipbuilder Hanwha Ocean wins order for three VLACs - Tradewinds News",
+      "companies": [
+        "hanwha_ocean"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQSFlXRUpSMzEwdkV2Ul82cFNBb0JadkpsZmoxQXNwUXRBczhiLVpyWC1xdWQybUlzalJERHdPZmFwSUd1dGZRUE0zMGlHT2p2aFpRWFR5R2RvWEt1cWR6UmkxaGc3b0hvQjdhejFXQ1pZVTFPeE5Lek5fV2JsRWpnb3V1eXhXSmh4ajhIUm1yeWhfQUxtWlNHa1NFVWhjSzFYU1lFQTlzXzVKSGtva3BWN0ZoZEpmSFlJ?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "cosco-2026-05-05-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "COSCO SHIPPING (Qidong) Offshore Completes Outfitting Quay Renovation & Expansion - imarinenews.com",
+      "companies": [
+        "cosco"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBvMjZ2a2d5UmZMMkpjaE5JTjE0emN3b3NCQ293a1NqN1laMFdVZm9OVnRmWFdNX2ZVd2JoY213NTNMRl8xOURzSjdVMGZnMzA?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "cosco-2026-05-05-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "COSCO SHIPPING Seeks Broad Mandate for A-Share Buyback from H Shareholders - TipRanks",
+      "companies": [
+        "cosco"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPYW5HdzJDa2lXVFNleElIdVU0V29lQzJuMF90Z2puWmNuZDh0YUIwYVc0dkswZ05ZeDV6dG1TWTY5YVJzVy1XbDNuSmZXaXpoQllRR0pWWkxNSmR6TWxGOXJ6T1hHOS1JOTR1WktHRUNqeXdpLXVqbDVVMXRQVjJ0enAtdFJEZDZKYnVnQ2ZmSlFsb2RuS2pMakpCQkZtNWJhbDNRc1R4a2NRUzZKU2dwRGdKcTdBRlRRZElma19BajBsNGll?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 15,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.04,
+      "sentiment_7d_avg": null
+    },
+    "shipbuilding_orders": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.33,
+      "sentiment_7d_avg": null
+    },
+    "dry_bulk_rate": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 16,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 14,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "cosco",
+        "count": 3
+      },
+      {
+        "id": "hanwha_ocean",
+        "count": 1
+      },
+      {
+        "id": "star_bulk",
+        "count": 1
+      },
+      {
+        "id": "maersk",
+        "count": 1
+      },
+      {
+        "id": "samsung_heavy",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 15
+      },
+      {
+        "id": "shipbuilding_orders",
+        "count": 2
+      },
+      {
+        "id": "dry_bulk_rate",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 331,
+    "dup_title": 106,
+    "too_old": 144,
+    "gate1_blocked": 18,
+    "gate2_blocked": 4,
+    "passed": 59,
+    "pass_rate": "26.2%",
+    "gate2_block_rate": "1.8%",
+    "gate2_samples": [
+      "Samsung Heavy Industries Collaborates with DSEC to Accelerate MASGA Project - MSN",
+      "Samsung Heavy Industries to Deliver Floating Data Centers in the U.S. - Marine News Magazine",
+      "Spartec Composites Inc. enters into teaming agreement with Hanwha Ocean and Kolon Spaceworks - Canad",
+      "Qatar Extends Force Majeure on LNG Supply Through Mid-June"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 16 則事件，焦點為中遠海控、韓華海洋、Star Bulk Carriers相關動態：「‘Incessant’ fight for market share pushes box sector towa...」。主要關注主題為航運產業通用、造船訂單、散裝運價，市場情緒中性。",
+    "signals": [
+      {
+        "text": "‘Incessant’ fight for market share pushes box sector towards overcapacity wit...（造船訂單、航運產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "Posidonia opens as Greek shipping embarks on historic fleet renewal（造船訂單、航運產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

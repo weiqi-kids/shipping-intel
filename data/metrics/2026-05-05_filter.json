@@ -1,0 +1,15 @@
+{
+  "total_raw": 331,
+  "dup_title": 106,
+  "no_date": 0,
+  "too_old": 144,
+  "gate1_fail": 18,
+  "gate2_fail": 4,
+  "passed": 59,
+  "gate2_samples": [
+    "Samsung Heavy Industries Collaborates with DSEC to Accelerate MASGA Project - MSN",
+    "Samsung Heavy Industries to Deliver Floating Data Centers in the U.S. - Marine News Magazine",
+    "Spartec Composites Inc. enters into teaming agreement with Hanwha Ocean and Kolon Spaceworks - Canad",
+    "Qatar Extends Force Majeure on LNG Supply Through Mid-June"
+  ]
+}
