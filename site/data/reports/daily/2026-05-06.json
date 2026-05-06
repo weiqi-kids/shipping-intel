@@ -1,6 +1,6 @@
 {
   "date": "2026-05-06",
-  "generated_at": "2026-05-06T08:11:12.780891Z",
+  "generated_at": "2026-05-06T10:24:21.309772Z",
   "top_events": [
     {
       "rank": 1,
@@ -48,6 +48,28 @@
     },
     {
       "rank": 3,
+      "event_id": "unknown-2026-05-06-026",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Your next data centre – what about a retired car carrier?",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://theloadstar.com/your-next-data-centre-what-about-a-retired-car-carrier/"
+    },
+    {
+      "rank": 4,
       "event_id": "hd_korea-2026-05-06-001",
       "importance_score": 0.5,
       "importance_reasons": [],
@@ -69,7 +91,7 @@
       "source_url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFA3blhJOG9BVVBuNl8tcDdJYUM5NnAyYTZvU01fN3dVdnJiYm9aQ1V5UVBja1JReDZ5Vm80cHM5bEctbDBLcVA1VURkWjVfRDQ?oc=5"
     },
     {
-      "rank": 4,
+      "rank": 5,
       "event_id": "unknown-2026-05-06-002",
       "importance_score": 0.5,
       "importance_reasons": [],
@@ -87,44 +109,22 @@
         "score": 0.0
       },
       "source_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQUEN5el8weXdkaS1Pa0JrQ2V6RjA4SERTYlBrNHAyMmFlRm8tMjB4cVRISkJiUzNReGVGQVpOWXVjU3pvNl91MFNkSDNYSG9FaEhJMUNHM3VhMm9IU3RQUGFsRER2ZTluNGdBQl9jNHJTOHRqU3dmYkQ3aFZxOXJqdmd4YTNkc2J4LWV5RWtrSDF1TENWeUNpS1lGWmFZWmM5NGtDM0ZVMy0zWldUbndxNG1Ka0JRblk?oc=5"
-    },
-    {
-      "rank": 5,
-      "event_id": "samsung_heavy-2026-05-06-003",
-      "importance_score": 0.5,
-      "importance_reasons": [],
-      "title": "Samsung Heavy Industries Partners with Orca AI to Advance Next-Generation Autonomous Vessel Technologies - imarinenews.com",
-      "companies": [
-        "samsung_heavy"
-      ],
-      "related": {
-        "customers": [],
-        "suppliers": []
-      },
-      "topics": [
-        "industry_general"
-      ],
-      "sentiment": {
-        "label": "neutral",
-        "score": 0.0
-      },
-      "source_url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9Ybk50cGxQcUEtcGZ1SU9GbXRmT19nVlFUanRkSnN2RzRxME5NX18xdDNial9fOHkwZV9WSVBQalpCSnM4OVNpbzFja2k1aW8?oc=5"
     }
   ],
   "anomalies": [],
   "topic_trends": {
     "industry_general": {
-      "today": 19,
+      "today": 28,
       "7d_avg": 0,
       "30d_avg": 0,
       "yoy_same_week": null,
       "trend": "new",
       "consecutive_weeks_rising": 0,
-      "sentiment_today": 0.13,
+      "sentiment_today": 0.05,
       "sentiment_7d_avg": null
     },
     "shipbuilding_orders": {
-      "today": 2,
+      "today": 3,
       "7d_avg": 0,
       "30d_avg": 0,
       "yoy_same_week": null,
@@ -136,11 +136,11 @@
   },
   "supply_chain_activity": [],
   "stats": {
-    "total_events": 21,
+    "total_events": 30,
     "sentiment_distribution": {
       "positive": 3,
-      "neutral": 18,
-      "negative": 0
+      "neutral": 26,
+      "negative": 1
     },
     "top_companies": [
       {
@@ -159,32 +159,34 @@
     "top_topics": [
       {
         "id": "industry_general",
-        "count": 19
+        "count": 28
       },
       {
         "id": "shipbuilding_orders",
-        "count": 2
+        "count": 3
       }
     ]
   },
   "filter_audit": {
-    "total_raw": 331,
-    "dup_title": 107,
-    "too_old": 147,
-    "gate1_blocked": 11,
-    "gate2_blocked": 3,
-    "passed": 63,
-    "pass_rate": "28.1%",
+    "total_raw": 662,
+    "dup_title": 267,
+    "too_old": 292,
+    "gate1_blocked": 24,
+    "gate2_blocked": 5,
+    "passed": 74,
+    "pass_rate": "18.7%",
     "gate2_block_rate": "1.3%",
     "gate2_samples": [
       "Samsung Heavy Industries to Deliver Floating Data Centers in the U.S. - Marine News Magazine",
       "Samsung Heavy Industries Collaborates with DSEC to Accelerate MASGA Project - MSN",
+      "Spartec Composites Inc. enters into teaming agreement with Hanwha Ocean and Kolon Spaceworks - Canad",
+      "Samsung Heavy Industries to Deliver Floating Data Centers in the U.S. - Marine News Magazine",
       "Spartec Composites Inc. enters into teaming agreement with Hanwha Ocean and Kolon Spaceworks - Canad"
     ],
     "alert": false
   },
   "llm_analysis": {
-    "summary": "今日共 21 則事件，焦點為三星重工、韓國造船海洋、韓華海洋相關動態：「Bunker supplier TFG Marine links financing to digital del...」。整體情緒偏正面，市場信心回溫。",
+    "summary": "今日共 30 則事件，焦點為三星重工、韓國造船海洋、韓華海洋相關動態：「Bunker supplier TFG Marine links financing to digital del...」。整體情緒偏正面，市場信心回溫。",
     "signals": [
       {
         "text": "Bunker supplier TFG Marine links financing to digital delivery records（航運產業通用）",
