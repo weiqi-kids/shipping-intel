@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-05T10:08:33.048052+00:00",
+  "updated_at": "2026-05-06T08:11:12.432701+00:00",
   "companies": {
     "maersk": {
       "name": "A.P. Moller-Maersk",
@@ -10,7 +10,7 @@
           "holder": "Pacer Advisors, Inc.",
           "shares": 21,
           "pct_held": 0.0,
-          "value": 318045
+          "value": 327075
         }
       ]
     },
@@ -23,7 +23,7 @@
           "holder": "Pacer Advisors, Inc.",
           "shares": 357,
           "pct_held": 0.0,
-          "value": 41412
+          "value": 42947
         }
       ]
     },
@@ -36,61 +36,61 @@
           "holder": "Clal Insurance Enterprises Holdings Ltd",
           "shares": 4232000,
           "pct_held": 3.51,
-          "value": 110328238
+          "value": 120823596
         },
         {
           "holder": "Menora Mivtachim Holdings Ltd.",
           "shares": 4075810,
           "pct_held": 3.38,
-          "value": 106256365
+          "value": 116364372
         },
         {
           "holder": "Meitav Investment House Ltd.",
           "shares": 3906396,
           "pct_held": 3.24,
-          "value": 101839742
-        },
-        {
-          "holder": "Y.D. More Investments Ltd",
-          "shares": 3782745,
-          "pct_held": 3.14,
-          "value": 98616160
+          "value": 111527602
         },
         {
           "holder": "UBS Group AG",
           "shares": 3432147,
           "pct_held": 2.85,
-          "value": 89476071
+          "value": 97987794
         },
         {
           "holder": "Blackrock Inc.",
           "shares": 3415063,
           "pct_held": 2.84,
-          "value": 89030691
+          "value": 97500046
         },
         {
           "holder": "American Century Companies Inc",
           "shares": 3265171,
           "pct_held": 2.71,
-          "value": 85123006
+          "value": 93220629
         },
         {
           "holder": "Yelin Lapidot Holdings Management Ltd.",
           "shares": 3268773,
           "pct_held": 2.71,
-          "value": 85216911
+          "value": 93323466
         },
         {
           "holder": "Renaissance Technologies, LLC",
           "shares": 2877685,
           "pct_held": 2.39,
-          "value": 75021247
+          "value": 82157904
         },
         {
           "holder": "Citigroup Inc.",
           "shares": 2583855,
           "pct_held": 2.15,
-          "value": 67361099
+          "value": 73769058
+        },
+        {
+          "holder": "Allianz Asset Management GmbH",
+          "shares": 1501430,
+          "pct_held": 1.25,
+          "value": 42865825
         }
       ]
     },
@@ -103,61 +103,61 @@
           "holder": "Alliancebernstein L.P.",
           "shares": 5832805,
           "pct_held": 5.23,
-          "value": 147569962
+          "value": 155619239
         },
         {
           "holder": "Ameriprise Financial, Inc.",
           "shares": 2146631,
           "pct_held": 1.92,
-          "value": 54309762
+          "value": 57272115
         },
         {
           "holder": "Oaktree Capital Management LP",
           "shares": 1962892,
           "pct_held": 1.76,
-          "value": 49661166
+          "value": 52369959
         },
         {
           "holder": "Renaissance Technologies, LLC",
           "shares": 1830389,
           "pct_held": 1.64,
-          "value": 46308840
+          "value": 48834779
         },
         {
           "holder": "Philosophy Capital Management Llc",
           "shares": 1650000,
           "pct_held": 1.48,
-          "value": 41744998
+          "value": 44022000
         },
         {
           "holder": "Morgan Stanley",
           "shares": 1094404,
           "pct_held": 0.98,
-          "value": 27688420
+          "value": 29198699
         },
         {
           "holder": "Focus Partners Wealth",
           "shares": 1041252,
           "pct_held": 0.93,
-          "value": 26343674
+          "value": 27780603
         },
         {
           "holder": "UBS Group AG",
           "shares": 915978,
           "pct_held": 0.82,
-          "value": 23174242
+          "value": 24438293
         },
         {
           "holder": "Millennium Management Llc",
           "shares": 887056,
           "pct_held": 0.8,
-          "value": 22442516
+          "value": 23666654
         },
         {
           "holder": "Boston Partners",
           "shares": 843098,
           "pct_held": 0.76,
-          "value": 21330378
+          "value": 22493854
         }
       ]
     }

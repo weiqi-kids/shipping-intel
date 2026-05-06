@@ -1,0 +1,33 @@
+{
+  "date": "2026-05-06",
+  "total_events": 21,
+  "by_company": {
+    "hd_korea": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "samsung_heavy": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "hanwha_ocean": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "industry_general": {
+      "count": 19,
+      "sentiment_avg": 0.13
+    },
+    "shipbuilding_orders": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}

@@ -1,0 +1,14 @@
+{
+  "total_raw": 331,
+  "dup_title": 107,
+  "no_date": 0,
+  "too_old": 147,
+  "gate1_fail": 11,
+  "gate2_fail": 3,
+  "passed": 63,
+  "gate2_samples": [
+    "Samsung Heavy Industries to Deliver Floating Data Centers in the U.S. - Marine News Magazine",
+    "Samsung Heavy Industries Collaborates with DSEC to Accelerate MASGA Project - MSN",
+    "Spartec Composites Inc. enters into teaming agreement with Hanwha Ocean and Kolon Spaceworks - Canad"
+  ]
+}
