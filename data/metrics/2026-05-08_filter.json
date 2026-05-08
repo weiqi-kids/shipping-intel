@@ -1,0 +1,16 @@
+{
+  "total_raw": 330,
+  "dup_title": 102,
+  "no_date": 0,
+  "too_old": 133,
+  "gate1_fail": 20,
+  "gate2_fail": 6,
+  "passed": 69,
+  "gate2_samples": [
+    "Hanwha Ocean Partners with Thordon Bearings on Canadian Submarine Bid - Marine News Magazine",
+    "Spartec Composites Inc. enters into teaming agreement with Hanwha Ocean and Kolon Spaceworks - Canad",
+    "Maersk Holds 2026 Outlook as Ocean Volumes Surge Despite Rate Pressure - gCaptain",
+    "OOCL’s constitutional gambit – is it set to unravel the FMC’s entire enforcement machinery?",
+    "‘Canny’ Mærsk – where financial discipline dictates strategy"
+  ]
+}

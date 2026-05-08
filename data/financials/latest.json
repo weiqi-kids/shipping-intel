@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-07T10:29:45.624900Z",
+  "updated_at": "2026-05-08T09:29:14.447701Z",
   "quarter": "2025-12-31, 2026-03-31",
   "companies": [
     {
@@ -91,14 +91,14 @@
       "name": "馬士基",
       "ticker": "MAERSK-B.CO",
       "currency": "DKK",
-      "ar": 5306000000,
-      "ar_prev": 22196000000,
-      "ar_qoq": "-76%",
-      "inventory": 1391000000,
-      "inv_prev": 1455000000,
-      "inv_qoq": "-4%",
+      "ar": 19779000000,
+      "ar_prev": 5306000000,
+      "ar_qoq": "+273%",
+      "inventory": 1819000000,
+      "inv_prev": 1391000000,
+      "inv_qoq": "+31%",
       "alert": true,
-      "quarter_date": "2025-12-31"
+      "quarter_date": "2026-03-31"
     },
     {
       "id": "samsung_heavy",

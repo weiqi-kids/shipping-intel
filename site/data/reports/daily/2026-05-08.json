@@ -1,0 +1,210 @@
+{
+  "date": "2026-05-08",
+  "generated_at": "2026-05-08T09:29:17.668282Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-05-08-013",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "EU Russian Arctic LNG Imports Hit $4.4bn Record Despite Sanctions Measures",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://gcaptain.com/eu-russian-arctic-lng-imports-hit-4-4bn-record-despite-sanctions-measures/"
+    },
+    {
+      "rank": 2,
+      "event_id": "hd_korea-2026-05-08-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "HD Korea Shipbuilding & Offshore Engineering sales surge on order flow - Tradewinds News",
+      "companies": [
+        "hd_korea"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNaU0xYjMtM2pZZjJmbkNrT3c4YnR3RlllMnJ0eWQtWTBtSDRWRXRHN3J1bmpPeDktNHBWcDVzaVhMR3JjOExSTDM1S283NTlFS3FEZDFlTlZDQXV6N1FvZFJSS3NTY00zNWZJUGJubUN5WmNKRTVaeGpYQk13Skl6UHVjLU1rVWZmcm16Y2NkdFNWMU1SQ2FiYURkVGlEcThLdngxVGRPR2ZhNDh6eC12NjJaempoWDg5Ym0wZHhB?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "hd_korea-2026-05-08-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "HD Korea Shipbuilding Wins $1.5 Billion Order for 8 Eco-Friendly Vessels - Seoul Economic Daily",
+      "companies": [
+        "hd_korea"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOd2pZVHVkdkNfQVJRd2ZXaUkxQ09yM0dQd3Zua2ozTHhsRTVteU9DcERBcUtkT2J6cVluektDT2lkT3d2TmFMZWU4M3BTN1RyMUlaY2FMek5RYnZuM3NrNXVjeVFkREtpTDBib3NRMHVHa0pCczk3RnljQ3c0TXhiem5SZ29GaEJfVTFLWjZqT2xmbDBUdWhtVXM1SQ?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "hd_korea-2026-05-08-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "HD Korea Shipbuilding secures 2.13t won orders for ships, lifts 2024 tally - CHOSUNBIZ - Chosunbiz",
+      "companies": [
+        "hd_korea"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNTllRYmFaZFREZW5oeE16SlV6UzNMN3RMVWpDdWRFblZ4ZnU0SlozVXFlQjYzaXJNTzRBLUlGVGdCMnRLWjd2eUN2cHZKYWlMR01DaTM4bmk3OGlpcURKcFphNlFVUXJ2YmFjYUdiRWxxcV96NkpDc0dOMWx2bGVGcVFR0gGWAUFVX3lxTFBsMmoxT2M3bUVSdVNYdlkwTTdGd2EwYWl5RWJSZ1U0WEZtaTFSQWJSLVZtaEZkUWxRUzlNVDJVV29Xc3RzRXhaTEZwbVhLbXVmYmVabnFlQ3JObE9CY0dfRGZlN0t3TXF3WXRhLUZtTk9wdHVHM3BTd2FlNDdyWHIwS2VNZ2FDaU9KWVF6d3M0MW1QcndDUQ?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-05-08-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "HD KSOE wins 2.1 tln won worth of orders to build 8 vessels - Yonhap News Agency",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1SMndSWnRQOHV2TDRrZzlMR1NIT1dTUnh1dldvbndyLW04WFFsVGl2d3ExbmVqM3RFZF9MTFNxYkJ6aE1PMVE4SHpFbGMya1lYQ1VFZGhCb1hzbFB5TThuZjAwcmluLTNLeWtsOVRhNmlSUFRZ?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 25,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.08,
+      "sentiment_7d_avg": null
+    },
+    "shipbuilding_orders": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 27,
+    "sentiment_distribution": {
+      "positive": 3,
+      "neutral": 24,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "hd_korea",
+        "count": 4
+      },
+      {
+        "id": "cosco",
+        "count": 3
+      },
+      {
+        "id": "hanwha_ocean",
+        "count": 2
+      },
+      {
+        "id": "maersk",
+        "count": 1
+      },
+      {
+        "id": "zim",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 25
+      },
+      {
+        "id": "shipbuilding_orders",
+        "count": 2
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 330,
+    "dup_title": 102,
+    "too_old": 133,
+    "gate1_blocked": 20,
+    "gate2_blocked": 6,
+    "passed": 69,
+    "pass_rate": "30.3%",
+    "gate2_block_rate": "2.6%",
+    "gate2_samples": [
+      "Hanwha Ocean Partners with Thordon Bearings on Canadian Submarine Bid - Marine News Magazine",
+      "Spartec Composites Inc. enters into teaming agreement with Hanwha Ocean and Kolon Spaceworks - Canad",
+      "Maersk Holds 2026 Outlook as Ocean Volumes Surge Despite Rate Pressure - gCaptain",
+      "OOCL’s constitutional gambit – is it set to unravel the FMC’s entire enforcement machinery?",
+      "‘Canny’ Mærsk – where financial discipline dictates strategy"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 27 則事件，焦點為韓國造船海洋、中遠海控、韓華海洋相關動態：「EU Russian Arctic LNG Imports Hit $4.4bn Record Despite S...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "EU Russian Arctic LNG Imports Hit $4.4bn Record Despite Sanctions Measures（航運產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "HD Korea Shipbuilding & Offshore Engineering sales surge on order flow - Trad...（航運產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
