@@ -1,0 +1,162 @@
+{
+  "date": "2026-05-09",
+  "generated_at": "2026-05-09T09:25:43.185465Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-05-09-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Samsung wins order for LNG Storage and Supply Vessel - Ocean Energy Resources",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxONDRWR3k4Yks1RGhpVUwwbG5mdkltbF9ZdlJFY2ZvSmJNU29hZTBmUDhsb2huckoycWlta0VkQkFqSTJGcHZQQmlKcXlEeDBJS05FRVNwRzBFdUJzYzk2aVN6bXhJZlJRcVpiUmFuSTVRbVBWd1BpczRpQ3dzalF4ZG9iakk2SjEzLXNiTk95M3ctbExPTjBYOFNTaEp6bUE?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "hanwha_ocean-2026-05-09-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Zodiac Maritime Orders Very Large Ammonia Carriers at Hanwha Ocean: $575 Million Deal - News and Statistics - IndexBox",
+      "companies": [
+        "hanwha_ocean"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPNGFnSjA0b1B4bnR6SjltdXJUUHI0eS1OZDB4dWxldkM3ZE1ZT2JxdkZvTU5VWWVoSHNXRTBPUTJ6Z1AxYWR3WjFNSlZoR081ekVnNmw4b2tpOXR0Z1RoUXZPdW9Bblp2cmVkU0Z4THl4MEp4eW5NOXNtM2lud3VzNG1TVm1Za09KRzc2VXFWRFFKbEJZSG02eThZWmllSW96YmZjZlF3?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "hanwha_ocean-2026-05-09-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "MISC Unveils New-Generation LNG Vessels Built by Hanwha Ocean - imarinenews.com",
+      "companies": [
+        "hanwha_ocean"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5wTGxqRkpKYkZya1hSRUllRUF1WndYdU5Wejl5RWp4NmdWaTBMZzRQb1I1Tkd0TXR6VHZkcFpPdzJYOTVTS2VFajJ0bkJGZ2M?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "wan_hai-2026-05-09-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Wan Hai Lines Ltd stock (TW0002615002): Taiwan container carrier eyes Q1 2026 results review on May - AD HOC NEWS",
+      "companies": [
+        "wan_hai"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxONTdmNkFLZmZrTFFZUzMxRUUtRHJGQ3FKdXRQbmEzeVpGQi02U2lnUDBpZUl2dy1IS3ZEcjdLVmVOUjl1WDFmdGI1bE5Ld29FeWQzVXVyY1RqMDRNaXdLTjdEdEphZXphc0NLNDMtdkRTS0N5VU5Nb0trYzRkektsME9nOG5wREppcEZ6WHhPQm0tUjNhS003ZEx5NU1JZDd3dWFEdVVmbkpMNk9nUmxnWHZ5YWZVZW5peDhXZEozaWJ1dkV5TlBz?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 4,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 4,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 4,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "hanwha_ocean",
+        "count": 2
+      },
+      {
+        "id": "wan_hai",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 4
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 330,
+    "dup_title": 133,
+    "too_old": 133,
+    "gate1_blocked": 16,
+    "gate2_blocked": 6,
+    "passed": 42,
+    "pass_rate": "21.3%",
+    "gate2_block_rate": "3.0%",
+    "gate2_samples": [
+      "KFTC Extends Anti-Monopoly Restrictions on Hanwha Ocean for Another Three Years - imarinenews.com",
+      "Hanwha Ocean Partners with Thordon Bearings on Canadian Submarine Bid - Marine News Magazine",
+      "Spartec Composites Inc. enters into teaming agreement with Hanwha Ocean and Kolon Spaceworks - Canad",
+      "Maersk Holds 2026 Outlook as Ocean Volumes Surge Despite Rate Pressure - gCaptain",
+      "OOCL’s constitutional gambit – will it unravel FMC enforcement?"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 4 則事件，焦點為韓華海洋、萬海航運相關動態：「Samsung wins order for LNG Storage and Supply Vessel - Oc...」。主要關注主題為航運產業通用，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Samsung wins order for LNG Storage and Supply Vessel - Ocean Energy Resources（航運產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "Zodiac Maritime Orders Very Large Ammonia Carriers at Hanwha Ocean: $575 Mill...（航運產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

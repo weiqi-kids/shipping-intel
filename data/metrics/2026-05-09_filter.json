@@ -1,0 +1,16 @@
+{
+  "total_raw": 330,
+  "dup_title": 133,
+  "no_date": 0,
+  "too_old": 133,
+  "gate1_fail": 16,
+  "gate2_fail": 6,
+  "passed": 42,
+  "gate2_samples": [
+    "KFTC Extends Anti-Monopoly Restrictions on Hanwha Ocean for Another Three Years - imarinenews.com",
+    "Hanwha Ocean Partners with Thordon Bearings on Canadian Submarine Bid - Marine News Magazine",
+    "Spartec Composites Inc. enters into teaming agreement with Hanwha Ocean and Kolon Spaceworks - Canad",
+    "Maersk Holds 2026 Outlook as Ocean Volumes Surge Despite Rate Pressure - gCaptain",
+    "OOCL’s constitutional gambit – will it unravel FMC enforcement?"
+  ]
+}
