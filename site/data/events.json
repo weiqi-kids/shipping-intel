@@ -78,6 +78,98 @@
     ]
   },
   {
+    "id": "unknown-2026-05-09-005",
+    "date": "2026-05-09",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "UK Deploys Warship To Middle East For Potential Hormuz Mission",
+    "summary": "LONDON, May 9 (Reuters) &#8211; Britain said on Saturday it was deploying its warship HMS Dragon to the Middle East in preparation for a potential multinational effort to protect shipping in the Strai",
+    "sources": [
+      {
+        "name": "gcaptain",
+        "url": "https://gcaptain.com/uk-deploys-warship-to-middle-east-for-potential-hormuz-mission/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-09-006",
+    "date": "2026-05-09",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Countries Prepare To Evacuate Hantavirus Ship Passengers",
+    "summary": "TENERIFE/MADRID, May 9 (Reuters) &#8211; Countries prepared to evacuate their citizens from the luxury cruise ship hit by a deadly strain of hantavirus that is due to anchor near Tenerife early on Sun",
+    "sources": [
+      {
+        "name": "gcaptain",
+        "url": "https://gcaptain.com/countries-prepare-to-evacuate-hantavirus-ship-passengers/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-09-007",
+    "date": "2026-05-09",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Qatari LNG Tanker Sailing Towards Hormuz Strait",
+    "summary": "May 9 (Reuters) &#8211; Qatari LNG tanker Al Kharaitiyat was sailing towards the Strait of Hormuz on Saturday after departing Qatar&#8217;s Ras Laffan en route to Port Qasim in Pakistan, according to ",
+    "sources": [
+      {
+        "name": "gcaptain",
+        "url": "https://gcaptain.com/qatari-lng-tanker-sailing-towards-hormuz-strait/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-09-008",
+    "date": "2026-05-09",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Iranian Shadow Fleet Tanker Ablaze off Jask",
+    "summary": "\n                 In imagery taken by the Sentinel-2 satellite on May 9, the sanctioned Iranian-flagged dark fleet tanker Sevda (IMO 9172040) appears to be damaged and...\n            ",
+    "sources": [
+      {
+        "name": "maritime_executive",
+        "url": "https://maritime-executive.com/article/iranian-shadow-fleet-tanker-ablaze-off-jask",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "hapag-2026-05-09-009",
+    "date": "2026-05-09",
+    "companies": [
+      "hapag"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Hapag-Lloyd launches podcast ‘Straight Talk with CEO Rolf Habben Jansen’",
+    "summary": "<p>Hapag-Lloyd has launched a podcast with its CEO Rolf Habben Jansen.<br />\n&#8220;Straight Talk&#8221; will provide insights into global trade developments, container shipping and key topics that sh",
+    "sources": [
+      {
+        "name": "loadstar",
+        "url": "https://theloadstar.com/hapag-lloyd-launches-podcast-straight-talk-with-ceo-rolf-habben-jansen/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "hd_korea-2026-05-08-001",
     "date": "2026-05-08",
     "companies": [
@@ -2522,6 +2614,46 @@
       {
         "name": "hanwha_ocean",
         "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNWGlmZzdTYzVQazlySjBoMFNJekNqb1hZWXNaWjhyd2NxbGN0U19xSVczR1RPT0duMy1Jd284bThPOFlVaHZVMnpWd3E3Z09nSUQyODJXR05qVnJBeWF4Q0RDMEFXd19IdDBERFlNX1J0NmJYRUF1SEF3THZ5OWNBbGRDZFZDbzliSmozdlZ2cmpBWFlTNmMxX1dfTjdjREQwS0pqcHBEeXJzV3JjcnN4X1pVODFUVTA3UERDNg?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "hd_korea-2026-05-07-072",
+    "date": "2026-05-07",
+    "companies": [
+      "hd_korea"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "HD Korea Shipbuilding & Offshore Engineering 1Q Net KRW1.141T Vs. Net KRW611.60B >009540.SE - Moomoo",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxPNUNYSXBkbGRoNU51WWxDbXhyZTNLQXc3YWc1VUwxM3YtSDBVOHZMWkZ0VGtrWDB4TF85NnJBLTFEcTZQdE5kVnBVUGxCUzlYUmZwb1g4ZDFQVmVGSzJBa1E2QTYyVnRMb1YwTnU0Yz",
+    "sources": [
+      {
+        "name": "hd_korea",
+        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPNUNYSXBkbGRoNU51WWxDbXhyZTNLQXc3YWc1VUwxM3YtSDBVOHZMWkZ0VGtrWDB4TF85NnJBLTFEcTZQdE5kVnBVUGxCUzlYUmZwb1g4ZDFQVmVGSzJBa1E2QTYyVnRMb1YwTnU0YzB5VWhlN3ZrUU4yU1gtdGN0OE9ZTWQ0NTNoTjVTbmJXdDE3UzZ1dU4wQnVhWWYzTWFEck5hcVYwVG5INnpwTjNHZHEyZE1QSGI2aE1yb2J5WE9oZWRvcnVYcmN2dmdXRDNycUxOVUNB?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "hd_korea-2026-05-07-073",
+    "date": "2026-05-07",
+    "companies": [
+      "hd_korea"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "HD Korea Shipbuilding & Offshore Engineering Posts Strong Results as Operating Profit Jumps 58%, Marking Best Quarterly Performance - 매일경제",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiU0FVX3lxTE14YzJoOGU3MnhqRldETlFkTnM1UUg2QWU5NXYtZDZidU1EWDVwenZuLURNY1BpR2lIVS1fd2dqRTR6UmUzcVhwb0ZVbDg2SzhvWUlJ?oc=5\" target=\"_blank\">HD Korea Shipbu",
+    "sources": [
+      {
+        "name": "hd_korea",
+        "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE14YzJoOGU3MnhqRldETlFkTnM1UUg2QWU5NXYtZDZidU1EWDVwenZuLURNY1BpR2lIVS1fd2dqRTR6UmUzcVhwb0ZVbDg2SzhvWUlJ?oc=5",
         "type": "rss"
       }
     ]

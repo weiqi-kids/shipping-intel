@@ -1,0 +1,15 @@
+{
+  "total_raw": 332,
+  "dup_title": 162,
+  "no_date": 0,
+  "too_old": 145,
+  "gate1_fail": 14,
+  "gate2_fail": 4,
+  "passed": 7,
+  "gate2_samples": [
+    "Hanwha Ocean Partners with Thordon Bearings on Canadian Submarine Bid - Marine News Magazine",
+    "KFTC Extends Anti-Monopoly Restrictions on Hanwha Ocean for Another Three Years - imarinenews.com",
+    "Maersk Holds 2026 Outlook as Ocean Volumes Surge Despite Rate Pressure - gCaptain",
+    "Zim says Hapag-Lloyd agreement binding after surprise rival bid"
+  ]
+}

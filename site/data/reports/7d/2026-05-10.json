@@ -1,0 +1,163 @@
+{
+  "date": "2026-05-10",
+  "date_range": {
+    "start": "2026-05-04",
+    "end": "2026-05-10"
+  },
+  "generated_at": "2026-05-10T09:42:42.955030Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "cosco-2026-05-05-006",
+      "date": "2026-05-05",
+      "title": "‘Incessant’ fight for market share pushes box sector towards overcapacity with record 13m teu on order",
+      "importance_score": 0.7
+    },
+    {
+      "type": "emerging_relation",
+      "company_a": "hapag",
+      "company_b": "zim",
+      "co_mention_count": 3,
+      "rank": 2
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "industry_general": {
+      "this_week": 120,
+      "last_week": 115,
+      "week_over_week_change": "+4%",
+      "sentiment_this_week": 0.06
+    },
+    "container_freight": {
+      "this_week": 2,
+      "last_week": 5,
+      "week_over_week_change": "-60%",
+      "sentiment_this_week": 0.0
+    },
+    "shipbuilding_orders": {
+      "this_week": 12,
+      "last_week": 4,
+      "week_over_week_change": "+200%",
+      "sentiment_this_week": 0.22
+    },
+    "dry_bulk_rate": {
+      "this_week": 2,
+      "last_week": 2,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    }
+  },
+  "company_7d_summary": {
+    "hd_korea": {
+      "event_count": 12,
+      "sentiment_avg": 0.08,
+      "rank": 1
+    },
+    "samsung_heavy": {
+      "event_count": 7,
+      "sentiment_avg": 0.0,
+      "rank": 4
+    },
+    "hanwha_ocean": {
+      "event_count": 12,
+      "sentiment_avg": 0.04,
+      "rank": 2
+    },
+    "cosco": {
+      "event_count": 9,
+      "sentiment_avg": 0.02,
+      "rank": 3
+    },
+    "star_bulk": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 7
+    },
+    "maersk": {
+      "event_count": 3,
+      "sentiment_avg": -0.11,
+      "rank": 5
+    },
+    "hapag": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 8
+    },
+    "zim": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 6
+    },
+    "wan_hai": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 9
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 335,
+        "last": 360,
+        "change_pct": -6.9
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-05-04",
+      "event_count": 73,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-05-05",
+      "event_count": 56,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-05-06",
+      "event_count": 64,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-05-07",
+      "event_count": 73,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-05-08",
+      "event_count": 60,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-05-09",
+      "event_count": 9,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-05-10",
+      "event_count": 0,
+      "sentiment_avg": 0
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-05-04 ~ 2026-05-10）共 335 則事件，重點為「‘Incessant’ fight for market share pushes box s...」。航運產業通用、造船訂單、貨櫃運價為本週焦點話題。",
+    "watchlist": [
+      {
+        "company": "韓國造船海洋",
+        "reason": "本週出現 12 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "三星重工",
+        "reason": "本週出現 7 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "韓華海洋",
+        "reason": "本週出現 12 則相關事件，為高關注企業，動態頻繁。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

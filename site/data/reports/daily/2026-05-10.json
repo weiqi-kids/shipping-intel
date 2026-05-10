@@ -1,0 +1,49 @@
+{
+  "date": "2026-05-10",
+  "generated_at": "2026-05-10T09:42:42.880944Z",
+  "top_events": [],
+  "anomalies": [],
+  "topic_trends": {},
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 0,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 0,
+      "negative": 0
+    },
+    "top_companies": [],
+    "top_topics": []
+  },
+  "filter_audit": {
+    "total_raw": 332,
+    "dup_title": 162,
+    "too_old": 145,
+    "gate1_blocked": 14,
+    "gate2_blocked": 4,
+    "passed": 7,
+    "pass_rate": "4.1%",
+    "gate2_block_rate": "2.4%",
+    "gate2_samples": [
+      "Hanwha Ocean Partners with Thordon Bearings on Canadian Submarine Bid - Marine News Magazine",
+      "KFTC Extends Anti-Monopoly Restrictions on Hanwha Ocean for Another Three Years - imarinenews.com",
+      "Maersk Holds 2026 Outlook as Ocean Volumes Surge Despite Rate Pressure - gCaptain",
+      "Zim says Hapag-Lloyd agreement binding after surprise rival bid"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "2026-05-10 無航運產業相關事件。市場處於平靜狀態，無重大訊號。",
+    "signals": [
+      {
+        "text": "今日無重大異常訊號，產業動態平穩。",
+        "level": "green"
+      },
+      {
+        "text": "建議持續監控後續發展動態。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
