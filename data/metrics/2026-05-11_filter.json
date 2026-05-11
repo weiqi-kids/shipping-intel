@@ -1,0 +1,16 @@
+{
+  "total_raw": 330,
+  "dup_title": 110,
+  "no_date": 0,
+  "too_old": 143,
+  "gate1_fail": 14,
+  "gate2_fail": 5,
+  "passed": 58,
+  "gate2_samples": [
+    "Hanwha Ocean Partners with Thordon Bearings on Canadian Submarine Bid - Marine News Magazine",
+    "KFTC Extends Anti-Monopoly Restrictions on Hanwha Ocean for Another Three Years - imarinenews.com",
+    "LockBit 5.0 Strikes Yang Ming Marine in Germany - DeXpose",
+    "Maersk Holds 2026 Outlook as Ocean Volumes Surge Despite Rate Pressure - gCaptain",
+    "OceanX: Rates hold; PIL shines; Mærsk buys share; OOCL in court"
+  ]
+}

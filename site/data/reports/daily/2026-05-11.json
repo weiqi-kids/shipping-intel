@@ -1,0 +1,233 @@
+{
+  "date": "2026-05-11",
+  "generated_at": "2026-05-11T11:30:33.375281Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-05-11-017",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "One LNG transit, zero breakthrough in Hormuz crisis",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://splash247.com/one-lng-transit-zero-breakthrough-in-hormuz-crisis/"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-05-11-018",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "VLGC spot rates hit record highs",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "container_freight",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://splash247.com/vlgc-spot-rates-hit-record-highs/"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-05-11-030",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Brace for cost-out at DSV (and K+N) but how much?",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://theloadstar.com/brace-for-cost-out-at-dsv-and-kn-but-how-much/"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-05-11-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "HD Hyundai and ABS target digital transformation in shipbuilding - Splash247",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOdHVQZEplaDF6LW5nUWJGQy1WNkRxczJTS2E1VEw4Q0d3MXZLSjVUUngxVm9OVVVydlIydjNmVUdwU2k1Snd1ZEE2ZzdueWMzcDhtZEhzM2dUMW9CVUIwY3VmVTcyUnFEblpDak5ncFJrU3ktelBubGprMWtnQWRCMjZRVVR4UzRmTkxGWDF2VVM?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-05-11-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "HD Hyundai Robotics Secures Order For Robotic Welding Solutions From Chouest Group - Marine Insight",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "container_freight"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOVEhOUWtPa0NadlA3WWMzOGoteHNILWllWTNOcHY0d09nZUEzdTZ4QTJqS2dPTzBRU0plaU1KX1hmS01TYy0tOW1CbnA4LVBzX29Ra1lYLVVybzZUQ2tZaWl4REIwYXMydVgzaV90RVB0SUpSVWdxXzZMOFBXamlLbHR5QnlENFN0eWIxUXVGVHN0VVRTSFZVaWhkeFB2cWw2cDd4aDBwa3Bua3RJTUg2a1lTVQ?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 33,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.06,
+      "sentiment_7d_avg": null
+    },
+    "container_freight": {
+      "today": 4,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.12,
+      "sentiment_7d_avg": null
+    },
+    "shipbuilding_orders": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "dry_bulk_rate": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 38,
+    "sentiment_distribution": {
+      "positive": 5,
+      "neutral": 29,
+      "negative": 4
+    },
+    "top_companies": [
+      {
+        "id": "hanwha_ocean",
+        "count": 5
+      },
+      {
+        "id": "wisdom",
+        "count": 2
+      },
+      {
+        "id": "cosco",
+        "count": 1
+      },
+      {
+        "id": "hd_korea",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 33
+      },
+      {
+        "id": "container_freight",
+        "count": 4
+      },
+      {
+        "id": "shipbuilding_orders",
+        "count": 2
+      },
+      {
+        "id": "dry_bulk_rate",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 330,
+    "dup_title": 110,
+    "too_old": 143,
+    "gate1_blocked": 14,
+    "gate2_blocked": 5,
+    "passed": 58,
+    "pass_rate": "26.4%",
+    "gate2_block_rate": "2.3%",
+    "gate2_samples": [
+      "Hanwha Ocean Partners with Thordon Bearings on Canadian Submarine Bid - Marine News Magazine",
+      "KFTC Extends Anti-Monopoly Restrictions on Hanwha Ocean for Another Three Years - imarinenews.com",
+      "LockBit 5.0 Strikes Yang Ming Marine in Germany - DeXpose",
+      "Maersk Holds 2026 Outlook as Ocean Volumes Surge Despite Rate Pressure - gCaptain",
+      "OceanX: Rates hold; PIL shines; Mærsk buys share; OOCL in court"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 38 則事件，焦點為韓華海洋、慧洋海運、中遠海控相關動態：「One LNG transit, zero breakthrough in Hormuz crisis」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "One LNG transit, zero breakthrough in Hormuz crisis（航運產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "VLGC spot rates hit record highs（貨櫃運價、航運產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

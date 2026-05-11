@@ -1,0 +1,45 @@
+{
+  "date": "2026-05-11",
+  "total_events": 38,
+  "by_company": {
+    "hanwha_ocean": {
+      "count": 5,
+      "sentiment_avg": 0.0
+    },
+    "cosco": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "wisdom": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "hd_korea": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "industry_general": {
+      "count": 33,
+      "sentiment_avg": 0.06
+    },
+    "container_freight": {
+      "count": 4,
+      "sentiment_avg": 0.12
+    },
+    "shipbuilding_orders": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "dry_bulk_rate": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}
