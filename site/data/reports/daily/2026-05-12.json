@@ -1,0 +1,237 @@
+{
+  "date": "2026-05-12",
+  "generated_at": "2026-05-12T10:38:10.826757Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-05-12-017",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Shipping faces decade-defining split as geopolitics, overcapacity and decarbonisation collide",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -0.75
+      },
+      "source_url": "https://splash247.com/shipping-faces-decade-defining-split-as-geopolitics-overcapacity-and-decarbonisation-collide/"
+    },
+    {
+      "rank": 2,
+      "event_id": "hd_korea-2026-05-12-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "HD Korea Shipbuilding stock (KR7010620003): Key player in global shipbuilding - AD HOC NEWS",
+      "companies": [
+        "hd_korea"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQQU02TmJqZzFDcGdlbV8xQjR2MjVxSDFyRjdxQWRaRVk4Z3lyckJZYU05TGdHSVVNVlN4TGYxRjlHN204S2ZZc21JOGpvLXU0cUVOZDVPa0tuUllhbkVZdXNvYmVMaHB6TlZwdTJMTlVucHBiMG1WVGJtb1pLMmFrRnZOb0V0ZkotY29aZ1RXQ2EwcGxiMkFYSG04eXM3Wl95WnFkSC0xal90ZDZQNC14WE5OVnRsbWV0U1d5Qw?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "samsung_heavy-2026-05-12-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Samsung Heavy Industries stock (KR7010140002): Shipbuilding leader eyes offshore energy growth - AD HOC NEWS",
+      "companies": [
+        "samsung_heavy"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPV0VDTVNWUUM3Q0QwcWpjMHpMOXJINWhFM2VCTlVJSExKdGxvLUh0b3g4dldReXp3YWFreExyTllnUGQ1RklyZ0xDaV9EX3RUdXRQRU1ZaGZfdUphNTZfeHNNV3NTVTY1Q0xQVmpUcnZVSEItZU1DcGNJWjJxNHJ6Xy0wSGFGM3dJR2xKOUJGMDM3MTlBcU4xMkNabnVtWDZnMmxQT202akxTZFZMSFQ2Wi0yMTJkU0ZCWHlfTE1vdFFGdExSVUE?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "hanwha_ocean-2026-05-12-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Hanwha Ocean faces public fund repayment challenge amid turnaround - upi.com",
+      "companies": [
+        "hanwha_ocean"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQLWFydW9tVmZlalVpYTVoR0tLWDJYV19oNEZlSjRObXNXV0c5YlU4TG9ucW9ZdXJVelZFNWNZVnVsU3RaZFBzaDZ2ZlNIcVBWUjFGV1J3SVQ2Nms5WDVlam81VlY5Wkxock1oRW1YaTQwSmpkRjVhTUhzaF9KaXhSbVNvVXJzdnU2SDFmZWR1RjFHcnhsb2tPRHJNUEQzWlB6VmVoV0dXUngxcmZlcTVqZzE4aXFwd9IBuwFBVV95cUxOQV9jZWt1TWc2RjlHV3dsbi13UlRmODFpSmZKOV9XUDdPc0VMNUlFNUl0NElmUXFvRkdxWVEyX2ZaZDVVUU52dlo5WUhwb01MUXRyd3lCNWlMWWdfTE1oTS1TMnpRQlZPZHZxSXZVaERIN1lxNVJQWHVRYmVTWmt1YWNjeHBDTXU2RkhUQktvSU9Cc1NNRWkxSXRvZmt1TEktUFFtY2xFZkIyV1RsaDNJOGpkak9vVDBhZkNB?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "hanwha_ocean-2026-05-12-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Knutsen stacks LNG orderbook higher with Hanwha Ocean deal - Splash247",
+      "companies": [
+        "hanwha_ocean"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "shipbuilding_orders"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPQ0dLbEUxa00tMXZtZjA1WVMtUHQ1M1ZXZFcza0JaYXlJOUttSFZSYnBTbVV5b1RVa2lGajNuM1czZk5uRkpQVGZyamh1RXJ1R1BwSDlUUFAyVXRkdXVGeUV5dG1pYzV1U0RJQmpRcmNPeUg4ZWpTZkIzSXB0Q1VWTEwxWU8yU0Vx?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 21,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "shipbuilding_orders": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.25,
+      "sentiment_7d_avg": null
+    },
+    "container_freight": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "dry_bulk_rate": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 23,
+    "sentiment_distribution": {
+      "positive": 4,
+      "neutral": 16,
+      "negative": 3
+    },
+    "top_companies": [
+      {
+        "id": "hanwha_ocean",
+        "count": 5
+      },
+      {
+        "id": "hd_korea",
+        "count": 2
+      },
+      {
+        "id": "samsung_heavy",
+        "count": 1
+      },
+      {
+        "id": "evergreen",
+        "count": 1
+      },
+      {
+        "id": "yang_ming",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 21
+      },
+      {
+        "id": "shipbuilding_orders",
+        "count": 2
+      },
+      {
+        "id": "container_freight",
+        "count": 1
+      },
+      {
+        "id": "dry_bulk_rate",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 329,
+    "dup_title": 113,
+    "too_old": 137,
+    "gate1_blocked": 15,
+    "gate2_blocked": 4,
+    "passed": 60,
+    "pass_rate": "27.8%",
+    "gate2_block_rate": "1.9%",
+    "gate2_samples": [
+      "Hanwha Ocean Partners with Thordon Bearings on Canadian Submarine Bid - Marine News Magazine",
+      "KFTC Extends Anti-Monopoly Restrictions on Hanwha Ocean for Another Three Years - imarinenews.com",
+      "LockBit 5.0 Strikes Yang Ming Marine in Germany - DeXpose",
+      "OceanX: Rates hold; PIL shines; Mærsk buys share; OOCL in court"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 23 則事件，焦點為韓華海洋、韓國造船海洋、三星重工相關動態：「Shipping faces decade-defining split as geopolitics, over...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Shipping faces decade-defining split as geopolitics, overcapacity and decarbo...（航運產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "HD Korea Shipbuilding stock (KR7010620003): Key player in global shipbuilding...（航運產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
