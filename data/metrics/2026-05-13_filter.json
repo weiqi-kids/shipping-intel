@@ -1,0 +1,15 @@
+{
+  "total_raw": 329,
+  "dup_title": 117,
+  "no_date": 0,
+  "too_old": 128,
+  "gate1_fail": 15,
+  "gate2_fail": 4,
+  "passed": 65,
+  "gate2_samples": [
+    "Hanwha Ocean Partners with Thordon Bearings on Canadian Submarine Bid - Marine News Magazine",
+    "KFTC Extends Anti-Monopoly Restrictions on Hanwha Ocean for Another Three Years - imarinenews.com",
+    "Evergreen Marine Corp stock (TW0002603008): Holding in SUPL ETF highlights logistics exposure - AD H",
+    "Maersk Keeping Strait of Hormuz Transits Suspended as Ceasefire Confidence Wavers"
+  ]
+}

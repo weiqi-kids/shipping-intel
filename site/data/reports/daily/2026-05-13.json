@@ -1,0 +1,210 @@
+{
+  "date": "2026-05-13",
+  "generated_at": "2026-05-13T10:35:14.485959Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "maersk-2026-05-13-019",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "Lars Jensen: African safari aims to uncover logistics gold rush",
+      "companies": [
+        "maersk",
+        "hapag"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://splash247.com/lars-jensen-african-safari-aims-to-uncover-logistics-gold-rush/"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-05-13-008",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "HD Hyundai posts record Q1 profit as shipbuilding and energy drive gains - CHOSUNBIZ - Chosunbiz",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPVlN0LXBFTlI5clYxMGIxaE92RExLSGF0UE94QWlRUTJjX19ZOWY3ajh6aWpwckdkdEptTm85RDJKVmZxcmJhT3ctN2dlSlZKNHM5dUhuYzFIb2Z2bGV2bmpuNWg2ZUhYU1QzVUNUZGZHanFJYUF4TmR6RlA3NEEzUXFn0gGWAUFVX3lxTE9uREdNaWlRU0tzcmlSTmJoSzFrY21ZUmVQU0tUWkpualBFOU1LZ2hVaEZtUkxSemFwX2lPOXBPOHhYUUpEaE5VallPc1B0Q245anpId25ZNXdiSVR1Wi1rdU92SXNiWDdsUmdrWm5YLUpKQ0pXM2lZaVl1ZkRuNkdPQ0lKck9maEFCNi1rYVFYZWFCMi1qZw?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-05-13-016",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Diana launches campaign site while Genco fires back with ‘myths and facts’ rebuttal",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://splash247.com/diana-launches-campaign-site-while-genco-fires-back-with-myths-and-facts-rebuttal/"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-05-13-025",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "China leads the global shipbuilding market in Q1",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://www.seatrade-maritime.com/shipyards/china-leads-the-global-shipbuilding-market-in-q1"
+    },
+    {
+      "rank": 5,
+      "event_id": "hd_korea-2026-05-13-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "HD Korea Shipbuilding Offshore Engineering Co unit HD Hyundai Samho wins 748.5 billion won order - marketscreener.com",
+      "companies": [
+        "hd_korea"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNT3lrQ2Utck5yRnM1ejFudU1VSnFwQWlNOGtMOGVUR1dBT0haWDk3NFhMXzcwSEFvVmZ6aE5reVAwUllaaGt3ZVdwOUdKY3B0X3JQMVo5aUJRek1tVXNtTlRoQ3hNRUlYeWFEbzBCcUstaFlTQUxaX2VWcmtLWWZnUlZpTmstbi10SVNkdFlrM2s3TC1YaGNGZG9oZ1hneUJNeGdfeW03N2w5VVd5R2hXTGJuSkVWeW1sVk9TaS1Jc0sydW40aXBsYXotdWdxazBpVGNoM1ZzcEI2dXMxUl90UDY2NA?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 24,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.15,
+      "sentiment_7d_avg": null
+    },
+    "container_freight": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 25,
+    "sentiment_distribution": {
+      "positive": 6,
+      "neutral": 17,
+      "negative": 2
+    },
+    "top_companies": [
+      {
+        "id": "hd_korea",
+        "count": 5
+      },
+      {
+        "id": "samsung_heavy",
+        "count": 1
+      },
+      {
+        "id": "maersk",
+        "count": 1
+      },
+      {
+        "id": "hapag",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 24
+      },
+      {
+        "id": "container_freight",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 329,
+    "dup_title": 117,
+    "too_old": 128,
+    "gate1_blocked": 15,
+    "gate2_blocked": 4,
+    "passed": 65,
+    "pass_rate": "30.7%",
+    "gate2_block_rate": "1.9%",
+    "gate2_samples": [
+      "Hanwha Ocean Partners with Thordon Bearings on Canadian Submarine Bid - Marine News Magazine",
+      "KFTC Extends Anti-Monopoly Restrictions on Hanwha Ocean for Another Three Years - imarinenews.com",
+      "Evergreen Marine Corp stock (TW0002603008): Holding in SUPL ETF highlights logistics exposure - AD H",
+      "Maersk Keeping Strait of Hormuz Transits Suspended as Ceasefire Confidence Wavers"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 25 則事件，焦點為韓國造船海洋、三星重工、馬士基相關動態：「Lars Jensen: African safari aims to uncover logistics gol...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Lars Jensen: African safari aims to uncover logistics gold rush（航運產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "HD Hyundai posts record Q1 profit as shipbuilding and energy drive gains - CH...（航運產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
