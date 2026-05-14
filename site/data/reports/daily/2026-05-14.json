@@ -1,0 +1,233 @@
+{
+  "date": "2026-05-14",
+  "generated_at": "2026-05-14T10:25:48.041625Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "maersk-2026-05-14-026",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "ICTSI pushes review of Costa Rica port deal won by Maersk-Hapag Lloyd consortium",
+      "companies": [
+        "maersk",
+        "hapag"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://splash247.com/ictsi-pushes-review-of-costa-rica-port-deal-won-by-maersk-hapag-lloyd-consortium/"
+    },
+    {
+      "rank": 2,
+      "event_id": "hd_korea-2026-05-14-001",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "HD Korea Shipbuilding Secures KRW743.9 Billion Order for Two LNG Carriers From Oceania; Shares Decline 5% - Moomoo",
+      "companies": [
+        "hd_korea"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNZV9KZGhER01qWW1iaEZTdXVoQXh4cTh0WF9Cc1lzTzBiZGN2bk5Wam5hN01KVlJHWlJCeEtjZ2JzNUdMZ0tscHFYSHByU2puMUxBLWNuX3loWkt3QjdzU0VFdW1OQzd2SGlOQjhHeF9VS05KektSS1VySmFyalRsenQwcU1tbE5jZDhiVkFDOGRVNDJYR2JGeFpNTW55MzlhYkozQlk4M2I2WWZDU1R2Q1BiUUNUWnEtdWNGWTZSbnVmZG1mbEZjR2VWalJRLXFUc19J?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "hd_korea-2026-05-14-002",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "HD Korea Shipbuilding Secures KRW743.9 Billion Order for Two LNG Carriers from Oceania; Shares Decline 5% - marketscreener.com",
+      "companies": [
+        "hd_korea"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQVlBaVmpLVnA0OWFWZUVvcFlFaXBrU3dfMXdNdUpVM0UyZ2g1ZkxJeV9nSHdPM0R1RHRXUlR3SXduV0NseW5mWi1MVFQwX1hGaG9qbWhEUkZCSk5BWWVhS0VHeHQyNXlFeDExNlotazZIOTVGYkpZRjlibTE2Y25Cdl9JMUJqdXZHVTA5ODk5MTl5R1NjZ1lMbHB2RG9aT1Vud3hSWkdZejZiMmhiUUo1THFsaGVPN0VDZmxEVDE1ZzlNSXJVWmYzU1JSTmJVMG5GOWptV2pldDY4NndoTDd5LXZDblpwdlU?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "hd_korea-2026-05-14-003",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "HD Korea Shipbuilding stock (KR7010620003): Record Q1 profit on shipbuilding surge - AD HOC NEWS",
+      "companies": [
+        "hd_korea"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNU1Q3NlFrYW9fOFRyNFNOcGxKQzBJb2FKWWNhakdNTDZqbnloWVNFM2ZkSWFjaWFNOElBSnVtVnYxbHdQb28tSzBVaTVabGF3NWVUVk1ZUHVjSWQydFhtbGR3Z2F0MlNQRHpIdWpyX0M2bFhVNVJMYTItVTV5U3VhWG9zZ0k5ZnRnbUtDU3JKM3VfSjZneXlPczRJd3VtWDBwclVDZjVKbXg4QnhCdUp0ajBXTFJlbXFkWHRR?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-05-14-032",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Conflict has cost Middle East airports $1bn in lost air cargo",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://theloadstar.com/conflict-has-cost-middle-east-airports-1bn-in-lost-air-cargo/"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 32,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.03,
+      "sentiment_7d_avg": null
+    },
+    "container_freight": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "shipbuilding_orders": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.5,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 36,
+    "sentiment_distribution": {
+      "positive": 3,
+      "neutral": 30,
+      "negative": 3
+    },
+    "top_companies": [
+      {
+        "id": "samsung_heavy",
+        "count": 6
+      },
+      {
+        "id": "hd_korea",
+        "count": 4
+      },
+      {
+        "id": "hapag",
+        "count": 2
+      },
+      {
+        "id": "evergreen",
+        "count": 1
+      },
+      {
+        "id": "yang_ming",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 32
+      },
+      {
+        "id": "container_freight",
+        "count": 3
+      },
+      {
+        "id": "shipbuilding_orders",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 328,
+    "dup_title": 113,
+    "too_old": 121,
+    "gate1_blocked": 16,
+    "gate2_blocked": 3,
+    "passed": 75,
+    "pass_rate": "34.9%",
+    "gate2_block_rate": "1.4%",
+    "gate2_samples": [
+      "KFTC Extends Anti-Monopoly Restrictions on Hanwha Ocean for Another Three Years - imarinenews.com",
+      "Evergreen Marine Corp stock (TW0002603008): Drops 1.87% amid Taiwan market selloff - AD HOC NEWS",
+      "Evergreen Marine Corp stock (TW0002603008): Holding in SUPL ETF highlights logistics exposure - AD H"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 36 則事件，焦點為三星重工、韓國造船海洋、赫伯羅特相關動態：「ICTSI pushes review of Costa Rica port deal won by Maersk...」。主要關注主題為航運產業通用、貨櫃運價、造船訂單，市場情緒中性。",
+    "signals": [
+      {
+        "text": "ICTSI pushes review of Costa Rica port deal won by Maersk-Hapag Lloyd consortium（航運產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "HD Korea Shipbuilding Secures KRW743.9 Billion Order for Two LNG Carriers Fro...（航運產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

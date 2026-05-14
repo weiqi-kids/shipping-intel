@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-13T10:35:14.149629+00:00",
+  "updated_at": "2026-05-14T10:25:47.493102+00:00",
   "companies": {
     "maersk": {
       "name": "A.P. Moller-Maersk",
@@ -10,7 +10,7 @@
           "holder": "Pacer Advisors, Inc.",
           "shares": 21,
           "pct_held": 0.0,
-          "value": 309225
+          "value": 308595
         }
       ]
     },
@@ -23,7 +23,7 @@
           "holder": "Pacer Advisors, Inc.",
           "shares": 165,
           "pct_held": 0.0,
-          "value": 20080
+          "value": 19222
         }
       ]
     },
@@ -32,12 +32,6 @@
       "short_name": "ZIM Integrated Shipping",
       "ticker": "ZIM",
       "holders": [
-        {
-          "holder": "Clal Insurance Enterprises Holdings Ltd",
-          "shares": 4232000,
-          "pct_held": 3.51,
-          "value": 108974000
-        },
         {
           "holder": "Menora Mivtachim Holdings Ltd.",
           "shares": 4075810,
@@ -91,6 +85,12 @@
           "shares": 1301962,
           "pct_held": 1.08,
           "value": 33525521
+        },
+        {
+          "holder": "Causeway Capital Management LLC",
+          "shares": 1213006,
+          "pct_held": 1.01,
+          "value": 31234904
         }
       ]
     },
@@ -103,61 +103,61 @@
           "holder": "Alliancebernstein L.P.",
           "shares": 5832805,
           "pct_held": 5.23,
-          "value": 159468889
+          "value": 155677568
         },
         {
           "holder": "Ameriprise Financial, Inc.",
           "shares": 2146631,
           "pct_held": 1.92,
-          "value": 58688891
+          "value": 57293582
         },
         {
           "holder": "Oaktree Capital Management LP",
           "shares": 1962892,
           "pct_held": 1.76,
-          "value": 53665467
+          "value": 52389588
         },
         {
           "holder": "Renaissance Technologies, LLC",
           "shares": 1830389,
           "pct_held": 1.64,
-          "value": 50042835
+          "value": 48853083
         },
         {
           "holder": "Philosophy Capital Management Llc",
           "shares": 1650000,
           "pct_held": 1.48,
-          "value": 45111000
+          "value": 44038500
         },
         {
           "holder": "Boston Partners",
           "shares": 1626444,
           "pct_held": 1.46,
-          "value": 44466979
+          "value": 43409791
         },
         {
           "holder": "Morgan Stanley",
           "shares": 1094404,
           "pct_held": 0.98,
-          "value": 29921005
+          "value": 29209643
         },
         {
           "holder": "Focus Partners Wealth",
           "shares": 1041252,
           "pct_held": 0.93,
-          "value": 28467829
+          "value": 27791016
         },
         {
           "holder": "Millennium Management Llc",
           "shares": 887056,
           "pct_held": 0.8,
-          "value": 24252111
+          "value": 23675525
         },
         {
           "holder": "DnB Asset Management AS",
           "shares": 817099,
           "pct_held": 0.73,
-          "value": 22339486
+          "value": 21808372
         }
       ]
     }

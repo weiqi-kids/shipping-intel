@@ -1,0 +1,14 @@
+{
+  "total_raw": 328,
+  "dup_title": 113,
+  "no_date": 0,
+  "too_old": 121,
+  "gate1_fail": 16,
+  "gate2_fail": 3,
+  "passed": 75,
+  "gate2_samples": [
+    "KFTC Extends Anti-Monopoly Restrictions on Hanwha Ocean for Another Three Years - imarinenews.com",
+    "Evergreen Marine Corp stock (TW0002603008): Drops 1.87% amid Taiwan market selloff - AD HOC NEWS",
+    "Evergreen Marine Corp stock (TW0002603008): Holding in SUPL ETF highlights logistics exposure - AD H"
+  ]
+}

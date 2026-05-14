@@ -1,0 +1,171 @@
+{
+  "date": "2026-05-14",
+  "date_range": {
+    "start": "2026-05-08",
+    "end": "2026-05-14"
+  },
+  "generated_at": "2026-05-14T10:25:48.178297Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "wan_hai-2026-05-11-070",
+      "date": "2026-05-11",
+      "title": "Taiwan in talks with Iran to free flag-carrier box ships from the Gulf",
+      "importance_score": 0.7
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "industry_general": {
+      "this_week": 139,
+      "last_week": 108,
+      "week_over_week_change": "+29%",
+      "sentiment_this_week": 0.05
+    },
+    "shipbuilding_orders": {
+      "this_week": 7,
+      "last_week": 10,
+      "week_over_week_change": "-30%",
+      "sentiment_this_week": 0.14
+    },
+    "container_freight": {
+      "this_week": 9,
+      "last_week": 3,
+      "week_over_week_change": "+200%",
+      "sentiment_this_week": 0.05
+    },
+    "dry_bulk_rate": {
+      "this_week": 2,
+      "last_week": 3,
+      "week_over_week_change": "-33%",
+      "sentiment_this_week": 0.0
+    }
+  },
+  "company_7d_summary": {
+    "hd_korea": {
+      "event_count": 16,
+      "sentiment_avg": -0.09,
+      "rank": 1
+    },
+    "hanwha_ocean": {
+      "event_count": 14,
+      "sentiment_avg": 0.07,
+      "rank": 2
+    },
+    "cosco": {
+      "event_count": 5,
+      "sentiment_avg": 0.1,
+      "rank": 4
+    },
+    "maersk": {
+      "event_count": 3,
+      "sentiment_avg": 0.0,
+      "rank": 5
+    },
+    "zim": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 10
+    },
+    "wan_hai": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 11
+    },
+    "wisdom": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 7
+    },
+    "samsung_heavy": {
+      "event_count": 8,
+      "sentiment_avg": 0.06,
+      "rank": 3
+    },
+    "evergreen": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 8
+    },
+    "yang_ming": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 9
+    },
+    "hapag": {
+      "event_count": 3,
+      "sentiment_avg": 0.0,
+      "rank": 6
+    },
+    "star_bulk": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 12
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 322,
+        "last": 337,
+        "change_pct": -4.5
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-05-08",
+      "event_count": 61,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-05-09",
+      "event_count": 9,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-05-10",
+      "event_count": 16,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-05-11",
+      "event_count": 74,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-05-12",
+      "event_count": 62,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-05-13",
+      "event_count": 64,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-05-14",
+      "event_count": 36,
+      "sentiment_avg": 0
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-05-08 ~ 2026-05-14）共 322 則事件，重點為「Taiwan in talks with Iran to free flag-carrier ...」。航運產業通用、貨櫃運價、造船訂單為本週焦點話題。",
+    "watchlist": [
+      {
+        "company": "韓國造船海洋",
+        "reason": "本週出現 16 則相關事件且情緒偏負面，需特別關注。"
+      },
+      {
+        "company": "韓華海洋",
+        "reason": "本週出現 14 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "中遠海控",
+        "reason": "本週出現 5 則相關事件，為高關注企業，動態頻繁。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
