@@ -1,0 +1,229 @@
+{
+  "date": "2026-05-15",
+  "generated_at": "2026-05-15T10:30:24.464909Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-05-15-008",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Splash Wrap: Iran tightens its control of Hormuz",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://splash247.com/splash-wrap-iran-tightens-its-control-of-hormuz/"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-05-15-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Samsung Heavy, HD Hyundai win LNG carrier orders - 매일경제",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFA3VmRXRnYwcWpkd0ZRUXN3SzZfajdfMDRuT2tpRnAxc3N3V0l3YlZXTW5rMXc2dTlVcGR3OEUxalk5N2dBSHI4SFZCa0xjMmtNSkdDU21YVQ?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-05-15-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Economou bolsters gas shipping unit with Samsung Heavy newbuilds - Splash247",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOYTZxLTNwTU16Y1B1NkJfM2drc2w0YVU3cnljcUxzenpNUDZ4OVlsNDJPZ2EyX09GNklyVWhRYlBva3dLUlZWSGdwbzNYcUlUaWh3aUloamlZS1FzTHZma0xJZ0hRZTRnYndxSjlMVDFTZlI0UG1pMWlxc1Z5Wm5Eb0hkdWFXQlRsQ1JFX1VTX3I?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "hanwha_ocean-2026-05-15-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Hanwha Ocean delivers 2 LNG ships Seri Dian and Seri Dayang of 174,000 m³ to MISC and challenges Chinese advancement in the liquefied natural gas sector. - CPG Click Petróleo e Gás",
+      "companies": [
+        "hanwha_ocean"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxPNEUxR01ISng4c1dtSUdWWDZDUzV3UkdrZ3hjUGlJeTN4UHNqanVnTmRYaUhxdFpQQUpGODJvdmJQb29fM3dwQnFRR3c0TWwwTTlzc2lITnVQTTN1LXA1Wl92TTIxS2xZMEFfTG42YkZwMkpsSFNpMWxodWJoODdHcVpGMW1KU050SjZKRnVVTEthOThvMmc3bUYyd2gzQ01jRnpCSFVYMXRFajFBaEJwTW9TZzRPLVkyWmZKZXVLdkxZcnF5blloWFc4M3lNdVcyRkctSnVDTURNWEpsdEN5NnYxZEktaG9EZGtPZ01Zd01ZWEpoYkhvMXYwZnk1VkpxR3hVbEhqaVVNcmdJalp2Rg?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "evergreen-2026-05-15-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Evergreen Marine Logs NT$8.3 Billion Profit in Q1 - marketscreener.com",
+      "companies": [
+        "evergreen"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPLWh4c3FaM05VSHBFemtnU0twWHNLcUgwMDQ4aUtxWmxtMlVxSE1aaHB5VER4X09MMERSU19kR0JWNVJfMUlFR3lETUJ2d2xvNVNZa1Rpa3BxR0FEWC01RUltNVNsVHBNTkkzSFdFV0JQUVNvSWllQnhSWUVua0FaRGVzYlhuQU5CejBpeklCaTdyZDlEa2Z5eGl6RWwyM0pRZkg4Ng?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 19,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.03,
+      "sentiment_7d_avg": null
+    },
+    "shipbuilding_orders": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "container_freight": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "dry_bulk_rate": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 20,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 18,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "hanwha_ocean",
+        "count": 1
+      },
+      {
+        "id": "evergreen",
+        "count": 1
+      },
+      {
+        "id": "samsung_heavy",
+        "count": 1
+      },
+      {
+        "id": "hapag",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 19
+      },
+      {
+        "id": "shipbuilding_orders",
+        "count": 2
+      },
+      {
+        "id": "container_freight",
+        "count": 2
+      },
+      {
+        "id": "dry_bulk_rate",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 326,
+    "dup_title": 138,
+    "too_old": 114,
+    "gate1_blocked": 12,
+    "gate2_blocked": 4,
+    "passed": 58,
+    "pass_rate": "30.9%",
+    "gate2_block_rate": "2.1%",
+    "gate2_samples": [
+      "LR awards its first submarine AiP to Hanwha Ocean - Lloyd's Register",
+      "Evergreen Marine Corp stock (TW0002603008): Drops 1.87% amid Taiwan market selloff - AD HOC NEWS",
+      "Evergreen Marine Corp stock (TW0002603008): Holding in SUPL ETF highlights logistics exposure - AD H",
+      "New York eager to kill the DSP model – if it works, who absorbs the shock?"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 20 則事件，焦點為韓華海洋、長榮海運、三星重工相關動態：「Splash Wrap: Iran tightens its control of Hormuz」。主要關注主題為航運產業通用、造船訂單、貨櫃運價，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Splash Wrap: Iran tightens its control of Hormuz（航運產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "Samsung Heavy, HD Hyundai win LNG carrier orders - 매일경제（航運產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

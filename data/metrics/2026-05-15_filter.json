@@ -1,0 +1,15 @@
+{
+  "total_raw": 326,
+  "dup_title": 138,
+  "no_date": 0,
+  "too_old": 114,
+  "gate1_fail": 12,
+  "gate2_fail": 4,
+  "passed": 58,
+  "gate2_samples": [
+    "LR awards its first submarine AiP to Hanwha Ocean - Lloyd's Register",
+    "Evergreen Marine Corp stock (TW0002603008): Drops 1.87% amid Taiwan market selloff - AD HOC NEWS",
+    "Evergreen Marine Corp stock (TW0002603008): Holding in SUPL ETF highlights logistics exposure - AD H",
+    "New York eager to kill the DSP model – if it works, who absorbs the shock?"
+  ]
+}
