@@ -1,0 +1,206 @@
+{
+  "date": "2026-05-16",
+  "generated_at": "2026-05-16T09:45:59.624717Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "samsung_heavy-2026-05-16-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "TMS Cardiff Gas Orders Two LNG Carriers at Samsung Heavy Industries – Delivery by June 2029 - News and Statistics - IndexBox",
+      "companies": [
+        "samsung_heavy"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQSU5LLVVCNUJtZ09YY2ZhXzNoR2t2M1ZTQzBFOU83aGhWSW5pT3p5N2RYYWctUXdVcHdnaVZzcEpmbFJyZ3VRc2FXOXVTa2tSNTlYLU4yN2M3ejZGYkVabkptM0djTVpvWEtIOTdacTN0b1M4YWdqcGFoSlhSSWFoWENWUW41TVFDSnB4YU5Ja19rX2RZaEp2cVBPNTFIYXl0S3BuSzBEUkVtV0E?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-05-16-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Can AI-assisted unmanned vessels be Beijing’s answer to South China Sea patrols? - South China Morning Post",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQWmxWQXQwUVZpMWNKTmg4ejZRb05DcDFjWFQxRnEwcDR6RWpLY3pxVVRjOVZ6dExTc0ptcXJMLS1ZWVFQN3FvZ1Zaa1JrQXJWN2Eydmh6bHJWVWpXTWpaZV85Y1MzZjBRbGphVHUzbzQwd0RUd2FPTDR1ajRyYUFLNDV3MTk3dENuY05ZZm93MWJzaXcwa1R4a3hrXzFlcmtFRDBVOHdiSFZGUEhkNk9wMVh1RVhvUzloRU9sOWxraVU0c2docTk5d3JlOETSAcwBQVVfeXFMTXE5YTd6QjVaUloyYnNoQ0hsOHZBekJ5Z284bDJWS1ViTWFSSjRNYS1Jc055Zng2TTh3cVZLclNScXpvNy1ZMmVzZXkxOXQ5ZVNRdDlXU0tqU1lqXzduY3RJYW9YcmRnRDg2NHl3VEdlRTExcDA0UC1mSjR5Q0NmWS1zN2RiM0hSQjE5amVaanc1c0FueEVDUmNfa1d5WXRjeWdKV0RuT0lyVThHMEIyejlKdEo4bExmVklvR0pYYlMtQXVtTHhybW5tckhL?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "evergreen-2026-05-16-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Evergreen Marine Corp stock (TW0002603008): Shipping demand and rates in focus after latest results - AD HOC NEWS",
+      "companies": [
+        "evergreen"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNa2NvMzVIZXdtYzJvdmJwUnJ0eUVQYnptT1lSdndjb2kzei1fbEZCdHJpbUo4Y3ozTlQwVUZSRHNVbzBRYktlUUJrZUF5bFdyTFdiVm9HeHoxYXF6WE9xWmM3SjVNajRNU0NjdzdFcXVLREY5VUZGa0hETFNxQWZZUGgxVGFXNXIweGMyU05zUUdqQjFfVnI3Zi01T1d5djVwd29hbXZTbmlwUDlmcHpZZkxJS2w2MmZ3VXo3bGdacGpnb09WRHFJ?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "evergreen-2026-05-16-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Evergreen Marine Corp stock (TW0002603008): Q1 profit returns as container rates stay firm - AD HOC NEWS",
+      "companies": [
+        "evergreen"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "container_freight",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPTlVXZTREbkRVUUNRcmNIVVlpX3hjaE1vSk9jVFNlVHd5dW9HQU4tYmlBel9EVTlHbnRVVUMtdFZ3b2NoelRXdDZscjJVZGZYdTlCWFVFbEJZZDdRU3pnUmdiRXZmbzkzLUw0NlM2TWdMbEpEbkVrZ0k5V3dRSFJ2QUUyU2JUU1lvZTdwMy1ELVh6UlM1dmJnN2lrbmdSLXRkVy01MjJpcEphUWlzdWNYOTY5R1g3TzlwUTk0bW1QcHUwV3BwanVOSkdB?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-05-16-005",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Wan Hai stock (TW0002615002): Shipping demand, freight rates in focus - AD HOC NEWS",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "container_freight",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPUzBOUFhJSm5kUHpRRTd5bFZwUHBKS0ZlMUVWVDdhRjJFZTJIOEZuWDk1UzE0eFdMRVZrWmtEVE5ZM0cwZFloRGpkLUp5aGE3QW15blJzRFNLdnZBV3pOdUhuRUctMnV4Z0o5NmdJdHdHRzlXOUs5RWZvOEZMU2ptcVdDNjlkbWtoYVQzalFnbVBIai1NanFiakhhLTZuRzVkVDlxWWROSE9sR0UzSEptOW5yU2JVTnJTRk4zZVNiWlRZdw?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 9,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "container_freight": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 9,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 9,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "evergreen",
+        "count": 2
+      },
+      {
+        "id": "samsung_heavy",
+        "count": 1
+      },
+      {
+        "id": "cosco",
+        "count": 1
+      },
+      {
+        "id": "u_ming",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 9
+      },
+      {
+        "id": "container_freight",
+        "count": 3
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 327,
+    "dup_title": 158,
+    "too_old": 100,
+    "gate1_blocked": 16,
+    "gate2_blocked": 5,
+    "passed": 48,
+    "pass_rate": "28.4%",
+    "gate2_block_rate": "3.0%",
+    "gate2_samples": [
+      "Samsung Heavy Industries Receives AIP Certificate for Floating Data Center from ABS - Marine News Ma",
+      "Samsung Heavy Industries stock (KR7010140002): ABS greenlights floating data center concept - AD HOC",
+      "LR awards its first submarine AiP to Hanwha Ocean - Lloyd's Register",
+      "Evergreen Marine Corp stock (TW0002603008): Drops 1.87% amid Taiwan market selloff - AD HOC NEWS",
+      "Evergreen Marine Corp stock (TW0002603008): Holding in SUPL ETF highlights logistics exposure - AD H"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 9 則事件，焦點為長榮海運、三星重工、中遠海控相關動態：「TMS Cardiff Gas Orders Two LNG Carriers at Samsung Heavy ...」。主要關注主題為航運產業通用、貨櫃運價，市場情緒中性。",
+    "signals": [
+      {
+        "text": "TMS Cardiff Gas Orders Two LNG Carriers at Samsung Heavy Industries – Deliver...（航運產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "Can AI-assisted unmanned vessels be Beijing’s answer to South China Sea patro...（航運產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

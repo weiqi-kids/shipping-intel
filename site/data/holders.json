@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-15T10:30:23.926672+00:00",
+  "updated_at": "2026-05-16T09:45:59.125315+00:00",
   "companies": {
     "maersk": {
       "name": "A.P. Moller-Maersk",
@@ -23,7 +23,7 @@
           "holder": "Pacer Advisors, Inc.",
           "shares": 165,
           "pct_held": 0.0,
-          "value": 19024
+          "value": 19288
         }
       ]
     },
@@ -33,64 +33,64 @@
       "ticker": "ZIM",
       "holders": [
         {
-          "holder": "Menora Mivtachim Holdings Ltd.",
-          "shares": 4075810,
-          "pct_held": 3.38,
-          "value": 104666802
-        },
-        {
           "holder": "Meitav Investment House Ltd.",
           "shares": 3906396,
           "pct_held": 3.24,
-          "value": 100316250
+          "value": 99886544
         },
         {
           "holder": "Blackrock Inc.",
           "shares": 3576416,
           "pct_held": 2.97,
-          "value": 91842363
+          "value": 91448956
         },
         {
           "holder": "American Century Companies Inc",
           "shares": 3265171,
           "pct_held": 2.71,
-          "value": 83849592
+          "value": 83490421
         },
         {
           "holder": "Yelin Lapidot Holdings Management Ltd.",
           "shares": 3268773,
           "pct_held": 2.71,
-          "value": 83942091
+          "value": 83582524
         },
         {
           "holder": "Renaissance Technologies, LLC",
-          "shares": 2877685,
-          "pct_held": 2.39,
-          "value": 73898951
+          "shares": 2936288,
+          "pct_held": 2.44,
+          "value": 75080883
+        },
+        {
+          "holder": "Menora Mivtachim Holdings Ltd.",
+          "shares": 1656810,
+          "pct_held": 1.38,
+          "value": 42364631
         },
         {
           "holder": "State Street Corporation",
           "shares": 1483406,
           "pct_held": 1.23,
-          "value": 38093866
+          "value": 37930690
         },
         {
           "holder": "Charles Schwab Investment Management, Inc.",
           "shares": 1432355,
           "pct_held": 1.19,
-          "value": 36782876
+          "value": 36625316
         },
         {
           "holder": "Bank of America Corporation",
           "shares": 1301962,
           "pct_held": 1.08,
-          "value": 33434384
+          "value": 33291167
         },
         {
-          "holder": "Causeway Capital Management LLC",
-          "shares": 1213006,
-          "pct_held": 1.01,
-          "value": 31149994
+          "holder": "Alpine Associates Management Inc.",
+          "shares": 1181300,
+          "pct_held": 0.98,
+          "value": 30205840
         }
       ]
     },
@@ -103,61 +103,61 @@
           "holder": "Alliancebernstein L.P.",
           "shares": 5832805,
           "pct_held": 5.23,
-          "value": 155619239
+          "value": 154394344
         },
         {
           "holder": "Ameriprise Financial, Inc.",
           "shares": 2146631,
           "pct_held": 1.92,
-          "value": 57272115
+          "value": 56821321
+        },
+        {
+          "holder": "Renaissance Technologies, LLC",
+          "shares": 2067637,
+          "pct_held": 1.85,
+          "value": 54730349
         },
         {
           "holder": "Oaktree Capital Management LP",
           "shares": 1962892,
           "pct_held": 1.76,
-          "value": 52369959
-        },
-        {
-          "holder": "Renaissance Technologies, LLC",
-          "shares": 1830389,
-          "pct_held": 1.64,
-          "value": 48834779
+          "value": 51957749
         },
         {
           "holder": "Philosophy Capital Management Llc",
           "shares": 1650000,
           "pct_held": 1.48,
-          "value": 44022000
+          "value": 43675498
         },
         {
           "holder": "Boston Partners",
           "shares": 1626444,
           "pct_held": 1.46,
-          "value": 43393526
+          "value": 43051971
         },
         {
           "holder": "Morgan Stanley",
           "shares": 1094404,
           "pct_held": 0.98,
-          "value": 29198699
+          "value": 28968873
         },
         {
           "holder": "Focus Partners Wealth",
           "shares": 1041252,
           "pct_held": 0.93,
-          "value": 27780603
+          "value": 27561939
         },
         {
           "holder": "Millennium Management Llc",
           "shares": 887056,
           "pct_held": 0.8,
-          "value": 23666654
+          "value": 23480371
         },
         {
-          "holder": "DnB Asset Management AS",
-          "shares": 817099,
-          "pct_held": 0.73,
-          "value": 21800201
+          "holder": "Point72 Asset Management, L.P.",
+          "shares": 807152,
+          "pct_held": 0.72,
+          "value": 21365312
         }
       ]
     }

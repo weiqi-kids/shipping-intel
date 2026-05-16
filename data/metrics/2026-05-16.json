@@ -1,0 +1,37 @@
+{
+  "date": "2026-05-16",
+  "total_events": 9,
+  "by_company": {
+    "samsung_heavy": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "evergreen": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "cosco": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "u_ming": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "industry_general": {
+      "count": 9,
+      "sentiment_avg": 0.0
+    },
+    "container_freight": {
+      "count": 3,
+      "sentiment_avg": 0.0
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}
