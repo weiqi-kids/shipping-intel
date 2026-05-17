@@ -1,0 +1,20 @@
+{
+  "date": "2026-05-17",
+  "total_events": 4,
+  "by_company": {},
+  "by_topic": {
+    "industry_general": {
+      "count": 4,
+      "sentiment_avg": 0.12
+    },
+    "container_freight": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}

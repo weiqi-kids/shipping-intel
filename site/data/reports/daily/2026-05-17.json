@@ -1,0 +1,160 @@
+{
+  "date": "2026-05-17",
+  "generated_at": "2026-05-17T09:52:23.645351Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-05-17-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Korean shipbuilders report strong Q1 driven by increased orders for energy carriers amid Iran war - Korea JoongAng Daily",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxQNmxEU3JleE1aREhnSHdSZjRlSVQ5MjN6d2JTbTkzUTV5RGE2LUNmd1dnaDNyQkRNdU1jVldSLVBqOE1HY1h3Wi1lODhTRXlHaGlhbjdYdDNHRnpVbVlUckVGYkJUYzlieWxSRjhvbG9lSEx0c0lvQnpTYWdKQlJ0LVNIT2lVbDM1TGF3QUVHRkFUU3U4MGcxOUp4TEJKd3pvSjBvUWFJRVBucHI2M3VhR01FUWF3RmtJTEVvZTJUU0ZuUTFtemRIbWFfM29XcWhJQ2ZmcEk0b1d5MzVZQUR0X2JPVkhUNEVzTEZFQU5vZW9mMm1kWVdQY2dVcTF2V05mOGI3OHEwUQ?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-05-17-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Suezmax Tanker With Iraqi Crude Reaches India After Hormuz Transit",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://gcaptain.com/suezmax-tanker-with-iraqi-crude-reaches-india-after-hormuz-transit/"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-05-17-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Greece Asks EU To Step In Over ‘Unlawful Fishing’ By Turkey",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://gcaptain.com/greece-asks-eu-to-step-in-over-unlawful-fishing-by-turkey/"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-05-17-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Gulf freight rates jump as shipping companies turn to trucks to move cargo - Financial Times",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "container_freight",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPRTQwS1hyejFwaFJ2bXd3elB1T2YtV0RKSk5TTTYtYy1lQ3NkVnA2eVczYUlsSDBBM2pKRW9zS1lwQjlSdVp6WXBaSDA5SFlXM2NpbmUzX2t4N2lzSXJ0MW1XU1V5aXQyV1I0TDh0RGhLenllSFlwTXI0bE11RTBtWXl4dTg?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 4,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.12,
+      "sentiment_7d_avg": null
+    },
+    "container_freight": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 4,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 3,
+      "negative": 0
+    },
+    "top_companies": [],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 4
+      },
+      {
+        "id": "container_freight",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 327,
+    "dup_title": 179,
+    "too_old": 109,
+    "gate1_blocked": 16,
+    "gate2_blocked": 3,
+    "passed": 20,
+    "pass_rate": "13.5%",
+    "gate2_block_rate": "2.0%",
+    "gate2_samples": [
+      "Samsung Heavy Industries Receives AIP Certificate for Floating Data Center from ABS - Marine News Ma",
+      "Evergreen Marine Corp stock (TW0002603008): Drops 1.87% amid Taiwan market selloff - AD HOC NEWS",
+      "Evergreen Marine Corp stock (TW0002603008): Holding in SUPL ETF highlights logistics exposure - AD H"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 4 則事件，焦點為航運產業通用、貨櫃運價相關動態：「Korean shipbuilders report strong Q1 driven by increased ...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Korean shipbuilders report strong Q1 driven by increased orders for energy ca...（航運產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "Suezmax Tanker With Iraqi Crude Reaches India After Hormuz Transit（航運產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

@@ -1,0 +1,14 @@
+{
+  "total_raw": 327,
+  "dup_title": 179,
+  "no_date": 0,
+  "too_old": 109,
+  "gate1_fail": 16,
+  "gate2_fail": 3,
+  "passed": 20,
+  "gate2_samples": [
+    "Samsung Heavy Industries Receives AIP Certificate for Floating Data Center from ABS - Marine News Ma",
+    "Evergreen Marine Corp stock (TW0002603008): Drops 1.87% amid Taiwan market selloff - AD HOC NEWS",
+    "Evergreen Marine Corp stock (TW0002603008): Holding in SUPL ETF highlights logistics exposure - AD H"
+  ]
+}
