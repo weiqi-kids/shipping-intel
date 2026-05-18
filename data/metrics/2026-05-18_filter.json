@@ -1,0 +1,14 @@
+{
+  "total_raw": 330,
+  "dup_title": 152,
+  "no_date": 0,
+  "too_old": 106,
+  "gate1_fail": 16,
+  "gate2_fail": 3,
+  "passed": 53,
+  "gate2_samples": [
+    "Samsung Heavy Industries Receives AIP Certificate for Floating Data Center from ABS - Marine News Ma",
+    "LR awards its first submarine AiP to Hanwha Ocean - Lloyd's Register",
+    "Evergreen Marine Corp stock (TW0002603008): Drops 1.87% amid Taiwan market selloff - AD HOC NEWS"
+  ]
+}

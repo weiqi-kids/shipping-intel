@@ -1,0 +1,211 @@
+{
+  "date": "2026-05-18",
+  "generated_at": "2026-05-18T11:49:53.562675Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-05-18-015",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Geneva Dry iron ore panel lays out a bullish, chaotic future for capes",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "container_freight",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://splash247.com/geneva-dry-iron-ore-panel-lays-out-a-bullish-chaotic-future-for-capes/"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-05-18-024",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Supreme Court ruling on broker liability will drive trucking costs up",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://theloadstar.com/supreme-court-ruling-on-broker-liability-will-drive-trucking-costs-up/"
+    },
+    {
+      "rank": 3,
+      "event_id": "samsung_heavy-2026-05-18-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Seapeak books LNG carrier trio at Samsung Heavy Industries for Woodside Energy - Tradewinds News",
+      "companies": [
+        "samsung_heavy"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQYnJJWVBtSnlRekZJajlaZmVrdzZhNS00UnJEdEdLMmNUdks0enFKVU1wZ1ZEeW5zaTV2S0twRndtNUgtaGlOb1RqYjA4cHQxeWJfQ1VaWFNSSHBlbUJXRjlsSmJkZWpZOXJraEVXM0p1M1hua293SVJpNEQwZG41Z05OaENqdWVQX2lFZ3BidS1FOHFsZlpRWlAteHJTb0hhYUdlTVE1MmFfTHRrMWJwRHJEb0lOUVpKQ1NjYVVRTXhLb2c?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "samsung_heavy-2026-05-18-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Samsung Heavy Industries Co Ltd Wins 1.1 Trln Won Order - TradingView",
+      "companies": [
+        "samsung_heavy"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPdXFUM0NkU2R2MXN1c3hpZV9jd1Q1ZEJxcDFBd2ZHVGFYQWhhR0duUVBpRE9QSjNKc2lVcFJ0bDNpZVZvVFdKaTV3U2xTaXpURGowc194NHQwSkhINGhuYVJrUHpKZzJRbWVjSGJqMFBySGRVVEFZSU5VUVQzWWdnQW4yb1ZtVkUzRjFfcW5ZYThiTWIzamJPWWtvbEtUQk5kRUNxLXdyenkySzZxdUw4NTlNWDBwa04xME0tLWFwRUs2T0k?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "samsung_heavy-2026-05-18-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Samsung Heavy Industries wins 1.1 tln-won order to build 3 ships - Yonhap News Agency",
+      "companies": [
+        "samsung_heavy"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1Dcmo1emhfcTRENW1vclZVUWVkQXVlM1RrXzFfaE1HOTFDTWlDQXZmTVRtWHVLQTN1dFFKNnhMbG5HM1FBQjRsVnhQNm5QWFNDanZWU0lTaVZNdw?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 31,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.05,
+      "sentiment_7d_avg": null
+    },
+    "shipbuilding_orders": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.17,
+      "sentiment_7d_avg": null
+    },
+    "container_freight": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.33,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 32,
+    "sentiment_distribution": {
+      "positive": 5,
+      "neutral": 25,
+      "negative": 2
+    },
+    "top_companies": [
+      {
+        "id": "samsung_heavy",
+        "count": 5
+      },
+      {
+        "id": "evergreen",
+        "count": 2
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 31
+      },
+      {
+        "id": "shipbuilding_orders",
+        "count": 3
+      },
+      {
+        "id": "container_freight",
+        "count": 3
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 330,
+    "dup_title": 152,
+    "too_old": 106,
+    "gate1_blocked": 16,
+    "gate2_blocked": 3,
+    "passed": 53,
+    "pass_rate": "29.8%",
+    "gate2_block_rate": "1.7%",
+    "gate2_samples": [
+      "Samsung Heavy Industries Receives AIP Certificate for Floating Data Center from ABS - Marine News Ma",
+      "LR awards its first submarine AiP to Hanwha Ocean - Lloyd's Register",
+      "Evergreen Marine Corp stock (TW0002603008): Drops 1.87% amid Taiwan market selloff - AD HOC NEWS"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 32 則事件，焦點為三星重工、長榮海運相關動態：「Geneva Dry iron ore panel lays out a bullish, chaotic fut...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Geneva Dry iron ore panel lays out a bullish, chaotic future for capes（貨櫃運價、航運產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "Supreme Court ruling on broker liability will drive trucking costs up（航運產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
