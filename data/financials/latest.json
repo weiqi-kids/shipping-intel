@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-18T11:49:49.790262Z",
+  "updated_at": "2026-05-19T11:26:30.165258Z",
   "quarter": "2025-12-31, 2026-03-31",
   "companies": [
     {
@@ -63,14 +63,14 @@
       "name": "赫伯羅特",
       "ticker": "HLAG.DE",
       "currency": "EUR",
-      "ar": 1966300000,
-      "ar_prev": 2017400000,
-      "ar_qoq": "-3%",
-      "inventory": 577200000,
-      "inv_prev": 538100000,
-      "inv_qoq": "+7%",
-      "alert": false,
-      "quarter_date": "2025-12-31"
+      "ar": 2097100000,
+      "ar_prev": 1966300000,
+      "ar_qoq": "+7%",
+      "inventory": 715100000,
+      "inv_prev": 577200000,
+      "inv_qoq": "+24%",
+      "alert": true,
+      "quarter_date": "2026-03-31"
     },
     {
       "id": "hd_korea",

@@ -1,0 +1,14 @@
+{
+  "total_raw": 331,
+  "dup_title": 136,
+  "no_date": 0,
+  "too_old": 112,
+  "gate1_fail": 16,
+  "gate2_fail": 3,
+  "passed": 64,
+  "gate2_samples": [
+    "GTT to design FSRU tank for Samsung Heavy Industries - lngindustry.com",
+    "Samsung Heavy Industries Receives AIP Certificate for Floating Data Center from ABS - Marine News Ma",
+    "Evergreen Marine Corp stock (TW0002603008): Drops 1.87% amid Taiwan market selloff - AD HOC NEWS"
+  ]
+}

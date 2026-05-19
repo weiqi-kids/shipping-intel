@@ -1,5 +1,621 @@
 [
   {
+    "id": "unknown-2026-05-19-001",
+    "date": "2026-05-19",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "South Korean Shipbuilders Lead LNG Carrier Orders - Businesskorea",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE1lVDNTOEF3cnJxemdsQ0F0c09sMVlyV043U3k4TDJBdGd2TFJWWG5qRC0zNTI3NTRweUY4WlBpcnNCd0UtUWhMWG1GV3RNVnBMRTBFLVRrZGk0UTFQeFFpeW1iSmx6d0FUUE16QWNSZ3",
+    "sources": [
+      {
+        "name": "hd_korea",
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1lVDNTOEF3cnJxemdsQ0F0c09sMVlyV043U3k4TDJBdGd2TFJWWG5qRC0zNTI3NTRweUY4WlBpcnNCd0UtUWhMWG1GV3RNVnBMRTBFLVRrZGk0UTFQeFFpeW1iSmx6d0FUUE16QWNSZ3llYzU0?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "samsung_heavy-2026-05-19-002",
+    "date": "2026-05-19",
+    "companies": [
+      "samsung_heavy"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Samsung Heavy Industries LNG Carrier Order May 2026 | 1.12 Trillion Won - News and Statistics - IndexBox",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxPS2dxenhnN1ZxYU1WaFB1cXM2dGNicEI4RF9XLXJna0VKMWFyN2Uwem5YakJVUWVEcDQ4NDRuSkRNWTEyV3NVZVo3d2U4QUNxVGVyTENqdy0tSEVSeFpTbnNjUWRRZjR4am9GcWNFNT",
+    "sources": [
+      {
+        "name": "samsung_heavy",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPS2dxenhnN1ZxYU1WaFB1cXM2dGNicEI4RF9XLXJna0VKMWFyN2Uwem5YakJVUWVEcDQ4NDRuSkRNWTEyV3NVZVo3d2U4QUNxVGVyTENqdy0tSEVSeFpTbnNjUWRRZjR4am9GcWNFNTFFbEtWbFM0MzNlM1NfaThDZGFPSXg4ZmtLLVlHcEdoVnh4MEYwSUpGZ05TcVp5QmxpUDFDRWhfR0hPZjR5?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "samsung_heavy-2026-05-19-003",
+    "date": "2026-05-19",
+    "companies": [
+      "samsung_heavy"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "KR Publishes ‘Numerical Calculation Guidelines for the Determination of the Attained EEDI’ in collaboration with HD Hyundai Heavy Industries and Samsung Heavy Industries - India Shipping News",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAJBVV95cUxOcE9aRTdtaVJFd1RRNk9LZ3REWXktNGxRdDFYZDlyb1VfWmh4OURla21CY3Ztak5Ocm1ld3RGb3dzTXNjMmdiaGxfMk9VUmFOWEJwNGVLUXJZYUpOcGFLcmFoSDVXME9oSU53SWk0Z2",
+    "sources": [
+      {
+        "name": "samsung_heavy",
+        "url": "https://news.google.com/rss/articles/CBMipAJBVV95cUxOcE9aRTdtaVJFd1RRNk9LZ3REWXktNGxRdDFYZDlyb1VfWmh4OURla21CY3Ztak5Ocm1ld3RGb3dzTXNjMmdiaGxfMk9VUmFOWEJwNGVLUXJZYUpOcGFLcmFoSDVXME9oSU53SWk0Z2RCM3Y0MDZ0SVNSSEJCalR0UkxMdF84M2ZXQy1yZHVCUExWVVNCS05BRm1jUWtDVDJmemlLekpjbE0zYm9zbmgtdHVOTGdQeGtlYmtMUjdEdkZFclp6RHJ0eE8xOGluVjdqRXN4WWh3anZ3NnRaZXNEVDNIMnpqX2JfVS16dFdNQnd2UUhhSlpQYXFTaWZfM3RlMjI3Z2FqWEVPblRGbGZodXNXX0NCVGdoTVQwWFdFbGlQbGJm?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-19-004",
+    "date": "2026-05-19",
+    "companies": [],
+    "topics": [
+      "container_freight",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Shipbuilders Face Profit-Share Showdown - Businesskorea",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTFBxNmVZTk0zbUN3Y1lzRXpPNzdFMHVXRlN2YkpHT0pDOE5Za2RRTEZhQmpDX0RUVjBNeFNIZm91U1NOcFdpZ281a1NRcTQxci1GTnR4SkFKdGRnV3g3RkR2YnE0Ylo1UmFuNW9LUmtHS0",
+    "sources": [
+      {
+        "name": "hanwha_ocean",
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBxNmVZTk0zbUN3Y1lzRXpPNzdFMHVXRlN2YkpHT0pDOE5Za2RRTEZhQmpDX0RUVjBNeFNIZm91U1NOcFdpZ281a1NRcTQxci1GTnR4SkFKdGRnV3g3RkR2YnE0Ylo1UmFuNW9LUmtHS0p2Ynho?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "cosco-2026-05-19-005",
+    "date": "2026-05-19",
+    "companies": [
+      "cosco"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Cosco Shipping Lines upgrades Transpacific services - Seatrade Maritime News",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxNS2JSR1c3SXVmUzRjd0k4eDA0UHlCNDk3V3hDc1d1NTZjTDBNaDc3N2Nhc0ZjOGR1emVYa0pUT1pCYUhlSUc5X3dLUWdjUG0ySUdwZmF1UXpsLW4yZV9lUlZJbERBMWFYWjB4QnJCR3",
+    "sources": [
+      {
+        "name": "cosco",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNS2JSR1c3SXVmUzRjd0k4eDA0UHlCNDk3V3hDc1d1NTZjTDBNaDc3N2Nhc0ZjOGR1emVYa0pUT1pCYUhlSUc5X3dLUWdjUG0ySUdwZmF1UXpsLW4yZV9lUlZJbERBMWFYWjB4QnJCR3dBX3BQNjd2ampWVF9lTm5fbDJ0T2hvSkt4MWpKTldQb0J6UTNEOUc0cTBxYw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "cosco-2026-05-19-006",
+    "date": "2026-05-19",
+    "companies": [
+      "cosco"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "COSCO Shipping Energy Transportation To Lease In 4 VLCCs - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxOcGR4dF9QUGxGV21vZTF0NXMtelpNZ0NLUHdmS3RoNEtTb3pfT0c4VllBVWhmekdhMTdlUEgzYWY0a1p6cGM1VTFQYmdqenZsbjI0SVplQUhNcUtmakR0QmdrdWdTaWlLWHJyb0dTek",
+    "sources": [
+      {
+        "name": "cosco",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOcGR4dF9QUGxGV21vZTF0NXMtelpNZ0NLUHdmS3RoNEtTb3pfT0c4VllBVWhmekdhMTdlUEgzYWY0a1p6cGM1VTFQYmdqenZsbjI0SVplQUhNcUtmakR0QmdrdWdTaWlLWHJyb0dTekE3RW82TFNBb2c1SGhabWZQN2tCTWxVMDF6SjA3ZmtYVFdidGI2R1pwM3ZUVXpmTVlOZlBSM29VX1BiZVE1RTJ0dEJObW9uZzkxMTA0M0U3WXBFV3M1?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "u_ming-2026-05-19-007",
+    "date": "2026-05-19",
+    "companies": [
+      "u_ming"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "U-Ming Marine Transport stock (TW0002606001): dry bulk demand and fleet strategy in focus - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxQZzRweXplV0dCVXNodHY2bEtpeHFuU2tBeWd4TldjclRTY3pYVHVVTE5ONVA0WThIeGFtS2pNYVoxcmVWRXp4WGpnRE5ZODAxMGhrNlRvTnJwNnhVODhPYzRRTWtZRHczWHdscUJ3Vj",
+    "sources": [
+      {
+        "name": "u_ming",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQZzRweXplV0dCVXNodHY2bEtpeHFuU2tBeWd4TldjclRTY3pYVHVVTE5ONVA0WThIeGFtS2pNYVoxcmVWRXp4WGpnRE5ZODAxMGhrNlRvTnJwNnhVODhPYzRRTWtZRHczWHdscUJ3VjlNRVhhS25YazlTR29xLUZ1c1AxMzZNS29WWGFJcUlYeGhsVFl3X21ZTURmdnFYQnRPQ2o2NlpaTWRkS3FxR3U4aUd1QmRBSHZ5ZVloN1IyRTZvNTl5YUE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-19-008",
+    "date": "2026-05-19",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Hedge Fund Beats Peers With Bets on Oil Tankers While Cutting AI",
+    "summary": "A Hong Kong hedge fund that outperformed peers says shipping stocks are a better trade than artificial intelligence, given the risks of tech companies overspending.",
+    "sources": [
+      {
+        "name": "gcaptain",
+        "url": "https://gcaptain.com/hedge-fund-beats-peers-with-bets-on-oil-tankers-while-cutting-ai/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-19-009",
+    "date": "2026-05-19",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Adani Pays $275M to Settle US Investigation Into Iranian LPG Imports",
+    "summary": "\n                The U.S. Treasury has reached an agreement with a powerful Indian business conglomerate, Adani Enterprises Limited, to settle allegations of sanctions...\n            ",
+    "sources": [
+      {
+        "name": "maritime_executive",
+        "url": "https://maritime-executive.com/article/adani-pays-275m-to-settle-us-investigation-into-iran-sanctions-violations",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-19-010",
+    "date": "2026-05-19",
+    "companies": [],
+    "topics": [
+      "dry_bulk_rate",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Safe Bulkers trims ageing fleet with two-vessel sale",
+    "summary": "<p>Greek dry bulk owner Safe Bulkers has moved to further streamline its fleet with the sale of two older vessels as the New York-listed owner continues a broad renewal drive. The company said it has ",
+    "sources": [
+      {
+        "name": "splash247",
+        "url": "https://splash247.com/safe-bulkers-trims-ageing-fleet-with-two-vessel-sale/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-19-011",
+    "date": "2026-05-19",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Strategic Marine lands order for two new CTVs from Mainprize Offshore",
+    "summary": "<p>Singapore-based shipbuilder Strategic Marine has signed shipbuilding contracts with Mainprize Offshore for two new 33 m Supa Swath crew transfer vessels (CTVs). The new order increases the number o",
+    "sources": [
+      {
+        "name": "splash247",
+        "url": "https://splash247.com/strategic-marine-lands-order-for-two-new-ctvs-from-mainprize-offshore/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-19-012",
+    "date": "2026-05-19",
+    "companies": [],
+    "topics": [
+      "shipbuilding_orders",
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Aristides Pittas grows dry bulk bet with Chinese newbuilds",
+    "summary": "<p>Aristides Pittas is pressing ahead with another round of dry bulk fleet expansion in China, as companies linked to the Greek owner continue to build out their newbuilding exposure in the kamsarmax ",
+    "sources": [
+      {
+        "name": "splash247",
+        "url": "https://splash247.com/aristides-pittas-grows-dry-bulk-bet-with-chinese-newbuilds/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-19-013",
+    "date": "2026-05-19",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Tanker orders on a path to the highest annual totals on record",
+    "summary": "<p>The capacity surge is coming for the tanker sector with new research suggesting 2026 is on track to see the highest amount of tanker newbuild orders on record. The first four and a half months of t",
+    "sources": [
+      {
+        "name": "splash247",
+        "url": "https://splash247.com/tanker-orders-on-a-path-to-the-highest-annual-totals-on-record/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-19-014",
+    "date": "2026-05-19",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "The race to redraw the Middle East’s trade map accelerates",
+    "summary": "<p>With no end in sight to the Hormuz shipping crisis, governments and corporates across the Middle East and beyond are accelerating a fundamental redrawing of global trade corridors, as the Internati",
+    "sources": [
+      {
+        "name": "splash247",
+        "url": "https://splash247.com/the-race-to-redraw-the-middle-easts-trade-map-accelerates/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-19-015",
+    "date": "2026-05-19",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Five questions worth asking about your AI foundation",
+    "summary": "<p>As maritime companies rush to deploy artificial intelligence across chartering, operations, compliance and commercial workflows, a new report from Veson Nautical argues that the industry&#8217;s re",
+    "sources": [
+      {
+        "name": "splash247",
+        "url": "https://splash247.com/five-questions-worth-asking-about-your-ai-foundation/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-19-016",
+    "date": "2026-05-19",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "EU ready to crack down on Irish shipments of alumina being sent to Russia",
+    "summary": "<p>The European Commission is preparing to restrict access to goods that Russia could use to make military equipment, such as Irish‑produced alumina, that may be indirectly feeding the Russian war mac",
+    "sources": [
+      {
+        "name": "splash247",
+        "url": "https://splash247.com/eu-ready-to-crack-down-on-irish-shipments-of-alumina-being-sent-to-russia/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-19-017",
+    "date": "2026-05-19",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "WinGD pushes alternative fuel race forward with ethanol engine debut",
+    "summary": "<p>WinGD has secured the world’s first orders for ethanol-fuelled engines designed for ocean-going vessels, marking another step in shipping’s search for lower-emission fuel options. The Swiss engine ",
+    "sources": [
+      {
+        "name": "splash247",
+        "url": "https://splash247.com/wingd-pushes-alternative-fuel-race-forward-with-ethanol-engine-debut/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-19-018",
+    "date": "2026-05-19",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "GEFO picks up gas tanker fleet from Swiss operator Unigas",
+    "summary": "<p>German owner GEFO is expanding its inland gas tanker business through the acquisition of the gas shipping activities of Unigas Shipping Swiss in a deal covering seven vessels. The Hamburg-based own",
+    "sources": [
+      {
+        "name": "splash247",
+        "url": "https://splash247.com/gefo-picks-up-gas-tanker-fleet-from-swiss-operator-unigas/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-19-019",
+    "date": "2026-05-19",
+    "companies": [],
+    "topics": [
+      "shipbuilding_orders",
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Thenamaris signs up for LR2 tonnage at Hengli",
+    "summary": "<p>Thenamaris has moved ahead with another round of tanker fleet renewal, booking three LR2 newbuildings at Hengli Heavy Industries as the Greek owner continues to expand its presence in the product t",
+    "sources": [
+      {
+        "name": "splash247",
+        "url": "https://splash247.com/thenamaris-signs-up-for-lr2-tonnage-at-hengli/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-19-020",
+    "date": "2026-05-19",
+    "companies": [],
+    "topics": [
+      "container_freight",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "China fines shipping giants over container rate filings - Trans.INFO",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTFBScFVFeWQ1U3IzbHB3R3o5cS1NRFc1NmVwcmNNRTdpQS04VlM5SFNBalVEU3RRbl9zanNwc2JRQUNJbmNRbEZySG1HZHdybDBHOExIVU55NVZmeDYzNzk3NjEzdw?oc=5\" target=\"_",
+    "sources": [
+      {
+        "name": "google_container_shipping",
+        "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBScFVFeWQ1U3IzbHB3R3o5cS1NRFc1NmVwcmNNRTdpQS04VlM5SFNBalVEU3RRbl9zanNwc2JRQUNJbmNRbEZySG1HZHdybDBHOExIVU55NVZmeDYzNzk3NjEzdw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-19-021",
+    "date": "2026-05-19",
+    "companies": [],
+    "topics": [
+      "container_freight",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "China slaps fines on liner companies for under declaring freight rates - Tradewinds News",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxOUFVCOGppS0VmN2t5bDZzVVhYQlhuLTV2dU1xdmx1ZHdBYzQ0aFpKM2tNaUNXOFJuM0VGd0txc0F0bTZrWjl2WjVmdnVRVS1ucHdGbVQyVERMYjFnMTREeTZpN0dyVXFKbHYxV29PZn",
+    "sources": [
+      {
+        "name": "google_container_shipping",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOUFVCOGppS0VmN2t5bDZzVVhYQlhuLTV2dU1xdmx1ZHdBYzQ0aFpKM2tNaUNXOFJuM0VGd0txc0F0bTZrWjl2WjVmdnVRVS1ucHdGbVQyVERMYjFnMTREeTZpN0dyVXFKbHYxV29PZndFSHNEQndZUVh1OW9iZGVnX3dpSFRYdldwNDd3U0MyMlNmTkpDY1BaWV8zOEVSZW1NZHdqaUVWVUxUNFJIcmgtTlh3emVoeElmNU05ZGhrWDJYdw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-19-022",
+    "date": "2026-05-19",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Extra loaders and rising rates as early peak season gets under way",
+    "summary": "<p>An early peak season is materialising, and mainline operators are planning extra loader sailings to meet shippers&#8217; heightened requests.<br />\nOn Friday, the Shanghai Containerised Freight Ind",
+    "sources": [
+      {
+        "name": "loadstar",
+        "url": "https://theloadstar.com/extra-loaders-and-rising-rates-as-early-peak-season-gets-under-way/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "maersk-2026-05-19-023",
+    "date": "2026-05-19",
+    "companies": [
+      "maersk"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "negative",
+    "title": "Congestion sees carriers make last-minute terminal shuffles at JNPA",
+    "summary": "<p>The pressure of terminal congestion at India&#8217;s Nhava Sheva Port (JNPA) is seeing carriers declare ad-hoc or temporary berthing window adjustments.<br />\nMaersk told customers its two upcoming",
+    "sources": [
+      {
+        "name": "loadstar",
+        "url": "https://theloadstar.com/congestion-sees-carriers-make-last-minute-terminal-shuffles-at-jnpa/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-19-024",
+    "date": "2026-05-19",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "negative",
+    "title": "Alert to shippers, with cargo theft threat ‘high, and on the rise’",
+    "summary": "<p>Despite a year-on-year decline in overall US cargo theft – for the first time since 2021 – supply chain security specialists are warning that organised criminal groups are becoming more sophisticat",
+    "sources": [
+      {
+        "name": "loadstar",
+        "url": "https://theloadstar.com/alert-to-shippers-with-cargo-theft-threat-high-and-on-the-rise/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-19-025",
+    "date": "2026-05-19",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Amazon faces class action on (lack of) tariff refunds",
+    "summary": "<p>Amazon, the sixth-largest containerized importer into the United States, is being sued by consumers who say it raised prices to cover tariffs the Supreme Court later struck down, and then chose not",
+    "sources": [
+      {
+        "name": "loadstar",
+        "url": "https://theloadstar.com/amazon-faces-class-action-on-lack-of-tariff-refunds/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-19-026",
+    "date": "2026-05-19",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Toll Group must ready to mount the Logisteed",
+    "summary": "<p>Announced in October 2025, Japan Post&#8217;s near-20% stake in Logisteed* has yet to yield dividends, but things seem to be moving – right, not exactly at the speed of light, yet there are develop",
+    "sources": [
+      {
+        "name": "loadstar",
+        "url": "https://theloadstar.com/toll-group-must-ready-to-mount-the-logisteed/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-19-027",
+    "date": "2026-05-19",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "negative",
+    "title": "Westbound transatlantic capacity settles after a volatile Q1",
+    "summary": "<p>The normally staid transatlantic trade has recently experienced a tumultuous period of uncharacteristically volatile pricing, by its standards at least, largely as result of capacity injections and",
+    "sources": [
+      {
+        "name": "loadstar",
+        "url": "https://theloadstar.com/westbound-transatlantic-capacity-settles-after-a-volatile-q1/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-19-028",
+    "date": "2026-05-19",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "WinGD lands contract for first ethanol-fuelled engines",
+    "summary": "The ships chartered by Vale will be the first oceangoing vessels to use ethanol as a primary fuel",
+    "sources": [
+      {
+        "name": "seatrade_maritime",
+        "url": "https://www.seatrade-maritime.com/sustainability/wingd-lands-contract-for-first-ethanol-fuelled-engines",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-19-029",
+    "date": "2026-05-19",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Mapping the future of Panama’s maritime economy",
+    "summary": "Panama plays a pivotal role in global logistics and the maritime sector is a major contributor to the country’s economy",
+    "sources": [
+      {
+        "name": "seatrade_maritime",
+        "url": "https://www.seatrade-maritime.com/maritime-transportation/mapping-the-future-of-panama-s-maritime-economy",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "cosco-2026-05-19-030",
+    "date": "2026-05-19",
+    "companies": [
+      "cosco"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Cosco Shipping Lines upgrades Transpacific services",
+    "summary": "The Chinese carrier is rolling out new direct services to the US West Coast",
+    "sources": [
+      {
+        "name": "seatrade_maritime",
+        "url": "https://www.seatrade-maritime.com/containers/cosco-shipping-lines-upgrades-transpacific-services",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-19-031",
+    "date": "2026-05-19",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Electric ferries set to take over some shortsea trades",
+    "summary": "New study from Kongsberg Maritime identifies lifetime savings of 8-15% in electric ferry deployment",
+    "sources": [
+      {
+        "name": "seatrade_maritime",
+        "url": "https://www.seatrade-maritime.com/sustainability/electric-ferries-set-to-take-over-some-shortsea-trades",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "hapag-2026-05-19-032",
+    "date": "2026-05-19",
+    "companies": [
+      "hapag"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Hapag-Lloyd and CMA CGM suspend Cuba shipments",
+    "summary": "New US sanctions on Cuba see container lines suspending services to avoid non-compliance",
+    "sources": [
+      {
+        "name": "seatrade_maritime",
+        "url": "https://www.seatrade-maritime.com/containers/hapag-lloyd-and-cma-cgm-suspend-cuba-shipments",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-19-033",
+    "date": "2026-05-19",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Wilson Sons to expand Rio Grande Container Terminal in Brazil",
+    "summary": "The expansion project will see the quay extended to 1,200 metres in a project expected to complete by 2030",
+    "sources": [
+      {
+        "name": "seatrade_maritime",
+        "url": "https://www.seatrade-maritime.com/ports-logistics/wilson-sons-to-expand-rio-grande-container-terminal-in-brazil",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "samsung_heavy-2026-05-18-001",
     "date": "2026-05-18",
     "companies": [
@@ -589,6 +1205,538 @@
       {
         "name": "seatrade_maritime",
         "url": "https://www.seatrade-maritime.com/accidents/dali-s-owners-in-2-25bn-settlement-with-maryland-for-key-bridge-disaster",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "hd_korea-2026-05-18-033",
+    "date": "2026-05-18",
+    "companies": [
+      "hd_korea"
+    ],
+    "topics": [
+      "shipbuilding_orders",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "HD Korea Shipbuilding stock (KR7010620003): new LNG and containership orders support outlook - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxNMVBmalNuaWtmYWtwMHFuSXRlUXhtUU1EWk9rWWljYVJkNnVoTGQyUGllcUU0Q0s0RlBFbGtFU18tYW1pUWZoa1dFVENSaENDY2dDS2QxanVvQ2I1a2Jwbk5yRl9tcDExQnlEbl9LbE",
+    "sources": [
+      {
+        "name": "hd_korea",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNMVBmalNuaWtmYWtwMHFuSXRlUXhtUU1EWk9rWWljYVJkNnVoTGQyUGllcUU0Q0s0RlBFbGtFU18tYW1pUWZoa1dFVENSaENDY2dDS2QxanVvQ2I1a2Jwbk5yRl9tcDExQnlEbl9LbEYxZUVBSGx1ZzZZUnpCY01uVDRiY2FHUWdzdFB4cjJ6TjhqQXY0Q21XMk90Vm9SWmtlT2ZEUGpYeERHalpmNFRxdDJqa0Fpc1BqWDl3bDRDUHQ5cDA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "samsung_heavy-2026-05-18-034",
+    "date": "2026-05-18",
+    "companies": [
+      "samsung_heavy"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "ABS certifies Samsung Heavy Industries’ floating data center - Inspenet",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxQNmtjZGdvRm5mUERKby16dUk2WElWX1J1dFd0NEJ4cDdnc1pHYVJyNWh6MG1OOUhCT3V5emV1OEx2YllzSlotT3hZZ2RBajVkT095Z29adzQzYW9qbEhCRXVTQUU4LUFhQWNEUjA1ZD",
+    "sources": [
+      {
+        "name": "samsung_heavy",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQNmtjZGdvRm5mUERKby16dUk2WElWX1J1dFd0NEJ4cDdnc1pHYVJyNWh6MG1OOUhCT3V5emV1OEx2YllzSlotT3hZZ2RBajVkT095Z29adzQzYW9qbEhCRXVTQUU4LUFhQWNEUjA1ZDRxcnA2dFdGR09hdDNHanhBdg?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "hanwha_ocean-2026-05-18-035",
+    "date": "2026-05-18",
+    "companies": [
+      "hanwha_ocean"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "SNsys Wins Navigation Control System Order for Hanwha Ocean's Next-Generation Icebreaking Research Vessel - 아시아경제",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE15ZERRcU5faEFBeld4d0g1ZjlzYktvY1BfZ0ZPdTQ5ZUgwVV84dHpsSFV0UUtVR0ZMdEF3VVByZ195VTl1eFhZZFJ3cEQ4QXBCMVNXS09tcms0Z3BQM1FtWkdHdVUwYUZJVm1qeGhtMF",
+    "sources": [
+      {
+        "name": "hanwha_ocean",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE15ZERRcU5faEFBeld4d0g1ZjlzYktvY1BfZ0ZPdTQ5ZUgwVV84dHpsSFV0UUtVR0ZMdEF3VVByZ195VTl1eFhZZFJ3cEQ4QXBCMVNXS09tcms0Z3BQM1FtWkdHdVUwYUZJVm1qeGhtMFUzLTZhRG9kREVMUQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-18-036",
+    "date": "2026-05-18",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "U.S. Coast Guard’s Newest Icebreaker Returns From Arctic Patrol as U.S. Expands Polar Fleet",
+    "summary": "The U.S. Coast Guard’s newest polar icebreaker has returned to Seattle after a 36-day deployment to the Bering Sea, marking an early operational test for a cutter expected to play...",
+    "sources": [
+      {
+        "name": "gcaptain",
+        "url": "https://gcaptain.com/u-s-coast-guards-newest-icebreaker-returns-from-arctic-patrol-as-u-s-expands-polar-fleet/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-18-037",
+    "date": "2026-05-18",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Massive Atlantic ‘Cocaine Highway’ Busted in European Maritime Drug Operation",
+    "summary": "European law enforcement agencies say they have disrupted a major transatlantic narcotics corridor known as the “Cocaine Highway,” seizing 11 tonnes of cocaine and 8.5 tonnes of hashish during a...",
+    "sources": [
+      {
+        "name": "gcaptain",
+        "url": "https://gcaptain.com/massive-atlantic-cocaine-highway-busted-in-european-maritime-drug-operation/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-18-038",
+    "date": "2026-05-18",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "The Great Battleship Debate: gCaptain’s Konrad Takes On AEI’s Zack Cooper",
+    "summary": "The U.S. Navy has not commissioned a battleship since 1944. Donald Trump now wants as many as 25. The first, USS Defiant, will displace more than 35,000 tons, carry hypersonics,...",
+    "sources": [
+      {
+        "name": "gcaptain",
+        "url": "https://gcaptain.com/250713-2/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-18-039",
+    "date": "2026-05-18",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Iran Launches Bitcoin-Based Insurance Scheme for Ships Crossing Hormuz",
+    "summary": "Iran has started a Bitcoin-backed insurance service for Iranian shipping companies that want to transit the Strait of Hormuz, the semi-official Fars news agency reported, citing documents obtained fro",
+    "sources": [
+      {
+        "name": "gcaptain",
+        "url": "https://gcaptain.com/iran-launches-bitcoin-based-insurance-scheme-for-ships-crossing-hormuz/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-18-040",
+    "date": "2026-05-18",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Treasury Extends Russian Oil Sanctions Relief as Hormuz Crisis Tightens Global Supplies",
+    "summary": "U.S. Treasury Secretary&#160;Scott Bessent&#160;announced Monday that the Treasury Department is issuing a temporary 30-day general license allowing “the most vulnerable nations” to access Russian oil",
+    "sources": [
+      {
+        "name": "gcaptain",
+        "url": "https://gcaptain.com/treasury-extends-russian-oil-waiver-as-hormuz-crisis-tightens-global-supplies/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-18-041",
+    "date": "2026-05-18",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Hantavirus-Hit Cruise Ship Reaches Rotterdam",
+    "summary": "A luxury liner at the center of an outbreak of hantavirus docked at the Dutch port of Rotterdam on Monday, where authorities were disembarking the remaining 25 crew members and two medical staff and p",
+    "sources": [
+      {
+        "name": "gcaptain",
+        "url": "https://gcaptain.com/hantavirus-hit-cruise-ship-reaches-rotterdam/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-18-042",
+    "date": "2026-05-18",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Boskalis Orders Massive New Cable Layer for Offshore Energy Projects",
+    "summary": "Dutch offshore contractor Royal Boskalis Westminster N.V. is betting big on the future of subsea power infrastructure, announcing plans to build a massive new 24,000-ton Cable Lay Vessel (CLV) designe",
+    "sources": [
+      {
+        "name": "gcaptain",
+        "url": "https://gcaptain.com/boskalis-orders-massive-new-cable-layer-for-offshore-energy-projects/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-18-043",
+    "date": "2026-05-18",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "negative",
+    "title": "After Turkey Rejects \"Stolen\" Ukrainian Grain, Bulker Loiters at Sea",
+    "summary": "\n                 Following diplomatic pressure from Kyiv, the government of Turkey has refused to allow a Greek bulker carrying allegedly stolen grain from Russian-oc...\n            ",
+    "sources": [
+      {
+        "name": "maritime_executive",
+        "url": "https://maritime-executive.com/article/after-turkey-rejects-stolen-ukrainian-grain-bulker-loiters-at-sea",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "hapag-2026-05-18-044",
+    "date": "2026-05-18",
+    "companies": [
+      "hapag"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Facing Risk of U.S. Sanctions, Hapag and CMA CGM Suspend Cuba Bookings",
+    "summary": "\n                Following the threat of asset seizures from the U.S. government, CMA CGM and Hapag-Lloyd have both paused all of their cargo bookings in and out of Cu...\n            ",
+    "sources": [
+      {
+        "name": "maritime_executive",
+        "url": "https://maritime-executive.com/article/facing-risk-of-u-s-sanctions-hapag-and-cma-cgm-suspend-cuba-bookings",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "cssc-2026-05-18-045",
+    "date": "2026-05-18",
+    "companies": [
+      "cssc"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "China’s Second Domestically Built Cruise Ship Starts Trials",
+    "summary": "\n                 The Adora Flora City, China’s second, large, domestically built cruise ship, began sea trials over the weekend. It comes as China State Shipbuilding...\n            ",
+    "sources": [
+      {
+        "name": "maritime_executive",
+        "url": "https://maritime-executive.com/article/china-s-second-domestically-built-cruise-ship-starts-trials",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-18-046",
+    "date": "2026-05-18",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Helm Operations Receives U.S. Coast Guard Recognition for Digital Logbook",
+    "summary": "\n                Helm Operations, a market leader in fleet management software for the maritime industry, today announced that Helm CONNECT Logbook has received offici...\n            ",
+    "sources": [
+      {
+        "name": "maritime_executive",
+        "url": "https://maritime-executive.com/article/helm-operations-receives-u-s-coast-guard-recognition-for-digital-logbook",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-18-047",
+    "date": "2026-05-18",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "ABB to Power Two Coastal Hydrographic Vessels for Spanish Navy",
+    "summary": "\n                ABB has secured a contract with Spanish state-owned shipbuilding and design company Navantia to supply two forthcoming Spanish Navy coastal hydrograph...\n            ",
+    "sources": [
+      {
+        "name": "maritime_executive",
+        "url": "https://maritime-executive.com/article/abb-to-power-two-coastal-hydrographic-vessels-for-spanish-navy",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-18-048",
+    "date": "2026-05-18",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Berg Propulsion New Milestone in Turkey with Strongest Bollard Pull to Date",
+    "summary": "\n                Berg Propulsion has been contracted to supply the propulsion and control systems for four diesel-electric, firefighting offshore support tugs which wi...\n            ",
+    "sources": [
+      {
+        "name": "maritime_executive",
+        "url": "https://maritime-executive.com/article/berg-propulsion-new-milestone-in-turkey-with-strongest-bollard-pull-to-date",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-18-049",
+    "date": "2026-05-18",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Eastern Shipbuilding Group Receives SCA Annual Improvement in Safety Award",
+    "summary": "\n                The Shipbuilders Council of America (SCA), the national trade association representing the U.S. shipbuilding and repair industry, today announced that...\n            ",
+    "sources": [
+      {
+        "name": "maritime_executive",
+        "url": "https://maritime-executive.com/article/eastern-shipbuilding-group-receives-sca-annual-improvement-in-safety-award",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-18-050",
+    "date": "2026-05-18",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Two Injured Seafarers From CMA CGM Boxship Attack Return Home",
+    "summary": "\n                 When the boxship CMA CGM San Antonio was hit by an Iranian missile in the Strait of Hormuz earlier this month, eight crewmembers were injured and the...\n            ",
+    "sources": [
+      {
+        "name": "maritime_executive",
+        "url": "https://maritime-executive.com/article/two-injured-seafarers-from-cma-cgm-boxship-attack-return-home",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-18-051",
+    "date": "2026-05-18",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "negative",
+    "title": "Grace Ocean and Synergy Marine Petition Court to Delay Dali Civil Trial",
+    "summary": "\n                With just over two weeks until the scheduled start of the civil trial over the civil liabilities from the containership Dali destroying Baltimore’s Fr...\n            ",
+    "sources": [
+      {
+        "name": "maritime_executive",
+        "url": "https://maritime-executive.com/article/grace-ocean-and-synergy-marine-petition-court-to-delay-dali-civil-trial",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-18-052",
+    "date": "2026-05-18",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Bosuns and Seamen Call Strike Against Iceland’s Eimskip",
+    "summary": "\n                 Eimskip, a niche shipping company based in Iceland that maintains service connecting Iceland and the Faroe Islands to Europe, reports it has received...\n            ",
+    "sources": [
+      {
+        "name": "maritime_executive",
+        "url": "https://maritime-executive.com/article/bosuns-and-seamen-call-strike-against-iceland-s-eimskip",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-18-053",
+    "date": "2026-05-18",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Russia's FESCO Expands Africa Operations With a New Service in Tanzania",
+    "summary": "\n                The Russian-based container line FESCO is further expanding its global operations, with the company launching a new connection to Tanzania. This miles...\n            ",
+    "sources": [
+      {
+        "name": "maritime_executive",
+        "url": "https://maritime-executive.com/article/russia-s-fesco-expands-africa-operations-with-a-new-service-in-tanzania",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-18-054",
+    "date": "2026-05-18",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Expedition Cruise Ship Hondius Arrives in Rotterdam to Begin Disinfection",
+    "summary": "\n                 The expedition cruise ship Hondius docked in Rotterdam on Monday, May 18, operating with a skeleton crew, and will begin an extensive disinfection pr...\n            ",
+    "sources": [
+      {
+        "name": "maritime_executive",
+        "url": "https://maritime-executive.com/article/expedition-cruise-ship-hondius-arrives-in-rotterdam-to-begin-disinfection",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-18-055",
+    "date": "2026-05-18",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "IEA Supports Digital Transformation of Glaciar Pesquera Fisheries Fleet",
+    "summary": "\n                Inmarsat Maritime, a Viasat company, has worked with its Argentinian partner Ingenieros Electrónicos Asociados (IEA) to implement NexusWave for Glacia...\n            ",
+    "sources": [
+      {
+        "name": "maritime_executive",
+        "url": "https://maritime-executive.com/article/iea-supports-digital-transformation-of-glaciar-pesquera-fisheries-fleet",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-18-056",
+    "date": "2026-05-18",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "ABS & HHI Sign MoU to Advance Innovative Technology in Maritime & Offshore",
+    "summary": "\n                ABS and HD Hyundai Heavy Industries Co., LTD. (HHI), have signed a memorandum of understanding (MOU) to collaborate on a range of initiatives supporti...\n            ",
+    "sources": [
+      {
+        "name": "maritime_executive",
+        "url": "https://maritime-executive.com/article/abs-hhi-sign-mou-to-advance-innovative-technology-in-maritime-offshore",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-18-057",
+    "date": "2026-05-18",
+    "companies": [],
+    "topics": [
+      "container_freight",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Beijing fines shipping lines and NVOCCs for under-declaring freight rates - Container News",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxOcDBBby12RGdVeHMtV2tETlA4OVltSGVrenVHLTVyWWFiZmVXUVZTLWczN01YcVNuZEhFVzZ2N2tTMWU3TFRRY1lxZnkyblBkRU1jbFhOTk16S1BBZEZpUzk3RVB5c3hfQU81MGozN0",
+    "sources": [
+      {
+        "name": "google_container_shipping",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOcDBBby12RGdVeHMtV2tETlA4OVltSGVrenVHLTVyWWFiZmVXUVZTLWczN01YcVNuZEhFVzZ2N2tTMWU3TFRRY1lxZnkyblBkRU1jbFhOTk16S1BBZEZpUzk3RVB5c3hfQU81MGozN0FDVHlDUzFKbm1DV2U2c3o0TDRWanVSTGw3RklodURVUVNRWVlKWG1PdDZOd1V6dnJwYlJR?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-18-058",
+    "date": "2026-05-18",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "News How the 'Hormuz Premium' has upended container trade seasonality - The Loadstar",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxNWXhsMFlYQU9qUlp0aTVieW0zTlJHVnAxLWQzMTEyeUxOek9SZGYyTy1FXzhRUUVtNHZaLTE0NktyVmMzT1BrbmdoNE9TS3J5aE5YLUZlT0dYRjNPRGN3MDlkdzdqWlRKc3VGaVE0TE",
+    "sources": [
+      {
+        "name": "google_container_shipping",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNWXhsMFlYQU9qUlp0aTVieW0zTlJHVnAxLWQzMTEyeUxOek9SZGYyTy1FXzhRUUVtNHZaLTE0NktyVmMzT1BrbmdoNE9TS3J5aE5YLUZlT0dYRjNPRGN3MDlkdzdqWlRKc3VGaVE0TE5wN3NTSE5hMTZRSmZGNlNNdjY1MnBlMW5DbWJBRTd2eWE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-18-059",
+    "date": "2026-05-18",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "WiseTech joins DCSA+ ‘to accelerate adoption of digital standards’ in container shipping",
+    "summary": "<p>PRESS RELEASE <br />\nWiseTech Global joins DCSA+ to accelerate adoption of digital standards across container shipping industry<br />\nMay 19, 2026<br />\nThe Digital Container Shipping Association (",
+    "sources": [
+      {
+        "name": "loadstar",
+        "url": "https://theloadstar.com/wisetech-joins-dcsa-to-accelerate-adoption-of-digital-standards-in-container-shipping/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-18-060",
+    "date": "2026-05-18",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Unpacking Q1 2026 with Container Trades Statistics",
+    "summary": "<p>In this episode of The Loadstar Podcast, Charlotte Goldstone is joined by Container Trade Statistics (CTS) CEO Nigel Pusey and The Loadstar managing editor Gavin van Marle to unpack one of the most",
+    "sources": [
+      {
+        "name": "loadstar",
+        "url": "https://theloadstar.com/unpacking-q1-2026-with-container-trades-statistics/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-18-061",
+    "date": "2026-05-18",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Germany’s MBS Logistics to be acquired by AD Ports",
+    "summary": "<p>PRESS RELEASE <br />\nMBS Logistics to be acquired by AD Ports Group<br />\n18 May 2026<br />\nMBS Logistics Group has entered into a binding agreement to be fully acquired by AD Ports Group (ADX: ADP",
+    "sources": [
+      {
+        "name": "loadstar",
+        "url": "https://theloadstar.com/mbs-logistics-to-be-acquired-by-ad-ports/",
         "type": "rss"
       }
     ]
@@ -1357,6 +2505,24 @@
       {
         "name": "hanwha_ocean",
         "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE52OGw3SHowQmRzMm5vbFgybVltNzdRTjVUUVE1YjVUTHNINVZuSjNNYlA5M0tZeUFWR25McnNsdXNSX2gtYXhvY0xrZw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-16-024",
+    "date": "2026-05-16",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Korean Shipbuilders Secure $2.6B LNG Orders in Four Days - 조선일보",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxQcndQbVJWV0xjeXVJSDZRTDBUQ05jVk5Eak9YODRuc3YwSGpZX0tBaFFrQVRuSTZWOTV0bDVsZDJvWWxyTlpsU3lqNE5DU0tZY0VQazI5SHRjZXZIRF9YdFdweE93Y0pFcm5RSTA3ZH",
+    "sources": [
+      {
+        "name": "hd_korea",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQcndQbVJWV0xjeXVJSDZRTDBUQ05jVk5Eak9YODRuc3YwSGpZX0tBaFFrQVRuSTZWOTV0bDVsZDJvWWxyTlpsU3lqNE5DU0tZY0VQazI5SHRjZXZIRF9YdFdweE93Y0pFcm5RSTA3ZHM4VEZLN3NYRDVzeTgydjlETDk1SUE2Njc3?oc=5",
         "type": "rss"
       }
     ]
@@ -5135,6 +6301,24 @@
     ],
     "impact": "neutral",
     "title": "China-linked vessels transit Strait of Hormuz via Iran’s ‘safe’ corridor as Trump visits China - aa.com.tr",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3AFBVV95cUxPbEtvRVk1OEs1ZTdXUDlWM1dDcnVWM0ZWX2xaLUdHMXpNSk5MZWFRbktGM0hzcWlDdjNhd0hRRkVRSWpfTWRFN1FDUGk2NjV0R252T2V6X3NxdGlOS282RjF4Wkd1UkNCbnZCbFUtZz",
+    "sources": [
+      {
+        "name": "cosco",
+        "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPbEtvRVk1OEs1ZTdXUDlWM1dDcnVWM0ZWX2xaLUdHMXpNSk5MZWFRbktGM0hzcWlDdjNhd0hRRkVRSWpfTWRFN1FDUGk2NjV0R252T2V6X3NxdGlOS282RjF4Wkd1UkNCbnZCbFUtZzZFOTVnWUpEZDk4bEI5TEEwNXAtN3BhN1IxdUJhQm15ZS16a0JneHBSaXdobFNCcjNTSFJhNXAxQ2xSNm12eEJxM3RiRlBtS3p1NDZnaEprTzk5SF9Vc1lpbHRzQjBxZ1hTUDhkbFpXaEQ3akwx?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-13-072",
+    "date": "2026-05-13",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "China-linked vessels transit Strait of Hormuz via Iran’s ‘safe’ corridor as Trump visits China - Anadolu Ajansı",
     "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3AFBVV95cUxPbEtvRVk1OEs1ZTdXUDlWM1dDcnVWM0ZWX2xaLUdHMXpNSk5MZWFRbktGM0hzcWlDdjNhd0hRRkVRSWpfTWRFN1FDUGk2NjV0R252T2V6X3NxdGlOS282RjF4Wkd1UkNCbnZCbFUtZz",
     "sources": [
       {

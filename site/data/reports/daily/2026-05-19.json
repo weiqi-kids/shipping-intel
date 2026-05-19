@@ -1,0 +1,238 @@
+{
+  "date": "2026-05-19",
+  "generated_at": "2026-05-19T11:26:33.845908Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-05-19-008",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Hedge Fund Beats Peers With Bets on Oil Tankers While Cutting AI",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://gcaptain.com/hedge-fund-beats-peers-with-bets-on-oil-tankers-while-cutting-ai/"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-05-19-013",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Tanker orders on a path to the highest annual totals on record",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://splash247.com/tanker-orders-on-a-path-to-the-highest-annual-totals-on-record/"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-05-19-014",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "The race to redraw the Middle East’s trade map accelerates",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://splash247.com/the-race-to-redraw-the-middle-easts-trade-map-accelerates/"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-05-19-024",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Alert to shippers, with cargo theft threat ‘high, and on the rise’",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://theloadstar.com/alert-to-shippers-with-cargo-theft-threat-high-and-on-the-rise/"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-05-19-027",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Westbound transatlantic capacity settles after a volatile Q1",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -0.75
+      },
+      "source_url": "https://theloadstar.com/westbound-transatlantic-capacity-settles-after-a-volatile-q1/"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 33,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.11,
+      "sentiment_7d_avg": null
+    },
+    "container_freight": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "dry_bulk_rate": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "shipbuilding_orders": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.5,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 33,
+    "sentiment_distribution": {
+      "positive": 9,
+      "neutral": 21,
+      "negative": 3
+    },
+    "top_companies": [
+      {
+        "id": "cosco",
+        "count": 3
+      },
+      {
+        "id": "samsung_heavy",
+        "count": 2
+      },
+      {
+        "id": "u_ming",
+        "count": 1
+      },
+      {
+        "id": "maersk",
+        "count": 1
+      },
+      {
+        "id": "hapag",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 33
+      },
+      {
+        "id": "container_freight",
+        "count": 3
+      },
+      {
+        "id": "shipbuilding_orders",
+        "count": 2
+      },
+      {
+        "id": "dry_bulk_rate",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 331,
+    "dup_title": 136,
+    "too_old": 112,
+    "gate1_blocked": 16,
+    "gate2_blocked": 3,
+    "passed": 64,
+    "pass_rate": "32.8%",
+    "gate2_block_rate": "1.5%",
+    "gate2_samples": [
+      "GTT to design FSRU tank for Samsung Heavy Industries - lngindustry.com",
+      "Samsung Heavy Industries Receives AIP Certificate for Floating Data Center from ABS - Marine News Ma",
+      "Evergreen Marine Corp stock (TW0002603008): Drops 1.87% amid Taiwan market selloff - AD HOC NEWS"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 33 則事件，焦點為中遠海控、三星重工、裕民航運相關動態：「Hedge Fund Beats Peers With Bets on Oil Tankers While Cut...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Hedge Fund Beats Peers With Bets on Oil Tankers While Cutting AI（航運產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "Tanker orders on a path to the highest annual totals on record（航運產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

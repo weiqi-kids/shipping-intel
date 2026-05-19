@@ -1,0 +1,161 @@
+{
+  "date": "2026-05-19",
+  "date_range": {
+    "start": "2026-05-13",
+    "end": "2026-05-19"
+  },
+  "generated_at": "2026-05-19T11:26:33.979985Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "maersk-2026-05-13-019",
+      "date": "2026-05-13",
+      "title": "Lars Jensen: African safari aims to uncover logistics gold rush",
+      "importance_score": 0.7
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "industry_general": {
+      "this_week": 152,
+      "last_week": 137,
+      "week_over_week_change": "+11%",
+      "sentiment_this_week": 0.05
+    },
+    "container_freight": {
+      "this_week": 16,
+      "last_week": 6,
+      "week_over_week_change": "+167%",
+      "sentiment_this_week": -0.06
+    },
+    "shipbuilding_orders": {
+      "this_week": 8,
+      "last_week": 12,
+      "week_over_week_change": "-33%",
+      "sentiment_this_week": 0.25
+    },
+    "dry_bulk_rate": {
+      "this_week": 2,
+      "last_week": 3,
+      "week_over_week_change": "-33%",
+      "sentiment_this_week": 0.0
+    }
+  },
+  "company_7d_summary": {
+    "hd_korea": {
+      "event_count": 9,
+      "sentiment_avg": -0.11,
+      "rank": 2
+    },
+    "samsung_heavy": {
+      "event_count": 16,
+      "sentiment_avg": 0.0,
+      "rank": 1
+    },
+    "maersk": {
+      "event_count": 3,
+      "sentiment_avg": -0.17,
+      "rank": 6
+    },
+    "hapag": {
+      "event_count": 5,
+      "sentiment_avg": 0.0,
+      "rank": 4
+    },
+    "evergreen": {
+      "event_count": 6,
+      "sentiment_avg": 0.0,
+      "rank": 3
+    },
+    "yang_ming": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 8
+    },
+    "cosco": {
+      "event_count": 5,
+      "sentiment_avg": 0.0,
+      "rank": 5
+    },
+    "star_bulk": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 9
+    },
+    "hanwha_ocean": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 10
+    },
+    "u_ming": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 7
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 340,
+        "last": 366,
+        "change_pct": -7.1
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-05-13",
+      "event_count": 72,
+      "sentiment_avg": 0.06
+    },
+    {
+      "date": "2026-05-14",
+      "event_count": 73,
+      "sentiment_avg": -0.05
+    },
+    {
+      "date": "2026-05-15",
+      "event_count": 59,
+      "sentiment_avg": 0.0
+    },
+    {
+      "date": "2026-05-16",
+      "event_count": 24,
+      "sentiment_avg": 0.0
+    },
+    {
+      "date": "2026-05-17",
+      "event_count": 18,
+      "sentiment_avg": 0.03
+    },
+    {
+      "date": "2026-05-18",
+      "event_count": 61,
+      "sentiment_avg": 0.05
+    },
+    {
+      "date": "2026-05-19",
+      "event_count": 33,
+      "sentiment_avg": 0.11
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-05-13 ~ 2026-05-19）共 340 則事件，重點為「Lars Jensen: African safari aims to uncover log...」。航運產業通用、貨櫃運價、造船訂單為本週焦點話題。",
+    "watchlist": [
+      {
+        "company": "韓國造船海洋",
+        "reason": "本週出現 9 則相關事件且情緒偏負面，需特別關注。"
+      },
+      {
+        "company": "三星重工",
+        "reason": "本週出現 16 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "馬士基",
+        "reason": "本週出現 3 則相關事件且情緒偏負面，需特別關注。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
