@@ -1,0 +1,218 @@
+{
+  "date": "2026-05-20",
+  "generated_at": "2026-05-20T10:57:49.997126Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "hanwha_ocean-2026-05-20-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Hanwha Ocean Discusses AI-Powered Future Naval Technologies With Microsoft and Google - thelec.net",
+      "companies": [
+        "hanwha_ocean"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9aN2FhQ1BwaTNiR1k4SlFNX216ekJqa0ZwazBDX19CSkJ2TThvYktqeWcxemFPZUl0OHNkWDdXYnhNTmNzUGQ3N3VWdE1hQzM5OVpsUDFPSDI4QnBIc2tKUjZ6Umlzb2c?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-05-20-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Korea's $4.7 billion stealth destroyer project stalls, raising fears of naval power vacuum - Korea JoongAng Daily",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQc1VhU01VczhIUzRGWUpLNWF1UmVkWXZOM3RnMkpPa1FLUi1Eem9icFJLZTRtazZMWWlLUVVXMzFscjFodkJWbHFkMDVCYlBnMWtjckxTd0s3OGYxTDN4bVVFbm5veXlnc3VXMHZFZWQ4LXgzREJLTFI2RnlCNTlDWTVWZHJncG1rYlNwVU9jMnNrVFIwWEswM09HQ0N6X1MzRlQtNjNlZkRqcF9oU0o3MmtHZmxpQ2I0Tmp5VjJxLXZzNGZlR0QyMG15anZEZTY1U3JyQk53RjhGRXdnM094bXR3YlphX3NzWTU5VjVKTWxvRWJxYjNV?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "hanwha_ocean-2026-05-20-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Hanwha Ocean, Pioneering New Frontiers in Maritime Defense with AI Technology - starnewskorea.com",
+      "companies": [
+        "hanwha_ocean"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQYzRlcmJHalpMY05hdldsaXBTakFqb2ljVjkxV2R1Qm1lYmxTUWU5QzlNQVdNa1RIb3ljRXpHSm5BSEctV0tHWGRCa21LUzdFdUhqU0dZNzVUUEF0THFzaGhvVVYzYlBBaEZYbGhXT3gxQUZWX2g1UXZFbzZ0dmR0ZzdIVQ?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "evergreen-2026-05-20-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "News Content Hub - Evergreen Marine places US$1.4Bn order for five more LNG dual-fuel Megamaxes - rivieramm.com",
+      "companies": [
+        "evergreen"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQTkJOZFF0RDE0aGs4ek1yZk5Mb21FY2l5YmlHWWNlbkhxMUg3a2ZqNTlTcWFsZVYzclZ0eHNtOVdLSnZmM3BRZ05CaDdBNkhqdGdiam83RmJvYWVJZThsQ0FGVEdCeGpUQTEyRkNhWjJJX0oxVHJYVTB6Vy1uMjVNWDNaRXdYNUVOQUkzOEV2bEpKY0E1QTVtbDJ0ckhwU0Y4NWtqV2lmekFPR21ISlBkTW93RlZvNFdCREpJTm02WTcyUC1fWjcwYXRINkh3QkhFanplT3lFZW8?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "cosco-2026-05-20-005",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "COSCO Shipping Energy Approves $396 Million Charter Deal for Four VLCCs from Independent Third Party - imarinenews.com",
+      "companies": [
+        "cosco"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFA5ZkZVVGhhSU51UXNLcU92TXp2blZGNmpSVWM5R2V2STZnclE2RWI0WFZteGFfc3ZtdW1KdVUzTzlqb29wTWk4dlNFZ0dfTTg?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 25,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.04,
+      "sentiment_7d_avg": null
+    },
+    "shipbuilding_orders": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "container_freight": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 26,
+    "sentiment_distribution": {
+      "positive": 2,
+      "neutral": 24,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "hanwha_ocean",
+        "count": 2
+      },
+      {
+        "id": "cosco",
+        "count": 2
+      },
+      {
+        "id": "evergreen",
+        "count": 1
+      },
+      {
+        "id": "star_bulk",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 25
+      },
+      {
+        "id": "shipbuilding_orders",
+        "count": 2
+      },
+      {
+        "id": "container_freight",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 330,
+    "dup_title": 127,
+    "too_old": 118,
+    "gate1_blocked": 15,
+    "gate2_blocked": 6,
+    "passed": 64,
+    "pass_rate": "31.5%",
+    "gate2_block_rate": "3.0%",
+    "gate2_samples": [
+      "GTT to design FSRU tank for Samsung Heavy Industries - lngindustry.com",
+      "Samsung Heavy Industries Receives AIP Certificate for Floating Data Center from ABS - Marine News Ma",
+      "LR awards its first submarine AiP to Hanwha Ocean - Lloyd's Register",
+      "T3ex Global Holdings Has Divested 1.4 Million Shares Of Evergreen Marine - TradingView",
+      "T3ex Global Holdings has divested 1.4 million shares of Evergreen Marine - marketscreener.com"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 26 則事件，焦點為韓華海洋、中遠海控、長榮海運相關動態：「Hanwha Ocean Discusses AI-Powered Future Naval Technologi...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Hanwha Ocean Discusses AI-Powered Future Naval Technologies With Microsoft an...（航運產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "Korea's $4.7 billion stealth destroyer project stalls, raising fears of naval...（航運產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

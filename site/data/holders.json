@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-19T11:26:33.309149+00:00",
+  "updated_at": "2026-05-20T10:57:49.455440+00:00",
   "companies": {
     "maersk": {
       "name": "A.P. Moller-Maersk",
@@ -10,7 +10,7 @@
           "holder": "Pacer Advisors, Inc.",
           "shares": 21,
           "pct_held": 0.0,
-          "value": 315105
+          "value": 320565
         }
       ]
     },
@@ -23,7 +23,7 @@
           "holder": "Pacer Advisors, Inc.",
           "shares": 165,
           "pct_held": 0.0,
-          "value": 19403
+          "value": 19470
         }
       ]
     },
@@ -36,61 +36,61 @@
           "holder": "Meitav Investment House Ltd.",
           "shares": 3906396,
           "pct_held": 3.24,
-          "value": 100159991
+          "value": 99808414
         },
         {
           "holder": "American Century Companies Inc",
           "shares": 3835621,
           "pct_held": 3.18,
-          "value": 98345320
+          "value": 98000113
         },
         {
           "holder": "Blackrock Inc.",
           "shares": 3576416,
           "pct_held": 2.97,
-          "value": 91699304
+          "value": 91377426
         },
         {
           "holder": "Yelin Lapidot Holdings Management Ltd.",
           "shares": 3268773,
           "pct_held": 2.71,
-          "value": 83811337
+          "value": 83517147
         },
         {
           "holder": "Renaissance Technologies, LLC",
           "shares": 2936288,
           "pct_held": 2.44,
-          "value": 75286422
+          "value": 75022156
         },
         {
           "holder": "Menora Mivtachim Holdings Ltd.",
           "shares": 1656810,
           "pct_held": 1.38,
-          "value": 42480607
+          "value": 42331494
         },
         {
           "holder": "Charles Schwab Investment Management, Inc.",
           "shares": 1600110,
           "pct_held": 1.33,
-          "value": 41026819
+          "value": 40882809
         },
         {
           "holder": "State Street Corporation",
           "shares": 1443773,
           "pct_held": 1.2,
-          "value": 37018338
-        },
-        {
-          "holder": "Bank of America Corporation",
-          "shares": 1301962,
-          "pct_held": 1.08,
-          "value": 33382304
+          "value": 36888399
         },
         {
           "holder": "Alpine Associates Management Inc.",
           "shares": 1181300,
           "pct_held": 0.98,
-          "value": 30288531
+          "value": 30182214
+        },
+        {
+          "holder": "Oddo BHF Asset Management SAS",
+          "shares": 1150000,
+          "pct_held": 0.95,
+          "value": 29382499
         }
       ]
     },
@@ -103,61 +103,61 @@
           "holder": "Two Sigma Investments, LP",
           "shares": 3012963,
           "pct_held": 2.7,
-          "value": 79421706
+          "value": 78578074
         },
         {
           "holder": "Renaissance Technologies, LLC",
           "shares": 2067637,
           "pct_held": 1.85,
-          "value": 54502912
+          "value": 53923972
         },
         {
           "holder": "Victory Capital Management Inc.",
           "shares": 1920289,
           "pct_held": 1.72,
-          "value": 50618819
+          "value": 50081136
         },
         {
           "holder": "Philosophy Capital Management Llc",
           "shares": 1874418,
           "pct_held": 1.68,
-          "value": 49409659
+          "value": 48884821
         },
         {
           "holder": "Goldman Sachs Group Inc",
           "shares": 1737933,
           "pct_held": 1.56,
-          "value": 45811914
+          "value": 45325292
         },
         {
           "holder": "Boston Partners",
           "shares": 1626444,
           "pct_held": 1.46,
-          "value": 42873064
+          "value": 42417659
+        },
+        {
+          "holder": "Morgan Stanley",
+          "shares": 1534705,
+          "pct_held": 1.38,
+          "value": 40025106
         },
         {
           "holder": "Marshall Wace LLP",
           "shares": 1216937,
           "pct_held": 1.09,
-          "value": 32078460
+          "value": 31737716
         },
         {
           "holder": "Shaw D.E. & Co., Inc.",
           "shares": 1173877,
           "pct_held": 1.05,
-          "value": 30943398
+          "value": 30614712
         },
         {
           "holder": "Focus Partners Wealth",
           "shares": 1139823,
           "pct_held": 1.02,
-          "value": 30045734
-        },
-        {
-          "holder": "Morgan Stanley",
-          "shares": 1094404,
-          "pct_held": 0.98,
-          "value": 28848490
+          "value": 29726583
         }
       ]
     }
