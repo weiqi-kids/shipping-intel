@@ -1,0 +1,156 @@
+{
+  "date": "2026-05-21",
+  "date_range": {
+    "start": "2026-05-15",
+    "end": "2026-05-21"
+  },
+  "generated_at": "2026-05-21T11:32:04.571978Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "hapag-2026-05-15-049",
+      "date": "2026-05-15",
+      "title": "China in new crackdown on carriers for ‘freight rate violations’",
+      "importance_score": 0.7
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "industry_general": {
+      "this_week": 156,
+      "last_week": 139,
+      "week_over_week_change": "+12%",
+      "sentiment_this_week": 0.05
+    },
+    "shipbuilding_orders": {
+      "this_week": 10,
+      "last_week": 7,
+      "week_over_week_change": "+43%",
+      "sentiment_this_week": 0.2
+    },
+    "container_freight": {
+      "this_week": 15,
+      "last_week": 9,
+      "week_over_week_change": "+67%",
+      "sentiment_this_week": -0.03
+    },
+    "dry_bulk_rate": {
+      "this_week": 2,
+      "last_week": 2,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    }
+  },
+  "company_7d_summary": {
+    "hanwha_ocean": {
+      "event_count": 4,
+      "sentiment_avg": 0.0,
+      "rank": 4
+    },
+    "evergreen": {
+      "event_count": 6,
+      "sentiment_avg": 0.0,
+      "rank": 3
+    },
+    "samsung_heavy": {
+      "event_count": 9,
+      "sentiment_avg": 0.0,
+      "rank": 1
+    },
+    "hapag": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 6
+    },
+    "cosco": {
+      "event_count": 7,
+      "sentiment_avg": 0.0,
+      "rank": 2
+    },
+    "u_ming": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 7
+    },
+    "maersk": {
+      "event_count": 2,
+      "sentiment_avg": -0.25,
+      "rank": 8
+    },
+    "star_bulk": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 9
+    },
+    "hd_korea": {
+      "event_count": 4,
+      "sentiment_avg": 0.0,
+      "rank": 5
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 337,
+        "last": 370,
+        "change_pct": -8.9
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-05-15",
+      "event_count": 60,
+      "sentiment_avg": 0.0
+    },
+    {
+      "date": "2026-05-16",
+      "event_count": 25,
+      "sentiment_avg": 0.0
+    },
+    {
+      "date": "2026-05-17",
+      "event_count": 19,
+      "sentiment_avg": 0.05
+    },
+    {
+      "date": "2026-05-18",
+      "event_count": 65,
+      "sentiment_avg": 0.05
+    },
+    {
+      "date": "2026-05-19",
+      "event_count": 64,
+      "sentiment_avg": 0.04
+    },
+    {
+      "date": "2026-05-20",
+      "event_count": 69,
+      "sentiment_avg": 0.0
+    },
+    {
+      "date": "2026-05-21",
+      "event_count": 35,
+      "sentiment_avg": 0.03
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-05-15 ~ 2026-05-21）共 337 則事件，重點為「China in new crackdown on carriers for ‘freight...」。馬士基情緒偏負面，建議留意相關風險。",
+    "watchlist": [
+      {
+        "company": "馬士基",
+        "reason": "本週情緒偏負面（-0.2），共 2 則相關事件，需關注後續發展。"
+      },
+      {
+        "company": "韓華海洋",
+        "reason": "本週出現 4 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "長榮海運",
+        "reason": "本週出現 6 則相關事件，為高關注企業，動態頻繁。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

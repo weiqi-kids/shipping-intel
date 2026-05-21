@@ -1,0 +1,16 @@
+{
+  "total_raw": 332,
+  "dup_title": 118,
+  "no_date": 0,
+  "too_old": 109,
+  "gate1_fail": 22,
+  "gate2_fail": 5,
+  "passed": 78,
+  "gate2_samples": [
+    "GTT to design FSRU tank for Samsung Heavy Industries - LNG Industry",
+    "Samsung Heavy Industries Receives AIP Certificate for Floating Data Center from ABS - Marine News Ma",
+    "LR awards its first submarine AiP to Hanwha Ocean - Lloyd's Register",
+    "T3ex Global Holdings Has Divested 1.4 Million Shares Of Evergreen Marine - TradingView",
+    "T3ex Global Holdings has divested 1.4 million shares of Evergreen Marine - marketscreener.com"
+  ]
+}

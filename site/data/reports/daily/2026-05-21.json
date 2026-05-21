@@ -1,0 +1,226 @@
+{
+  "date": "2026-05-21",
+  "generated_at": "2026-05-21T11:32:04.439521Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-05-21-021",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Indonesia moves to centralise commodity exports through state-run trading arm",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://splash247.com/indonesia-moves-to-centralise-commodity-exports-through-state-run-trading-arm/"
+    },
+    {
+      "rank": 2,
+      "event_id": "hd_korea-2026-05-21-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Hd Korea Shipbuilding Offshore Engineering Co Ltd Unit Wins 1.1 Trln Won Order - TradingView",
+      "companies": [
+        "hd_korea"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQTDI4bFFmb2tCNV9XbV83VWgxQS05dkgzelJ0bnhRT2Zia2lYN2hxMUxuNFdLYzJBOHBMYWJPbmhNSUxocFFxWDJZckZFRGRJdXpRMnNYX2tCYWoySGhzTFQ5VzhyRjBsTzBicTd0MFhNUGJsSmxTenRrczRSaEVyelJ3ZE9yTGlsNThraDlkVEZUOExrbHZZajk3SGVINkZaOVNXdmRudWwzamdoTFlDNjBtWUIwcEJWd2hSMDBESDRMd3FCQ19aS3BzUk82eENKMkNPMTNZQjg3ZkV2THdVSUp3?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "hd_korea-2026-05-21-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Hd Korea Shipbuilding & Offshore Engineering Co Ltd unit wins 1.1 trln won order - marketscreener.com",
+      "companies": [
+        "hd_korea"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNMUlLS0RhNXlmVi1ZMktMVW83U3BjaldKY0tXcmVDd1VsOTFDMFU5d3hlcHlPT09MM3dGUDVTVnlURnRKcEFLVVNrdnM0ZkRQMnRmdjA0bVhBZWNVbTFIdE9BWTJ3SFFKNEVmSWQ3ZmFfdE5Ka0d3Rmkxem1Cb2xNV3NoTUJ5SEsxb0s3eVFha256YzNXTHd4ZXl4MWVVTDF1TFpsSlpiOHRiN1ZTbk9DUlRlYmV0Z3pDRjhDR1hCY2pZWjJtaEYtT1pmUQ?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "hd_korea-2026-05-21-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "HD Korea Shipbuilding secures six VLAC orders worth 1.08 trillion won - CHOSUNBIZ - Chosunbiz",
+      "companies": [
+        "hd_korea"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQQTJYXzV1UWs3YkJBeTBMTjdBM0lTR1U4NjR5dFoyLUFGWDJBOFJRbGtONmp2akpGaGN0SG1UY0hYX2s4LTNUWG9fMm9LRnhBQ290N2RTWUhDMFJES0tOUmIwcVRVUUd2LVRmaGU4SElqLWxZWWg5VmhjY3doOHdZZF9aZFRaZnAxcDZfOXZ6dHhFZmlhUHfSAZYBQVVfeXFMUEEyWF81dVFrN2JCQXkwTE43QTNJU0dVODY0eXRaMi1BRlgyQThSUWxrTjZqdmpKRmhjdEhtVGNIWF9rOC0zVFhvXzJvS0Z4QUNvdDdkU1lIQzBSREtLTlJiMHFUVVFHdi1UZmhlOEhJai1sWVloOVZoY2N3aDh3WWRfWmRUWmZwMXA2Xzl2enR4RWZpYVB3?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "hd_korea-2026-05-21-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "HD Korea Shipbuilding Wins $782 Million Order for Six Ammonia Carriers - Seoul Economic Daily",
+      "companies": [
+        "hd_korea"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQSjNRalZUVlFRMXVRazdKRlZxTDEwSjlrdW9ybFd1bl9US19zWWh6OF90cFZ5ZzdmTHBIMFJqVVZlVkJ5WDdkX2l3b05CMHk1LU45NWQ2dk1WeUxDTTEycGVTLWVzMzdjTFpxeDJvZ3dYVE9rRnhVZnU2QzE1SmZTLU16Tl90YV9WbC1nZjY4akwxYTR1M1huUkxn?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 35,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.03,
+      "sentiment_7d_avg": null
+    },
+    "shipbuilding_orders": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.5,
+      "sentiment_7d_avg": null
+    },
+    "container_freight": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.25,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 35,
+    "sentiment_distribution": {
+      "positive": 5,
+      "neutral": 28,
+      "negative": 2
+    },
+    "top_companies": [
+      {
+        "id": "hd_korea",
+        "count": 4
+      },
+      {
+        "id": "hanwha_ocean",
+        "count": 1
+      },
+      {
+        "id": "cosco",
+        "count": 1
+      },
+      {
+        "id": "star_bulk",
+        "count": 1
+      },
+      {
+        "id": "maersk",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 35
+      },
+      {
+        "id": "container_freight",
+        "count": 2
+      },
+      {
+        "id": "shipbuilding_orders",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 332,
+    "dup_title": 118,
+    "too_old": 109,
+    "gate1_blocked": 22,
+    "gate2_blocked": 5,
+    "passed": 78,
+    "pass_rate": "36.4%",
+    "gate2_block_rate": "2.3%",
+    "gate2_samples": [
+      "GTT to design FSRU tank for Samsung Heavy Industries - LNG Industry",
+      "Samsung Heavy Industries Receives AIP Certificate for Floating Data Center from ABS - Marine News Ma",
+      "LR awards its first submarine AiP to Hanwha Ocean - Lloyd's Register",
+      "T3ex Global Holdings Has Divested 1.4 Million Shares Of Evergreen Marine - TradingView",
+      "T3ex Global Holdings has divested 1.4 million shares of Evergreen Marine - marketscreener.com"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 35 則事件，焦點為韓國造船海洋、韓華海洋、中遠海控相關動態：「Indonesia moves to centralise commodity exports through s...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Indonesia moves to centralise commodity exports through state-run trading arm（航運產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "Hd Korea Shipbuilding Offshore Engineering Co Ltd Unit Wins 1.1 Trln Won Orde...（航運產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
