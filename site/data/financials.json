@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-21T00:46:36.053909Z",
+  "updated_at": "2026-05-21T09:19:33.905027Z",
   "quarter": "2025-12-31, 2026-03-31",
   "companies": [
     {
@@ -77,14 +77,14 @@
       "name": "韓國造船海洋",
       "ticker": "009540.KS",
       "currency": "KRW",
-      "ar": null,
-      "ar_prev": 1454083587000,
-      "ar_qoq": "N/A",
-      "inventory": null,
-      "inv_prev": 2765843221000,
-      "inv_qoq": "N/A",
+      "ar": 1454083587000,
+      "ar_prev": 1268191916000,
+      "ar_qoq": "+15%",
+      "inventory": 2765843221000,
+      "inv_prev": 2656435618000,
+      "inv_qoq": "+4%",
       "alert": false,
-      "quarter_date": "2026-03-31"
+      "quarter_date": "2025-12-31"
     },
     {
       "id": "maersk",
@@ -105,14 +105,14 @@
       "name": "三星重工",
       "ticker": "010140.KS",
       "currency": "KRW",
-      "ar": null,
-      "ar_prev": 1309960246000,
-      "ar_qoq": "N/A",
-      "inventory": null,
-      "inv_prev": 489645265450,
-      "inv_qoq": "N/A",
-      "alert": false,
-      "quarter_date": "2026-03-31"
+      "ar": 1309960246000,
+      "ar_prev": 281098742540,
+      "ar_qoq": "+366%",
+      "inventory": 489645265450,
+      "inv_prev": 463223202050,
+      "inv_qoq": "+6%",
+      "alert": true,
+      "quarter_date": "2025-12-31"
     },
     {
       "id": "star_bulk",
