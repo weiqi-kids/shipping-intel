@@ -1,0 +1,224 @@
+{
+  "date": "2026-05-22",
+  "generated_at": "2026-05-22T10:56:03.126408Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-05-22-024",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Surgical CH Robinson: ‘Ready to do M&A, we’re going to do M&A’",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://theloadstar.com/surgical-ch-robinson-ready-to-do-ma-were-going-to-do-ma/"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-05-22-026",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Advent, FedEx, A&R & PPF launch €7.8bn all-cash offer for InPost",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.75
+      },
+      "source_url": "https://theloadstar.com/advent-fedex-ar-ppf-launch-e7-8bn-all-cash-offer-for-inpost/"
+    },
+    {
+      "rank": 3,
+      "event_id": "hd_korea-2026-05-22-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "HD Korea Shipbuilding Secures $1.08B Order for Six Very Large Ammonia Carriers - IndexBox",
+      "companies": [
+        "hd_korea"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxONEJ5SkVLMjNiUmVEVVZVUTBPOU9QWC02LTNQd25yNGw1RkNfQ1Eta1EtcmhkOXBqM21xUHY4YzZSMXlzUlNxVGUyWEJzTFY1YmxncUJpSWxXb1Azc0F0U0hqWEdyd0VsQUhnYUF3UXNSN2Q5OEF0eGxrcHNPdVlJNTgzSU02SUVmRDNHR3ZrLUY5NzBLNm5XNThENW1YTzBkRzhCWGZPaUdDQQ?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-05-22-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Advancing Canada’s industrial base through partnership - Hanwha Group",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNbm9GRC1ra01scC1VUmF2Q2RiemxPeFFja1ZLckUwbXhJNEJTYkdKLWc3dnRmUHFVTWlyN241cEpaNkU0LWtJNGFaWVFod2hxQlE5eGpFcEdRbmVWV2p2YnRCQ1FGMGVReVJVTk1jX05WMHloMTFpTm56STctc1Y2eHctdGthcFg1VVUzbFJ6TVM5dWQxNEtQNg?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "hanwha_ocean-2026-05-22-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "GTT receives an order from Hanwha Ocean for the tank design of a new LNG Carrier - imarinenews.com",
+      "companies": [
+        "hanwha_ocean"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5GR1Q1OC1hQkRJUi03c2JHNEYzUlc3VUhVeVhBbDFBakdnTkNidUtQbnQ3OFFzS0ZPWFNSNUtQZ0txZGhzV3ZEdWdILUFtQ0U?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 28,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.01,
+      "sentiment_7d_avg": null
+    },
+    "shipbuilding_orders": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "container_freight": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 28,
+    "sentiment_distribution": {
+      "positive": 4,
+      "neutral": 21,
+      "negative": 3
+    },
+    "top_companies": [
+      {
+        "id": "cosco",
+        "count": 2
+      },
+      {
+        "id": "hd_korea",
+        "count": 1
+      },
+      {
+        "id": "hanwha_ocean",
+        "count": 1
+      },
+      {
+        "id": "evergreen",
+        "count": 1
+      },
+      {
+        "id": "u_ming",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 28
+      },
+      {
+        "id": "shipbuilding_orders",
+        "count": 3
+      },
+      {
+        "id": "container_freight",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 331,
+    "dup_title": 126,
+    "too_old": 107,
+    "gate1_blocked": 20,
+    "gate2_blocked": 6,
+    "passed": 72,
+    "pass_rate": "35.1%",
+    "gate2_block_rate": "2.9%",
+    "gate2_samples": [
+      "GTT to design FSRU tank for Samsung Heavy Industries - LNG Industry",
+      "Samsung Heavy Industries Receives AIP Certificate for Floating Data Center from ABS - Marine News Ma",
+      "Hanwha Ocean says KSS-III submarine verified communications interoperability with Royal Canadian Nav",
+      "T3ex Global Holdings Has Divested 1.4 Million Shares Of Evergreen Marine - TradingView",
+      "T3ex Global Holdings has divested 1.4 million shares of Evergreen Marine - marketscreener.com"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 28 則事件，焦點為中遠海控、韓國造船海洋、韓華海洋相關動態：「Surgical CH Robinson: ‘Ready to do M&A, we’re going to do...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Surgical CH Robinson: ‘Ready to do M&A, we’re going to do M&A’（航運產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "Advent, FedEx, A&R & PPF launch €7.8bn all-cash offer for InPost（航運產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

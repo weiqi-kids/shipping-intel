@@ -1,0 +1,156 @@
+{
+  "date": "2026-05-22",
+  "date_range": {
+    "start": "2026-05-16",
+    "end": "2026-05-22"
+  },
+  "generated_at": "2026-05-22T10:56:03.249640Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "zim-2026-05-20-062",
+      "date": "2026-05-20",
+      "title": "Zim hopes for ‘positive change’ after Q1 plunge in earnings",
+      "importance_score": 0.7
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "industry_general": {
+      "this_week": 165,
+      "last_week": 133,
+      "week_over_week_change": "+24%",
+      "sentiment_this_week": 0.05
+    },
+    "container_freight": {
+      "this_week": 14,
+      "last_week": 11,
+      "week_over_week_change": "+27%",
+      "sentiment_this_week": -0.03
+    },
+    "shipbuilding_orders": {
+      "this_week": 11,
+      "last_week": 7,
+      "week_over_week_change": "+57%",
+      "sentiment_this_week": 0.18
+    },
+    "dry_bulk_rate": {
+      "this_week": 1,
+      "last_week": 3,
+      "week_over_week_change": "-67%",
+      "sentiment_this_week": 0.0
+    }
+  },
+  "company_7d_summary": {
+    "samsung_heavy": {
+      "event_count": 8,
+      "sentiment_avg": 0.0,
+      "rank": 2
+    },
+    "evergreen": {
+      "event_count": 6,
+      "sentiment_avg": 0.0,
+      "rank": 3
+    },
+    "cosco": {
+      "event_count": 9,
+      "sentiment_avg": 0.06,
+      "rank": 1
+    },
+    "u_ming": {
+      "event_count": 3,
+      "sentiment_avg": 0.0,
+      "rank": 6
+    },
+    "maersk": {
+      "event_count": 2,
+      "sentiment_avg": -0.25,
+      "rank": 8
+    },
+    "hapag": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 9
+    },
+    "hanwha_ocean": {
+      "event_count": 4,
+      "sentiment_avg": 0.0,
+      "rank": 5
+    },
+    "star_bulk": {
+      "event_count": 3,
+      "sentiment_avg": 0.0,
+      "rank": 7
+    },
+    "hd_korea": {
+      "event_count": 5,
+      "sentiment_avg": 0.0,
+      "rank": 4
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 349,
+        "last": 369,
+        "change_pct": -5.4
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-05-16",
+      "event_count": 25,
+      "sentiment_avg": 0.0
+    },
+    {
+      "date": "2026-05-17",
+      "event_count": 19,
+      "sentiment_avg": 0.05
+    },
+    {
+      "date": "2026-05-18",
+      "event_count": 66,
+      "sentiment_avg": 0.05
+    },
+    {
+      "date": "2026-05-19",
+      "event_count": 64,
+      "sentiment_avg": 0.04
+    },
+    {
+      "date": "2026-05-20",
+      "event_count": 70,
+      "sentiment_avg": 0.0
+    },
+    {
+      "date": "2026-05-21",
+      "event_count": 77,
+      "sentiment_avg": 0.02
+    },
+    {
+      "date": "2026-05-22",
+      "event_count": 28,
+      "sentiment_avg": 0.01
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-05-16 ~ 2026-05-22）共 349 則事件，重點為「Zim hopes for ‘positive change’ after Q1 plunge...」。馬士基情緒偏負面，建議留意相關風險。",
+    "watchlist": [
+      {
+        "company": "馬士基",
+        "reason": "本週情緒偏負面（-0.2），共 2 則相關事件，需關注後續發展。"
+      },
+      {
+        "company": "三星重工",
+        "reason": "本週出現 8 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "長榮海運",
+        "reason": "本週出現 6 則相關事件，為高關注企業，動態頻繁。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

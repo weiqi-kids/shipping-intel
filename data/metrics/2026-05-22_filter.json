@@ -1,0 +1,16 @@
+{
+  "total_raw": 331,
+  "dup_title": 126,
+  "no_date": 0,
+  "too_old": 107,
+  "gate1_fail": 20,
+  "gate2_fail": 6,
+  "passed": 72,
+  "gate2_samples": [
+    "GTT to design FSRU tank for Samsung Heavy Industries - LNG Industry",
+    "Samsung Heavy Industries Receives AIP Certificate for Floating Data Center from ABS - Marine News Ma",
+    "Hanwha Ocean says KSS-III submarine verified communications interoperability with Royal Canadian Nav",
+    "T3ex Global Holdings Has Divested 1.4 Million Shares Of Evergreen Marine - TradingView",
+    "T3ex Global Holdings has divested 1.4 million shares of Evergreen Marine - marketscreener.com"
+  ]
+}

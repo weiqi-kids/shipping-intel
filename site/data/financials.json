@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-21T11:32:00.816636Z",
+  "updated_at": "2026-05-22T10:56:00.038739Z",
   "quarter": "2025-12-31, 2026-03-31",
   "companies": [
     {
@@ -92,17 +92,17 @@
       "name": "韓國造船海洋",
       "ticker": "009540.KS",
       "currency": "KRW",
-      "ar": 1454083587000,
-      "ar_prev": 1268191916000,
-      "ar_qoq": "+15%",
+      "ar": 1332430426000,
+      "ar_prev": 1454083587000,
+      "ar_qoq": "-8%",
       "ar_period": "QoQ",
-      "inventory": 2765843221000,
-      "inv_prev": 2656435618000,
-      "inv_qoq": "+4%",
+      "inventory": 2943570715000,
+      "inv_prev": 2765843221000,
+      "inv_qoq": "+6%",
       "inv_period": "QoQ",
       "inventory_applicable": true,
       "alert": false,
-      "quarter_date": "2025-12-31"
+      "quarter_date": "2026-03-31"
     },
     {
       "id": "maersk",
@@ -126,17 +126,17 @@
       "name": "三星重工",
       "ticker": "010140.KS",
       "currency": "KRW",
-      "ar": 1309960246000,
-      "ar_prev": 281098742540,
-      "ar_qoq": "+366%",
+      "ar": 522198749860,
+      "ar_prev": 1309960246000,
+      "ar_qoq": "-60%",
       "ar_period": "QoQ",
-      "inventory": 489645265450,
-      "inv_prev": 463223202050,
-      "inv_qoq": "+6%",
+      "inventory": 677272384960,
+      "inv_prev": 489645265450,
+      "inv_qoq": "+38%",
       "inv_period": "QoQ",
       "inventory_applicable": true,
       "alert": true,
-      "quarter_date": "2025-12-31"
+      "quarter_date": "2026-03-31"
     },
     {
       "id": "star_bulk",
@@ -228,17 +228,17 @@
       "name": "ZIM Integrated Shipping",
       "ticker": "ZIM",
       "currency": "USD",
-      "ar": 501800000,
-      "ar_prev": 650100000,
-      "ar_qoq": "-23%",
+      "ar": 720900000,
+      "ar_prev": 501800000,
+      "ar_qoq": "+44%",
       "ar_period": "QoQ",
-      "inventory": 167800000,
-      "inv_prev": 182000000,
-      "inv_qoq": "-8%",
+      "inventory": 206600000,
+      "inv_prev": 167800000,
+      "inv_qoq": "+23%",
       "inv_period": "QoQ",
       "inventory_applicable": true,
       "alert": true,
-      "quarter_date": "2025-12-31"
+      "quarter_date": "2026-03-31"
     }
   ]
 }
