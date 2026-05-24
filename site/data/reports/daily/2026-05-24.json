@@ -1,0 +1,94 @@
+{
+  "date": "2026-05-24",
+  "generated_at": "2026-05-24T10:00:38.612555Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "cosco-2026-05-24-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Is It Worth Considering COSCO SHIPPING Holdings Co., Ltd. (HKG:1919) For Its Upcoming Dividend? - simplywall.st",
+      "companies": [
+        "cosco"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNdklwem5BSmhfOGVSSnpuRHVRQ2NaTGpSRjBIQU9leHNNRjYtRVhzS3V5M3VjdV9SRGlYMFU4OHBDb2ZVTkNRbUZVSEpLaE1rdHZUMVNZWG1rTF92VFlnWUx0S245RmhJelFYVFo5aXhqWkVJdTFLYnVBR1NkSkZPODVFemRIWUVJaTJWWTlrb3hFOXJxTU9zY24wQU8wSHp0eFpyZTdKNWZWWURIWWdmcWE3UE41eVZPNkFrVldsQ0N0QWxXMUE0MnMxdEZsZk1fWlZZU281OHphaHN5VDBtS0dXS1psUknSAewBQVVfeXFMTkFFb3Bob0x4TWZoTmt2SXl0TEdUSzJaM3BMZl9nOEEtV0NpeWlZWU82ZTBlYkNSVEs4c1F0bkZ0aWc1Wkl2VEtXTkFfMWlkLVZFQjNZclpyd2RCTG9rWjg1Y0hhX0N1Rlh3cFNwa1FFMm9KWmtTS0pFVkR6V3FaWEYxOFRfQ3JFSzJidHRyUlRfNVNfN3ZqYnp0b2YyT1lHdm5sZUdEOTNyZUd6OW9vUG0yLWFtZlJaTXNwM1RUeFJlS19Ibk94TW9aeE1hUC1EaFJjU2tjTlo3WS03bXltaEdkMWdzYXZxQ21jY1Q?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 1,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 1,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "cosco",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 332,
+    "dup_title": 174,
+    "too_old": 125,
+    "gate1_blocked": 17,
+    "gate2_blocked": 5,
+    "passed": 11,
+    "pass_rate": "7.0%",
+    "gate2_block_rate": "3.2%",
+    "gate2_samples": [
+      "GTT to design FSRU tank for Samsung Heavy Industries - LNG Industry",
+      "The South Korean submarine ROKS Dosan Ahn Chang-ho, built by Hanwha Ocean, is shown in Victoria on S",
+      "Hanwha Ocean says KSS-III submarine verified communications interoperability with Royal Canadian Nav",
+      "T3ex Global Holdings Has Divested 1.4 Million Shares Of Evergreen Marine - TradingView",
+      "T3ex Global Holdings has divested 1.4 million shares of Evergreen Marine - marketscreener.com"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 1 則事件，焦點為中遠海控相關動態：「Is It Worth Considering COSCO SHIPPING Holdings Co., Ltd....」。主要關注主題為航運產業通用，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Is It Worth Considering COSCO SHIPPING Holdings Co., Ltd. (HKG:1919) For Its ...（航運產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "中遠海控為今日主要關注企業。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

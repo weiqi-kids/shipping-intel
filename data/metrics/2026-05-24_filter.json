@@ -1,0 +1,16 @@
+{
+  "total_raw": 332,
+  "dup_title": 174,
+  "no_date": 0,
+  "too_old": 125,
+  "gate1_fail": 17,
+  "gate2_fail": 5,
+  "passed": 11,
+  "gate2_samples": [
+    "GTT to design FSRU tank for Samsung Heavy Industries - LNG Industry",
+    "The South Korean submarine ROKS Dosan Ahn Chang-ho, built by Hanwha Ocean, is shown in Victoria on S",
+    "Hanwha Ocean says KSS-III submarine verified communications interoperability with Royal Canadian Nav",
+    "T3ex Global Holdings Has Divested 1.4 Million Shares Of Evergreen Marine - TradingView",
+    "T3ex Global Holdings has divested 1.4 million shares of Evergreen Marine - marketscreener.com"
+  ]
+}
