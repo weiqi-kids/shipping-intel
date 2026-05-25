@@ -1,0 +1,222 @@
+{
+  "date": "2026-05-25",
+  "generated_at": "2026-05-25T11:57:13.562616Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "hanwha_ocean-2026-05-25-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Hanwha Ocean's (KRX:042660) Earnings Are Weaker Than They Seem - simplywall.st",
+      "companies": [
+        "hanwha_ocean"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "negative",
+        "score": -0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNQU5KM3BRM09QandmNUNKbXBFY3NNbjIzNHhOVkpOSGJvWVloUm5DYzBqaXVxd1FQbnBPaGJSTDlHY1NLWmFFYXN2Q1VsNFQ0TXNNMVplXzlNcjF2dlJzYUFlRHVtYXFpUEVyNEQ4QmNMVkhkdzlTUEx0aDR4M1BWUklDSXNmV0hzYTBsazBNeGF5bWlMUnhJYjNTRHRFYjNmUlhTMnltZDJTWjc3akVjMGlGQXNVOXVuN1pwT09aaGliUTBZOUdBNDZoLXJsbnNRMWdPbEI0cWsyZ9IB3wFBVV95cUxOeVZQYWxtTVdXUTdDbTNPQVl4aHY1NGNCSFRZWEwyLV9pc0FnSS1sNVdWQkdLM09ITEt3dnVBdFVqZWhuSzBUdk1lVzBzUXFxVHh5RGNwb09fd1RRUzRSNUdHSE5SS1p5UG4yeWNBakVXd1YxcW9uQnEzdG56aTd5RVBLdkRFY01wcWRLZktCeWFLYzJmTzNaOGZOTFNzRU45LWhFM1Y3MHhoQ0Z3eWluSzdOWGVyb2ZjUEpjMUZrU0NlREpQV2E1Z1VXeDZjQTRQSmwtbVRiaHB4c21kV3hB?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "cssc-2026-05-25-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Research Insights | Changjiang Securities: Maintains \"Buy\" rating on China State Shipbuilding Corporation, expecting newbuilding market sentiment to continue improving throughout the year. - 富途牛牛",
+      "companies": [
+        "cssc"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "shipbuilding_orders",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOV2lNenZxcjBrR1ZLY1NyUXpOc28tbkQyd1VoRmo2U194VkF5UkJvcFRWWmE2Q1l0aElWQU9CU2FNMVZEZ2pTa2kwSTE2Z2dBdTF1YnMwWlhJVFF4NXg1T0xyc190MVlNWWViMWZyZmpYcGhmMy05X1psbzNvNG1MU3BYdXZHSTVJUHMxR05WVDZWVnVtaUpueGY1TWVHMm05eE5SVFRnb3ZVVzlhRXVKeFlCdVE1MVU?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "cosco-2026-05-25-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "COSCO Shipping Development Unit Yet to Receive US Legal Papers in Container Price-Fixing Probe - Moomoo",
+      "companies": [
+        "cosco"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "container_freight",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOZXhaUnZWMnlrR1k1QkNzQnRJMmFfQnp6NTZZUXYzMXJBbFBTZF9FRkhnMHUzY1h2QmI2dENuTW5OMEliUlNfUmRRdEhJWXpHZWZ1ckRqa2VUc1VBOVJQbENYa2FZNU9FbXhpdVdPSmZqTXY2bFhyOHdUNXhEQVRiRElaLVJmMVhXbFREVFVxVGhQRTVXOHJsbWpfYXF3eV95VEEzcndXYnNqY2pmY2ZCTVVtcEZkeEhMYnQ2MkVYOFpRMTJaYjlDZjNFTlBxUF81V1p3Qkxn?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "cosco-2026-05-25-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "COSCO Shipping Specialized Carriers plans medium-term note issuance - marketscreener.com",
+      "companies": [
+        "cosco"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOQ3IyTXpOUmZPaDhOcE9VNk5oV2tNNGxMQ2JBbkRweUZ1MmFiOHFRamFIYVNfazRISkZfUkZDeVgtSzRaSVQyTmFmQ3Z2VERXY2llOUpXTXQyTlVqbkhZbkd5UGRDZGthb2Z0TDJadEZCczRoWHVfVVN1Z2Q0MnFkWEpfRWZQUV9UbUtFcjdPZk14X3FENmVSSGdLYmtZY1BIMV9ZeVlwc1BzeFZMSWJLRjJQSG1GMDVlR2ZFUw?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "cosco-2026-05-25-005",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Cosco revives Singapore-Calcutta SKX1 service - Container News",
+      "companies": [
+        "cosco"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1OTWNWNXliUVFKdmZXQ2JCSE9UTXRpSm53d3FXSDF3a3VUVzNJaXllcWNfekJwQ0VoOWdKX3R3MF9Rb3FpdWNCNmh0VUU2LTRudVFuOUtpaVN5UXhDZzdxbkJ1NGRyRjB2cm9zMWdFelFrLU9jZnNSaHU0emgwdw?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "shipbuilding_orders": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 24,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.06,
+      "sentiment_7d_avg": null
+    },
+    "container_freight": {
+      "today": 4,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.25,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 25,
+    "sentiment_distribution": {
+      "positive": 3,
+      "neutral": 21,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "cosco",
+        "count": 4
+      },
+      {
+        "id": "hanwha_ocean",
+        "count": 1
+      },
+      {
+        "id": "cssc",
+        "count": 1
+      },
+      {
+        "id": "evergreen",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 24
+      },
+      {
+        "id": "container_freight",
+        "count": 4
+      },
+      {
+        "id": "shipbuilding_orders",
+        "count": 2
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 332,
+    "dup_title": 139,
+    "too_old": 126,
+    "gate1_blocked": 20,
+    "gate2_blocked": 6,
+    "passed": 41,
+    "pass_rate": "21.2%",
+    "gate2_block_rate": "3.1%",
+    "gate2_samples": [
+      "GTT to design FSRU tank for Samsung Heavy Industries - LNG Industry",
+      "Hanwha Ocean says KSS-III submarine verified communications interoperability with Royal Canadian Nav",
+      "The South Korean submarine ROKS Dosan Ahn Chang-ho, built by Hanwha Ocean, is shown in Victoria on S",
+      "T3ex Global Holdings Has Divested 1.4 Million Shares Of Evergreen Marine - TradingView",
+      "T3ex Global Holdings has divested 1.4 million shares of Evergreen Marine - marketscreener.com"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 25 則事件，焦點為中遠海控、韓華海洋、中國船舶相關動態：「Hanwha Ocean's (KRX:042660) Earnings Are Weaker Than They...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Hanwha Ocean's (KRX:042660) Earnings Are Weaker Than They Seem - simplywall.st",
+        "level": "green"
+      },
+      {
+        "text": "Research Insights | Changjiang Securities: Maintains \"Buy\" rating on China St...（造船訂單、航運產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
