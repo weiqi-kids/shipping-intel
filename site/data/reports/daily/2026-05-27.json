@@ -1,0 +1,201 @@
+{
+  "date": "2026-05-27",
+  "generated_at": "2026-05-27T11:43:44.185594Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "samsung_heavy-2026-05-27-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Samsung Heavy Industries Co Ltd - Signs Contract For Vlgc 2 Vessels - TradingView",
+      "companies": [
+        "samsung_heavy"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPYkpONmc2Y1dhb0lCMGc1TnJENUl4dnhCVHF6b2RXNjU1blRLNUkwbHZmdFVseGxCczVabEJqU0V1RkNRaDFYczFSbFUxM2FTWjN1RHpXWjN5WURaZjA5T2NPd1NneTJkU1J4QVFQVEpfUDNKVzY1T290aXI5X2tRV0N5clktVDZEQ0FpeWVPbmJjNkpkX1JUZFM1UVF4eHlyT3JhSEJnZERvZVlabGFNTUFvLWVrNERFRl9ZRi1meTlnUlA3X0xFQmZsOVpFTzZu?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-05-27-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "South Korea’s Samsung Heavy to build one LNG carrier for $252 million - LNG Prime",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNVXYyeC0yU2xLcnFsQXljeUJ2TnZ3RjJCWC10U3FTZnRrTlc1RG1GaDI3eVoxWmRweXItNEtMLURPMkVjNlVzWlhaRnFWcF84V1JiN1BjaFVJcE8yTEFNUEloRlhOa3hrem5LajN2ZUZHQlNySlRDTDVGZ1dCdElYTHdoSExZR2RfSTJRU1NsUkZOcFlfVXhfcy1MR0gxQWZCNlc4?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-05-27-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Samsung Heavy Wins Five-Vessel Order - Businesskorea",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5aN1hJbF9sQlVEc1FZVU1kaTY0UHNYMU5ZVUs1MXE5U2JEVkV4MzlJTU9KTW5rYUJxWkNxaTN0LUNVd3FrNkN5UGFYVVJzYnBHWE9KMDQzUGliczB2d19ENzd3WjFGR2NRY2M3UXVsbUVSYmZt?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-05-27-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Samsung Heavy bags 1 trillion-won deal for 5 ships - Yonhap News Agency",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE42S191eWxsdmNrdWFnTUJOSmpXLWhDRTlBQnBaVVFUdGRTUFJ1MGsxVDE3em0tdnAyR2xBRFVRM3dGY090WDktTjNmczFqeFFMSmRCdy10eVVzdw?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "samsung_heavy-2026-05-27-005",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Samsung Heavy Industries Co Ltd - signs contract for VLGC 2 vessels - marketscreener.com",
+      "companies": [
+        "samsung_heavy"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPR24wZkxObFZIdlprbjNDVVVkQ0U5aXNobE1LVmJ1S1ZUcVRROGEzaXdTTFRHTnVtSXhEeGtMak4yQ0l1clZwOHM2enZSUnZBNFZ4a3I1ekpoaTBFZVZhakt4VmFQTHZJcVhHYkd3N3FWOHhNOTdudXQ3dk5sTS1sLV84TTlwOGNZdXgyM0gwam9hSWRia0NoU1JFcUN3ajhiQ3BEUUFKVGZQTXlCYllTM0JtcUU3a1lhVmc?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 30,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.06,
+      "sentiment_7d_avg": null
+    },
+    "shipbuilding_orders": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 30,
+    "sentiment_distribution": {
+      "positive": 4,
+      "neutral": 26,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "cosco",
+        "count": 7
+      },
+      {
+        "id": "samsung_heavy",
+        "count": 4
+      },
+      {
+        "id": "hanwha_ocean",
+        "count": 1
+      },
+      {
+        "id": "maersk",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 30
+      },
+      {
+        "id": "shipbuilding_orders",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 322,
+    "dup_title": 107,
+    "too_old": 117,
+    "gate1_blocked": 22,
+    "gate2_blocked": 4,
+    "passed": 72,
+    "pass_rate": "33.5%",
+    "gate2_block_rate": "1.9%",
+    "gate2_samples": [
+      "Hanwha Ocean, HD Hyundai Emerge as 'One Team' for 29 Trillion Won K-Nuclear Submarine Project - Seou",
+      "Hanwha Ocean lays keel for Singapore’s first FSRU - LNG Prime",
+      "Hanwha Ocean says KSS-III submarine verified communications interoperability with Royal Canadian Nav",
+      "T3ex Global Holdings Has Divested 1.4 Million Shares Of Evergreen Marine - TradingView"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 30 則事件，焦點為中遠海控、三星重工、韓華海洋相關動態：「Samsung Heavy Industries Co Ltd - Signs Contract For Vlgc...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Samsung Heavy Industries Co Ltd - Signs Contract For Vlgc 2 Vessels - Trading...（航運產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "South Korea’s Samsung Heavy to build one LNG carrier for $252 million - LNG P...（航運產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

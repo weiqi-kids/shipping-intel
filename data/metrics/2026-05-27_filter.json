@@ -1,0 +1,15 @@
+{
+  "total_raw": 322,
+  "dup_title": 107,
+  "no_date": 0,
+  "too_old": 117,
+  "gate1_fail": 22,
+  "gate2_fail": 4,
+  "passed": 72,
+  "gate2_samples": [
+    "Hanwha Ocean, HD Hyundai Emerge as 'One Team' for 29 Trillion Won K-Nuclear Submarine Project - Seou",
+    "Hanwha Ocean lays keel for Singapore’s first FSRU - LNG Prime",
+    "Hanwha Ocean says KSS-III submarine verified communications interoperability with Royal Canadian Nav",
+    "T3ex Global Holdings Has Divested 1.4 Million Shares Of Evergreen Marine - TradingView"
+  ]
+}
