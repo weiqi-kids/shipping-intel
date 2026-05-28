@@ -1,0 +1,13 @@
+{
+  "total_raw": 332,
+  "dup_title": 125,
+  "no_date": 0,
+  "too_old": 113,
+  "gate1_fail": 23,
+  "gate2_fail": 2,
+  "passed": 69,
+  "gate2_samples": [
+    "Hanwha Ocean highlights KSS-III submarine and industrial benefits for Canadian Patrol Submarine Proj",
+    "Hanwha Ocean explores AI-powered welding with Novarc - Splash247"
+  ]
+}

@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-27T11:43:41.013837Z",
+  "updated_at": "2026-05-28T11:43:13.147946Z",
   "quarter": "2025-12-31, 2026-03-31",
   "companies": [
     {
@@ -143,17 +143,17 @@
       "name": "Star Bulk Carriers",
       "ticker": "SBLK",
       "currency": "USD",
-      "ar": 83587000,
-      "ar_prev": 72391000,
-      "ar_qoq": "+15%",
+      "ar": 77999000,
+      "ar_prev": 83587000,
+      "ar_qoq": "-7%",
       "ar_period": "QoQ",
-      "inventory": 51477000,
-      "inv_prev": 60971000,
-      "inv_qoq": "-16%",
+      "inventory": 62721000,
+      "inv_prev": 51477000,
+      "inv_qoq": "+22%",
       "inv_period": "QoQ",
       "inventory_applicable": true,
-      "alert": false,
-      "quarter_date": "2025-12-31"
+      "alert": true,
+      "quarter_date": "2026-03-31"
     },
     {
       "id": "u_ming",

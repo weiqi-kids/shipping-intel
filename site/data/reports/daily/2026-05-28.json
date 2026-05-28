@@ -1,0 +1,207 @@
+{
+  "date": "2026-05-28",
+  "generated_at": "2026-05-28T11:43:17.053285Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-05-28-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "KRX revamps Korea Value-Up Index, adds shipbuilders and cuts laggards - CHOSUNBIZ - Chosunbiz",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNM0ZLZTNhNUJCTHNzSGhmaVNITXppOERYNFdUUDExSUloTFhnQlNsR1I4RE0yWGdBSExZd2ltUUE5LThlLTl6ZHJOM093NVZlREpfMFBGTXl6aDNEdlZZSWc5Uk16SEt0Y3hsdjdQMkFhdDFTekw4M2lnSmVDeXV4MdIBlAFBVV95cUxNdkpXRU9pdGd6eEdyWHd0V0lOcVdiQzh0QWd1b29NLUlVQ2I1QWtxRFhrTkgtb2p6eV9ScnlYZ3JhZERtSVVLRGs3YXgzT0h1QlJiaUI5Y2oyV2FqenNVemRjZnlOX3ZIS3hLY2xQcjdBWFVaS0tjV1YxcFRSTURyOXVvNEUzdWptVUYzazcxUldGbVRa?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "samsung_heavy-2026-05-28-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Samsung Heavy Industries Lands Three-type Five-vessel Order Worth $667 Million from Bermuda Shipowner - imarinenews.com",
+      "companies": [
+        "samsung_heavy"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5FN3FSZ0RVSHByLXMzdkRjZXFaU1hKR19MYnBPaDhuWk9kcEZNQ1NIeFBwZWpvTE52Z1NhajlSSmlybjU0TjJDVGNHZ3EzbUU?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "samsung_heavy-2026-05-28-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Samsung Heavy Industries Wins $726M Multi-Vessel Order from Bermuda Shipowner - IndexBox",
+      "companies": [
+        "samsung_heavy"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNb2drWWVEVWhXOFNsdkZmbF9ydzdrNVpVYUc4WmZ0dW5jazV2bFVvUHVXTnEwNTgtWjhSSUFnVWZtNmlRS1BKRmh4T0RWWXdQakRMQ2xJLUo1Q3JsM3VYd3N6c3JFM1UtM1BEZGZtcV9SV0VqbVdrYzJ0OWtXdVV4MUF3cENxMWtFVDNZVVFLM21fWUVDWWRrYUQ1SjlMSmMxWElGUTVpbVk4dw?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "hanwha_ocean-2026-05-28-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Novarc and Hanwha Ocean to Develop Automated Welding and AI-Powered Shipbuilding Systems - AI Insider",
+      "companies": [
+        "hanwha_ocean"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOU0VLRWdKQnZseGFKNVNkM1UtUF9tWUFIaloyTnFULXRkZ2lCclJOTEIyVlBGVUZMRFhjSEFYQWIzaFY3UnA1el8waVZ6a1FsLXdid3FPZnN2STN4YmQtMEdlNWIwdkhDU3F4eXZtYTd0TWt2aFc5MnlReU81ZHEwQ0hlY0I3LUgyUG92aFcwdjd1T1MybVRXVThoYkF6Nm1NWno1bjk2amFHN2Z4OE10dTFMZmlNSWppOXZyd0JUUlp1cWVB?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "hanwha_ocean-2026-05-28-005",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Hanwha Ocean Builds AI Arctic Partnership in Canada - Businesskorea",
+      "companies": [
+        "hanwha_ocean"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1xUGhfaEw4aFRGSl9BSmd5eDN1aHc4UXU2UmtFMnpaQWdRaEtFYW5qVXhyeHpScUNMTGpXaDBOeGlTVFIyODRBNEJhc3RNckEtazZ4Q04ySTNTcHF5OEhKZUxDNnd0QVlNZG5NSXhoaDByWVNj?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 30,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "shipbuilding_orders": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.25,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 30,
+    "sentiment_distribution": {
+      "positive": 3,
+      "neutral": 24,
+      "negative": 3
+    },
+    "top_companies": [
+      {
+        "id": "cosco",
+        "count": 5
+      },
+      {
+        "id": "samsung_heavy",
+        "count": 2
+      },
+      {
+        "id": "hanwha_ocean",
+        "count": 2
+      },
+      {
+        "id": "star_bulk",
+        "count": 1
+      },
+      {
+        "id": "wan_hai",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 30
+      },
+      {
+        "id": "shipbuilding_orders",
+        "count": 2
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 332,
+    "dup_title": 125,
+    "too_old": 113,
+    "gate1_blocked": 23,
+    "gate2_blocked": 2,
+    "passed": 69,
+    "pass_rate": "33.3%",
+    "gate2_block_rate": "1.0%",
+    "gate2_samples": [
+      "Hanwha Ocean highlights KSS-III submarine and industrial benefits for Canadian Patrol Submarine Proj",
+      "Hanwha Ocean explores AI-powered welding with Novarc - Splash247"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 30 則事件，焦點為中遠海控、三星重工、韓華海洋相關動態：「KRX revamps Korea Value-Up Index, adds shipbuilders and c...」。主要關注主題為航運產業通用、造船訂單，市場情緒中性。",
+    "signals": [
+      {
+        "text": "KRX revamps Korea Value-Up Index, adds shipbuilders and cuts laggards - CHOSU...（航運產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "Samsung Heavy Industries Lands Three-type Five-vessel Order Worth $667 Millio...（航運產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

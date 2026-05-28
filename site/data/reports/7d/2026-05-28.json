@@ -1,0 +1,155 @@
+{
+  "date": "2026-05-28",
+  "date_range": {
+    "start": "2026-05-22",
+    "end": "2026-05-28"
+  },
+  "generated_at": "2026-05-28T11:43:17.196875Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "maersk-2026-05-26-033",
+      "date": "2026-05-26",
+      "title": "Container shipping: Maersk and Hapag-Lloyd slip into losses - Trans.INFO",
+      "importance_score": 0.85
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "industry_general": {
+      "this_week": 114,
+      "last_week": 156,
+      "week_over_week_change": "-27%",
+      "sentiment_this_week": 0.03
+    },
+    "shipbuilding_orders": {
+      "this_week": 8,
+      "last_week": 10,
+      "week_over_week_change": "-20%",
+      "sentiment_this_week": 0.06
+    },
+    "container_freight": {
+      "this_week": 6,
+      "last_week": 15,
+      "week_over_week_change": "-60%",
+      "sentiment_this_week": 0.17
+    }
+  },
+  "company_7d_summary": {
+    "hd_korea": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 6
+    },
+    "hanwha_ocean": {
+      "event_count": 5,
+      "sentiment_avg": -0.1,
+      "rank": 3
+    },
+    "evergreen": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 4
+    },
+    "cosco": {
+      "event_count": 19,
+      "sentiment_avg": 0.03,
+      "rank": 1
+    },
+    "u_ming": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 7
+    },
+    "star_bulk": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 5
+    },
+    "cssc": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 8
+    },
+    "samsung_heavy": {
+      "event_count": 6,
+      "sentiment_avg": 0.0,
+      "rank": 2
+    },
+    "maersk": {
+      "event_count": 1,
+      "sentiment_avg": 0.5,
+      "rank": 9
+    },
+    "wan_hai": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 10
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 250,
+        "last": 389,
+        "change_pct": -35.7
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-05-22",
+      "event_count": 61,
+      "sentiment_avg": 0.0
+    },
+    {
+      "date": "2026-05-23",
+      "event_count": 9,
+      "sentiment_avg": 0.0
+    },
+    {
+      "date": "2026-05-24",
+      "event_count": 15,
+      "sentiment_avg": -0.07
+    },
+    {
+      "date": "2026-05-25",
+      "event_count": 27,
+      "sentiment_avg": 0.04
+    },
+    {
+      "date": "2026-05-26",
+      "event_count": 41,
+      "sentiment_avg": -0.05
+    },
+    {
+      "date": "2026-05-27",
+      "event_count": 67,
+      "sentiment_avg": 0.05
+    },
+    {
+      "date": "2026-05-28",
+      "event_count": 30,
+      "sentiment_avg": 0.0
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-05-22 ~ 2026-05-28）共 250 則事件，重點為「Container shipping: Maersk and Hapag-Lloyd slip...」。事件量較上週減少，市場進入觀望階段。",
+    "watchlist": [
+      {
+        "company": "韓華海洋",
+        "reason": "本週出現 5 則相關事件且情緒偏負面，需特別關注。"
+      },
+      {
+        "company": "中遠海控",
+        "reason": "本週出現 19 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "三星重工",
+        "reason": "本週出現 6 則相關事件，為高關注企業，動態頻繁。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
