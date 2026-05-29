@@ -1,0 +1,237 @@
+{
+  "date": "2026-05-29",
+  "generated_at": "2026-05-29T11:34:40.791553Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-05-29-005",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "China delivers first LNG carrier with domestic cryogenic cargo valves in key localization breakthrough - Global Times",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1TQmVyX05ZTVdLT0otQllfQnhibW5rUzB2cGhJQlhtcllZRTJuUmp3WTZ6dnM0cFVXN0FfNjhzNVYyZVNqU2dwZTcxdTNCSnlBQWVGNGxzTzVMUmViclI3Y01R?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "hanwha_ocean-2026-05-29-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Knutsen orders another LNG carrier at Hanwha Ocean - LNG Prime",
+      "companies": [
+        "hanwha_ocean"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQWXJxTW5jRThJQkdUYkFkSnZ0eFUycVpRU2VwWW9HMXdiUGkzMDhLOExIVGNldmpPVEhlZTdCcnVVcl81SldUVlR5TWRTcWIxcnNvbGc5cll4UVBLTVBnUXd5TnFuc1ZPNW5hTlJ3WG5aY0dxdTE5VDhUYllZMm5Pajgtdnp2aXh1N0hKQg?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "hanwha_ocean-2026-05-29-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Knutsen ups its LNG newbuilding stash at Hanwha Ocean to nine vessels - Tradewinds News",
+      "companies": [
+        "hanwha_ocean"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "shipbuilding_orders",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNb0d0UV84MW5NdTJVank0TnQzVnJmTDRuTmlONDFNd0Vhb2ZvOGIwNWxqT2RYRHhwVW05VFhzNlJzcF8wVUs3WmJPbFZaUkE2Ui1MbGI1ZjRKYjVrcURYWXlrb29zNERrY2dyZU4xVnE1eGlsdldRaXNuRnFmR1hMWXdXU1B3cXN2NENyMTI2ZlliX0d5UDlCVWFtYTlXdmNnSjNST09wWThQdUxRSVdpUktFWGRURTA?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "hanwha_ocean-2026-05-29-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Hanwha Ocean Co Ltd Wins 376 Billion Won Order - TradingView",
+      "companies": [
+        "hanwha_ocean"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOYUJ2VWU4Yi0tbXIwcXFWTGp4am9XZklkazQtUUFMdWFGRlBSeVNqaDVVemRmQllseDN4bTJta1h5bkpiZGxndW1sN2hHXzRyUUhBQ1NYeVlIazNJbGFaaHJ5cmd2U3Bram9BeG5ORFZPaGZWSEVTaE9yV2d1OUxkT0FQNC1ZUnYyemNhRDM2UDVIV09lREsyMkpxc2hVeENGUU1TWHhYekdiNHU1UWY1MF9YVTNKTUE?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "hanwha_ocean-2026-05-29-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Hanwha Ocean Wins Order for One LNG Carrier Worth 375.9 Billion Won - 매일경제",
+      "companies": [
+        "hanwha_ocean"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE01a09nY1JpTlJhZUZSa3BZdUwxdXFkZ29NTEpEekFROVIxRHJYZEo0eFJGVVlDOXNJNk1keTlmc09PaW13YWhJNG1ZOVpnVkJuSFVR?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 31,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.05,
+      "sentiment_7d_avg": null
+    },
+    "shipbuilding_orders": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "dry_bulk_rate": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.5,
+      "sentiment_7d_avg": null
+    },
+    "container_freight": {
+      "today": 4,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 33,
+    "sentiment_distribution": {
+      "positive": 4,
+      "neutral": 27,
+      "negative": 2
+    },
+    "top_companies": [
+      {
+        "id": "hanwha_ocean",
+        "count": 4
+      },
+      {
+        "id": "cosco",
+        "count": 3
+      },
+      {
+        "id": "wan_hai",
+        "count": 2
+      },
+      {
+        "id": "cssc",
+        "count": 1
+      },
+      {
+        "id": "maersk",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 31
+      },
+      {
+        "id": "container_freight",
+        "count": 4
+      },
+      {
+        "id": "shipbuilding_orders",
+        "count": 3
+      },
+      {
+        "id": "dry_bulk_rate",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 332,
+    "dup_title": 141,
+    "too_old": 101,
+    "gate1_blocked": 19,
+    "gate2_blocked": 3,
+    "passed": 68,
+    "pass_rate": "35.6%",
+    "gate2_block_rate": "1.6%",
+    "gate2_samples": [
+      "Hanwha Ocean explores AI-powered welding with Novarc - Splash247",
+      "Hanwha Ocean highlights KSS-III submarine and industrial benefits for Canadian Patrol Submarine Proj",
+      "EXCLUSIVE: And so, another key sales leader leaves Ceva – the exodus continues"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 33 則事件，焦點為韓華海洋、中遠海控、萬海航運相關動態：「China delivers first LNG carrier with domestic cryogenic ...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "China delivers first LNG carrier with domestic cryogenic cargo valves in key ...（航運產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "Knutsen orders another LNG carrier at Hanwha Ocean - LNG Prime（航運產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
