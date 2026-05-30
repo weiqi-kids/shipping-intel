@@ -1,0 +1,14 @@
+{
+  "total_raw": 332,
+  "dup_title": 169,
+  "no_date": 0,
+  "too_old": 111,
+  "gate1_fail": 14,
+  "gate2_fail": 3,
+  "passed": 35,
+  "gate2_samples": [
+    "Hanwha Ocean highlights KSS-III submarine and industrial benefits for Canadian Patrol Submarine Proj",
+    "Hanwha Ocean explores AI-powered welding with Novarc - Splash247",
+    "EXCLUSIVE: And so, another key sales leader leaves Ceva – the exodus continues"
+  ]
+}
