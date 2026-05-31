@@ -1,0 +1,155 @@
+{
+  "date": "2026-05-31",
+  "generated_at": "2026-05-31T10:20:32.693486Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "hanwha_ocean-2026-05-31-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Hanwha Ocean sprints to outpace Germany for $40B Canadian submarine mega deal - Korea JoongAng Daily",
+      "companies": [
+        "hanwha_ocean"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQUlFEZDdubnA4SF82S2ZSeEEtc0Itb1h3QTRjcjVGeXR3LXoxaWliNjN3ZHYyNTBSVThDWEFLSFFIZ0JNYzRUUDdfUFFDamhGdzdQbUFoM3dyaFdKWHdpWWJyWnAxbGFVMWtLbC1sblJWZ2xhbEZRejhJR3JUTEJNeXNDLXhJRjBacFFod1I3R0RSeUtOVk15OXAwOXlFZnZIRnQzaERUX1Vmd3M0RFpFblZpNDBaOTZGMDhONzZtUkFsOUROdFJsX3N4Q3dIYUl2Ml8wY3B5THg4Zlc0NUFhXzBlMVM4d2dxZEN3?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "hanwha_ocean-2026-05-31-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Hanwha Ocean highlights potential $68b GDP impact in Canada submarine bid - The Korea Herald",
+      "companies": [
+        "hanwha_ocean"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE04RnFvZnNYZnFua0ZyaVlldVYxYnlZZXJVcmxMNndPdlpnbjl5cjF5M2xIRGM3UXZhYy1Qb0tRdlBmcE9ZODhXLXJtYjdISUtQSDJicDRpcw?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "hanwha_ocean-2026-05-31-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Hanwha Ocean Wraps Up Canada's Largest Defense Expo, Pushes for Submarine Deal - Seoul Economic Daily",
+      "companies": [
+        "hanwha_ocean"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOUkp6WThPcTdzam9qYkh6V3RjZWFUc3RXU1ctMmlMUFZJU2V5R0lMeVhqLXNNcS1xNWduVXJtUnJJU1NuTTBwV0tMUTNHLWFsVXdZLUdaMW9IbkxaMXFFVzVYOHBQaXZ5aEFBTjBXRmdWemt6WkMzcjJtNTZCVXBTWlBUT0dqZHB5RUc3N1ZBNWdpc1dfQ0pocHB5aEwtbUZR?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "hanwha_ocean-2026-05-31-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Hanwha Ocean, Goes All-Out to Secure CANSEC 2026 Submarine Contract - starnewskorea.com",
+      "companies": [
+        "hanwha_ocean"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPajhzYnpieWcyWmdwVGNlRW0tQS04SWlLazhqQk9KelJkcWs3WmQ0OWdSR2dBQ1ItS1p3bTNTbS1iZ3A4dXg2QzZRME5MZ3VVb05VQUVzcDhGTDZENEQtS2N5Q2JVTThLUzRQaTl2aXphSE9wdmxfQTdGMEZ4VWV6a0hMbw?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "hanwha_ocean-2026-05-31-005",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Hanwha Ocean Makes Final Push to Secure Submarine Contract at Canada's Largest Defense Exhibition - 아시아경제",
+      "companies": [
+        "hanwha_ocean"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFA1dXRWQzliV3hoZEdRbjJqMkdkd0xmemNwZVoxZ2JKaklBX1ZCa2hqT1l0SDFyV1I1WWZjU3lYNDlJRGU5TV9fRWM4Um42Y1BiOFg3ajhXcUo3a3FpOThrNmZKeUY?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {},
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 6,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 6,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "hanwha_ocean",
+        "count": 6
+      }
+    ],
+    "top_topics": []
+  },
+  "filter_audit": {
+    "total_raw": 332,
+    "dup_title": 177,
+    "too_old": 117,
+    "gate1_blocked": 15,
+    "gate2_blocked": 4,
+    "passed": 19,
+    "pass_rate": "12.3%",
+    "gate2_block_rate": "2.6%",
+    "gate2_samples": [
+      "Samsung Heavy Industries 1Q Oper Pft KRW273.10B Vs. Pft KRW123.10B >010140.SE - Moomoo",
+      "Hanwha Ocean courts Canada with KSS-III bid at CANSEC to win CPSP - CHOSUNBIZ - Chosunbiz",
+      "Hanwha Ocean highlights KSS-III submarine and industrial benefits for Canadian Patrol Submarine Proj",
+      "EXCLUSIVE: And so, another key sales leader leaves Ceva – the exodus continues"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 6 則事件，焦點為韓華海洋相關動態：「Hanwha Ocean sprints to outpace Germany for $40B Canadian...」。市場情緒中性，暫無明顯方向。",
+    "signals": [
+      {
+        "text": "Hanwha Ocean sprints to outpace Germany for $40B Canadian submarine mega deal...",
+        "level": "green"
+      },
+      {
+        "text": "Hanwha Ocean highlights potential $68b GDP impact in Canada submarine bid - T...",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

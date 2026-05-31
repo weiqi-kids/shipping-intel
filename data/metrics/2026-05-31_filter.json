@@ -1,0 +1,15 @@
+{
+  "total_raw": 332,
+  "dup_title": 177,
+  "no_date": 0,
+  "too_old": 117,
+  "gate1_fail": 15,
+  "gate2_fail": 4,
+  "passed": 19,
+  "gate2_samples": [
+    "Samsung Heavy Industries 1Q Oper Pft KRW273.10B Vs. Pft KRW123.10B >010140.SE - Moomoo",
+    "Hanwha Ocean courts Canada with KSS-III bid at CANSEC to win CPSP - CHOSUNBIZ - Chosunbiz",
+    "Hanwha Ocean highlights KSS-III submarine and industrial benefits for Canadian Patrol Submarine Proj",
+    "EXCLUSIVE: And so, another key sales leader leaves Ceva – the exodus continues"
+  ]
+}
