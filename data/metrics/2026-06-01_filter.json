@@ -1,0 +1,13 @@
+{
+  "total_raw": 331,
+  "dup_title": 139,
+  "no_date": 0,
+  "too_old": 113,
+  "gate1_fail": 19,
+  "gate2_fail": 2,
+  "passed": 58,
+  "gate2_samples": [
+    "Samsung Heavy Industries 1Q Oper Pft KRW273.10B Vs. Pft KRW123.10B >010140.SE - Moomoo",
+    "Hanwha Ocean Targets 2026 Completion for Domestic Nuclear Submarine Basic Design - imarinenews.com"
+  ]
+}

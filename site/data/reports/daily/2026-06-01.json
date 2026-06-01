@@ -1,0 +1,267 @@
+{
+  "date": "2026-06-01",
+  "generated_at": "2026-06-01T13:43:30.771971Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "hapag-2026-06-01-015",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "ZIM selects new CEO with Hapag-Lloyd deal still pending",
+      "companies": [
+        "hapag",
+        "zim"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://splash247.com/zim-selects-new-ceo-with-hapag-lloyd-deal-still-pending/"
+    },
+    {
+      "rank": 2,
+      "event_id": "hapag-2026-06-01-035",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "Zim appoints new CEO with non-shipping background",
+      "companies": [
+        "hapag",
+        "zim"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.seatrade-maritime.com/containers/zim-appoints-new-ceo-with-non-shipping-background"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-06-01-020",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Suspected mine spotted in Omani waters near Hormuz",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://splash247.com/suspected-mine-spotted-in-omani-waters-near-hormuz/"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-06-01-021",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "One in three containers shipped today is empty, up from one in four before the pandemic",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://splash247.com/one-in-three-containers-shipped-today-is-empty-up-from-one-in-four-before-the-pandemic/"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-06-01-022",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "The elevator pitch for third-party shipmanagement",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://splash247.com/the-elevator-pitch-for-third-party-shipmanagement/"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 39,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.03,
+      "sentiment_7d_avg": null
+    },
+    "shipbuilding_orders": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.25,
+      "sentiment_7d_avg": null
+    },
+    "dry_bulk_rate": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "port_congestion": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "container_freight": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [
+    {
+      "from": "hapag",
+      "to": "zim",
+      "relation": "co_mention",
+      "co_mention_count": 2,
+      "topics": [
+        "industry_general"
+      ]
+    }
+  ],
+  "stats": {
+    "total_events": 40,
+    "sentiment_distribution": {
+      "positive": 8,
+      "neutral": 28,
+      "negative": 4
+    },
+    "top_companies": [
+      {
+        "id": "hd_korea",
+        "count": 4
+      },
+      {
+        "id": "hanwha_ocean",
+        "count": 4
+      },
+      {
+        "id": "zim",
+        "count": 3
+      },
+      {
+        "id": "hapag",
+        "count": 2
+      },
+      {
+        "id": "cosco",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 39
+      },
+      {
+        "id": "shipbuilding_orders",
+        "count": 2
+      },
+      {
+        "id": "dry_bulk_rate",
+        "count": 1
+      },
+      {
+        "id": "port_congestion",
+        "count": 1
+      },
+      {
+        "id": "container_freight",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 331,
+    "dup_title": 139,
+    "too_old": 113,
+    "gate1_blocked": 19,
+    "gate2_blocked": 2,
+    "passed": 58,
+    "pass_rate": "30.2%",
+    "gate2_block_rate": "1.0%",
+    "gate2_samples": [
+      "Samsung Heavy Industries 1Q Oper Pft KRW273.10B Vs. Pft KRW123.10B >010140.SE - Moomoo",
+      "Hanwha Ocean Targets 2026 Completion for Domestic Nuclear Submarine Basic Design - imarinenews.com"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 40 則事件，焦點為韓國造船海洋、韓華海洋、ZIM Integrated Shipping相關動態：「ZIM selects new CEO with Hapag-Lloyd deal still pending」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "ZIM selects new CEO with Hapag-Lloyd deal still pending（航運產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "Zim appoints new CEO with non-shipping background（航運產業通用）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
