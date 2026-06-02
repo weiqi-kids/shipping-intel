@@ -1,0 +1,14 @@
+{
+  "total_raw": 331,
+  "dup_title": 136,
+  "no_date": 0,
+  "too_old": 102,
+  "gate1_fail": 25,
+  "gate2_fail": 3,
+  "passed": 65,
+  "gate2_samples": [
+    "Samsung Heavy Industries 1Q Oper Pft KRW273.10B Vs. Pft KRW123.10B >010140.SE - Moomoo",
+    "Hanwha Ocean Targets 2026 Completion for Domestic Nuclear Submarine Basic Design - imarinenews.com",
+    "Evergreen Marine Corp stock (TW0002603008): shares steady as investors await next catalyst after rat"
+  ]
+}

@@ -1,0 +1,208 @@
+{
+  "date": "2026-06-02",
+  "generated_at": "2026-06-02T12:10:10.784236Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-06-02-026",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Number of Greek owners with fleets of 1 million tonnes jumps 24%",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://www.seatrade-maritime.com/tankers/number-of-greek-owners-with-fleets-of-1-million-tonnes-jumps-24-"
+    },
+    {
+      "rank": 2,
+      "event_id": "samsung_heavy-2026-06-02-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Delfin Midstream inks first FLNG unit with Samsung Heavy Industries - Tradewinds News",
+      "companies": [
+        "samsung_heavy"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQMXpVWXdSZmJnMzkxVTdGQnBBUU1iRlZxMTdTamotQVhTYUx0bjdGclNmenhseG01clRURkRJMXlvYjFFTnpoZkVvdldPdW9rSmpFSFUxdW9TWHZxRUwyVm9JUmMwbGtLLUhyZExFZlBTbEhmZjZkaW9zNHpmd2phdFV5STJmbi13U1NMYTZWOFZ2QnItLUZSX2lXeWhtaXRIMU94TTVhUDc3UFY4WGZVem8wRVQ?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "samsung_heavy-2026-06-02-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Samsung Heavy Industries Co Wins 4.3 Trln Won Order - TradingView",
+      "companies": [
+        "samsung_heavy"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPbFoxbU9rRDd2c2JYQXRsblAzRDRqYmVUZFFhd3FqSnlOMlVfQl9fU0pwM2dkb1dyQ1NucVU2d2ZrYjU0RmVnOXptZnAwczFpc21Qd3QwZDVUTkNENmF5eXNLUmNWd2VWUWs4djJjRzQwcGxNRzJTUVhOaE94YzFZUG02WE5iazYxMlNFS1Q1bHZDQ25ST2hoUTBCT1BQdHhTSTliOXdyb1NDcHg5ZGNDZnFob2QyOGYwQTZHaUF3?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "samsung_heavy-2026-06-02-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Samsung Heavy Industries Secures 4.3 Trillion Won FLNG Order - 조선일보",
+      "companies": [
+        "samsung_heavy"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOeDg5M2JiQVRNa1liYW5kbFpZVE04RmhSTWRoTXZrTnFLOG02Z2Z3djZ0emV3eXlqQmpTRElwMjZrMDUwSjl1bnpIWWRrSUhLclVGWVdad0ltU1lxbXFtU3M1T2p0YzltWlV0N19IRnV2TjNtT0Frak5kbzBtbUY2bVNwZHRuVXR3?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "samsung_heavy-2026-06-02-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Samsung Heavy Industries to Build KRW 4.33 Trillion Offshore Production Facility for North American Client - marketscreener.com",
+      "companies": [
+        "samsung_heavy"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNeFFoTi0xbGlHaVBtZXFSalI4ZmdNZ0VyVVcyTFA2UkduQmFEaVRvODBTOFFsQk82eGU5WGJWNFd2YVFKS2pFakVSMUFKMlEycmhvaEU1MV9vbEV1eU1lVHhkejdXNlptRkJVeGM1eXk4UlZfVUNBY0x0aEhoMTFQcjZTc0ItVlg3cEhLVFlkOVY3aFN4dFBqQ2ZFck53Vk5mdU5xUFNDOHF6aFlYcldiZThOU2NKNmxjWFdJaFZ5NmR5U3FzTHZPYnBWX2tMVzdxLW1VU0hDTkRUbE4tNkN3SWJ1eFE0YWM?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 24,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.03,
+      "sentiment_7d_avg": null
+    },
+    "shipbuilding_orders": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "port_congestion": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 30,
+    "sentiment_distribution": {
+      "positive": 3,
+      "neutral": 25,
+      "negative": 2
+    },
+    "top_companies": [
+      {
+        "id": "samsung_heavy",
+        "count": 6
+      },
+      {
+        "id": "cosco",
+        "count": 2
+      },
+      {
+        "id": "hanwha_ocean",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 24
+      },
+      {
+        "id": "shipbuilding_orders",
+        "count": 1
+      },
+      {
+        "id": "port_congestion",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 331,
+    "dup_title": 136,
+    "too_old": 102,
+    "gate1_blocked": 25,
+    "gate2_blocked": 3,
+    "passed": 65,
+    "pass_rate": "33.3%",
+    "gate2_block_rate": "1.5%",
+    "gate2_samples": [
+      "Samsung Heavy Industries 1Q Oper Pft KRW273.10B Vs. Pft KRW123.10B >010140.SE - Moomoo",
+      "Hanwha Ocean Targets 2026 Completion for Domestic Nuclear Submarine Basic Design - imarinenews.com",
+      "Evergreen Marine Corp stock (TW0002603008): shares steady as investors await next catalyst after rat"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 30 則事件，焦點為三星重工、中遠海控、韓華海洋相關動態：「Number of Greek owners with fleets of 1 million tonnes ju...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Number of Greek owners with fleets of 1 million tonnes jumps 24%（航運產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "Delfin Midstream inks first FLNG unit with Samsung Heavy Industries - Tradewi...",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

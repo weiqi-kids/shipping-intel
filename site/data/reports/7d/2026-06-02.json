@@ -1,0 +1,167 @@
+{
+  "date": "2026-06-02",
+  "date_range": {
+    "start": "2026-05-27",
+    "end": "2026-06-02"
+  },
+  "generated_at": "2026-06-02T12:10:10.916613Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "zim-2026-05-28-052",
+      "date": "2026-05-28",
+      "title": "Report: Israel’s Economy and Agricultural Ministers Oppose Zim Acquisition",
+      "importance_score": 0.7
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "industry_general": {
+      "this_week": 154,
+      "last_week": 114,
+      "week_over_week_change": "+35%",
+      "sentiment_this_week": 0.03
+    },
+    "shipbuilding_orders": {
+      "this_week": 9,
+      "last_week": 8,
+      "week_over_week_change": "+12%",
+      "sentiment_this_week": 0.11
+    },
+    "dry_bulk_rate": {
+      "this_week": 2,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": -0.25
+    },
+    "container_freight": {
+      "this_week": 5,
+      "last_week": 9,
+      "week_over_week_change": "-44%",
+      "sentiment_this_week": 0.0
+    },
+    "port_congestion": {
+      "this_week": 2,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    }
+  },
+  "company_7d_summary": {
+    "samsung_heavy": {
+      "event_count": 12,
+      "sentiment_avg": 0.0,
+      "rank": 3
+    },
+    "hanwha_ocean": {
+      "event_count": 18,
+      "sentiment_avg": 0.06,
+      "rank": 1
+    },
+    "cosco": {
+      "event_count": 18,
+      "sentiment_avg": -0.0,
+      "rank": 2
+    },
+    "maersk": {
+      "event_count": 2,
+      "sentiment_avg": 0.25,
+      "rank": 7
+    },
+    "star_bulk": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 9
+    },
+    "wan_hai": {
+      "event_count": 4,
+      "sentiment_avg": 0.0,
+      "rank": 4
+    },
+    "cssc": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 10
+    },
+    "hd_korea": {
+      "event_count": 4,
+      "sentiment_avg": 0.0,
+      "rank": 5
+    },
+    "hapag": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 8
+    },
+    "zim": {
+      "event_count": 3,
+      "sentiment_avg": 0.0,
+      "rank": 6
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 339,
+        "last": 310,
+        "change_pct": 9.4
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-05-27",
+      "event_count": 69,
+      "sentiment_avg": 0.05
+    },
+    {
+      "date": "2026-05-28",
+      "event_count": 67,
+      "sentiment_avg": 0.04
+    },
+    {
+      "date": "2026-05-29",
+      "event_count": 68,
+      "sentiment_avg": -0.02
+    },
+    {
+      "date": "2026-05-30",
+      "event_count": 9,
+      "sentiment_avg": 0.11
+    },
+    {
+      "date": "2026-05-31",
+      "event_count": 23,
+      "sentiment_avg": -0.01
+    },
+    {
+      "date": "2026-06-01",
+      "event_count": 73,
+      "sentiment_avg": 0.04
+    },
+    {
+      "date": "2026-06-02",
+      "event_count": 30,
+      "sentiment_avg": 0.03
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-05-27 ~ 2026-06-02）共 339 則事件，重點為「Report: Israel’s Economy and Agricultural Minis...」。馬士基表現正面，整體氣氛穩健。",
+    "watchlist": [
+      {
+        "company": "三星重工",
+        "reason": "本週出現 12 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "韓華海洋",
+        "reason": "本週出現 18 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "中遠海控",
+        "reason": "本週出現 18 則相關事件，為高關注企業，動態頻繁。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
