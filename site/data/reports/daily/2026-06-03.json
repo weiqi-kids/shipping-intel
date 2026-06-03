@@ -1,0 +1,212 @@
+{
+  "date": "2026-06-03",
+  "generated_at": "2026-06-03T12:46:42.941379Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "cosco-2026-06-03-012",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "COSCO Shipping sets new global heavy-lift record with world's first 2,000 MW offshore converter platform Skid-On Operation - India Shipping News",
+      "companies": [
+        "cosco"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxObWdkdXg2dWNrblNmamhrN3RTa1NHNmRUNjZtUUhBbl9zVXZfN2o1alBrYlFPcEN1NWVxVkhwaks3b0ZyemFmV21XY3dURFk3ZkRNckNaSHI1TGg3SHlpNGY2blJSWUlNNGd6SE5sSlNqWFNfT0tYdG1CT1BaMGczcUpTUm9DZUdZMUt2eTRZT2swVXIzTnVQcldpNzJZdHBJWnJ0YXZsWUs2dks0T3VWNnpSZzJTRnN3M3ZrZ04tVG8xX2tVT1BTQTc1UmRhTGVnOERVRC1yWGg5aFJmclBsaFZpRjZhZw?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-06-03-022",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "‘Sooner or later the party will finish’: Owners weigh risks behind today’s strong markets",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://splash247.com/sooner-or-later-the-party-will-finish-owners-weigh-risks-behind-todays-strong-markets/"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-06-03-034",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "The Bahamas Ship Registry launches digital seafarer record book system",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://www.seatrade-maritime.com/crewing/the-bahamas-ship-registry-launches-digital-seafarer-record-book-system"
+    },
+    {
+      "rank": 4,
+      "event_id": "samsung_heavy-2026-06-03-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Samsung Heavy Industries Clinches US$2.85B FLNG Newbuild Deal with North American Client Delfin Midstream - imarinenews.com",
+      "companies": [
+        "samsung_heavy"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5nZ2V2RUVrb1p4SnVzNC1kWW1WWE9CLXBEV0h1NWYwcHJXTmhlLWttWEhSLUxCS2ItSFR4YkZjbFRKcFRRRXFueUkya2Fac00?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "samsung_heavy-2026-06-03-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Lloyd’s Register, Samsung Heavy Industries and Capital Clean Energy Carriers Corp to move forward on floating data centre designs - India Shipping News",
+      "companies": [
+        "samsung_heavy"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQY09wRGkwa21xUFlYSzBBNk1DSXJ6ZmlRWWhLXzNBZVFNZFN0SDJ1alFTMkEtMmY2dno2Wkw1b0VKRmNzVWJ2c3hLQ2dvbVhnZmJKbHdwSDJfTEdtaThVbThTUHJVeEx0MC13VmdCZWhibEJpS3VYRjJRREtpRTlnZUxkdkxfM3EteGs3TU9vWjI4Njk4NkRQUEQ3LWozRjM3Nlc5MG5pN0FVcVkwY3lORHJHSjRLZENjX0NNY1EzZkdzbm9xT2RpNm1uTDhlR1JKazE2RThaMV9HS1F2dVJWWE1oTDVMZDhnVzB3cl8yTQ?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 36,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.11,
+      "sentiment_7d_avg": null
+    },
+    "shipbuilding_orders": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 38,
+    "sentiment_distribution": {
+      "positive": 5,
+      "neutral": 33,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "cosco",
+        "count": 7
+      },
+      {
+        "id": "samsung_heavy",
+        "count": 2
+      },
+      {
+        "id": "hanwha_ocean",
+        "count": 1
+      },
+      {
+        "id": "wisdom",
+        "count": 1
+      },
+      {
+        "id": "star_bulk",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 36
+      },
+      {
+        "id": "shipbuilding_orders",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 331,
+    "dup_title": 137,
+    "too_old": 97,
+    "gate1_blocked": 16,
+    "gate2_blocked": 9,
+    "passed": 72,
+    "pass_rate": "37.1%",
+    "gate2_block_rate": "4.6%",
+    "gate2_samples": [
+      "Samsung Heavy Industries Expands Collaboration for Floating Data Centers - aju press",
+      "Samsung Heavy Industries Moves to Secure a Foothold in the 'Floating Data Center' Market - 매일경제",
+      "Samsung Heavy Industries Pushes to Lead Floating Data Center Market - Seoul Economic Daily",
+      "Samsung Heavy moves to lead floating data centers with global partners - CHOSUNBIZ - Chosunbiz",
+      "Samsung Heavy Industries Moves to Secure Lead in Global Floating Data Center Market - 아시아경제"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 38 則事件，焦點為中遠海控、三星重工、韓華海洋相關動態：「COSCO Shipping sets new global heavy-lift record with wor...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "COSCO Shipping sets new global heavy-lift record with world's first 2,000 MW ...（航運產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "‘Sooner or later the party will finish’: Owners weigh risks behind today’s st...（航運產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

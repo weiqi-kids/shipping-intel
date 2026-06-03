@@ -1,0 +1,16 @@
+{
+  "total_raw": 331,
+  "dup_title": 137,
+  "no_date": 0,
+  "too_old": 97,
+  "gate1_fail": 16,
+  "gate2_fail": 9,
+  "passed": 72,
+  "gate2_samples": [
+    "Samsung Heavy Industries Expands Collaboration for Floating Data Centers - aju press",
+    "Samsung Heavy Industries Moves to Secure a Foothold in the 'Floating Data Center' Market - 매일경제",
+    "Samsung Heavy Industries Pushes to Lead Floating Data Center Market - Seoul Economic Daily",
+    "Samsung Heavy moves to lead floating data centers with global partners - CHOSUNBIZ - Chosunbiz",
+    "Samsung Heavy Industries Moves to Secure Lead in Global Floating Data Center Market - 아시아경제"
+  ]
+}

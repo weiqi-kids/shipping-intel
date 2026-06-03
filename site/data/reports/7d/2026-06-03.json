@@ -1,0 +1,179 @@
+{
+  "date": "2026-06-03",
+  "date_range": {
+    "start": "2026-05-28",
+    "end": "2026-06-03"
+  },
+  "generated_at": "2026-06-03T12:46:43.052980Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "zim-2026-05-28-052",
+      "date": "2026-05-28",
+      "title": "Report: Israel’s Economy and Agricultural Ministers Oppose Zim Acquisition",
+      "importance_score": 0.7
+    },
+    {
+      "type": "emerging_relation",
+      "company_a": "hapag",
+      "company_b": "zim",
+      "co_mention_count": 3,
+      "rank": 2
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "industry_general": {
+      "this_week": 160,
+      "last_week": 119,
+      "week_over_week_change": "+34%",
+      "sentiment_this_week": 0.05
+    },
+    "shipbuilding_orders": {
+      "this_week": 9,
+      "last_week": 7,
+      "week_over_week_change": "+29%",
+      "sentiment_this_week": 0.11
+    },
+    "dry_bulk_rate": {
+      "this_week": 2,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": -0.25
+    },
+    "container_freight": {
+      "this_week": 5,
+      "last_week": 8,
+      "week_over_week_change": "-38%",
+      "sentiment_this_week": 0.0
+    },
+    "port_congestion": {
+      "this_week": 2,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    }
+  },
+  "company_7d_summary": {
+    "samsung_heavy": {
+      "event_count": 10,
+      "sentiment_avg": 0.0,
+      "rank": 3
+    },
+    "hanwha_ocean": {
+      "event_count": 18,
+      "sentiment_avg": 0.06,
+      "rank": 1
+    },
+    "cosco": {
+      "event_count": 18,
+      "sentiment_avg": 0.03,
+      "rank": 2
+    },
+    "star_bulk": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 7
+    },
+    "wan_hai": {
+      "event_count": 4,
+      "sentiment_avg": 0.0,
+      "rank": 4
+    },
+    "cssc": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 8
+    },
+    "maersk": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 10
+    },
+    "hd_korea": {
+      "event_count": 4,
+      "sentiment_avg": 0.0,
+      "rank": 5
+    },
+    "hapag": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 9
+    },
+    "zim": {
+      "event_count": 3,
+      "sentiment_avg": 0.0,
+      "rank": 6
+    },
+    "wisdom": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 11
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 341,
+        "last": 309,
+        "change_pct": 10.4
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-05-28",
+      "event_count": 67,
+      "sentiment_avg": 0.04
+    },
+    {
+      "date": "2026-05-29",
+      "event_count": 68,
+      "sentiment_avg": -0.02
+    },
+    {
+      "date": "2026-05-30",
+      "event_count": 10,
+      "sentiment_avg": 0.1
+    },
+    {
+      "date": "2026-05-31",
+      "event_count": 24,
+      "sentiment_avg": -0.01
+    },
+    {
+      "date": "2026-06-01",
+      "event_count": 77,
+      "sentiment_avg": 0.04
+    },
+    {
+      "date": "2026-06-02",
+      "event_count": 57,
+      "sentiment_avg": 0.07
+    },
+    {
+      "date": "2026-06-03",
+      "event_count": 38,
+      "sentiment_avg": 0.11
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-05-28 ~ 2026-06-03）共 341 則事件，重點為「Report: Israel’s Economy and Agricultural Minis...」。航運產業通用、造船訂單、貨櫃運價為本週焦點話題。",
+    "watchlist": [
+      {
+        "company": "三星重工",
+        "reason": "本週出現 10 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "韓華海洋",
+        "reason": "本週出現 18 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "中遠海控",
+        "reason": "本週出現 18 則相關事件，為高關注企業，動態頻繁。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
