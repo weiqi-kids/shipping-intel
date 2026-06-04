@@ -1,0 +1,212 @@
+{
+  "date": "2026-06-04",
+  "generated_at": "2026-06-04T11:20:05.250662Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-06-04-035",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Iran oil exports plunge over 90% as US blockade bites",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://www.seatrade-maritime.com/tankers/iran-oil-exports-plunge-over-90-as-us-blockade-bites"
+    },
+    {
+      "rank": 2,
+      "event_id": "samsung_heavy-2026-06-04-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Delfin Midstream awards $2.9-billion FLNG construction contract to Samsung Heavy Industries - Offshore Magazine",
+      "companies": [
+        "samsung_heavy"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQdmp2NUk5ckpfRldLbHFHeHVMOFBFSGlrcmlIZ0UtNlI4UGJwT2FQUEVBaEpDTWdzMUxFMy1yWm12bFZpTXBYMWJLRWY4Z0I5dTBzd1N1RWItWlJvZXNqTkZRb0w4WUR2bmRaSWg5dzdpVWV0cXhrN0JzLXh3SVZySi1ROGhfQnliel84ZmtJRTBjYzlwNk51NTFkYXJrQ2hQcklHdDRRdWpUMWh0WndWN1g1TGdZZzlBekV5c2JVdG5ucEJIN181OHp0TWU3YjNTUVQxZEtYeXF5bkVwMWtVbndCTHJnbzZYSlVrd2kyQmJqWUFUTl9vYkVwdw?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "samsung_heavy-2026-06-04-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Samsung Heavy Industries Targets Floating Data Center Market With Global Partnerships - Koreabizwire",
+      "companies": [
+        "samsung_heavy"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNcmFEaHhDbmdfVFZhWXl0bWpJTnFxVkpfSlZldGU5SkNDY2xXblkxeS1NcEJuMXRIa043VjNzVzZXeEI3X1BKaVhkaFF3S2xuN0RhQndJUy1abVRzc1BEdkswRlh0YWJSX01ybnppRG5xSzByY2Y5UGNzUXdUeFQyZEdwcVJqc2s1Tm1VRDFtd1hkS3g2dTg3SnpvLVhfYTVLUkpweUVKbVAydmhrelk5Z1Y4bEh0aUE?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "samsung_heavy-2026-06-04-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Samsung Heavy Industries jumps on $4.3tn US FLNG order in Korea trading - CHOSUNBIZ - Chosunbiz",
+      "companies": [
+        "samsung_heavy"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQeVBMcFFNMnBTR2gxZDZmX3Q3aGp5TnFzQnBGazQ3UFpTbGN1QlVtQU02SDFpOXhyN1NIWTJLVlpuRUZHcEJjbGdWN0NRak5XaXJGRVRWNllPdUNzbEozQ21UQlZteVhYVDVrQWd3NER5eTE3ZUdCN2tMWWVGOFAwMNIBlAFBVV95cUxNbjlPa2JZYlRLck1wMnBzVHp3Qm41emZxalhvLVJJY0NyMlNlQXpvbC1Tb1pPU2pzMUNybzBjRjNSMlRKM21PVDNhdFFUaC0tUDM4cVlBbFRReUxFTjBXVFBpRlNaTWpGakt3NDFOTlNnRUlFSDcwY1pUNFpBYk1lMDVuN1g5b1pyUG9Jdmw5Q3RBalEx?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-06-04-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Samsung Heavy Wins $2.9 Billion Order for First U.S. FLNG Vessel - Seoul Economic Daily",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQdWM5bUtTQUwwLVV1eVREUHV0QnZDOEN6YmZuLUxaUnFJeTFEU0Jkbngxd09PTE5QVkJOYTY4TWFwcmJKc0FiS2duTGVZdVVKV0tkLVhGU3BVMjRPQUtLdmhsZml5TEtIdnRhcWN2OERjdTFUZTR2TnVQVm5pY2RzTmVvOTNVemxWSWhOV1M5Rng4d2Q4VUlfbnM5OGJmMjd0U29WQw?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 30,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.04,
+      "sentiment_7d_avg": null
+    },
+    "shipbuilding_orders": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.33,
+      "sentiment_7d_avg": null
+    },
+    "container_freight": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.17,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 35,
+    "sentiment_distribution": {
+      "positive": 6,
+      "neutral": 26,
+      "negative": 3
+    },
+    "top_companies": [
+      {
+        "id": "hanwha_ocean",
+        "count": 7
+      },
+      {
+        "id": "samsung_heavy",
+        "count": 4
+      },
+      {
+        "id": "cosco",
+        "count": 2
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 30
+      },
+      {
+        "id": "shipbuilding_orders",
+        "count": 3
+      },
+      {
+        "id": "container_freight",
+        "count": 2
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 352,
+    "dup_title": 127,
+    "too_old": 108,
+    "gate1_blocked": 21,
+    "gate2_blocked": 5,
+    "passed": 91,
+    "pass_rate": "40.4%",
+    "gate2_block_rate": "2.2%",
+    "gate2_samples": [
+      "\"Where are you going in space in a thousand years? Start with the sea.\" Samsung Heavy Industries rea",
+      "Samsung Heavy Industries to Build First FLNG in the US - 아시아경제",
+      "Hanwha Ocean Targets 2026 Completion for Domestic Nuclear Submarine Basic Design - imarinenews.com",
+      "The Alphabet Behind the Wheel: What ADAS Features Actually Do, and Which Ones Your Insurer Will Actu",
+      "LatAm-North America: Washington’s badly timed own goals"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 35 則事件，焦點為韓華海洋、三星重工、中遠海控相關動態：「Iran oil exports plunge over 90% as US blockade bites」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Iran oil exports plunge over 90% as US blockade bites（航運產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "Delfin Midstream awards $2.9-billion FLNG construction contract to Samsung He...",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

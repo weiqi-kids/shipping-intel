@@ -1,0 +1,16 @@
+{
+  "total_raw": 352,
+  "dup_title": 127,
+  "no_date": 0,
+  "too_old": 108,
+  "gate1_fail": 21,
+  "gate2_fail": 5,
+  "passed": 91,
+  "gate2_samples": [
+    "\"Where are you going in space in a thousand years? Start with the sea.\" Samsung Heavy Industries rea",
+    "Samsung Heavy Industries to Build First FLNG in the US - 아시아경제",
+    "Hanwha Ocean Targets 2026 Completion for Domestic Nuclear Submarine Basic Design - imarinenews.com",
+    "The Alphabet Behind the Wheel: What ADAS Features Actually Do, and Which Ones Your Insurer Will Actu",
+    "LatAm-North America: Washington’s badly timed own goals"
+  ]
+}
