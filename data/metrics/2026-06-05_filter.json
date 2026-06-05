@@ -1,0 +1,16 @@
+{
+  "total_raw": 352,
+  "dup_title": 135,
+  "no_date": 0,
+  "too_old": 112,
+  "gate1_fail": 19,
+  "gate2_fail": 5,
+  "passed": 81,
+  "gate2_samples": [
+    "Samsung Heavy Industries Expands Collaboration for Floating Data Centers - aju press",
+    "Hanwha Ocean Targets 2026 Completion for Domestic Nuclear Submarine Basic Design - imarinenews.com",
+    "NC AI develops welding AI for Hanwha Ocean - The Korea Herald",
+    "News Maersk fined $1.9m for unfair D&D fees, with more carriers in the firing line - The Loadstar",
+    "Black Marker, Magnetic Signs, and Peeling Decals: Here Is What 49 CFR 390.21 Actually Requires."
+  ]
+}

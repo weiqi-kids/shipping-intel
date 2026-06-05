@@ -1,0 +1,232 @@
+{
+  "date": "2026-06-05",
+  "generated_at": "2026-06-05T11:33:16.190084Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-06-05-018",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Splash Wrap: The magnetism of Posidonia",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://splash247.com/splash-wrap-the-magnetism-of-posidonia/"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-06-05-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "HD Hyundai Expands SMR-Powerd Ships to Car Carriers - Businesskorea",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5oYTBBb1JkS2hjZzdpX2twTU1BOFoxWFJsNW8yMWQ2V3NvVFFpZURIZ2tMR1BwV1R1aHp4WkNZVzRsM0tUMmlYMDlsT0ZpaU5QcGVwbVZTUHhBdlNoZUJQZWJKVFl4MDgteWlubGluUE1ZcjE1?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-06-05-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "HD Hyundai expands development scope for SMR-powered ship project …Takes aim at the global eco-friendly vessel market - 더글로벌기빙뉴스",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1MNDVWOHhqWl8xTmpoUWhURVNGWFJfQVluek5sNzh0c0dvaDBrNGl3MmFCZjh0U0hqZEg0MEhLRjhnenhGbkRNR3gzYzhlQnlNREtrRw?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "samsung_heavy-2026-06-05-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Samsung Heavy Industries successfully launches offshore plant 'Cedar FLNG' - 매일경제",
+      "companies": [
+        "samsung_heavy"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5sdERyNXQxWmxEUW8wU1RiSnZRSElHUVR1UmhmNXJVSTJSMEtRNTQ5TzZGaVo3d1J6bkMyajlKM1BHQkstRXBkUkJ1blQ3QW9abng4?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "samsung_heavy-2026-06-05-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Samsung Heavy Industries Launches Cedar FLNG... First Ever Simultaneous Construction of Three Units Worldwide - 아시아경제",
+      "companies": [
+        "samsung_heavy"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBFamtJMENzcHYzTkd1c25USGRyRWVmRUkxZWJCaUN4YTVQeTduY0NpWUJYYl94N0pzZ1Q1Qmt4aG85NFhpczk1ZWlUSDBfd1F2NnhIbWxKY0RWVzdsTVlOQ1dyQ3A?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 37,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.11,
+      "sentiment_7d_avg": null
+    },
+    "container_freight": {
+      "today": 7,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "shipbuilding_orders": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.17,
+      "sentiment_7d_avg": null
+    },
+    "port_congestion": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 40,
+    "sentiment_distribution": {
+      "positive": 7,
+      "neutral": 33,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "samsung_heavy",
+        "count": 2
+      },
+      {
+        "id": "hanwha_ocean",
+        "count": 2
+      },
+      {
+        "id": "cosco",
+        "count": 2
+      },
+      {
+        "id": "wan_hai",
+        "count": 1
+      },
+      {
+        "id": "hd_korea",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 37
+      },
+      {
+        "id": "container_freight",
+        "count": 7
+      },
+      {
+        "id": "shipbuilding_orders",
+        "count": 3
+      },
+      {
+        "id": "port_congestion",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 352,
+    "dup_title": 135,
+    "too_old": 112,
+    "gate1_blocked": 19,
+    "gate2_blocked": 5,
+    "passed": 81,
+    "pass_rate": "37.3%",
+    "gate2_block_rate": "2.3%",
+    "gate2_samples": [
+      "Samsung Heavy Industries Expands Collaboration for Floating Data Centers - aju press",
+      "Hanwha Ocean Targets 2026 Completion for Domestic Nuclear Submarine Basic Design - imarinenews.com",
+      "NC AI develops welding AI for Hanwha Ocean - The Korea Herald",
+      "News Maersk fined $1.9m for unfair D&D fees, with more carriers in the firing line - The Loadstar",
+      "Black Marker, Magnetic Signs, and Peeling Decals: Here Is What 49 CFR 390.21 Actually Requires."
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 40 則事件，焦點為三星重工、韓華海洋、中遠海控相關動態：「Splash Wrap: The magnetism of Posidonia」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Splash Wrap: The magnetism of Posidonia（航運產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "HD Hyundai Expands SMR-Powerd Ships to Car Carriers - Businesskorea（航運產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
