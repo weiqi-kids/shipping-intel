@@ -1,0 +1,16 @@
+{
+  "total_raw": 352,
+  "dup_title": 175,
+  "no_date": 1,
+  "too_old": 106,
+  "gate1_fail": 19,
+  "gate2_fail": 5,
+  "passed": 46,
+  "gate2_samples": [
+    "NC AI develops welding AI for Hanwha Ocean - The Korea Herald",
+    "Hanwha Ocean links Canadian submarine proposal to wider South Korea-Canada cooperation in energy and",
+    "Hanwha Ocean Targets 2026 Completion for Domestic Nuclear Submarine Basic Design - imarinenews.com",
+    "News Maersk fined $1.9m for unfair D&D fees, with more carriers in the firing line - The Loadstar",
+    "Black Marker, Magnetic Signs, and Peeling Decals: Here Is What 49 CFR 390.21 Actually Requires."
+  ]
+}

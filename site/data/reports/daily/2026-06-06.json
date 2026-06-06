@@ -1,0 +1,102 @@
+{
+  "date": "2026-06-06",
+  "generated_at": "2026-06-06T10:10:33.346475Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-06-06-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Container Freight Rates Surge as Peak Season Demand Collides With Middle East Disruptions - Global Trade Magazine",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "container_freight",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNRW8tazJmY2NTWnlET3kyWDMyWF91SkFzVzltdmhXMW5sR2lJRWliQ0s4ZlAxdm93RUN5Y21pVURyQkt0aEh2ZWlJZ2pGcHBLclFVNlNRNllqeXFNRzlPY1lEckVLNkhjbUVGTWlSb2RTdE9VTzZDdzU5c0VVT2Y2TXBoME15LS1xTFBoLV85NjRjRGhkczF3eXdTMXJPbkxpODFldXYycHkwbWVyeURyQWdqVk92YW5Pc1dBcEhB?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "container_freight": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 1,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 1,
+      "negative": 0
+    },
+    "top_companies": [],
+    "top_topics": [
+      {
+        "id": "container_freight",
+        "count": 1
+      },
+      {
+        "id": "industry_general",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 352,
+    "dup_title": 175,
+    "too_old": 106,
+    "gate1_blocked": 19,
+    "gate2_blocked": 5,
+    "passed": 46,
+    "pass_rate": "26.0%",
+    "gate2_block_rate": "2.8%",
+    "gate2_samples": [
+      "NC AI develops welding AI for Hanwha Ocean - The Korea Herald",
+      "Hanwha Ocean links Canadian submarine proposal to wider South Korea-Canada cooperation in energy and",
+      "Hanwha Ocean Targets 2026 Completion for Domestic Nuclear Submarine Basic Design - imarinenews.com",
+      "News Maersk fined $1.9m for unfair D&D fees, with more carriers in the firing line - The Loadstar",
+      "Black Marker, Magnetic Signs, and Peeling Decals: Here Is What 49 CFR 390.21 Actually Requires."
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 1 則事件，焦點為貨櫃運價、航運產業通用相關動態：「Container Freight Rates Surge as Peak Season Demand Colli...」。主要關注主題為貨櫃運價、航運產業通用，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Container Freight Rates Surge as Peak Season Demand Collides With Middle East...（貨櫃運價、航運產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "建議持續監控後續發展動態。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
