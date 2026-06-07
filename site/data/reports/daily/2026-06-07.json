@@ -1,0 +1,122 @@
+{
+  "date": "2026-06-07",
+  "generated_at": "2026-06-07T10:33:27.028960Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-06-07-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Truckload’s shrinking miles",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.freightwaves.com/news/truckloads-shrinking-miles"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-06-07-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Panama Canal reduces maximum draught as El Niño concerns mount",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "dry_bulk_rate",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -0.5
+      },
+      "source_url": "https://www.seatrade-maritime.com/tankers/panama-canal-reduces-maximum-draught-as-el-ni-o-concerns-mount"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.25,
+      "sentiment_7d_avg": null
+    },
+    "dry_bulk_rate": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.5,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 2,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 1,
+      "negative": 1
+    },
+    "top_companies": [],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 2
+      },
+      {
+        "id": "dry_bulk_rate",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 342,
+    "dup_title": 192,
+    "too_old": 114,
+    "gate1_blocked": 13,
+    "gate2_blocked": 5,
+    "passed": 17,
+    "pass_rate": "11.3%",
+    "gate2_block_rate": "3.3%",
+    "gate2_samples": [
+      "NC AI develops welding AI for Hanwha Ocean - The Korea Herald",
+      "Hanwha Ocean links Canadian submarine proposal to wider South Korea-Canada cooperation in energy and",
+      "Hanwha Ocean Targets 2026 Completion for Domestic Nuclear Submarine Basic Design - imarinenews.com",
+      "News Maersk fined $1.9m for unfair D&D fees, with more carriers in the firing line - The Loadstar",
+      "Black Marker, Magnetic Signs, and Peeling Decals: Here Is What 49 CFR 390.21 Actually Requires."
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 2 則事件，焦點為航運產業通用、散裝運價相關動態：「Truckload’s shrinking miles」。整體情緒偏負面，需留意潛在風險。",
+    "signals": [
+      {
+        "text": "Truckload’s shrinking miles（航運產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "Panama Canal reduces maximum draught as El Niño concerns mount（散裝運價、航運產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
