@@ -1,0 +1,243 @@
+{
+  "date": "2026-06-08",
+  "generated_at": "2026-06-08T12:39:04.329968Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "hapag-2026-06-08-039",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "Gemini carriers set for market share grab on Asia-Mediterranean",
+      "companies": [
+        "hapag",
+        "maersk"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://theloadstar.com/gemini-carriers-set-for-market-share-grab-on-asia-mediterranean/"
+    },
+    {
+      "rank": 2,
+      "event_id": "cosco-2026-06-08-020",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Hong Kong Stock Market Movement | COSCO Shipping Energy (01138) Drops Over 6% Again Amid Oversupply of Vessels in the Middle East; Spot Freight Rates Have Continued to Decline Since May - 富途牛牛",
+      "companies": [
+        "cosco"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "container_freight",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQa3dIQTdxTTA4ZFRwYXVSallGRmRkdFNyYUt3RW5EMTI2ZGhnQW9la25JamU1Yl81cDEtU082bDJQMFFzY1pjUmswZjQ0SXdjUVNBMmR2Q1liRXFhbWJPbjMwQlo1dXRSVGVqZXczSWdHNFdoc2ZqTVFINnFCMGNHOTB3MnAwd291WWZDb1RpeUdhOHFpbldaRXZsaVhKYlRycHZtVzNNNUlSZw?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-06-08-025",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Eight indicted in alleged carrier impersonation scheme; prosecutors allege $4.49 million in cargo losses",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://www.freightwaves.com/news/eight-indicted-in-alleged-carrier-impersonation-scheme-prosecutors-allege-4-49-million-in-cargo-losses"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-06-08-040",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Near-record transpac spot rate surge a ‘harbinger of instability’, says Sea-Intelligence",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "container_freight",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.75
+      },
+      "source_url": "https://theloadstar.com/near-record-transpac-spot-rate-surge-a-harbinger-of-instability-says-sea-intelligence/"
+    },
+    {
+      "rank": 5,
+      "event_id": "hd_korea-2026-06-08-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "HD Korea Shipbuilding Wins 2 VLGC Orders Worth 360.7 Billion Won - Seoul Economic Daily",
+      "companies": [
+        "hd_korea"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxObVJRblA4S0FrcTVSV1N5TjRmT0VJOTktZXp6cFZaTWt0MEVGQ0dIR2ZOS1ViU2lUTll2bm0tTDlhdF9IVkg1Yy0wcGxQUnJVMDBQLWxGSW1lazhfcmstOXpSSzkwbVdaNDd4M0E1NUc1SDRxclFJVDBKdFBIaHdXX2czQ25yT1RLT2gyU0w5VDNiQk9TZ0N2emtIMzNBTldSNWFj?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 44,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.04,
+      "sentiment_7d_avg": null
+    },
+    "container_freight": {
+      "today": 5,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.05,
+      "sentiment_7d_avg": null
+    },
+    "shipbuilding_orders": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.17,
+      "sentiment_7d_avg": null
+    },
+    "dry_bulk_rate": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.5,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 50,
+    "sentiment_distribution": {
+      "positive": 4,
+      "neutral": 40,
+      "negative": 6
+    },
+    "top_companies": [
+      {
+        "id": "samsung_heavy",
+        "count": 8
+      },
+      {
+        "id": "hanwha_ocean",
+        "count": 3
+      },
+      {
+        "id": "cosco",
+        "count": 3
+      },
+      {
+        "id": "hd_korea",
+        "count": 1
+      },
+      {
+        "id": "hapag",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 44
+      },
+      {
+        "id": "container_freight",
+        "count": 5
+      },
+      {
+        "id": "shipbuilding_orders",
+        "count": 3
+      },
+      {
+        "id": "dry_bulk_rate",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 352,
+    "dup_title": 146,
+    "too_old": 120,
+    "gate1_blocked": 18,
+    "gate2_blocked": 3,
+    "passed": 64,
+    "pass_rate": "31.1%",
+    "gate2_block_rate": "1.5%",
+    "gate2_samples": [
+      "Hanwha Ocean to trial humanoid robots - Splash247",
+      "Hanwha Ocean links Canadian submarine proposal to wider South Korea-Canada cooperation in energy and",
+      "Black Marker, Magnetic Signs, and Peeling Decals: Here Is What 49 CFR 390.21 Actually Requires."
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 50 則事件，焦點為三星重工、韓華海洋、中遠海控相關動態：「Gemini carriers set for market share grab on Asia-Mediter...」。整體情緒偏負面，需留意潛在風險。",
+    "signals": [
+      {
+        "text": "Gemini carriers set for market share grab on Asia-Mediterranean",
+        "level": "yellow"
+      },
+      {
+        "text": "Hong Kong Stock Market Movement | COSCO Shipping Energy (01138) Drops Over 6%...（貨櫃運價、航運產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

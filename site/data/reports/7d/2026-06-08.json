@@ -1,0 +1,167 @@
+{
+  "date": "2026-06-08",
+  "date_range": {
+    "start": "2026-06-02",
+    "end": "2026-06-08"
+  },
+  "generated_at": "2026-06-08T12:39:04.473193Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "maersk-2026-06-04-071",
+      "date": "2026-06-04",
+      "title": "Maersk fined $1.9m for unfair D&D fees, with more carriers in the firing line",
+      "importance_score": 0.7
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "industry_general": {
+      "this_week": 174,
+      "last_week": 130,
+      "week_over_week_change": "+34%",
+      "sentiment_this_week": 0.04
+    },
+    "shipbuilding_orders": {
+      "this_week": 11,
+      "last_week": 8,
+      "week_over_week_change": "+38%",
+      "sentiment_this_week": 0.18
+    },
+    "port_congestion": {
+      "this_week": 2,
+      "last_week": 1,
+      "week_over_week_change": "+100%",
+      "sentiment_this_week": 0.0
+    },
+    "container_freight": {
+      "this_week": 15,
+      "last_week": 5,
+      "week_over_week_change": "+200%",
+      "sentiment_this_week": -0.04
+    },
+    "dry_bulk_rate": {
+      "this_week": 2,
+      "last_week": 2,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": -0.5
+    }
+  },
+  "company_7d_summary": {
+    "samsung_heavy": {
+      "event_count": 22,
+      "sentiment_avg": 0.0,
+      "rank": 1
+    },
+    "hanwha_ocean": {
+      "event_count": 14,
+      "sentiment_avg": 0.04,
+      "rank": 3
+    },
+    "cosco": {
+      "event_count": 16,
+      "sentiment_avg": 0.12,
+      "rank": 2
+    },
+    "wisdom": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 6
+    },
+    "star_bulk": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 7
+    },
+    "cssc": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 8
+    },
+    "wan_hai": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 9
+    },
+    "hd_korea": {
+      "event_count": 2,
+      "sentiment_avg": 0.25,
+      "rank": 4
+    },
+    "hapag": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 5
+    },
+    "maersk": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 10
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 390,
+        "last": 364,
+        "change_pct": 7.1
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-06-02",
+      "event_count": 64,
+      "sentiment_avg": 0.06
+    },
+    {
+      "date": "2026-06-03",
+      "event_count": 91,
+      "sentiment_avg": 0.07
+    },
+    {
+      "date": "2026-06-04",
+      "event_count": 73,
+      "sentiment_avg": 0.04
+    },
+    {
+      "date": "2026-06-05",
+      "event_count": 84,
+      "sentiment_avg": 0.02
+    },
+    {
+      "date": "2026-06-06",
+      "event_count": 14,
+      "sentiment_avg": 0.04
+    },
+    {
+      "date": "2026-06-07",
+      "event_count": 14,
+      "sentiment_avg": 0.0
+    },
+    {
+      "date": "2026-06-08",
+      "event_count": 50,
+      "sentiment_avg": -0.04
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-06-02 ~ 2026-06-08）共 390 則事件，重點為「Maersk fined $1.9m for unfair D&D fees, with mo...」。韓國造船海洋表現正面，整體氣氛穩健。",
+    "watchlist": [
+      {
+        "company": "三星重工",
+        "reason": "本週出現 22 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "韓華海洋",
+        "reason": "本週出現 14 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "中遠海控",
+        "reason": "本週出現 16 則相關事件，為高關注企業，動態頻繁。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

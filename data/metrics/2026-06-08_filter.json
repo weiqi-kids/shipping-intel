@@ -1,0 +1,14 @@
+{
+  "total_raw": 352,
+  "dup_title": 146,
+  "no_date": 1,
+  "too_old": 120,
+  "gate1_fail": 18,
+  "gate2_fail": 3,
+  "passed": 64,
+  "gate2_samples": [
+    "Hanwha Ocean to trial humanoid robots - Splash247",
+    "Hanwha Ocean links Canadian submarine proposal to wider South Korea-Canada cooperation in energy and",
+    "Black Marker, Magnetic Signs, and Peeling Decals: Here Is What 49 CFR 390.21 Actually Requires."
+  ]
+}
