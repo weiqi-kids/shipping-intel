@@ -1,0 +1,226 @@
+{
+  "date": "2026-06-09",
+  "generated_at": "2026-06-09T11:23:13.072698Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-06-09-011",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "VLCC orderbook hits record high",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "container_freight",
+        "shipbuilding_orders",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://splash247.com/vlcc-orderbook-hits-record-high/"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-06-09-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "TN Industries Minister Keerthana Sampath visits HD Hyundai’s shipyard in South Korea - ET Infra",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPVmhubGc5M0sxSS1Razdqem9qbHhMaWMyQ1lVQ3N6REcwUk41N3JmRVN5V2QybG5jMmF0eVNELXNWaW5KNFZLMDV4d3lqcXRiNzN5bzZlVjRuSGRWb3AyTDR6OGVxRG9PWkpib1RULVJDWDBFWFBpOXAyaURlNjJNVVp5QnlwaHVpbGZQVUJOaHRqY2xGNzBGR3FaNmhqZFFObXEtQlRIb01aSGZTUlZLMW9GTnVKMUJVWDRRX3NjSk9PN1k2cmNkUjl6Qk02Z1RLZVRmM2ZiNlo2ajktVUZZRUdPdEUzVFM5T05vc25YTVNBUjFENFpzUS1LQWpLeEQx0gGAAkFVX3lxTE9WaG5sZzkzSzFJLVFrN2p6b2pseExpYzJDWVVDc3pERzBSTjU3cmZFU3lXZDJsbmMyYXR5U0Qtc1Zpbko0VkswNXh3eWpxdGI3M3lvNmVWNG5IZFZvcDJMNHo4ZXFEb09aSmJvVFQtUkNYMEVYUGk5cDJpRGU2Mk1VWnlCeXBodWlsZlBVQk5odGpjbEY3MEZHcVo2aGpkUU5tcS1CVEhvTVpIZlNSVksxb0ZOdUoxQlVYNFFfc2NKT083WTZyY2RSOXpCTTZnVEtlVGYzZmI2WjZqOS1VRllFR090RTNUUzlPTm9zblhNU0FSMUQ0WnNRLUtBakt4RDE?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-06-09-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Tamil Nadu Minister visits HD Hyundai's Ulsan facility, reviews progress on Thoothukudi greenfield venture - The New Indian Express",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQbWJhSzczRGhwM2VBeGZpMFVxZ05Xb3MzOUpnZDlSVTNKNmhOc1lvS2wteUM5Q292dkZiU1RGMTJMNEF6Rl9kQXZ5dHlwdDRRMnNsbHlGbl9zNXZTVTZDaHRwd2thTWMtbnk2SlZwNGJKZmpMT3ZKZkc4NVg2eXpfRHlRMnViSFRlXzRvQVN3elY4NWlBNFNxM1NqWWQwRkpPY3Axa2hsdVUxQ1BRdzlIQWFSNDIyUnllUmtfbFNvZVJoTGtqZDFXMmZQMHlTbElnbG9yaWFQcktJMzRFYzZvMGtOV09rT3pMS2xhdFF5TXBlVWFCV3J6aUlyNNIBiAJBVV95cUxPS1ZqOE9ZSExEdk9UcHB2aG1KcFh5NFVfeHBGcnpmV2tJdGZNVTdlWTlNQnFTZ3pJamVUd0dkMFE3YWl6bWdBd2NaeDVmWlhIOEEzcVl0bHFXVUpSczZpT2FwS2d1R3VTaDl4b2ZhcEpRUVNENG5waFN4aWNDdV9tcUlZbnVFWFRSYl9aMFNISTJNb0xNUFdHZkRNejlJNVlBNW54RGlYbVN2SUlnNFRQU1I3TGRKTlU0MGNVWjlYUmFRa2I1Xzk5Ym82NkgtbkRZbGQ5Z0xZajdMUnlDV3REOUpvVzh2S3hHUTBDUTZLeDhGbjh0U1dZRG5yOGxzODJrMHg0T25PeVA?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "samsung_heavy-2026-06-09-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Samsung Heavy Industries Secures Two Major FLNG Orders Within One Week - imarinenews.com",
+      "companies": [
+        "samsung_heavy"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFB1MFVEdG5Zb21iVFFhZUdIOTR1UjNRQ0dieVNCaWpLaEFrT05YWlZrbjN5N2VCQkZSM3RTTGtZRHltQ0VyOHBJbVpqajYtUEU?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "hanwha_ocean-2026-06-09-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Russia’s Novatek moves to buy 10 ice-class LNG ships from MOL and Hanwha Ocean - TradeWinds News",
+      "companies": [
+        "hanwha_ocean"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQbUVDd2oyX3hTams5dUZ6aW5QbmNjWlFLZnhKMHhZMVNVek1KejhmNFBibzlkSlpEaVQzMTljWlpRUWxaeUhyeThCd0pjaVV4U0VxOHpNZllnUGpBVWlVdHNFblhqSWlwek1URklJcmJBQW02ZzJtSENNRi1nYlJLdkV5Wm5keXBRM1U2TG4wV0JMQ2w1dktOc09lbmlfRUN3M1dhdndBanY0NzRsZ05JN0pnV0xmT2VjbS1KQ002bW55MU0?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 29,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.07,
+      "sentiment_7d_avg": null
+    },
+    "shipbuilding_orders": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.33,
+      "sentiment_7d_avg": null
+    },
+    "container_freight": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.5,
+      "sentiment_7d_avg": null
+    },
+    "dry_bulk_rate": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 31,
+    "sentiment_distribution": {
+      "positive": 4,
+      "neutral": 26,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "evergreen",
+        "count": 2
+      },
+      {
+        "id": "samsung_heavy",
+        "count": 1
+      },
+      {
+        "id": "hanwha_ocean",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 29
+      },
+      {
+        "id": "shipbuilding_orders",
+        "count": 3
+      },
+      {
+        "id": "container_freight",
+        "count": 2
+      },
+      {
+        "id": "dry_bulk_rate",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 352,
+    "dup_title": 144,
+    "too_old": 112,
+    "gate1_blocked": 18,
+    "gate2_blocked": 3,
+    "passed": 74,
+    "pass_rate": "35.6%",
+    "gate2_block_rate": "1.4%",
+    "gate2_samples": [
+      "Hanwha Ocean and Azure Explore Canadian Sustainable Aviation Fuel - Canadian Defence Review",
+      "Hanwha Ocean to trial humanoid robots - Splash247",
+      "NC AI develops welding AI for Hanwha Ocean - The Korea Herald"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 31 則事件，焦點為長榮海運、三星重工、韓華海洋相關動態：「VLCC orderbook hits record high」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "VLCC orderbook hits record high（貨櫃運價、造船訂單、航運產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "TN Industries Minister Keerthana Sampath visits HD Hyundai’s shipyard in Sout...（航運產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

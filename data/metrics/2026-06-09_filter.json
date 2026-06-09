@@ -1,0 +1,14 @@
+{
+  "total_raw": 352,
+  "dup_title": 144,
+  "no_date": 1,
+  "too_old": 112,
+  "gate1_fail": 18,
+  "gate2_fail": 3,
+  "passed": 74,
+  "gate2_samples": [
+    "Hanwha Ocean and Azure Explore Canadian Sustainable Aviation Fuel - Canadian Defence Review",
+    "Hanwha Ocean to trial humanoid robots - Splash247",
+    "NC AI develops welding AI for Hanwha Ocean - The Korea Herald"
+  ]
+}
