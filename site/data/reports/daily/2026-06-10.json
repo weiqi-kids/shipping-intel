@@ -1,0 +1,224 @@
+{
+  "date": "2026-06-10",
+  "generated_at": "2026-06-10T11:43:12.149759Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "maersk-2026-06-10-021",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "MSC smashes liner market share record",
+      "companies": [
+        "maersk"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://splash247.com/msc-smashes-liner-market-share-record/"
+    },
+    {
+      "rank": 2,
+      "event_id": "maersk-2026-06-10-036",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "MSC controls over one-fifth of the container shipping market",
+      "companies": [
+        "maersk"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://www.seatrade-maritime.com/containers/msc-controls-over-one-fifth-of-the-container-shipping-market"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-06-10-038",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Liberia first registry with over 300 million gt fleet",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://www.seatrade-maritime.com/regulations/liberia-first-registry-with-over-300-million-gt-fleet"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-06-10-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Crew Connect Global 2026 to address the future of maritime crewing with industry leaders and groundbreaking insights",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.seatrade-maritime.com/event-news/crew-connect-global-2026-to-address-the-future-of-maritime-crewing-with-industry-leaders-and-groundbreaking-insights"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-06-10-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "HD Hyundai deepens Canada push with UBC partnership - The Korea Herald",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5QTHg1TnF3MEJrY3NTeWVNNHpOdHZ5UkgtaE5OMGlEaVItSWFkWnVmR0ZWLVFyYmlLM2lIWUE1TFQ0ODl1YUZoSllLNTlVbWs2U2tIQV9fYw?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 34,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.15,
+      "sentiment_7d_avg": null
+    },
+    "container_freight": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.25,
+      "sentiment_7d_avg": null
+    },
+    "shipbuilding_orders": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 38,
+    "sentiment_distribution": {
+      "positive": 8,
+      "neutral": 30,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "samsung_heavy",
+        "count": 6
+      },
+      {
+        "id": "cosco",
+        "count": 2
+      },
+      {
+        "id": "maersk",
+        "count": 2
+      },
+      {
+        "id": "hanwha_ocean",
+        "count": 1
+      },
+      {
+        "id": "cssc",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 34
+      },
+      {
+        "id": "container_freight",
+        "count": 2
+      },
+      {
+        "id": "shipbuilding_orders",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 352,
+    "dup_title": 125,
+    "too_old": 122,
+    "gate1_blocked": 24,
+    "gate2_blocked": 3,
+    "passed": 78,
+    "pass_rate": "34.4%",
+    "gate2_block_rate": "1.3%",
+    "gate2_samples": [
+      "Hanwha Ocean and Azure Explore Canadian Sustainable Aviation Fuel - Canadian Defence Review",
+      "Hanwha Ocean to trial humanoid robots - Splash247",
+      "DHL Express offers luggage storage as World Cup travelers descend on US"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 38 則事件，焦點為三星重工、中遠海控、馬士基相關動態：「MSC smashes liner market share record」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "MSC smashes liner market share record（航運產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "MSC controls over one-fifth of the container shipping market（航運產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

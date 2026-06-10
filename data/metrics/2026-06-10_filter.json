@@ -1,0 +1,14 @@
+{
+  "total_raw": 352,
+  "dup_title": 125,
+  "no_date": 0,
+  "too_old": 122,
+  "gate1_fail": 24,
+  "gate2_fail": 3,
+  "passed": 78,
+  "gate2_samples": [
+    "Hanwha Ocean and Azure Explore Canadian Sustainable Aviation Fuel - Canadian Defence Review",
+    "Hanwha Ocean to trial humanoid robots - Splash247",
+    "DHL Express offers luggage storage as World Cup travelers descend on US"
+  ]
+}
