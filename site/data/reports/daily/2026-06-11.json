@@ -1,0 +1,188 @@
+{
+  "date": "2026-06-11",
+  "generated_at": "2026-06-11T12:14:35.279056Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-06-11-022",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "US shippers warn revived China ship fees could ‘eliminate’ ag exports",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://theloadstar.com/us-shippers-warn-revived-china-ship-fees-could-eliminate-ag-exports/"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-06-11-031",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Third tanker hit with engine room fire off Oman",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://www.seatrade-maritime.com/security/third-tanker-hit-with-engine-room-fire-off-oman"
+    },
+    {
+      "rank": 3,
+      "event_id": "hd_korea-2026-06-11-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "HD Korea Shipbuilding CEO Pushes Autonomous Manufacturing to Tackle Labor Shortage - Seoul Economic Daily",
+      "companies": [
+        "hd_korea"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQX25fQW55NHFtazRzVlh5Qm5VakJOV09EelNYT3BNQi10bG9CbzNRblluZlRpZVJxWTctc2NKTnpSRW1BbVMtRHJadXkzRm1IdlhMZmpSQk9BRnM5ZFVNODIwU2trZTFScmh1eV9HXzUyS29FTzZtYUh3amVlUkxFX0d3TjA4UURSVGtnbHA3b3RDT2lzd3RGVXYxa0JMU19f?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-06-11-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "KR 66th Anniversary Seminar: Chairman Youngsuk Lee Vows to Strengthen Shipbuilding and Maritime Competitiveness Through AI Transformation - 아시아경제",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE44TUU2WkZsOVMwMUxOWTFLcGZfT0tmTlIybXE3REdKLWRlQnc3Y1BmX2hhUUxkaTVjMmpMa2lEN2QzRnN3SnN5dmU4VXZqN21mSURuak5iOEp6MXQxSFBQNEk4VE8?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "hanwha_ocean-2026-06-11-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Hanwha Ocean Selected for South Korea’s KDDX Destroyer Program - navalnews.com",
+      "companies": [
+        "hanwha_ocean"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPV2M3Y2JuUWNDRG9BUGlLVE1fTHhEa0JnVmF2OGh4TVRwU1g2SW1FQUxIMGxVeGItUzZGbERtbEpnMnNNVERSdUdVS3I0T2oyak9hN0NDT2JhakNyNVZxOGJaM25wcTNXMXEtMnVVTUo0bkViTHZpTWI3V0FuWDdDVmpaTTA1VVNGeWtmOFNORVB1ZS1jTlZXbjhmVkVUYUUwaXlZeFdaazJFY1U?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 30,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.01,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 34,
+    "sentiment_distribution": {
+      "positive": 4,
+      "neutral": 26,
+      "negative": 4
+    },
+    "top_companies": [
+      {
+        "id": "hanwha_ocean",
+        "count": 5
+      },
+      {
+        "id": "hd_korea",
+        "count": 1
+      },
+      {
+        "id": "wan_hai",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 30
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 352,
+    "dup_title": 119,
+    "too_old": 111,
+    "gate1_blocked": 17,
+    "gate2_blocked": 11,
+    "passed": 94,
+    "pass_rate": "40.3%",
+    "gate2_block_rate": "4.7%",
+    "gate2_samples": [
+      "Hanwha Ocean likely to win 7.8 tln-won project to build next-generation destroyers: sources - Yonhap",
+      "Hanwha Ocean Wins 7.8 Trillion Won Next-Generation Destroyer Project - Seoul Economic Daily",
+      "Hanwha Ocean and Azure Explore Canadian Sustainable Aviation Fuel - Canadian Defence Review",
+      "Hanwha Ocean selected as preferred bidder for KDDX program - The Korea Times",
+      "Hanwha Ocean wins Korea’s 7.8t won KDDX lead on security-docked Hyundai - CHOSUNBIZ - Chosunbiz"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 34 則事件，焦點為韓華海洋、韓國造船海洋、萬海航運相關動態：「US shippers warn revived China ship fees could ‘eliminate...」。主要關注主題為航運產業通用，市場情緒中性。",
+    "signals": [
+      {
+        "text": "US shippers warn revived China ship fees could ‘eliminate’ ag exports（航運產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "Third tanker hit with engine room fire off Oman（航運產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

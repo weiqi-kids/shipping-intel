@@ -1,0 +1,16 @@
+{
+  "total_raw": 352,
+  "dup_title": 119,
+  "no_date": 0,
+  "too_old": 111,
+  "gate1_fail": 17,
+  "gate2_fail": 11,
+  "passed": 94,
+  "gate2_samples": [
+    "Hanwha Ocean likely to win 7.8 tln-won project to build next-generation destroyers: sources - Yonhap",
+    "Hanwha Ocean Wins 7.8 Trillion Won Next-Generation Destroyer Project - Seoul Economic Daily",
+    "Hanwha Ocean and Azure Explore Canadian Sustainable Aviation Fuel - Canadian Defence Review",
+    "Hanwha Ocean selected as preferred bidder for KDDX program - The Korea Times",
+    "Hanwha Ocean wins Korea’s 7.8t won KDDX lead on security-docked Hyundai - CHOSUNBIZ - Chosunbiz"
+  ]
+}
