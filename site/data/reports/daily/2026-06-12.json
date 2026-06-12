@@ -1,0 +1,222 @@
+{
+  "date": "2026-06-12",
+  "generated_at": "2026-06-12T11:48:12.885949Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "hanwha_ocean-2026-06-12-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Hanwha Ocean edges out HD Hyundai in W7.8t KDDX bid - The Korea Herald",
+      "companies": [
+        "hanwha_ocean"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5sVmxVVUdzbEpaSlJwWXhXWEVfLWhiYTN3dktRS29yZExJaWRyal82c0wteWlqZGtFQVVsSTZ4bnJSNzlJVXF5Vy0zUGlGa2V2MWE2WWp3bw?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "hanwha_ocean-2026-06-12-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Hanwha Ocean Co Ltd Wins 800 Billion Won Order - TradingView",
+      "companies": [
+        "hanwha_ocean"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "dry_bulk_rate"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPSlhRY25tRGYwb3B3bDItMVNpSHRQcmlfOG1tNmNRUG9SWTR5Tmh6SzZmWFpfT1ROMUE0SWdHbWVsZHpHcXd4OG90TlRjYnpDLVBfQVRvR2t4VVhVa1p0TXl4TWw5dUlHb2syOS1SYzBPSTFRbnBsUVJBMGVYQWZVU2ZvWlNvNEl4bThBa28zN3ZrbVBKMGxtRi1RT2tONzdCWkZkT2w1TXRGeWdnTWo4S1dmX3U2cUk?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "hanwha_ocean-2026-06-12-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Hanwha Ocean Nears KDDX Preferred Bidder Status - Businesskorea",
+      "companies": [
+        "hanwha_ocean"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1Cb0thVExSaHhienFaYlFTeEx0ZnBsTVFlVHZ1NDJta18xT3Z1QkRLcGNYUjB0cjV6b0tmUkIwd0Uta3RpVmdiRnphWUc4RjUzTDJVNTc3Y3I3SzZ3R1Via0JkNGZwMzdlc18yRVBxNGZJdDZu?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-06-12-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "US draft defense bill may ease ban on foreign construction of auxiliary naval vessels - Hankyoreh : English Edition",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNelJWd3RkRk5sV2NHREdFVnZVd19pVjV1Yi1MVzFuanVyWm94a0cxNW9DRXpHenlySXB6MVRCX1d2SlpmWWkzczVpRTJNcEFTRXBPZnV6WFRVZHhGdnQ2UUdZQWlmMWVsV1hEM3pjSFFfYXZlcG9CcEdPREZER1JOUjFB?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "cosco-2026-06-12-005",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "COSCO Shipping Energy rose as expectations of improved Middle East geopolitical conditions prompted market focus on incremental tanker demand from strategic stockpiling. - Moomoo",
+      "companies": [
+        "cosco"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOSmt0OHQ1d2NYbjM5TXllM0hqeGhZNFdIUkN5RG1wZ1BmdGszMFlTZ1JNVnhYdlQwOEtxLXh5c2VRUlZsWFNmdjBZTlpSZGllaGIxbEs1MnVoY2F0ajk4SzNqU0haMXo2MXRBbk81UUtrQkpUaGxSNzRLRmFESHlUUmo0dTZhak1GN3lZZklVTWhScm1ycWFWMmUydzJ1MVJwZlJ3VHpxRno3Zjdv?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "dry_bulk_rate": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 21,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.1,
+      "sentiment_7d_avg": null
+    },
+    "container_freight": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "shipbuilding_orders": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.5,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 24,
+    "sentiment_distribution": {
+      "positive": 4,
+      "neutral": 20,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "hanwha_ocean",
+        "count": 3
+      },
+      {
+        "id": "cosco",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 21
+      },
+      {
+        "id": "dry_bulk_rate",
+        "count": 2
+      },
+      {
+        "id": "container_freight",
+        "count": 2
+      },
+      {
+        "id": "shipbuilding_orders",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 352,
+    "dup_title": 148,
+    "too_old": 108,
+    "gate1_blocked": 20,
+    "gate2_blocked": 12,
+    "passed": 64,
+    "pass_rate": "31.4%",
+    "gate2_block_rate": "5.9%",
+    "gate2_samples": [
+      "Hanwha Ocean virtually wins $5 bln KDDX destroyer bid - aju press",
+      "PCL Construction, Hanwha Ocean Partner on Canadian Submarine Infrastructure - Construction Owners",
+      "Hanwha Ocean edges HD Hyundai in KDDX bid - 매일경제",
+      "Hanwha Ocean set as preferred bidder for Korea's $5.1 bn next-generation destroyer program - KED Glo",
+      "Thailand frigate Outline this month...Hyundai Heavy and Hanwha Ocean Yanggang Structures - 매일경제"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 24 則事件，焦點為韓華海洋、中遠海控相關動態：「Hanwha Ocean edges out HD Hyundai in W7.8t KDDX bid - The...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Hanwha Ocean edges out HD Hyundai in W7.8t KDDX bid - The Korea Herald",
+        "level": "green"
+      },
+      {
+        "text": "Hanwha Ocean Co Ltd Wins 800 Billion Won Order - TradingView（散裝運價）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

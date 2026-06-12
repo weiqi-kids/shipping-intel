@@ -1,0 +1,16 @@
+{
+  "total_raw": 352,
+  "dup_title": 148,
+  "no_date": 0,
+  "too_old": 108,
+  "gate1_fail": 20,
+  "gate2_fail": 12,
+  "passed": 64,
+  "gate2_samples": [
+    "Hanwha Ocean virtually wins $5 bln KDDX destroyer bid - aju press",
+    "PCL Construction, Hanwha Ocean Partner on Canadian Submarine Infrastructure - Construction Owners",
+    "Hanwha Ocean edges HD Hyundai in KDDX bid - 매일경제",
+    "Hanwha Ocean set as preferred bidder for Korea's $5.1 bn next-generation destroyer program - KED Glo",
+    "Thailand frigate Outline this month...Hyundai Heavy and Hanwha Ocean Yanggang Structures - 매일경제"
+  ]
+}
