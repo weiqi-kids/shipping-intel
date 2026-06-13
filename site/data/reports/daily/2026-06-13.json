@@ -1,0 +1,94 @@
+{
+  "date": "2026-06-13",
+  "generated_at": "2026-06-13T10:34:19.084013Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "hanwha_ocean-2026-06-13-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Hanwha Ocean-built FPSO P-79 Delivers First Oil for Brazil’s Búzios Ultra-deepwater Field - imarinenews.com",
+      "companies": [
+        "hanwha_ocean"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5WT3JjcklfeUthTzBzTERSalZia1Z2UXI4d3hYZGxaNkdpUVhyN3BNbk9xc1E5RWhoUE4tcGpMSTduRnRmUWltMDhoU2NUck0?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 1,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 1,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "hanwha_ocean",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 342,
+    "dup_title": 174,
+    "too_old": 103,
+    "gate1_blocked": 16,
+    "gate2_blocked": 7,
+    "passed": 42,
+    "pass_rate": "25.0%",
+    "gate2_block_rate": "4.2%",
+    "gate2_samples": [
+      "Hanwha Ocean selected for $5.1B destroyer project in South Korea - upi.com",
+      "Hanwha Ocean set as preferred bidder for Korea's $5.1 bn next-generation destroyer program - KED Glo",
+      "PCL Construction, Hanwha Ocean Partner on Canadian Submarine Infrastructure - Construction Owners",
+      "Hanwha Ocean virtually wins $5 bln KDDX destroyer bid - aju press",
+      "COSCO Installs 2GW Converter Platform for China’s Offshore Wind Farm - Marine News Magazine"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 1 則事件，焦點為韓華海洋相關動態：「Hanwha Ocean-built FPSO P-79 Delivers First Oil for Brazi...」。主要關注主題為航運產業通用，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Hanwha Ocean-built FPSO P-79 Delivers First Oil for Brazil’s Búzios Ultra-dee...（航運產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "韓華海洋為今日主要關注企業。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
