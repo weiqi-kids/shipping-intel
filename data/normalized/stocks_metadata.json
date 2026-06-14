@@ -1,43 +1,43 @@
 {
   "hd_korea": {
-    "earliest": "2009-05-14",
+    "earliest": "2009-02-13",
     "latest": "2026-06-12",
-    "count": 4206
+    "count": 4268
   },
   "samsung_heavy": {
-    "earliest": "2009-05-14",
+    "earliest": "2009-02-13",
     "latest": "2026-06-12",
-    "count": 4206
+    "count": 4268
   },
   "hanwha_ocean": {
-    "earliest": "2009-05-14",
+    "earliest": "2009-02-13",
     "latest": "2026-06-12",
-    "count": 4206
+    "count": 4268
   },
   "cssc": {
-    "earliest": "2009-06-01",
+    "earliest": "2009-03-03",
     "latest": "2026-06-12",
-    "count": 4138
+    "count": 4198
   },
   "evergreen": {
-    "earliest": "2009-06-01",
+    "earliest": "2009-03-03",
     "latest": "2026-06-12",
-    "count": 4172
+    "count": 4232
   },
   "yang_ming": {
-    "earliest": "2009-06-01",
+    "earliest": "2009-03-03",
     "latest": "2026-06-12",
-    "count": 4172
+    "count": 4232
   },
   "wan_hai": {
-    "earliest": "2009-06-01",
+    "earliest": "2009-03-03",
     "latest": "2026-06-12",
-    "count": 4172
+    "count": 4232
   },
   "maersk": {
-    "earliest": "2009-05-18",
+    "earliest": "2009-02-17",
     "latest": "2026-06-12",
-    "count": 4262
+    "count": 4322
   },
   "hapag": {
     "earliest": "2015-11-06",
@@ -52,14 +52,14 @@
     "history_complete": true
   },
   "cosco": {
-    "earliest": "2009-05-20",
+    "earliest": "2009-02-19",
     "latest": "2026-06-12",
-    "count": 4207
+    "count": 4268
   },
   "u_ming": {
-    "earliest": "2009-06-01",
+    "earliest": "2009-03-03",
     "latest": "2026-06-12",
-    "count": 4172
+    "count": 4232
   },
   "wisdom": {
     "earliest": "2010-12-01",
@@ -68,9 +68,9 @@
     "history_complete": true
   },
   "star_bulk": {
-    "earliest": "2009-05-15",
+    "earliest": "2009-02-17",
     "latest": "2026-06-12",
-    "count": 4296
+    "count": 4358
   },
   "etf_sea": {
     "earliest": "2022-01-20",

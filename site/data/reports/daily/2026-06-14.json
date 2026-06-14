@@ -1,0 +1,156 @@
+{
+  "date": "2026-06-14",
+  "generated_at": "2026-06-14T10:52:26.014886Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "hd_korea-2026-06-14-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "HD Korea Shipbuilding teams with Marcon to develop Korea-type eco-friendly SOVs - CHOSUNBIZ - Chosunbiz",
+      "companies": [
+        "hd_korea"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOaHFSaUlEQWpFTjJNbm5BcWRCVnl1VFhDT1pTNXdDQUJEcmJGSy02VWp3X18zMmsybjJqR0s5U09IR0EwX0hwVE90d1FOS1BOaE96Z2tMeTBfczlzRnRkeWdGYmZnNFBpMWZoY0FuWmZ2Z1dnUGtweXVwLXFGRTNDRDJn0gGWAUFVX3lxTE9xOE93eWFxNnRkZXBEdmtkVmY2N3VfUWgxaHpiTEYxZXRNWnRLbjRqR0VfbjZrQWRmdVhORUtiUVJrUWF6MjFYNXFreXVFaEt6Qk1fTHUwazhZdWlIOFlqZGVtemxtYUYwYUR2S3FmdHZzd19uaHBiYm1xS0U2aFhkYVI5WDg4U29MNVZmS0hreVJXbVdSdw?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-06-14-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "HD KSOE Moves to Localize Eco-Friendly Offshore Wind Support Vessels - Seoul Economic Daily",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQVGFOeF9CRkRyRGJybXlUdnh3Yl9Rd195Tkw0d0Q0eXl0dXhGMXNJZHFfcjN1T0pLZmJEcjRNWFkxNVlTbDBrYjJBcE1VakJkTDFadkxHVkIzTDdoSVBUYWVuckhKX1ktbDB4c3F0RkE4MU4xeGxQczF3VkFET0FjbXVHZmxkckF6WDdqUFdxalNPY3FnNWlnWVp3?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "hd_korea-2026-06-14-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "HD Korea Shipbuilding & Offshore Engineering and Malcon to Jointly Develop Offshore Wind Support Vessels...Pushing for Localization - 아시아경제",
+      "companies": [
+        "hd_korea"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE54a0ZCQ0hHNi12VGpIeHY4aEw3Vzd2RGZzY3FjTllJS01TaGxtVUJzVlpnTFlJSy1YSVUtVC1KVkZCbEhSYmNqLUtTY24wT0I1eldoa2padkJKNDBKMmczbkhFODU?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-06-14-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "LTL’s paper gains",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.freightwaves.com/news/ltls-paper-gains"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 4,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 4,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 4,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "hd_korea",
+        "count": 2
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 4
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 352,
+    "dup_title": 204,
+    "too_old": 111,
+    "gate1_blocked": 16,
+    "gate2_blocked": 8,
+    "passed": 13,
+    "pass_rate": "8.8%",
+    "gate2_block_rate": "5.4%",
+    "gate2_samples": [
+      "Hanwha Ocean selected for $5.1B destroyer project in South Korea - upi.com",
+      "Hanwha Ocean set as preferred bidder for Korea's $5.1 bn next-generation destroyer program - KED Glo",
+      "PCL Construction, Hanwha Ocean Partner on Canadian Submarine Infrastructure - Construction Owners",
+      "Hanwha Ocean virtually wins $5 bln KDDX destroyer bid - aju press",
+      "TWSE Short Interest Weekly (Jun 12th): Shin Kong Financial, Yang Ming Marine, UMC, TSMC - Smartkarma"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 4 則事件，焦點為韓國造船海洋相關動態：「HD Korea Shipbuilding teams with Marcon to develop Korea-...」。主要關注主題為航運產業通用，市場情緒中性。",
+    "signals": [
+      {
+        "text": "HD Korea Shipbuilding teams with Marcon to develop Korea-type eco-friendly SO...（航運產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "HD KSOE Moves to Localize Eco-Friendly Offshore Wind Support Vessels - Seoul ...（航運產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

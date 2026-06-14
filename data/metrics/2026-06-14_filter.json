@@ -1,0 +1,16 @@
+{
+  "total_raw": 352,
+  "dup_title": 204,
+  "no_date": 0,
+  "too_old": 111,
+  "gate1_fail": 16,
+  "gate2_fail": 8,
+  "passed": 13,
+  "gate2_samples": [
+    "Hanwha Ocean selected for $5.1B destroyer project in South Korea - upi.com",
+    "Hanwha Ocean set as preferred bidder for Korea's $5.1 bn next-generation destroyer program - KED Glo",
+    "PCL Construction, Hanwha Ocean Partner on Canadian Submarine Infrastructure - Construction Owners",
+    "Hanwha Ocean virtually wins $5 bln KDDX destroyer bid - aju press",
+    "TWSE Short Interest Weekly (Jun 12th): Shin Kong Financial, Yang Ming Marine, UMC, TSMC - Smartkarma"
+  ]
+}

@@ -1,5 +1,81 @@
 [
   {
+    "id": "hd_korea-2026-06-14-001",
+    "date": "2026-06-14",
+    "companies": [
+      "hd_korea"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "HD Korea Shipbuilding teams with Marcon to develop Korea-type eco-friendly SOVs - CHOSUNBIZ - Chosunbiz",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxOaHFSaUlEQWpFTjJNbm5BcWRCVnl1VFhDT1pTNXdDQUJEcmJGSy02VWp3X18zMmsybjJqR0s5U09IR0EwX0hwVE90d1FOS1BOaE96Z2tMeTBfczlzRnRkeWdGYmZnNFBpMWZoY0FuWm",
+    "sources": [
+      {
+        "name": "hd_korea",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOaHFSaUlEQWpFTjJNbm5BcWRCVnl1VFhDT1pTNXdDQUJEcmJGSy02VWp3X18zMmsybjJqR0s5U09IR0EwX0hwVE90d1FOS1BOaE96Z2tMeTBfczlzRnRkeWdGYmZnNFBpMWZoY0FuWmZ2Z1dnUGtweXVwLXFGRTNDRDJn0gGWAUFVX3lxTE9xOE93eWFxNnRkZXBEdmtkVmY2N3VfUWgxaHpiTEYxZXRNWnRLbjRqR0VfbjZrQWRmdVhORUtiUVJrUWF6MjFYNXFreXVFaEt6Qk1fTHUwazhZdWlIOFlqZGVtemxtYUYwYUR2S3FmdHZzd19uaHBiYm1xS0U2aFhkYVI5WDg4U29MNVZmS0hreVJXbVdSdw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-14-002",
+    "date": "2026-06-14",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "HD KSOE Moves to Localize Eco-Friendly Offshore Wind Support Vessels - Seoul Economic Daily",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxQVGFOeF9CRkRyRGJybXlUdnh3Yl9Rd195Tkw0d0Q0eXl0dXhGMXNJZHFfcjN1T0pLZmJEcjRNWFkxNVlTbDBrYjJBcE1VakJkTDFadkxHVkIzTDdoSVBUYWVuckhKX1ktbDB4c3F0Rk",
+    "sources": [
+      {
+        "name": "hd_korea",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQVGFOeF9CRkRyRGJybXlUdnh3Yl9Rd195Tkw0d0Q0eXl0dXhGMXNJZHFfcjN1T0pLZmJEcjRNWFkxNVlTbDBrYjJBcE1VakJkTDFadkxHVkIzTDdoSVBUYWVuckhKX1ktbDB4c3F0RkE4MU4xeGxQczF3VkFET0FjbXVHZmxkckF6WDdqUFdxalNPY3FnNWlnWVp3?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "hd_korea-2026-06-14-003",
+    "date": "2026-06-14",
+    "companies": [
+      "hd_korea"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "HD Korea Shipbuilding & Offshore Engineering and Malcon to Jointly Develop Offshore Wind Support Vessels...Pushing for Localization - 아시아경제",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE54a0ZCQ0hHNi12VGpIeHY4aEw3Vzd2RGZzY3FjTllJS01TaGxtVUJzVlpnTFlJSy1YSVUtVC1KVkZCbEhSYmNqLUtTY24wT0I1eldoa2padkJKNDBKMmczbkhFODU?oc=5\" target=\"",
+    "sources": [
+      {
+        "name": "hd_korea",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE54a0ZCQ0hHNi12VGpIeHY4aEw3Vzd2RGZzY3FjTllJS01TaGxtVUJzVlpnTFlJSy1YSVUtVC1KVkZCbEhSYmNqLUtTY24wT0I1eldoa2padkJKNDBKMmczbkhFODU?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-14-004",
+    "date": "2026-06-14",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "LTL’s paper gains",
+    "summary": "<p>LTL revenues appear to be strengthening in Q2, but is this a product of fuel or something more structural?</p>\n<p>The post <a href=\"https://www.freightwaves.com/news/ltls-paper-gains\">LTL&#8217;s p",
+    "sources": [
+      {
+        "name": "freightwaves",
+        "url": "https://www.freightwaves.com/news/ltls-paper-gains",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "hanwha_ocean-2026-06-13-001",
     "date": "2026-06-13",
     "companies": [
@@ -15,6 +91,134 @@
       {
         "name": "hanwha_ocean",
         "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5WT3JjcklfeUthTzBzTERSalZia1Z2UXI4d3hYZGxaNkdpUVhyN3BNbk9xc1E5RWhoUE4tcGpMSTduRnRmUWltMDhoU2NUck0?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-13-002",
+    "date": "2026-06-13",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Samsung’s Shipbuilding Arm Pushes Floating Data Centers for AI Boom - SammyGuru",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxNcXM1SVFkUUc0c2QxdzZzRm5MU1VlbVMyRzdjeExLMlJSa1hQRlE3RGh4RXktQV9raDB1aWlqTlZoZXg4amdwS0FWWXFvNktEbF9FRTdudFZHeE04LTVPcW1FUm1RcGhTUS1NN0t0Qj",
+    "sources": [
+      {
+        "name": "samsung_heavy",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNcXM1SVFkUUc0c2QxdzZzRm5MU1VlbVMyRzdjeExLMlJSa1hQRlE3RGh4RXktQV9raDB1aWlqTlZoZXg4amdwS0FWWXFvNktEbF9FRTdudFZHeE04LTVPcW1FUm1RcGhTUS1NN0t0QjBUamtVSXk1Z1QwbnVQU21WTjdjNA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-13-003",
+    "date": "2026-06-13",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Thailand’s US$2.2 Billion Frigate Battle Intensifies as South Korean Naval Giants Clash for Indo-Pacific Dominance - Defence Security Asia",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxNaWwzaFowdU9hQU1KMTZpTnRyd2ZyZ01PUzZISnBZQVhGNG9FNDZCV2ZUdS1TSE5HejdHVU9KU3FrZ3JVaFBNbkZJUFNPNU50RGxJZXFyVS05bGV5cHJTZkpOLTc3SEJLMTBIM0w3WU",
+    "sources": [
+      {
+        "name": "hanwha_ocean",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNaWwzaFowdU9hQU1KMTZpTnRyd2ZyZ01PUzZISnBZQVhGNG9FNDZCV2ZUdS1TSE5HejdHVU9KU3FrZ3JVaFBNbkZJUFNPNU50RGxJZXFyVS05bGV5cHJTZkpOLTc3SEJLMTBIM0w3WUFJajgtYURwOFRIX050dXZScWdYdDBOaDBtODR4Yjl4MEMwTUd6TU9lbHRBWVFvVzRCOVUtOE1ITHYxRURma1pTUHhn?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "star_bulk-2026-06-13-004",
+    "date": "2026-06-13",
+    "companies": [
+      "star_bulk"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "How Bullish Earnings Forecasts and Insider Selling Could Shape Star Bulk Carriers' (SBLK) Investment Story - simplywall.st",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2wFBVV95cUxPNVAyNzZzQ29oR0l6a0drWlZKQjdXLVRTY0xBNXJHTnEwVGkyNUwzaDNXTnA0RGxOSkpaMFhWZlJZMmZpQjBaRzlsT3VvdGFxa1FqVkVMSVA5d3liXzVadlJ0dEIyN3pFQ09uelRic2",
+    "sources": [
+      {
+        "name": "star_bulk",
+        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPNVAyNzZzQ29oR0l6a0drWlZKQjdXLVRTY0xBNXJHTnEwVGkyNUwzaDNXTnA0RGxOSkpaMFhWZlJZMmZpQjBaRzlsT3VvdGFxa1FqVkVMSVA5d3liXzVadlJ0dEIyN3pFQ09uelRic2RoOTVpd0tLa3V2TVZLQVc3aTI5aEZMbWNSNkx2SHJOVlByQ2NxU3ozX3hUM3kySExkTEtUXzlJMHAwU2lQb2RYZ0R2Tld3UHF5a244cTU1cTdXX1hRNTJRMkFSb0Zlai1wMWVZbTJMQnJvSW_SAeABQVVfeXFMUGg4MThMMmZTenh0YnQtVFhpZ0lzczRjeEFELTBGMzJmQTVxVDFMMlluWnNEamlmXzRTYmxkM0g0bW03M3hlNkwyRzRUVm0yaERJVmVFbkdFbUwzNmFwejZjWllGUFNFZUJubUw5bWh3V2lXU1I3cDRXcFBjTnhBM1oxY0Fvd09xaFBfU1dQazNocDJKZGhCUmlZaGg0UjdJMkY0WEJQUG1xWnNORnVadWFjS2pPaG9kUlRlOF9IaXgxQkVPaUxCUzVJc1ZTYU1pYVpLWFZQdmptTHlSVHhjR3Y?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-13-005",
+    "date": "2026-06-13",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Ukraine Drone Strikes Sparks Fire At Russian Port",
+    "summary": "MOSCOW, June 13 (Reuters) &#8211; A Ukrainian drone attack killed one person and sparked a fire at a sea terminal in the southern Russian port of Temryuk, in the Krasnodar region, governor Veniamin Ko",
+    "sources": [
+      {
+        "name": "gcaptain",
+        "url": "https://gcaptain.com/ukraine-drone-strikes-sparks-fire-at-russian-port/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-13-006",
+    "date": "2026-06-13",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Tanker Attack Raises New Questions About U.S. ‘Secret Mission’ in Hormuz",
+    "summary": "A commercial tanker was struck by an unidentified projectile near the Strait of Hormuz overnight while transiting an area associated with a covert U.S.-coordinated shipping corridor that has been used",
+    "sources": [
+      {
+        "name": "gcaptain",
+        "url": "https://gcaptain.com/tanker-attack-raises-new-questions-about-u-s-secret-mission-in-hormuz/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-13-007",
+    "date": "2026-06-13",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Tanker Reports Being Struck, But India Denies It Was Their Vessel",
+    "summary": "\n                Reports surfaced overnight of another tanker being struck by a projectile, even as government officials in Pakistan were saying that a Memorandum of U...\n            ",
+    "sources": [
+      {
+        "name": "maritime_executive",
+        "url": "https://maritime-executive.com/article/tanker-reports-being-struck-but-india-denies-it-was-their-vessel",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-13-008",
+    "date": "2026-06-13",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Hong Kong tanker attacked in Hormuz even as peace deal looms",
+    "summary": "Shipping continues to be under attack in the Strait of Hormuz despite reports of a peace deal between US and Iran possibly being signed within 24 hours",
+    "sources": [
+      {
+        "name": "seatrade_maritime",
+        "url": "https://www.seatrade-maritime.com/security/hong-kong-tanker-attacked-in-hormuz-even-as-peace-deal-looms",
         "type": "rss"
       }
     ]
@@ -1128,6 +1332,44 @@
       {
         "name": "seatrade_maritime",
         "url": "https://www.seatrade-maritime.com/accidents/three-dead-after-supply-boat-sinks-in-singapore-port",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "hanwha_ocean-2026-06-12-062",
+    "date": "2026-06-12",
+    "companies": [
+      "hanwha_ocean"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "South Korea Advances KDDX Destroyer Program with Hanwha Ocean for 6 New Warships - Army Recognition",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxQYndVZDJMN2kyOXE4RUc5UzA1bFZoNHJ3VjU5TXA1VC1WcUFOZ2I1SjVyN3NWb3VRZzFkcFNCWC1RTnQ4ZHh2ZldFVmRpMDdkZWdMSmQ2eWYwRE1OWGxSNm91QkczM2ZtSnZCTFNNcE",
+    "sources": [
+      {
+        "name": "hanwha_ocean",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQYndVZDJMN2kyOXE4RUc5UzA1bFZoNHJ3VjU5TXA1VC1WcUFOZ2I1SjVyN3NWb3VRZzFkcFNCWC1RTnQ4ZHh2ZldFVmRpMDdkZWdMSmQ2eWYwRE1OWGxSNm91QkczM2ZtSnZCTFNNcERSZUZJYTdRUkxIR09qZld3ZHd4eGxpYXgyM01RUHpmVkQyN3drSFBBRUZtVHNZWFlTNDJEYnZrZWdjYW1FRkhjS0ZpZUEwM3RmaDcxNnN5Mi1sVFpfUzQ4?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-12-063",
+    "date": "2026-06-12",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "RXO’s debt rating at S&P holds; so does its negative outlook",
+    "summary": "<p>RXO’s debt rating held at its current level at S&#038;P, despite growing freight market strength.</p>\n<p>The post <a href=\"https://www.freightwaves.com/news/rxo-debt-rating-at-sp-holds-so-does-its-",
+    "sources": [
+      {
+        "name": "freightwaves",
+        "url": "https://www.freightwaves.com/news/rxo-debt-rating-at-sp-holds-so-does-its-negative-outlook",
         "type": "rss"
       }
     ]
