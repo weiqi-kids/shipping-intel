@@ -1,0 +1,16 @@
+{
+  "total_raw": 352,
+  "dup_title": 151,
+  "no_date": 0,
+  "too_old": 106,
+  "gate1_fail": 19,
+  "gate2_fail": 6,
+  "passed": 70,
+  "gate2_samples": [
+    "Samsung Heavy Industries Submits Remedial Plan to Settle KFTC Probe - imarinenews.com",
+    "Hanwha Ocean selected for $5.1B destroyer project in South Korea - upi.com",
+    "PCL Construction, Hanwha Ocean Partner on Canadian Submarine Infrastructure - Construction Owners",
+    "COSCO Installs 2GW Converter Platform for China’s Offshore Wind Farm - Marine News Magazine",
+    "Amazon’s LTL gap has a name: Forward Air"
+  ]
+}

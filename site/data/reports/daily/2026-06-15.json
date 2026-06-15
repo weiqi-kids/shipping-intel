@@ -1,0 +1,223 @@
+{
+  "date": "2026-06-15",
+  "generated_at": "2026-06-15T14:29:25.329232Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-06-15-029",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Varamar takes plunge into ship ownership with four-vessel acquisition",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://splash247.com/varamar-takes-plunge-into-ship-ownership-with-four-vessel-acquisition/"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-06-15-035",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Tensions in the Middle East are easing, leading to divergent trends in the shipping market: tanker freight rates are poised to rise, while container shipping rates on the Europe route may see a turning point next month. - 富途牛牛",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "container_freight",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPMjZZeTZKMmh1QWZsdHNOWmZ5djBUTTh2amRWQjFubC00Ty1mQkpLYzd5Z2RNTWdyZm16cW45ZTQtSTlscHBtNk1yaFBvMVVEMmhwTTgzeXV0RFhIQllDUmlBLXBhaUhoNXd4TXdHeVFibF9WQkZOWWlneUhSeVU2OVdLOE82TWdKZUVITExRWFNHZERyVnlHSHd6dDBNNTRyUUE?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-06-15-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "HD Hyundai and Malcon team up on Korean offshore wind vessel design - Splash247",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPT2plbVQyZkgyYTEycTMtSXRHd2dKcmdJaGNnMmJJYzBUMlpld1pWYnl0YnM1UzJvVnlwOFRoZDlVY0ljWFFfY3RqYUFCTW5jQ3J1Z2lsbXNSMERNaEtBS0FJVnFTbzlCSXJicXlvQjF3YkdWZGczUTItMWJ3NTdrcHI0djZFR05wSmhLNWJpMkdleTFs?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "samsung_heavy-2026-06-15-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "GTT Receives Order from Samsung Heavy Industries for Tank Design of Two 174,000 m³ LNG Carriers - imarinenews.com",
+      "companies": [
+        "samsung_heavy"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBuNjZhZi1VVFZBVmpCUWNNZVczSkw0TGtNaHNwSzlFanE2dzBPLS11aTRMNzBpTEY2QkZZcmN5cE5XS01UWUNwZDBhZE9IeHM?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-06-15-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Japan Revives LNG Carrier Industry with South Korean Tech - 조선일보",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPa21hQXIxSl9xaEowaGc4R0RDbGNvOENLV095bE5CYXEzX2lQSG5sMnd0MlR2ZXFNUHBLa2xkU2I4V29TOWRiN2p4TlhkamFXZWRtMXdmWHBXUnBiZlp4anlrcTEtTV8teFZlVDZpUkxEalhOSEhaZDRmQnlFRzJsdUtwWTQ?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 46,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.02,
+      "sentiment_7d_avg": null
+    },
+    "shipbuilding_orders": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.25,
+      "sentiment_7d_avg": null
+    },
+    "container_freight": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.17,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 51,
+    "sentiment_distribution": {
+      "positive": 6,
+      "neutral": 41,
+      "negative": 4
+    },
+    "top_companies": [
+      {
+        "id": "hanwha_ocean",
+        "count": 8
+      },
+      {
+        "id": "cosco",
+        "count": 4
+      },
+      {
+        "id": "samsung_heavy",
+        "count": 1
+      },
+      {
+        "id": "star_bulk",
+        "count": 1
+      },
+      {
+        "id": "hd_korea",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 46
+      },
+      {
+        "id": "container_freight",
+        "count": 3
+      },
+      {
+        "id": "shipbuilding_orders",
+        "count": 2
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 352,
+    "dup_title": 151,
+    "too_old": 106,
+    "gate1_blocked": 19,
+    "gate2_blocked": 6,
+    "passed": 70,
+    "pass_rate": "34.8%",
+    "gate2_block_rate": "3.0%",
+    "gate2_samples": [
+      "Samsung Heavy Industries Submits Remedial Plan to Settle KFTC Probe - imarinenews.com",
+      "Hanwha Ocean selected for $5.1B destroyer project in South Korea - upi.com",
+      "PCL Construction, Hanwha Ocean Partner on Canadian Submarine Infrastructure - Construction Owners",
+      "COSCO Installs 2GW Converter Platform for China’s Offshore Wind Farm - Marine News Magazine",
+      "Amazon’s LTL gap has a name: Forward Air"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 51 則事件，焦點為韓華海洋、中遠海控、三星重工相關動態：「Varamar takes plunge into ship ownership with four-vessel...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Varamar takes plunge into ship ownership with four-vessel acquisition（航運產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "Tensions in the Middle East are easing, leading to divergent trends in the sh...（貨櫃運價、航運產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

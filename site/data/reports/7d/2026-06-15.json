@@ -1,0 +1,156 @@
+{
+  "date": "2026-06-15",
+  "date_range": {
+    "start": "2026-06-09",
+    "end": "2026-06-15"
+  },
+  "generated_at": "2026-06-15T14:29:25.466354Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "unknown-2026-06-09-011",
+      "date": "2026-06-09",
+      "title": "VLCC orderbook hits record high",
+      "importance_score": 0.65
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "industry_general": {
+      "this_week": 165,
+      "last_week": 174,
+      "week_over_week_change": "-5%",
+      "sentiment_this_week": 0.06
+    },
+    "shipbuilding_orders": {
+      "this_week": 7,
+      "last_week": 11,
+      "week_over_week_change": "-36%",
+      "sentiment_this_week": 0.28
+    },
+    "container_freight": {
+      "this_week": 9,
+      "last_week": 15,
+      "week_over_week_change": "-40%",
+      "sentiment_this_week": 0.22
+    },
+    "dry_bulk_rate": {
+      "this_week": 3,
+      "last_week": 2,
+      "week_over_week_change": "+50%",
+      "sentiment_this_week": 0.0
+    }
+  },
+  "company_7d_summary": {
+    "samsung_heavy": {
+      "event_count": 8,
+      "sentiment_avg": 0.13,
+      "rank": 2
+    },
+    "hanwha_ocean": {
+      "event_count": 19,
+      "sentiment_avg": 0.0,
+      "rank": 1
+    },
+    "evergreen": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 5
+    },
+    "cssc": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 7
+    },
+    "cosco": {
+      "event_count": 7,
+      "sentiment_avg": 0.14,
+      "rank": 3
+    },
+    "maersk": {
+      "event_count": 2,
+      "sentiment_avg": 1.0,
+      "rank": 6
+    },
+    "hd_korea": {
+      "event_count": 4,
+      "sentiment_avg": 0.0,
+      "rank": 4
+    },
+    "wan_hai": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 8
+    },
+    "star_bulk": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 9
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 385,
+        "last": 440,
+        "change_pct": -12.5
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-06-09",
+      "event_count": 69,
+      "sentiment_avg": 0.01
+    },
+    {
+      "date": "2026-06-10",
+      "event_count": 98,
+      "sentiment_avg": 0.08
+    },
+    {
+      "date": "2026-06-11",
+      "event_count": 74,
+      "sentiment_avg": -0.01
+    },
+    {
+      "date": "2026-06-12",
+      "event_count": 64,
+      "sentiment_avg": 0.02
+    },
+    {
+      "date": "2026-06-13",
+      "event_count": 10,
+      "sentiment_avg": 0.1
+    },
+    {
+      "date": "2026-06-14",
+      "event_count": 19,
+      "sentiment_avg": 0.16
+    },
+    {
+      "date": "2026-06-15",
+      "event_count": 51,
+      "sentiment_avg": 0.02
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-06-09 ~ 2026-06-15）共 385 則事件，重點為「VLCC orderbook hits record high」。馬士基表現正面，整體氣氛穩健。",
+    "watchlist": [
+      {
+        "company": "三星重工",
+        "reason": "本週出現 8 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "韓華海洋",
+        "reason": "本週出現 19 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "中遠海控",
+        "reason": "本週出現 7 則相關事件，為高關注企業，動態頻繁。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
