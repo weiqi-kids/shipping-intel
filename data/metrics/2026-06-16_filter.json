@@ -1,0 +1,16 @@
+{
+  "total_raw": 352,
+  "dup_title": 146,
+  "no_date": 0,
+  "too_old": 119,
+  "gate1_fail": 18,
+  "gate2_fail": 5,
+  "passed": 64,
+  "gate2_samples": [
+    "Samsung Heavy Industries Submits Remedial Plan to Settle KFTC Probe - imarinenews.com",
+    "Hanwha Ocean to Build Six KDDX Destroyers Featuring AESA Radar, VLS, and IEP Options - Yahoo",
+    "Hanwha Ocean selected for $5.1B destroyer project in South Korea - upi.com",
+    "Hanwha Ocean set as preferred bidder for Korea's $5.1 bn next-generation destroyer program - KED Glo",
+    "COSCO Installs 2GW Converter Platform for China’s Offshore Wind Farm - Marine News Magazine"
+  ]
+}

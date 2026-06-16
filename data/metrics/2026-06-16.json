@@ -1,0 +1,33 @@
+{
+  "date": "2026-06-16",
+  "total_events": 30,
+  "by_company": {
+    "hanwha_ocean": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "maersk": {
+      "count": 1,
+      "sentiment_avg": -0.5
+    }
+  },
+  "by_topic": {
+    "industry_general": {
+      "count": 30,
+      "sentiment_avg": 0.09
+    },
+    "shipbuilding_orders": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "container_freight": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}
