@@ -1,0 +1,202 @@
+{
+  "date": "2026-06-17",
+  "generated_at": "2026-06-17T12:21:53.858582Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-06-17-013",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "UK PM Starmer Calls Channel Incident Involving Russian Warship ‘Reckless’",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://gcaptain.com/uk-pm-starmer-calls-channel-incident-involving-russian-warship-reckless/"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-06-17-032",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Record-breaking Posidonia 2026 delivers deals, dialogue and direction for shipping’s future",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://www.seatrade-maritime.com/event-news/untitled"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-06-17-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "HD KSOE executives meet T.N. CM Vijay on proposed ₹38,000-crore shipbuilding project in Thoothukudi - The Hindu",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOWmFoTzc2M2tVdGNzbUVMVm56MUd4NXhfLW9wVXYzYTZIVjd4Q0Z2WTZFNUdQSnVMX0E1Vm1SMk1kYkJwdkZvVTRUZlZ6V2I2WnNCQ1RSNGNqcW9OMFFzUDVpb0Z5ajZRQnBqSFIyVkpKM3B6QTdMa1JaZFB4UEpqODNGY2c5VnJsb2x3UWNEbDFiMEhHUjJvRkFZUVpRQ0FwSGlCRVJRbXktMTRvOE5RcWJZY1o5M2pGVnhvSDRjNzlVMFpacUhBbEkzWkJUTWNHdmhTRVVRbHlXOTFrb2FQZmxTcWRRN2RLa0ZacDJjc0pQWTJHcHdnNNIB_wFBVV95cUxOa3dCVWs0bElKNUk3azBEb1NYZlI5OV85Q2NENk1HakU0RXpmOEF4dXNvZ3JBZjV0WlN1MnVxT3BYVVFwUWV4Y0RrMmVHVmlXX3pWTVhMX3JvbGp5eWpyS3EwMjB1TkpsRERnU1ZxSmc2NERFUk1jY0tDbzJienFaQ0FBWUlqMFBzTE1mR1N3YkVjaE5BazRSaGN1cGN0WEFhOTJLVUNkSFhDODJRUERVVENvRWFHOXVDMnlRRVNOY3I0dGtBOGdwSW9aZlhKNmFETFdCeU9TUGJQeXl6d2VqTWhoNklkOVJUTmNycHAwaTU0OEJDYllSMTdfYmJ0VGc?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-06-17-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Chief Minister Joseph Vijay and HD Hyundai officials discuss shipbuilding project in Thoothukudi - BusinessLine",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNNElxd1lmcjlkUWxKNEhDQkNfSkpyZU8zdGFQemZ6b1JQdUp1UnBmNVZFd0o2N0R2Z0kyb1ZjbWNCejBvN0kxUnZOUDlPMmFodnd2aHBNb1ZjWlNMeGFTV1VqUnRfTlAxTElqM2E2WDZKYXlrcWZta01TOG5hb18td25LUVRRcU84OUlmbkNRdXdYZ3hhMm9TNVlUN2xlRFlpY2t6ZWFKZEkxQUNZbDB2ZTEtWWNMT0tjQXpxMFMydS1fVlJvWlNfMzBmOFlrN09SZU5sT0Y0c3dzYldhMy1ZY0d2ODZCaE4zUGZxZzc0YTVsaTBxMlHSAfYBQVVfeXFMTTRJcXdZZnI5ZFFsSjRIQ0JDX0pKcmVPM3RhUHpmem9SUHVKdVJwZjVWRXdKNjdEdmdJMm9WY21jQnowbzdJMVJ2TlA5TzJhaHZ3dmhwTW9WY1pTTHhhU1dValJ0X05QMUxJajNhNlg2SmF5a3FmbWtNUzhuYW9fLXduS1FUUXFPODlJZm5DUXV3WGd4YTJvUzVZVDdsZURZaWNremVhSmRJMUFDWWwwdmUxLVljTE9LY0F6cTBTMnUtX1ZSb1pTXzMwZjhZazdPUmVObE9GNHN3c2JXYTMtWWNHdjg2QmhOM1BmcWc3NGE1bGkwcTJR?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "hanwha_ocean-2026-06-17-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Kanata and Hanwha Ocean advance Canadian FLNG project - gasworld",
+      "companies": [
+        "hanwha_ocean"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNLVB1X2huSHJVR3NOcS1EMmVjVTlQekdDbXdJRllnLW1OWTMzekQ5RTdBSHN3MEh0dklQLU43b202UTFWcHRjNGtOSER6YzdsaXpyTlJYc1NmQ2YtRnZxeEozMXV6NVFQUHNfR1dvSmxQMkxhbHcwNlRUYUhrVDNISWE3NUpwQ09fUkNVU21UMUg4V3h4Z0x4UnNiMldGMXNQLVhF?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 31,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.03,
+      "sentiment_7d_avg": null
+    },
+    "shipbuilding_orders": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.25,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 35,
+    "sentiment_distribution": {
+      "positive": 3,
+      "neutral": 31,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "hanwha_ocean",
+        "count": 6
+      },
+      {
+        "id": "evergreen",
+        "count": 1
+      },
+      {
+        "id": "cosco",
+        "count": 1
+      },
+      {
+        "id": "hapag",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 31
+      },
+      {
+        "id": "shipbuilding_orders",
+        "count": 2
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 352,
+    "dup_title": 143,
+    "too_old": 115,
+    "gate1_blocked": 25,
+    "gate2_blocked": 5,
+    "passed": 64,
+    "pass_rate": "30.6%",
+    "gate2_block_rate": "2.4%",
+    "gate2_samples": [
+      "Samsung Heavy Industries Submits Remedial Plan to Settle KFTC Probe - imarinenews.com",
+      "Hanwha Ocean to Build Six KDDX Destroyers Featuring AESA Radar, VLS, and IEP Options - Yahoo",
+      "Hanwha Ocean selected for $5.1B destroyer project in South Korea - upi.com",
+      "COSCO Installs 2GW Converter Platform for China’s Offshore Wind Farm - Marine News Magazine",
+      "Hazardous materials drivers can’t speak English"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 35 則事件，焦點為韓華海洋、長榮海運、中遠海控相關動態：「UK PM Starmer Calls Channel Incident Involving Russian Wa...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "UK PM Starmer Calls Channel Incident Involving Russian Warship ‘Reckless’（航運產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "Record-breaking Posidonia 2026 delivers deals, dialogue and direction for shi...（航運產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

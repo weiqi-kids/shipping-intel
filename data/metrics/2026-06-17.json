@@ -1,0 +1,37 @@
+{
+  "date": "2026-06-17",
+  "total_events": 35,
+  "by_company": {
+    "hanwha_ocean": {
+      "count": 6,
+      "sentiment_avg": 0.0
+    },
+    "evergreen": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "cosco": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "hapag": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "industry_general": {
+      "count": 31,
+      "sentiment_avg": 0.03
+    },
+    "shipbuilding_orders": {
+      "count": 2,
+      "sentiment_avg": 0.25
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}
