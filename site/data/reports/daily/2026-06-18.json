@@ -1,0 +1,237 @@
+{
+  "date": "2026-06-18",
+  "generated_at": "2026-06-18T11:55:10.345867Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "maersk-2026-06-18-027",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "MSC taking stake in Hapag-Lloyd dismissed as ‘fairy tale’",
+      "companies": [
+        "maersk",
+        "hapag"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.seatrade-maritime.com/containers/msc-taking-stake-in-hapag-lloyd-dismissed-as-fairy-tale-"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-06-18-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "S Korea firm meets CM to fast-track Thoothukudi shipbuilding project | The New Indian Express Chennai - newspaper - Magzter",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQaDFuSDF0MU1Xb1N0LVlrcmlRUzQwMVFwR0k1dXRISzN3RzFGTlhfdzdSVUdmU2xOaXRZSEFDSDF1M0taWERnWWVlckhQYUtFR0l0ZmRfTDRWYVdOenhvR1hvS3Z5eEZncS1yRE9zb3BQOVdPaUNNa3ZGQ0IzR1oydVFYWEkyLWNTaTRYQkZDVXltYngwV0llZkFDWTBzeVRuSFVyMkM1VjhLRHItNEN3cHhncFJUTWkxRHZ5a0Y3dUs1TlgtYjFQQUFEZWFTSkE1cDBvcmRidw?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-06-18-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "S Korea firm meets CM Vijay to fast-track Thoothukudi shipbuilding project - The New Indian Express",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOQ0dJT0tQeVM5aGhxZUhubGFzZ3ViaWRJQ252ZE9TeGkwWTdGVTlKd3pIUWUtaDlMQUZMMDJ1V2t5dS15QW84MnJudThOR010UG1WVk1nQ05aUmR0OEJnZjJralQ2NFdEdjF3VktESVlEYzZiY2pHWHhEY1NZV2R0VDlKcDctYXA1cW4tSjlzR2R6MjBocExpM19QcXk4R1diYjBtZ1VKYllhdjNMNDdQMDI0d2l1TmhqOWRWUENYZ2FMZTZNb0htTl9wbXNGZGN4ZUQ00gHgAUFVX3lxTE1tb0dOWHBaS1IzdWkwbEMzTU1fZGQ1TUxxSTBsVUlfSWEyV2FadkxySHo2VmNIa24wcnRwbW5nMGlOQkNOeVhLc2RqTDBzX0hNbjVqTmVYNV9xVGpoR2tSOWdCVzJOenUza19jZmlDZ3I5c2FMb0ZmRms2YTl4ajRHVnZjT0l6b1l4cGdSb0pSWV9rcUViZUQxZXYwcmRFZHFyQTF2emlUUDEyUGxHdkNaVDlJeHg4Tm1RTzdxRTUzVGlxN3NDd0ZEMGFqLUxmZGd5dlJZb2Z0R1dSTkFyYmtr?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-06-18-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "HD Hyundai Heavy Industries Unveils Next-Generation Patrol Vessel, Targets Latin American Maritime Defense Market - 아시아경제",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE96dmhRMmpHRUZ4SFVrUVFQVHZmc1FvM2xKODZKUFlIMGtWdjEyeUVNQnJLOW9aQmNWUVp4dmNnbUZrLTdCdkZRc0ZNQmEtVS1GN2xydTlHQ0g2Vy1kc0F1Y0xBVUw?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "hanwha_ocean-2026-06-18-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Hanwha Ocean reportedly secures KDDX destroyer construction contract - Asian Military Review",
+      "companies": [
+        "hanwha_ocean"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNNFQzMFZEV2F4V1g5YUh4TGVJVHlUVF9mbkJwRXhORUJxZWVpaTZOMl9zb2p6S09xMDBWbmJXUjJ2OEZkQ3NvNmpZTzVfa1h1VkdrVlEtSUlWYXE2bDlLVVBFeDVuWGFiVkRxSklnSk91Mjc4ZDhfS00tN2daTWN3QmxfeGtKdjhGUlMyd3hoeDV1TXFPNDluYW1LNUhxek1DbEM5QmI2OTZJMWtBR1kzTkpmNl81bzk4?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 26,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.02,
+      "sentiment_7d_avg": null
+    },
+    "container_freight": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.25,
+      "sentiment_7d_avg": null
+    },
+    "port_congestion": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.25,
+      "sentiment_7d_avg": null
+    },
+    "shipbuilding_orders": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 27,
+    "sentiment_distribution": {
+      "positive": 3,
+      "neutral": 20,
+      "negative": 4
+    },
+    "top_companies": [
+      {
+        "id": "hanwha_ocean",
+        "count": 2
+      },
+      {
+        "id": "cosco",
+        "count": 2
+      },
+      {
+        "id": "evergreen",
+        "count": 1
+      },
+      {
+        "id": "maersk",
+        "count": 1
+      },
+      {
+        "id": "hapag",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 26
+      },
+      {
+        "id": "container_freight",
+        "count": 2
+      },
+      {
+        "id": "port_congestion",
+        "count": 2
+      },
+      {
+        "id": "shipbuilding_orders",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 352,
+    "dup_title": 136,
+    "too_old": 125,
+    "gate1_blocked": 24,
+    "gate2_blocked": 5,
+    "passed": 61,
+    "pass_rate": "28.2%",
+    "gate2_block_rate": "2.3%",
+    "gate2_samples": [
+      "Samsung Heavy Industries Submits Remedial Plan to Settle KFTC Probe - imarinenews.com",
+      "$15.7 billion floating LNG project on Canada’s horizon as Kanata partners with Hanwha Ocean - Offsho",
+      "Hanwha Ocean to Build Six KDDX Destroyers Featuring AESA Radar, VLS, and IEP Options - Yahoo",
+      "Hanwha Ocean selected for $5.1B destroyer project in South Korea - upi.com",
+      "Hazardous materials drivers can’t speak English"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 27 則事件，焦點為韓華海洋、中遠海控、長榮海運相關動態：「MSC taking stake in Hapag-Lloyd dismissed as ‘fairy tale’」。整體情緒偏負面，需留意潛在風險。",
+    "signals": [
+      {
+        "text": "MSC taking stake in Hapag-Lloyd dismissed as ‘fairy tale’（航運產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "S Korea firm meets CM to fast-track Thoothukudi shipbuilding project | The Ne...（航運產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

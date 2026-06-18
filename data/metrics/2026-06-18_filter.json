@@ -1,0 +1,16 @@
+{
+  "total_raw": 352,
+  "dup_title": 136,
+  "no_date": 1,
+  "too_old": 125,
+  "gate1_fail": 24,
+  "gate2_fail": 5,
+  "passed": 61,
+  "gate2_samples": [
+    "Samsung Heavy Industries Submits Remedial Plan to Settle KFTC Probe - imarinenews.com",
+    "$15.7 billion floating LNG project on Canada’s horizon as Kanata partners with Hanwha Ocean - Offsho",
+    "Hanwha Ocean to Build Six KDDX Destroyers Featuring AESA Radar, VLS, and IEP Options - Yahoo",
+    "Hanwha Ocean selected for $5.1B destroyer project in South Korea - upi.com",
+    "Hazardous materials drivers can’t speak English"
+  ]
+}
