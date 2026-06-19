@@ -1,0 +1,208 @@
+{
+  "date": "2026-06-19",
+  "generated_at": "2026-06-19T12:13:24.106944Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-06-19-009",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Splash Wrap: ‘Ships of the world, start your engines’",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://splash247.com/splash-wrap-ships-of-the-world-start-your-engines/"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-06-19-017",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Forwarders face profitability test as freight markets look set to stabilise",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://theloadstar.com/forwarders-face-profitability-test-as-freight-markets-look-set-to-stabilise/"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-06-19-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Does Trump Spur South Korea-US Shipbuilding Push? - Businesskorea",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5CNzdURGRObG9hT3Jjb1pIdDhhcGpiZFFyZ19YVlRzVVNJc2dnR1RucmdoaW9vMURmZjhOSXJUb2xYYXYtcXBaTGdKdl9KVklvaTlRNHlPVlJKMUZBVDk3SXVvMUl4Vkl6U2h1SHg5Qk9PbjI5?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-06-19-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "New container route focus, Wan Hai NE1 service sharpens its niche - AD HOC NEWS",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPanZXZUlEbFREZnRFZ0JoR3F1Mmlaa29UVURJWm1UMmF1ZVJ4NGs3blFnVzY4NVhKdUo4bUtWMTZjcWZxR01DbVZoSkcxSUx3RVdMR0I3UG1uNWZ1THAwWldwQlg3LXJydUhlQkl5Q091YTdCR0F2TS11ckVfUnp2eFViZ29RdklUa3BJZzhlc1Q0NzJJYUhncHVaRjNrUGpGbnAwZENBNm5wQ2RmZXIyOURTRHI1c3hVc3h1ZFRfNjk?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-06-19-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Container Vessel News Roundup | June 19 – Deliveries to French and Greek operators, additional European orders and more - Baird Maritime",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNelI4RW9tb21XVDZObURwaElqcW1PMk9NVzJQc0hEQ2MybnF1QkVrMU9lcTEwNFRiTGV1TElHdWE0VW1ST3NiODdVb1k3UzM3cG9fUzJnamdpM2lvQ1JFWmU2QW5VMUl3ZElqMXpjcHFXVXRwNVNfMFNtWjN4dzkxNzYyZktmdmkxazNjUmpvZzVVZGs2SjQ4cXJPVHhueEM2QktfU0luTFgyYTZIc0Vqb0YtYUNnWmNwejBGRG02Yi1kMEloNkZrYUdyUUJtUjZRSVExWHA1RjJOZGkyaU1KMmJ3TU1TbmpLd3FJMTB2MkZIYnll0gGCAkFVX3lxTE42elV0YXdnc25SYVhGbElfWHlWRGhnNTVqRFZMZVJ6SnhBM2xNeTE0b0RxdDI5QVhDdl9XU3V6NU5UNEo2UW9LS2czbEdxTXRFeVJhYWxCa1NIbE9IS0dfQ1NWUnNYbkxsOGU3b3pMUEVJVkRJeUVhbzc4VHhYeTB0V2F2YXZta3N6QkRCWmdDLXRnUUtiYmJIaWV2U1ZmNm9Db0VHNDVycEUxYUZVdExDWG1qY19nZUFTRHFkYU9pOF9Jam1QMDdSUVVNY2Qwc3FwWHpCVFQ5UHRNcGJacmRnakVpQWJRTlZOdFZDS1N4RDZuWFY3Y2drZHFWZE04X0R0dw?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 23,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.07,
+      "sentiment_7d_avg": null
+    },
+    "shipbuilding_orders": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "dry_bulk_rate": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 23,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 18,
+      "negative": 4
+    },
+    "top_companies": [
+      {
+        "id": "cosco",
+        "count": 2
+      },
+      {
+        "id": "hapag",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 23
+      },
+      {
+        "id": "shipbuilding_orders",
+        "count": 2
+      },
+      {
+        "id": "dry_bulk_rate",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 352,
+    "dup_title": 147,
+    "too_old": 116,
+    "gate1_blocked": 21,
+    "gate2_blocked": 6,
+    "passed": 61,
+    "pass_rate": "29.8%",
+    "gate2_block_rate": "2.9%",
+    "gate2_samples": [
+      "Samsung Heavy Industries Submits Remedial Plan to Settle KFTC Probe - imarinenews.com",
+      "$15.7 billion floating LNG project on Canada’s horizon as Kanata partners with Hanwha Ocean - Offsho",
+      "Hanwha Ocean to Build Six KDDX Destroyers Featuring AESA Radar, VLS, and IEP Options - Yahoo",
+      "Hanwha Ocean selected for $5.1B destroyer project in South Korea - upi.com",
+      "Teamsters to fight UPS over alleged use of nonunion drivers"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 23 則事件，焦點為中遠海控、赫伯羅特相關動態：「Splash Wrap: ‘Ships of the world, start your engines’」。整體情緒偏負面，需留意潛在風險。",
+    "signals": [
+      {
+        "text": "Splash Wrap: ‘Ships of the world, start your engines’（航運產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "Forwarders face profitability test as freight markets look set to stabilise（航運產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
