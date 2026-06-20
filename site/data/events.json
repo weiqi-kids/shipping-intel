@@ -18,6 +18,102 @@
     ]
   },
   {
+    "id": "unknown-2026-06-20-002",
+    "date": "2026-06-20",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Shipbuilders Float Data Centers at Sea for AI Demand - 조선일보",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxObW1ZZGNudFd6djY1WlNBN3Q3Z3RHVjVZMkdVRHdNbHlTMlVlSk1oU3BMYldKSDFEMDRQYVQtREZYeGIwN0gyVnkwakU3d19JbmZieHNZX1pMdF9WbGVsNTR2NVZKbE5LX3lVU3FTcG",
+    "sources": [
+      {
+        "name": "samsung_heavy",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxObW1ZZGNudFd6djY1WlNBN3Q3Z3RHVjVZMkdVRHdNbHlTMlVlSk1oU3BMYldKSDFEMDRQYVQtREZYeGIwN0gyVnkwakU3d19JbmZieHNZX1pMdF9WbGVsNTR2NVZKbE5LX3lVU3FTcGt5aUhxd0NNWkc4ajd1VE9vN3NEaWpiRnJK?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "cosco-2026-06-20-003",
+    "date": "2026-06-20",
+    "companies": [
+      "cosco"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "negative",
+    "title": "Morning Market Update | COSCO Shipping Development Plunges More Than 3%, Hitting a 52-week Low. - 富途牛牛",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxPRFBCLTVPU0ZaOHlhXzVDZFB0aFpGVDBRM29pWWN3LWNOaGJpMVQ5dnFGbnkyVlV1TW9oYnRlWGJpcGJucTFsai1OaENQQmhOTkk5RERJS0QwWXVRNDY4eVZLWGVQYWZ3alZpc0gzLU",
+    "sources": [
+      {
+        "name": "cosco",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPRFBCLTVPU0ZaOHlhXzVDZFB0aFpGVDBRM29pWWN3LWNOaGJpMVQ5dnFGbnkyVlV1TW9oYnRlWGJpcGJucTFsai1OaENQQmhOTkk5RERJS0QwWXVRNDY4eVZLWGVQYWZ3alZpc0gzLUM0U1NDeVREWVgxbzhZakZ4MXZDaGlaR1IxcnBoczZ4dmE5czFyeTVGdGZhUUZRbjBWV2N3YTN5dUtvN01JS0E?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "star_bulk-2026-06-20-004",
+    "date": "2026-06-20",
+    "companies": [
+      "star_bulk"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "577,316 Shares in Star Bulk Carriers Corp. $SBLK Bought by Fearnley Asset Management AS - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3gFBVV95cUxORWlXMWExcGxsdmNuTkZmNlpvVDdYRVBfd0Y2d0hHOUNDSV80UmhQTnktejR2Qk1HZjhfcmNXZk9IdmtHTTNsMUYxWHlwdkZSN09LTEk4clI4S2RBRzd1LVUwVnpHX3UxT3FIaXhRaz",
+    "sources": [
+      {
+        "name": "star_bulk",
+        "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxORWlXMWExcGxsdmNuTkZmNlpvVDdYRVBfd0Y2d0hHOUNDSV80UmhQTnktejR2Qk1HZjhfcmNXZk9IdmtHTTNsMUYxWHlwdkZSN09LTEk4clI4S2RBRzd1LVUwVnpHX3UxT3FIaXhRazJtV2p3WlRtRTR6MFhLd3U1QVBnV0F6TzJiTnlvV3Nua3BFNnBXZ2RaVnFrLTBQOUF5NmNsSEgyQzI2N3VRS2hYRmRLd3lSdzdqQTRIWTVIVTRPM2RzT0xVWU0yOHlVZWtURU92MXJpYVFOelhyREE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "star_bulk-2026-06-20-005",
+    "date": "2026-06-20",
+    "companies": [
+      "star_bulk"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Star Bulk Carriers Corp (SBLK) Earnings Forecast: Future EPS & Revenue Growth Estimates - TradingKey",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTFBoMFBFQUozbG1XdGZ1U24xTnczek5HZVBZbnJxRlh1Zm1BbTBLU0ttTXFsX3R2d01sZ25sRnJISEgwZlhvT3hrYnVBMlE3c3NGTlJYNFE0al9PeWdncElPeU5haFZUM1d4VkRiX0oxRQ",
+    "sources": [
+      {
+        "name": "star_bulk",
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBoMFBFQUozbG1XdGZ1U24xTnczek5HZVBZbnJxRlh1Zm1BbTBLU0ttTXFsX3R2d01sZ25sRnJISEgwZlhvT3hrYnVBMlE3c3NGTlJYNFE0al9PeWdncElPeU5haFZUM1d4VkRiX0oxRQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-20-006",
+    "date": "2026-06-20",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Strait of Hormuz ship transits – two routes, two sets of rules",
+    "summary": "Shipowners hoping for a return to normal in the Strait of Hormuz instead face a choice between differently administered northern and southern routes",
+    "sources": [
+      {
+        "name": "seatrade_maritime",
+        "url": "https://www.seatrade-maritime.com/security/strait-of-hormuz-ship-transits-two-routes-two-sets-rules",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "unknown-2026-06-19-001",
     "date": "2026-06-19",
     "companies": [],
@@ -436,6 +532,443 @@
       {
         "name": "seatrade_maritime",
         "url": "https://www.seatrade-maritime.com/dry-bulk/will-the-us-iran-ceasefire-ease-fertiliser-crisis-",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "hanwha_ocean-2026-06-19-024",
+    "date": "2026-06-19",
+    "companies": [
+      "hanwha_ocean"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Hanwha Ocean signs MoU with Kanata Clean Power for proposed FLNG project in Canada - LNG Industry",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxQQnd6MlVfQW9oaVhjajFEd1dYelJwM3BLMkYtWFNDamFTM0NfX3ZiX3FrSzJSNkRxWF9LbXdGaFhoVzZIT2o1VVEyLUJaZm9wQU8zSEFneFo1RnNLaXBIcFNmaWRoXzVKd3hsRVZSQ2",
+    "sources": [
+      {
+        "name": "hanwha_ocean",
+        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQQnd6MlVfQW9oaVhjajFEd1dYelJwM3BLMkYtWFNDamFTM0NfX3ZiX3FrSzJSNkRxWF9LbXdGaFhoVzZIT2o1VVEyLUJaZm9wQU8zSEFneFo1RnNLaXBIcFNmaWRoXzVKd3hsRVZSQ2hRLXN4TkYwa3gtaVd2ODl2MXZJeGk5OWpBZ3V5X3hIQ0xSNnEwMDZxZG5rSE5SRmNyYjZTVGRWbDBJdGpXem5lMUgweUZuc3lFdkJLY2l5blVfdjFGTHppd1NCc3hYQlJhUmNF0gHTAUFVX3lxTFBCd3oyVV9Bb2hpWGNqMUR3V1h6UnAzcEsyRi1YU0NqYVMzQ19fdmJfcWtLMlI2RHFYX0ttd0ZoWGhXNkhPajVVUTItQlpmb3BBTzNIQWd4WjVGc0tpcEhwU2ZpZGhfNUp3eGxFVlJDaFEtc3hORjBreC1pV3Y4OXYxdkl4aTk5akFndXlfeEhDTFI2cTAwNnFkbmtITlJGY3JiNlNUZFZsMEl0ald6bmUxSDB5Rm5zeUV2QktjaXluVV92MUZMeml3U0JzeFhCUmFSY0U?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-19-025",
+    "date": "2026-06-19",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Trumps asks if South Korea can quickly build 10 naval vessels - KED Global",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE9jZHhKVGFlWjRlTE9peW1kRlR6aHVZa1lrYng4bFZVSHdGQXVpdnVjZElNZjhDY1JEaGtWMjRLZnpzS2xtMnNQOVpoUTlmQTROUnFDY01zeTBzdktIVExncFhKRlRvcTBaUThjMC1nQi",
+    "sources": [
+      {
+        "name": "hanwha_ocean",
+        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9jZHhKVGFlWjRlTE9peW1kRlR6aHVZa1lrYng4bFZVSHdGQXVpdnVjZElNZjhDY1JEaGtWMjRLZnpzS2xtMnNQOVpoUTlmQTROUnFDY01zeTBzdktIVExncFhKRlRvcTBaUThjMC1nQi1RTHVFRHlUS3FYTWM?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "evergreen-2026-06-19-026",
+    "date": "2026-06-19",
+    "companies": [
+      "evergreen"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Evergreen Marine Shares - Weekly review in a muted container shipping sector - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxQVWZqMGFEWXg3Zk5NTm04MFQ1NVFjS0RxQjY4N0dpNnZncmZnR2Y5QjdaZTRFR2l2N21BQXg1VGQ0N0R3THdRZWFaZzNwdE5UUWVUd1otOGZkZFczaGpCMWhyY0NvTnNBYnlRM2RudG",
+    "sources": [
+      {
+        "name": "evergreen",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQVWZqMGFEWXg3Zk5NTm04MFQ1NVFjS0RxQjY4N0dpNnZncmZnR2Y5QjdaZTRFR2l2N21BQXg1VGQ0N0R3THdRZWFaZzNwdE5UUWVUd1otOGZkZFczaGpCMWhyY0NvTnNBYnlRM2RudGVDZXFHeEJMN2RQeW12Y2x0RWdZUmlaTkZQYnBvOTg1aTJjaTFpSzFZUG9lUFJCT21FSGFwYzlSUXY3azBzU0IzMFc4bVc2VFNGbzNNeF9pSlo2Y29H?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "cosco-2026-06-19-027",
+    "date": "2026-06-19",
+    "companies": [
+      "cosco"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "negative",
+    "title": "Morning Market Update | COSCO Shipping Holdings Plunges More Than 3% as the Strait of Hormuz May Reopen. - 富途牛牛",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxNcVdldkV0dzNFM0hWVndxUUhSc1RoLXozYzA2Qm9SVVVQYnBwcERZd19jb21xTENZNDFvZ1FTUi1MN0YtbG0tdUUtMlNYQmExQUU3Z2s3aVJPcU9oMEtTeW1CdDFEOUpTZ1AxYWMyYU",
+    "sources": [
+      {
+        "name": "cosco",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNcVdldkV0dzNFM0hWVndxUUhSc1RoLXozYzA2Qm9SVVVQYnBwcERZd19jb21xTENZNDFvZ1FTUi1MN0YtbG0tdUUtMlNYQmExQUU3Z2s3aVJPcU9oMEtTeW1CdDFEOUpTZ1AxYWMyYUJjNGtRbzdicC1lWHh3YkQwcmFGTUFvTF9yblVtanI0Nld4Q3ByTlJhdmZ0Z29KRTZtaWphVV9vTERNZw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-19-028",
+    "date": "2026-06-19",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Dali Chief Engineer Admits Criminal Conduct in Baltimore Bridge Allision",
+    "summary": "Federal prosecutors have reached a deferred prosecution agreement with the chief engineer of the containership Dali, with the veteran Indian mariner admitting to conduct constituting a criminal violat",
+    "sources": [
+      {
+        "name": "gcaptain",
+        "url": "https://gcaptain.com/dali-chief-engineer-admits-criminal-conduct-in-baltimore-bridge-allision/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-19-029",
+    "date": "2026-06-19",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Genco’s Proxy Victory Caps Months of Fighting With Diana Shipping",
+    "summary": "The overwhelming re-election of Genco Shipping &#38; Trading&#8217;s board this week marked the latest chapter in a takeover battle that has pitted two of the dry bulk industry&#8217;s best-known name",
+    "sources": [
+      {
+        "name": "gcaptain",
+        "url": "https://gcaptain.com/gencos-proxy-victory-caps-months-of-fighting-with-diana-shipping/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-19-030",
+    "date": "2026-06-19",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "More Than 20 Million Barrels Leave Iran as Post-War Oil Trade Reawakens",
+    "summary": "Iran is shipping large amounts of oil that had previously been held back by a US blockade, a potential boost for Tehran after it signed an interim peace deal with Washington on Wednesday.",
+    "sources": [
+      {
+        "name": "gcaptain",
+        "url": "https://gcaptain.com/more-than-20-million-barrels-leave-iran-as-post-war-oil-trade-reawakens/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-19-031",
+    "date": "2026-06-19",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "negative",
+    "title": "Oil Shipments Rise in Hormuz Although Questions Grow Over Iran’s Transit Terms",
+    "summary": "Oil shipments through the Strait of Hormuz picked up on Friday after the United States and Iran signed a ceasefire deal, with Gulf producers preparing to raise exports despite concerns over conditions",
+    "sources": [
+      {
+        "name": "gcaptain",
+        "url": "https://gcaptain.com/oil-shipments-rise-in-hormuz-although-questions-grow-over-irans-transit-terms/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-19-032",
+    "date": "2026-06-19",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "EU Closes Russian LNG Loophole, Barring European Shipowners and Buyers From Global Trade in Yamal Cargoes",
+    "summary": "The European Union has clarified that its upcoming ban on Russian liquefied natural gas extends far beyond imports into Europe, prohibiting EU operators from transporting, trading or marketing Russian",
+    "sources": [
+      {
+        "name": "gcaptain",
+        "url": "https://gcaptain.com/eu-closes-russian-lng-loophole-barring-european-shipowners-and-buyers-from-global-trade-in-yamal-cargoes/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-19-033",
+    "date": "2026-06-19",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Iran Oil Surges as Seven Supertankers Sail After Blockade Lifts",
+    "summary": "Iranian crude oil flows appeared to surge following the lifting of a months-long US naval blockade on the Islamic Republic’s ports, even as visible traffic from its neighbors thinned.",
+    "sources": [
+      {
+        "name": "gcaptain",
+        "url": "https://gcaptain.com/iran-oil-surges-as-seven-supertankers-sail-after-blockade-lifts/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-19-034",
+    "date": "2026-06-19",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Easterly Clear Ocean Tranche I Delivers Strong Investor Returns",
+    "summary": "\n                Easterly Clear Ocean (“ECO” or “the Company”), a maritime investment platform and Strategic Partner of Easterly Asset Management, today announced the...\n            ",
+    "sources": [
+      {
+        "name": "maritime_executive",
+        "url": "https://maritime-executive.com/article/easterly-clear-ocean-tranche-i-delivers-strong-investor-returns",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-19-035",
+    "date": "2026-06-19",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Solomon Islands Intercept Shadowy Vessel Suspected of International Crimes",
+    "summary": "\n                The Royal Solomon Islands Police Force (RSIPF), Solomon Islands Customs, and Immigration conducted a joint operation working with international author...\n            ",
+    "sources": [
+      {
+        "name": "maritime_executive",
+        "url": "https://maritime-executive.com/article/solomon-islands-intercept-shadowy-vessel-suspected-of-international-crimes",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-19-036",
+    "date": "2026-06-19",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "negative",
+    "title": "Pirates Become More Aggressive Using Gunfire in Attempts to Board Ships",
+    "summary": "\n                The frequency and brazenness of pirate attacks in the Gulf of Aden and along the Somali coast continue to increase, with the authorities warning ships...\n            ",
+    "sources": [
+      {
+        "name": "maritime_executive",
+        "url": "https://maritime-executive.com/article/pirates-become-more-aggressive-using-gunfire-in-attempts-to-board-ships",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-19-037",
+    "date": "2026-06-19",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Master and Pilot at Fault as Bulker Contacted Wharf During Departure",
+    "summary": "\n                Failure by the master and pilot of the bulk carrier Pacific Century to clearly discuss and agree on the departure procedures caused the vessel to make...\n            ",
+    "sources": [
+      {
+        "name": "maritime_executive",
+        "url": "https://maritime-executive.com/article/master-and-pilot-at-fault-as-bulker-contacted-wharf-during-departure",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-19-038",
+    "date": "2026-06-19",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Japanese Ro-Ro Cargo Ferry Goes Hard Aground on Its Way to Tokyo",
+    "summary": "\n                A Japanese cargo ferry making its way from Osaka to Tokyo went hard aground overnight. While there were no immediate reports of damage or environmenta...\n            ",
+    "sources": [
+      {
+        "name": "maritime_executive",
+        "url": "https://maritime-executive.com/article/japanese-ro-ro-cargo-ferry-goes-hard-aground-on-its-way-to-tokyo",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-19-039",
+    "date": "2026-06-19",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Diana Reaffirms Offer to Acquire Genco After Losing Proxy Fight",
+    "summary": "\n                After losing its proxy fight to place two new directors on Genco’s board, Diana Shipping issued a statement reconfirming its commitment to its outstan...\n            ",
+    "sources": [
+      {
+        "name": "maritime_executive",
+        "url": "https://maritime-executive.com/article/diana-reaffirms-offer-to-acquire-genco-after-losing-proxy-fight",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-19-040",
+    "date": "2026-06-19",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Video: Mexican Patrol Boat Loses Control and Hits Docked Ferry",
+    "summary": "\n                A Mexican patrol boat maneuvering in the port at Isla Mujeres lost control and hit a docked ferry on Thursday afternoon, June 18. There were no injuri...\n            ",
+    "sources": [
+      {
+        "name": "maritime_executive",
+        "url": "https://maritime-executive.com/article/video-mexican-patrol-boat-loses-control-and-hits-docked-ferry",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-19-041",
+    "date": "2026-06-19",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "JMIC Warns of Confirmed Mine in Hormuz as Uncertainties Continue",
+    "summary": "\n                While reports indicate that traffic in the Strait of Hormuz is increasing, many shipowners have still voiced concern largely because of the unknown th...\n            ",
+    "sources": [
+      {
+        "name": "maritime_executive",
+        "url": "https://maritime-executive.com/article/jmic-warns-of-confirmed-mine-in-hormuz-as-uncertainties-continue",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-19-042",
+    "date": "2026-06-19",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "negative",
+    "title": "One Seafarer Killed, More Injured as Russia Attacks Ships off Ukraine",
+    "summary": "\n                Ukrainian government officials are denouncing Russia’s increased attacks on commercial shipping in and around Ukraine’s seaports. For more than a mont...\n            ",
+    "sources": [
+      {
+        "name": "maritime_executive",
+        "url": "https://maritime-executive.com/article/one-seafarer-killed-more-injured-as-russia-attacks-ships-off-ukraine",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-19-043",
+    "date": "2026-06-19",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Volvo and AVI-SPL launch driverless freight operations on Texas corridor",
+    "summary": "<p>AVI-SPL and Volvo Autonomous Solutions launch driverless freight on Dallas-Houston lane using Aurora-powered Volvo VNL trucks for audio-visual equipment transport.</p>\n<p>The post <a href=\"https://",
+    "sources": [
+      {
+        "name": "freightwaves",
+        "url": "https://www.freightwaves.com/news/avi-spl-volvo-autonomous-freight-dallas-houston",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-19-044",
+    "date": "2026-06-19",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Highway looks to become the ‘Plaid for Freight’ as cargo theft goes direct",
+    "summary": "<p>The freight industry stands at a crossroads that looks remarkably familiar to anyone who remembers the early days of fintech. Before Plaid became the connective tissue linking bank accounts to lend",
+    "sources": [
+      {
+        "name": "freightwaves",
+        "url": "https://www.freightwaves.com/news/highway-plaid-for-freight-cargo-theft",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-19-045",
+    "date": "2026-06-19",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Container shipping faces 3-month recovery as Strait of Hormuz set to reopen - Air Cargo News",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxQR1pLZUxWS0I2bXlVNld3M2NYSFFXN1p2Y2FNbHJDeFdKeWFLTXh4X3l1RnEyNVVGWUgyVU0zREdmd1dKb2c4NGEzc2hXaFZsWUN2VzJ5ZFlTdVlDVHdfTWpQMW1iUVdGTUtkM0ZhcD",
+    "sources": [
+      {
+        "name": "google_container_shipping",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQR1pLZUxWS0I2bXlVNld3M2NYSFFXN1p2Y2FNbHJDeFdKeWFLTXh4X3l1RnEyNVVGWUgyVU0zREdmd1dKb2c4NGEzc2hXaFZsWUN2VzJ5ZFlTdVlDVHdfTWpQMW1iUVdGTUtkM0ZhcDYySWNhYXB6RlVqdU0zSEkycDZCTVhfekR4WEQ1enVXRTV4VjN2WlUyM29vS3pxb21qMFA1OXpNeDZMTDFOQ2hrV1QwSHFPRDcySWd1QUVxT3Y?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-19-046",
+    "date": "2026-06-19",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "US-Iran deal to reopen Strait of Hormuz— but full container shipping recovery at least three months away - American Journal of Transportation",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxOVHliZXhkZEo0RVQ3bXloQjlCdE9EamdFalRTTkIzOHlPVm5vYUg3ejhoWGNsaHBnZjNEU2JtZGRNdmxpcEJRUzZhMUtYTnlScXAwWHJGNnFaY0ZYTjh0X3plNWNqanZMdjVxNkltWF",
+    "sources": [
+      {
+        "name": "google_container_shipping",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOVHliZXhkZEo0RVQ3bXloQjlCdE9EamdFalRTTkIzOHlPVm5vYUg3ejhoWGNsaHBnZjNEU2JtZGRNdmxpcEJRUzZhMUtYTnlScXAwWHJGNnFaY0ZYTjh0X3plNWNqanZMdjVxNkltWFBSajd6R0VoamVpbUFBRFdfRHRNc3h2NDZnbWdQanV3OVVycnBnUndPUVUyWjU4SDFnTDhVWUJtZ0lxN1hfREdUS2xlNG50YVJVcFVUSGVvN3Q0MU5sRjJIQQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-19-047",
+    "date": "2026-06-19",
+    "companies": [],
+    "topics": [
+      "container_freight",
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Spot rates surge again as carriers push through fresh July hikes",
+    "summary": "<p>A series of container freight spot rate hikes and general rate increases implemented on 15 June prompted another week of double-digit price rises on the transpacific and Asia-Europe trades.<br />\nT",
+    "sources": [
+      {
+        "name": "loadstar",
+        "url": "https://theloadstar.com/spot-rates-surge-again-as-carriers-push-through-fresh-july-hikes/",
         "type": "rss"
       }
     ]
@@ -1553,6 +2086,44 @@
       {
         "name": "seatrade_maritime",
         "url": "https://www.seatrade-maritime.com/containers/msc-bid-for-hapag-lloyd-would-test-hamburg-loyalties",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "hanwha_ocean-2026-06-18-062",
+    "date": "2026-06-18",
+    "companies": [
+      "hanwha_ocean"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Hanwha Ocean's Undelivered Arctic LNG Carriers: Sanctions, Costs, and Buyer Search - News and Statistics - IndexBox",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxQczBzMTZfVDlDWjNRblBmYWNmWGJfaWsxQUtGa0ZpYzZkelN5VzVycy1xYVBxaEVjRUc4V3E5WTUyTlVwSUdXbGlGb3h6Rm5LZnZzOWg4aUp5QXdLVzY1RzQteUNsVzNQNUVHMXVnQT",
+    "sources": [
+      {
+        "name": "hanwha_ocean",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQczBzMTZfVDlDWjNRblBmYWNmWGJfaWsxQUtGa0ZpYzZkelN5VzVycy1xYVBxaEVjRUc4V3E5WTUyTlVwSUdXbGlGb3h6Rm5LZnZzOWg4aUp5QXdLVzY1RzQteUNsVzNQNUVHMXVnQTdoVnQ0RmVLWkgtRlhoUlpBRUh4alEwV29OTGJmbzQ1aEZNN2cwdzNROTlVbGtmTUNLODZ6THJUWQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-18-063",
+    "date": "2026-06-18",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Three Saudi-flagged supertankers sail through Hormuz after Iran deal signed, data shows - Reuters",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxPOWdZLXp2TVRxbkY3elZISTVjUE15c3EtXy1LM1pCbWlGWDVGUGxOYnlHNlpBTkExeDlpUFRsaERpNHBpNFdhTG81TDdOaVB3NlRTVjVOX3lrZmtGVHZDamFDR3hFS3FsaGw5SElCUG",
+    "sources": [
+      {
+        "name": "cosco",
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPOWdZLXp2TVRxbkY3elZISTVjUE15c3EtXy1LM1pCbWlGWDVGUGxOYnlHNlpBTkExeDlpUFRsaERpNHBpNFdhTG81TDdOaVB3NlRTVjVOX3lrZmtGVHZDamFDR3hFS3FsaGw5SElCUGFqaVdKMktUd1FnZ1hzR1ZNS19fRjFHQVY2XzBEc0s2LWR6aHk2OUZGN2dSdEZJMTBtdzdiRTdNOW4zQ1FZRnFSVVVGa1pNSVJUdVkwa3RNckhCMWJGQzlMSExXMjc5WkE?oc=5",
         "type": "rss"
       }
     ]
@@ -5399,6 +5970,26 @@
       {
         "name": "google_container_shipping",
         "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPMzdxMG1RWnBaVDdYdXR5SjdYTHhuT2xWcXdYdmR4QmwxelUwVTVnU1VmNVlRNHpWUFpxOEFoN1lacG9vc1ZkXzl1ZHJ1Z05hbFpyeGZYakR4UEdkaWhQRmVsMkpHNDJVdkszaU00VXNCbkNSMnRJaUYyMVNrQTZvd2NWT2tRUVRzRkllV3V3NUQ2d2lRU3FrRlc1V3dGYktPam1tVlZFTlgtX28?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "cosco-2026-06-15-083",
+    "date": "2026-06-15",
+    "companies": [
+      "cosco"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Hong Kong Stock Market Alert | COSCO Shipping Energy (01138) Surges Over 20% as US and Iran Reach Peace Agreement; Tanker Fleet Utilization Rates Expected to Rebound to High Levels - 富途牛牛",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxPakhGUEhsMjhKSmpUVzV0TVRhZVU0bGdOcGk4MFo0dEdnbGF1TF9yZEFTRzRJTWVINzc2dWVVWjRkR09QMGhyNHNyTXVjUjBoUzNkUXV5ZEtwM3FKRFEwZmwyeDdUUkF0SUUzR0Z1cX",
+    "sources": [
+      {
+        "name": "cosco",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPakhGUEhsMjhKSmpUVzV0TVRhZVU0bGdOcGk4MFo0dEdnbGF1TF9yZEFTRzRJTWVINzc2dWVVWjRkR09QMGhyNHNyTXVjUjBoUzNkUXV5ZEtwM3FKRFEwZmwyeDdUUkF0SUUzR0Z1cXBWYmZrdVU5Zld0Zl9BQXZyNVAtR3N0YWNoYV81VVdNN25GUnVrN3RuMjdEd1FqNnZMUTdpTTg2UQ?oc=5",
         "type": "rss"
       }
     ]

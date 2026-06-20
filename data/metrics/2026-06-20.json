@@ -1,0 +1,25 @@
+{
+  "date": "2026-06-20",
+  "total_events": 6,
+  "by_company": {
+    "cosco": {
+      "count": 1,
+      "sentiment_avg": -1.0
+    },
+    "star_bulk": {
+      "count": 2,
+      "sentiment_avg": 0.25
+    }
+  },
+  "by_topic": {
+    "industry_general": {
+      "count": 6,
+      "sentiment_avg": -0.08
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}

@@ -1,0 +1,184 @@
+{
+  "date": "2026-06-20",
+  "generated_at": "2026-06-20T10:36:52.568387Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "cosco-2026-06-20-003",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Morning Market Update | COSCO Shipping Development Plunges More Than 3%, Hitting a 52-week Low. - 富途牛牛",
+      "companies": [
+        "cosco"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPRFBCLTVPU0ZaOHlhXzVDZFB0aFpGVDBRM29pWWN3LWNOaGJpMVQ5dnFGbnkyVlV1TW9oYnRlWGJpcGJucTFsai1OaENQQmhOTkk5RERJS0QwWXVRNDY4eVZLWGVQYWZ3alZpc0gzLUM0U1NDeVREWVgxbzhZakZ4MXZDaGlaR1IxcnBoczZ4dmE5czFyeTVGdGZhUUZRbjBWV2N3YTN5dUtvN01JS0E?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-06-20-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "U.S. Completes 65th Lethal Strike on Suspected Smuggling Boat",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://maritime-executive.com/article/u-s-completes-65th-lethal-strike-on-suspected-smuggling-boat"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-06-20-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Shipbuilders Float Data Centers at Sea for AI Demand - 조선일보",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxObW1ZZGNudFd6djY1WlNBN3Q3Z3RHVjVZMkdVRHdNbHlTMlVlSk1oU3BMYldKSDFEMDRQYVQtREZYeGIwN0gyVnkwakU3d19JbmZieHNZX1pMdF9WbGVsNTR2NVZKbE5LX3lVU3FTcGt5aUhxd0NNWkc4ajd1VE9vN3NEaWpiRnJK?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "star_bulk-2026-06-20-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "577,316 Shares in Star Bulk Carriers Corp. $SBLK Bought by Fearnley Asset Management AS - MarketBeat",
+      "companies": [
+        "star_bulk"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxORWlXMWExcGxsdmNuTkZmNlpvVDdYRVBfd0Y2d0hHOUNDSV80UmhQTnktejR2Qk1HZjhfcmNXZk9IdmtHTTNsMUYxWHlwdkZSN09LTEk4clI4S2RBRzd1LVUwVnpHX3UxT3FIaXhRazJtV2p3WlRtRTR6MFhLd3U1QVBnV0F6TzJiTnlvV3Nua3BFNnBXZ2RaVnFrLTBQOUF5NmNsSEgyQzI2N3VRS2hYRmRLd3lSdzdqQTRIWTVIVTRPM2RzT0xVWU0yOHlVZWtURU92MXJpYVFOelhyREE?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "star_bulk-2026-06-20-005",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Star Bulk Carriers Corp (SBLK) Earnings Forecast: Future EPS & Revenue Growth Estimates - TradingKey",
+      "companies": [
+        "star_bulk"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBoMFBFQUozbG1XdGZ1U24xTnczek5HZVBZbnJxRlh1Zm1BbTBLU0ttTXFsX3R2d01sZ25sRnJISEgwZlhvT3hrYnVBMlE3c3NGTlJYNFE0al9PeWdncElPeU5haFZUM1d4VkRiX0oxRQ?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 6,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.08,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 6,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 4,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "star_bulk",
+        "count": 2
+      },
+      {
+        "id": "cosco",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 6
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 342,
+    "dup_title": 163,
+    "too_old": 124,
+    "gate1_blocked": 17,
+    "gate2_blocked": 5,
+    "passed": 32,
+    "pass_rate": "17.9%",
+    "gate2_block_rate": "2.8%",
+    "gate2_samples": [
+      "Samsung Heavy Industries Submits Remedial Plan to Settle KFTC Probe - imarinenews.com",
+      "Hanwha Ocean to Build Six KDDX Destroyers Featuring AESA Radar, VLS, and IEP Options - Yahoo",
+      "$15.7 billion floating LNG project on Canada’s horizon as Kanata partners with Hanwha Ocean - Offsho",
+      "Hanwha Ocean Canadian Partners for CPSP - Canadian Defence Review",
+      "Teamsters to fight UPS over alleged use of nonunion drivers"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 6 則事件，焦點為Star Bulk Carriers、中遠海控相關動態：「Morning Market Update | COSCO Shipping Development Plunge...」。主要關注主題為航運產業通用，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Morning Market Update | COSCO Shipping Development Plunges More Than 3%, Hitt...（航運產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "U.S. Completes 65th Lethal Strike on Suspected Smuggling Boat（航運產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
