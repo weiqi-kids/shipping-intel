@@ -1,0 +1,147 @@
+{
+  "date": "2026-06-21",
+  "generated_at": "2026-06-21T11:20:59.174673Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-06-21-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "LNG Carriers Pull the Load, Warships Push Ahead: Shipbuilders Set for a Stronger Second Quarter - 매일경제",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1BUkwzdmwwTTNDWE0xWnlka3JPTVh2UE9mcXNoNFQxQ3FocUJyQTdmc19aeUw1aTY0VDAtTlhWT2lnUG9ZVUpNZ3BDOXFnc2pLZER3?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-06-21-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Iran Resumes Kharg Island Oil Loadings After US Blockade Lifted",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://gcaptain.com/iran-resumes-kharg-island-oil-loadings-after-us-blockade-lifted/"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-06-21-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Borderlands Mexico: Echo bets on Mexico growth with domestic transportation offering",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://www.freightwaves.com/news/borderlands-mexico-echo-bets-on-mexico-growth-with-domestic-transportation-offering"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-06-21-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "How long will this truckload market cycle last?",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.freightwaves.com/news/how-long-will-this-truckload-market-cycle-last"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 4,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.12,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 4,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 3,
+      "negative": 0
+    },
+    "top_companies": [],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 4
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 352,
+    "dup_title": 183,
+    "too_old": 125,
+    "gate1_blocked": 19,
+    "gate2_blocked": 7,
+    "passed": 17,
+    "pass_rate": "10.1%",
+    "gate2_block_rate": "4.1%",
+    "gate2_samples": [
+      "Samsung Heavy Industries Submits Remedial Plan to Settle KFTC Probe - imarinenews.com",
+      "Hanwha Ocean on board proposed $15.7 billion Canada FLNG project - Upstream Online",
+      "$15.7 billion floating LNG project on Canada’s horizon as Kanata partners with Hanwha Ocean - Offsho",
+      "Hanwha Ocean to Build Six KDDX Destroyers Featuring AESA Radar, VLS, and IEP Options - Yahoo",
+      "Hanwha Ocean Canadian Partners for CPSP - Canadian Defence Review"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 4 則事件，焦點為航運產業通用相關動態：「LNG Carriers Pull the Load, Warships Push Ahead: Shipbuil...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "LNG Carriers Pull the Load, Warships Push Ahead: Shipbuilders Set for a Stron...（航運產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "Iran Resumes Kharg Island Oil Loadings After US Blockade Lifted（航運產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
