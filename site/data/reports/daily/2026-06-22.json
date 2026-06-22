@@ -1,0 +1,224 @@
+{
+  "date": "2026-06-22",
+  "generated_at": "2026-06-22T13:39:52.289140Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-06-22-024",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Japanese shipping venture Sakura Ocean places debut bulker orders at three domestic yards",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "shipbuilding_orders",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://splash247.com/japanese-shipping-venture-sakura-ocean-places-debut-bulker-orders-at-three-domestic-yards/"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-06-22-029",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Puzzler for European importers as Med spot rate premium rises",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "container_freight",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://theloadstar.com/puzzler-for-european-importers-as-med-spot-rate-premium-rises/"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-06-22-038",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Seafarer killed in Russian drone strike on bulker",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://www.seatrade-maritime.com/security/seafarer-killed-in-russian-drone-strike-on-bulker"
+    },
+    {
+      "rank": 4,
+      "event_id": "hanwha_ocean-2026-06-22-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Hanwha Ocean and Kanata Clean Power Sign MoU for Proposed FLNG Project in British Columbia - IndexBox",
+      "companies": [
+        "hanwha_ocean"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxObTkzQ1h5MGs0MTI5WkNCSXVlWVc4cnFlVnFvTHNxaXk3bWVyaTFocmZQcmdtYzBoTEQyT1p4WURxQTdUTkZKNWhXMVBwNjhOdDZfRGZtRkkzRDVLalM4MUdBZTEzdTZsd0lsUFRCMkxKcGp0cHhpRzJMalRKdTNpN1cyYUMxVWg5SHdrYWFjdnMtd1BWc2Z6S2dVWFJmSXN1b2FsYmFnOGFJa1FReGJXNUlWNWJ3ZklIVWJmSw?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-06-22-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Shipbuilders Face Labor Clash Over Profit Sharing - Businesskorea",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1WU1JXUktEa0JRdE13aDBrOFZ1Z0JvTTViWWctN0xpTlNUVnUtalZUX0NpMjVYM25fQzFTbGtaUEdPakVUVmYxSHJpR054cDR5ZDctUmJOV20zQmFyNzB3TGpua09zdE9yLUlENGFfMThyOWNV?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 41,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.07,
+      "sentiment_7d_avg": null
+    },
+    "container_freight": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.5,
+      "sentiment_7d_avg": null
+    },
+    "shipbuilding_orders": {
+      "today": 4,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.25,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 43,
+    "sentiment_distribution": {
+      "positive": 6,
+      "neutral": 34,
+      "negative": 3
+    },
+    "top_companies": [
+      {
+        "id": "cosco",
+        "count": 5
+      },
+      {
+        "id": "hanwha_ocean",
+        "count": 2
+      },
+      {
+        "id": "evergreen",
+        "count": 1
+      },
+      {
+        "id": "wisdom",
+        "count": 1
+      },
+      {
+        "id": "hapag",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 41
+      },
+      {
+        "id": "shipbuilding_orders",
+        "count": 4
+      },
+      {
+        "id": "container_freight",
+        "count": 2
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 352,
+    "dup_title": 130,
+    "too_old": 128,
+    "gate1_blocked": 21,
+    "gate2_blocked": 11,
+    "passed": 61,
+    "pass_rate": "27.5%",
+    "gate2_block_rate": "5.0%",
+    "gate2_samples": [
+      "Samsung Heavy Industries Submits Remedial Plan to Settle KFTC Probe - imarinenews.com",
+      "Hanwha Ocean signs up for $15.7bn Canadian FLNG project - Splash247",
+      "Hanwha Ocean Joins $15.7 Billion, 12-MMtpy LNG Project in British Columbia - Pipeline and Gas Journa",
+      "$15.7 billion floating LNG project on Canada’s horizon as Kanata partners with Hanwha Ocean - Offsho",
+      "Hanwha Ocean on board proposed $15.7 billion Canada FLNG project - Upstream Online"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 43 則事件，焦點為中遠海控、韓華海洋、長榮海運相關動態：「Japanese shipping venture Sakura Ocean places debut bulke...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Japanese shipping venture Sakura Ocean places debut bulker orders at three do...（造船訂單、航運產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "Puzzler for European importers as Med spot rate premium rises（貨櫃運價、航運產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
