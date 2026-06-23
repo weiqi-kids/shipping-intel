@@ -1,0 +1,16 @@
+{
+  "total_raw": 352,
+  "dup_title": 139,
+  "no_date": 0,
+  "too_old": 131,
+  "gate1_fail": 10,
+  "gate2_fail": 10,
+  "passed": 62,
+  "gate2_samples": [
+    "Samsung Heavy Industries Pushes to Establish Vietnam Subsidiary, Expands Local Business - Seoul Econ",
+    "Hanwha Ocean's Ad Campaign for 60 Trillion Won Canadian Submarine Project - 조선일보",
+    "Hanwha Ocean Joins $15.7 Billion, 12-MMtpy LNG Project in British Columbia - Pipeline and Gas Journa",
+    "Hanwha Ocean on board proposed $15.7 billion Canada FLNG project - Upstream Online",
+    "$15.7 billion floating LNG project on Canada’s horizon as Kanata partners with Hanwha Ocean - Offsho"
+  ]
+}

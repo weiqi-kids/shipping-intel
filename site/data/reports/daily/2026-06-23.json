@@ -1,0 +1,214 @@
+{
+  "date": "2026-06-23",
+  "generated_at": "2026-06-23T11:22:45.623110Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "hd_korea-2026-06-23-001",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "HD Korea Shipbuilding Subsidiary Reports Fatal Accident at Yeongam Pier; Shares Decline 5% - marketscreener.com",
+      "companies": [
+        "hd_korea"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQZDNreU9iRHBKd2ZSSzRJSTJ0OXJsWk9JSlhUakdyNlgtalNBOVg2NXdUMmNOTEZ5SXFxOXRYcGdwdTZDaG1VR3hQTmcxQ3lVdlhxTy04MDdsNXhUMkhQUlZvUkI5VzdZQzA5UDZBQ3B4VnUxMW5RTk5kMGduWDBUclNXX1BlUFI3a2Y5MmJEdWhwQzZTTDZMMEE5SnlybktRd1pWcG5RLUczeERPZXBKN3pla01VckRSZ3QwcjJwNnJEdDNpbloyNHVRclZuUnVUR2lwRkpXOUU?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-06-23-017",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Retailers should plan for trading in a post-de minimis landscape now",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -0.75
+      },
+      "source_url": "https://theloadstar.com/retailers-should-plan-for-trading-in-a-post-de-minimis-landscape-now/"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-06-23-020",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Nuclear powered shipping – a golden future or unrealistic claims?",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://www.seatrade-maritime.com/sustainability/nuclear-powered-shipping-a-golden-future-or-unrealistic-claims-"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-06-23-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Korea’s big three shipbuilders surge profit as LNG and FLNG orders rise - CHOSUNBIZ - Chosunbiz",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOcmJWWWFXcDlXSUREU0F2MERHQUZJUnVHZnd4Mk9qN1I1bjg4YXBDaFpJbEQyR2Z0Q2xEbkFNTHo5NkZzSE4ycmNLeENXSzl0RjFPLWxqNXB3TXFtYkstSVRQMlFmWE9oaG1KekowRGczQTNfSmNoZWNlb2NWSUdVUWtn0gGWAUFVX3lxTE5iS3lTY3FneFdDd0o3cmZuRldETEJrVlNkeG9SaHB2VGQ5RXA5TE5jdXByelJVOGhUbHNRT2hXMC16X1VzSjJVVGo4WEtLaDB3OC05MlI4cmc4TWdCeHlBLVBndmpDN1BrTjNRWmNveEJYazdBYkEwY3pVQ290VURVcDNKMldNSG1JaDZuRkdUQm9BS2ZyZw?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "cosco-2026-06-23-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "COSCO SHIPPING DEVELOPMENT CO LTD UNSP ADR EACH REPR 50 ORD SHS To Go Ex-Dividend On July 13th, 2026 With 0.111 USD Dividend Per Share - 富途牛牛",
+      "companies": [
+        "cosco"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNQ0htWXlrQVB6TU4tNnFwSXowVENEVlMtdG1LamhHV3JURkxvNmNjWW5pTG1kTTZvTjBFZ0hNNGtPSjkyaUtNN3ZyYzZMbHhlbkJXSWNQS1I0NlFrbC05NkdBVzluYnJaQ2JfdmRFYlkzTTVWYnVIVU9uRnZqaFE2S3BvWm5GZVpjc2p1SHJEN3lGX3BLUzVkMWQxM08?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 21,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.01,
+      "sentiment_7d_avg": null
+    },
+    "container_freight": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "port_congestion": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 21,
+    "sentiment_distribution": {
+      "positive": 3,
+      "neutral": 15,
+      "negative": 3
+    },
+    "top_companies": [
+      {
+        "id": "cosco",
+        "count": 2
+      },
+      {
+        "id": "hd_korea",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 21
+      },
+      {
+        "id": "container_freight",
+        "count": 2
+      },
+      {
+        "id": "port_congestion",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 352,
+    "dup_title": 139,
+    "too_old": 131,
+    "gate1_blocked": 10,
+    "gate2_blocked": 10,
+    "passed": 62,
+    "pass_rate": "29.1%",
+    "gate2_block_rate": "4.7%",
+    "gate2_samples": [
+      "Samsung Heavy Industries Pushes to Establish Vietnam Subsidiary, Expands Local Business - Seoul Econ",
+      "Hanwha Ocean's Ad Campaign for 60 Trillion Won Canadian Submarine Project - 조선일보",
+      "Hanwha Ocean Joins $15.7 Billion, 12-MMtpy LNG Project in British Columbia - Pipeline and Gas Journa",
+      "Hanwha Ocean on board proposed $15.7 billion Canada FLNG project - Upstream Online",
+      "$15.7 billion floating LNG project on Canada’s horizon as Kanata partners with Hanwha Ocean - Offsho"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 21 則事件，焦點為中遠海控、韓國造船海洋相關動態：「HD Korea Shipbuilding Subsidiary Reports Fatal Accident a...」。主要關注主題為航運產業通用、貨櫃運價、港口壅塞，市場情緒中性。",
+    "signals": [
+      {
+        "text": "HD Korea Shipbuilding Subsidiary Reports Fatal Accident at Yeongam Pier; Shar...（航運產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "Retailers should plan for trading in a post-de minimis landscape now（航運產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
