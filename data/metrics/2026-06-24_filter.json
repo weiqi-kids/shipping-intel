@@ -1,0 +1,16 @@
+{
+  "total_raw": 351,
+  "dup_title": 127,
+  "no_date": 0,
+  "too_old": 129,
+  "gate1_fail": 16,
+  "gate2_fail": 8,
+  "passed": 71,
+  "gate2_samples": [
+    "Hanwha Ocean on board proposed $15.7 billion Canada FLNG project - Upstream Online",
+    "Hanwha Ocean Joins $15.7 Billion, 12-MMtpy LNG Project in British Columbia - Pipeline and Gas Journa",
+    "Hanwha Ocean's Ad Campaign for 60 Trillion Won Canadian Submarine Project - 조선일보",
+    "Hanwha Ocean signs up for $15.7bn Canadian FLNG project - Splash247",
+    "$15.7 billion floating LNG project on Canada’s horizon as Kanata partners with Hanwha Ocean - Offsho"
+  ]
+}

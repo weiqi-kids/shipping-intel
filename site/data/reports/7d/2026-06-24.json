@@ -1,0 +1,157 @@
+{
+  "date": "2026-06-24",
+  "date_range": {
+    "start": "2026-06-18",
+    "end": "2026-06-24"
+  },
+  "generated_at": "2026-06-24T10:56:15.116210Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "maersk-2026-06-18-027",
+      "date": "2026-06-18",
+      "title": "MSC taking stake in Hapag-Lloyd dismissed as ‘fairy tale’",
+      "importance_score": 0.7
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "industry_general": {
+      "this_week": 146,
+      "last_week": 163,
+      "week_over_week_change": "-10%",
+      "sentiment_this_week": 0.02
+    },
+    "container_freight": {
+      "this_week": 7,
+      "last_week": 6,
+      "week_over_week_change": "+17%",
+      "sentiment_this_week": 0.07
+    },
+    "port_congestion": {
+      "this_week": 3,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": -0.17
+    },
+    "shipbuilding_orders": {
+      "this_week": 9,
+      "last_week": 6,
+      "week_over_week_change": "+50%",
+      "sentiment_this_week": 0.11
+    },
+    "dry_bulk_rate": {
+      "this_week": 2,
+      "last_week": 2,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    }
+  },
+  "company_7d_summary": {
+    "hanwha_ocean": {
+      "event_count": 4,
+      "sentiment_avg": 0.0,
+      "rank": 2
+    },
+    "evergreen": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 4
+    },
+    "cosco": {
+      "event_count": 12,
+      "sentiment_avg": -0.08,
+      "rank": 1
+    },
+    "maersk": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 5
+    },
+    "hapag": {
+      "event_count": 4,
+      "sentiment_avg": 0.0,
+      "rank": 3
+    },
+    "star_bulk": {
+      "event_count": 2,
+      "sentiment_avg": 0.25,
+      "rank": 6
+    },
+    "wisdom": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 7
+    },
+    "hd_korea": {
+      "event_count": 1,
+      "sentiment_avg": -1.0,
+      "rank": 8
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 323,
+        "last": 387,
+        "change_pct": -16.5
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-06-18",
+      "event_count": 69,
+      "sentiment_avg": 0.01
+    },
+    {
+      "date": "2026-06-19",
+      "event_count": 51,
+      "sentiment_avg": -0.06
+    },
+    {
+      "date": "2026-06-20",
+      "event_count": 17,
+      "sentiment_avg": -0.12
+    },
+    {
+      "date": "2026-06-21",
+      "event_count": 15,
+      "sentiment_avg": 0.03
+    },
+    {
+      "date": "2026-06-22",
+      "event_count": 83,
+      "sentiment_avg": 0.02
+    },
+    {
+      "date": "2026-06-23",
+      "event_count": 63,
+      "sentiment_avg": -0.0
+    },
+    {
+      "date": "2026-06-24",
+      "event_count": 25,
+      "sentiment_avg": 0.08
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-06-18 ~ 2026-06-24）共 323 則事件，重點為「MSC taking stake in Hapag-Lloyd dismissed as ‘f...」。韓國造船海洋情緒偏負面，建議留意相關風險。",
+    "watchlist": [
+      {
+        "company": "韓國造船海洋",
+        "reason": "本週情緒偏負面（-1.0），共 1 則相關事件，需關注後續發展。"
+      },
+      {
+        "company": "韓華海洋",
+        "reason": "本週出現 4 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "中遠海控",
+        "reason": "本週出現 12 則相關事件且情緒偏負面，需特別關注。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
