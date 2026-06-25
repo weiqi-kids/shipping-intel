@@ -1,0 +1,16 @@
+{
+  "total_raw": 341,
+  "dup_title": 128,
+  "no_date": 0,
+  "too_old": 133,
+  "gate1_fail": 21,
+  "gate2_fail": 7,
+  "passed": 52,
+  "gate2_samples": [
+    "Hanwha Ocean on board proposed $15.7 billion Canada FLNG project - Upstream Online",
+    "Hanwha Ocean Joins $15.7 Billion, 12-MMtpy LNG Project in British Columbia - Pipeline and Gas Journa",
+    "Hanwha Ocean's Ad Campaign for 60 Trillion Won Canadian Submarine Project - 조선일보",
+    "Hanwha Ocean signs up for $15.7bn Canadian FLNG project - Splash247",
+    "Rhenus and COSCO join forces to scale Cuxhaven hub - Heavy Lift & Project Forwarding International"
+  ]
+}

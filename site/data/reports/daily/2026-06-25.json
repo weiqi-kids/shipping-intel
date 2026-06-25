@@ -1,0 +1,194 @@
+{
+  "date": "2026-06-25",
+  "generated_at": "2026-06-25T10:48:34.813226Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-06-25-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Five policy financial institutions, including the Export-Import Bank of Korea, and large shipbuilder.. - 매일경제",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9xbXR0T1Y5cThXZnFrLWhSaTNUQ1h4MFdHUWMwWG93UklIRTVmN28yM0hRSkhFV3p1Nk1pcXlvMHdGOEdYYW5QQjB1ejUtVVZhanc?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-06-25-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Policy lenders, shipbuilders sign MOU to implement Seoul's US investment initiative - The Korea Times",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQRm91S0hRYnRDTUhmLWNiVmg1QnZEVlFrcm10SmRlSGJidWJhcDl0aXdxaGoweFJEX1doYmhKbGNqQW53a3FlaGJCRUthbkRpejhYMDMyRVRzRUZJX0tYbEFDYjd1RU1fcGJTZWRpWXpocW9iVDluQVZvVTN4VkRNa2VaZ1RYNnlRWXF3Y1NSdkdaalE2Z3k1cGZ6ZFRTdHk3OGdFLXM5dVpNOHNlZ1FlZjZhNlQzOFpnMzRNbUEtcWxXelctS2prUG1SVW5QeWRSdGpfY9IB1AFBVV95cUxQRm91S0hRYnRDTUhmLWNiVmg1QnZEVlFrcm10SmRlSGJidWJhcDl0aXdxaGoweFJEX1doYmhKbGNqQW53a3FlaGJCRUthbkRpejhYMDMyRVRzRUZJX0tYbEFDYjd1RU1fcGJTZWRpWXpocW9iVDluQVZvVTN4VkRNa2VaZ1RYNnlRWXF3Y1NSdkdaalE2Z3k1cGZ6ZFRTdHk3OGdFLXM5dVpNOHNlZ1FlZjZhNlQzOFpnMzRNbUEtcWxXelctS2prUG1SVW5QeWRSdGpfYw?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "hanwha_ocean-2026-06-25-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Hanwha Ocean challenges SBM Offshore for Namibia Venus FPSO order - CHOSUNBIZ - Chosunbiz",
+      "companies": [
+        "hanwha_ocean"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOcXlhNHlnZzFnRFZDQkhTSWo1Ml9sYy1sZWhnR1lGZTMtX3I3Y25GT0NFNElSQmVSdUpnYTJBUmNMazJzWWVwNmN3clZZM2ZqNmxJdEtidllGczZ5SWxmVHlqMElCdzhrM0s5ZmFKQVBoR2FEWTVQVV92RVJISWtjdkt30gGWAUFVX3lxTE43WXF0T1ZUNXpNdE5NVzBpSVlDWEJYVVZOSWdzTURXQmR5WkFRcHhpTERseDNZRFFnODk4b21FM2Z2Y0tDZU00bGk1OHhoTUdiSy1taFRHNlJMeXRIbnpYN3U0WGw4SzBubDA2OWs0WWdqaTVuRVI0VTFHMjNvLUZqMzB3cE5DdFlrMGloM3U5VzBheGVGUQ?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "cosco-2026-06-25-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Price to earnings forward of COSCO SHIPPING Holdings Co., Ltd. Class A – SSE:601919 - TradingView",
+      "companies": [
+        "cosco"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPMVVPSTZKdGIyV19xTENkdGpMREowWS1NYXd4dmUtenNBbFFDaVJMX05xdmNvTWtIdjBYYk9JTGs5UWNpeDh6TEM4RVB5SG4xeXBsazF3UnFsNGRGV1dyVV9PSVpFV0xCYWFqb2JIQjVXeHZ6bGZISGY3MnlITExfcTU5cjd3bTlfSG9YRHdwRXE4NGZEa3djcl9hak16Uk5L?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "cosco-2026-06-25-005",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Rhenus and COSCO SHIPPING Specialized Carriers partner on project cargo and heavy-lift operations - WorldCargo News",
+      "companies": [
+        "cosco"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNdmE4eDVJcGxVQ1UwaFJVbDBhblpvUk5YU0hyTFNRZWlwUTBLT2o3UjFUTExmTnN0Q3FXazRja21IakJzNXdidGtGN2VjZ08xTWtJN3NvYlRGbEVfZ3ByWXhnZ1FkdXU4azVIZXplT1Byc1EtNjVJOWVRQlZwLVdJM2EtSlZYV21ZbllmLWozdjVtT2ZocnVLX0kyVWo0SVYxNWU5eHdtZ1F1YjFERm5OaUF1WmRMWXA4aHBna3hUOW5velBDanhfTlB4MHNYX1hHWnAyZVFIbnZudw?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 12,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.04,
+      "sentiment_7d_avg": null
+    },
+    "shipbuilding_orders": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.5,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 13,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 12,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "cosco",
+        "count": 3
+      },
+      {
+        "id": "hanwha_ocean",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 12
+      },
+      {
+        "id": "shipbuilding_orders",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 341,
+    "dup_title": 128,
+    "too_old": 133,
+    "gate1_blocked": 21,
+    "gate2_blocked": 7,
+    "passed": 52,
+    "pass_rate": "24.4%",
+    "gate2_block_rate": "3.3%",
+    "gate2_samples": [
+      "Hanwha Ocean on board proposed $15.7 billion Canada FLNG project - Upstream Online",
+      "Hanwha Ocean Joins $15.7 Billion, 12-MMtpy LNG Project in British Columbia - Pipeline and Gas Journa",
+      "Hanwha Ocean's Ad Campaign for 60 Trillion Won Canadian Submarine Project - 조선일보",
+      "Hanwha Ocean signs up for $15.7bn Canadian FLNG project - Splash247",
+      "Rhenus and COSCO join forces to scale Cuxhaven hub - Heavy Lift & Project Forwarding International"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 13 則事件，焦點為中遠海控、韓華海洋相關動態：「Five policy financial institutions, including the Export-...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Five policy financial institutions, including the Export-Import Bank of Korea...（航運產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "Policy lenders, shipbuilders sign MOU to implement Seoul's US investment init...（航運產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
