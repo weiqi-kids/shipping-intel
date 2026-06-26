@@ -1,0 +1,198 @@
+{
+  "date": "2026-06-26",
+  "generated_at": "2026-06-26T10:56:33.407288Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-06-26-014",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Trucker Path integrates Verisk CargoNet theft intelligence into navigation platform",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://www.freightwaves.com/news/trucker-path-integrates-verisk-cargonet-theft-intelligence-into-navigation-platform"
+    },
+    {
+      "rank": 2,
+      "event_id": "evergreen-2026-06-26-017",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "IMO suspends Hormuz transits after Evergreen ship attacked",
+      "companies": [
+        "evergreen"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://www.seatrade-maritime.com/security/imo-suspends-hormuz-transits-after-evergreen-ship-attacked"
+    },
+    {
+      "rank": 3,
+      "event_id": "hd_korea-2026-06-26-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "HD KOREA SHIPBUILDING & OFFSHORE ENGINEERING CO. LTD. - TradingView",
+      "companies": [
+        "hd_korea"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQUmZxTzZWZHNwcHJ0TEZsQUU5blh1TzFvdEFQQ0lkaG51NkgxTUo5Q0huQUtoTXlOVGZSUlk5UGl0OWJsM3pBVTE4MFpoTG1xWTJfeE5BTVA1WTJhNFFyblppbFkyMmhocThiYndwenZjNWN2ZVFmM1VTdFZjUWg4THdUYkxiaGxvbndTa2RVMkplTXl2RktRVEU3cXhSZHR4R2dfa0lhNm9ubmc?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "hanwha_ocean-2026-06-26-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "UK envoy publicly backs Hanwha Ocean's bid for Canada's submarine project - The Korea Times",
+      "companies": [
+        "hanwha_ocean"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOVExMNjdJTDF2RzVzQmRfa29FZkM0ZUszQUVJMExNOTBJZTF0UGlqVnZmc2gwUEdLVFB4cXdlSlpuRjVaVklZMVhtTFJLUjJCa3FudXZqak9HZnlwZUJJYzh0emhXSVAwUGluVEh6MDZjNmxHUkxEYmhnblh6WDl4ZXBacmdlTDJqb2xtcVdVeDFaLTVzOWRISDhvSF83cm1XMzNGR1Z4ZWFlRXhhMFpRbXl4NUFVbWhrdVNVZ2xrLWtTYzB4NElnd21JVTPSAcwBQVVfeXFMTlRMTDY3SUwxdkc1c0JkX2tvRWZDNGVLM0FFSTBMTTkwSWUxdFBpalZ2ZnNoMFBHS1RQeHF3ZUpabkY1WlZJWTFYbUxSS1IyQmtxbnV2ampPR2Z5cGVCSWM4dHpoV0lQMFBpblRIejA2YzZsR1JMRGJoZ25Yelg5eGVwWnJnZUwyam9sbXFXVXgxWi01czlkSEg4b0hfN3JtVzMzRkdWeGVhZUV4YTBaUW15eDVBVW1oa3VTVWdsay1rU2MweDRJZ3dtSVUz?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "evergreen-2026-06-26-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Evergreen Marine Says Container Ship Hit by 'Unidentified Object' in Strait of Hormuz - Kurdistan24",
+      "companies": [
+        "evergreen"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQMGhYYThXVDQ1LTJPODhMM2o5Zm04OHhRbWtDUjhwWlBRd3RNWmdzQ2REV19xUUNFLUlSME9iaE9MN2pzY0N3eDhyMkdVWXFLenhpaFlUc1hDRzh0ai1wNlowbUgzWWZwTWNVU1ZueWlZcFp3em5YUEJ6UFU0TTNzS2J3azFwdjBLS2NydjJ2Q2prc0NNTFRSZGVkdi1KWVo4WG1HWk9KRXlKVWlibXpLUXNWV1QzR2plT2ZtcnlZa3VyMXR3MkE?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 15,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.13,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 17,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 15,
+      "negative": 2
+    },
+    "top_companies": [
+      {
+        "id": "evergreen",
+        "count": 7
+      },
+      {
+        "id": "hd_korea",
+        "count": 1
+      },
+      {
+        "id": "hanwha_ocean",
+        "count": 1
+      },
+      {
+        "id": "cosco",
+        "count": 1
+      },
+      {
+        "id": "u_ming",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 15
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 342,
+    "dup_title": 124,
+    "too_old": 118,
+    "gate1_blocked": 25,
+    "gate2_blocked": 8,
+    "passed": 66,
+    "pass_rate": "30.3%",
+    "gate2_block_rate": "3.7%",
+    "gate2_samples": [
+      "Hanwha Ocean on board proposed $15.7 billion Canada FLNG project - Upstream Online",
+      "Hanwha Ocean's Ad Campaign for 60 Trillion Won Canadian Submarine Project - 조선일보",
+      "Hanwha Ocean Joins $15.7 Billion, 12-MMtpy LNG Project in British Columbia - Pipeline and Gas Journa",
+      "Hanwha Ocean signs up for $15.7bn Canadian FLNG project - Splash247",
+      "NH Securities sees June–July bid results set Hanwha Ocean up for global gains - CHOSUNBIZ - Chosunbi"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 17 則事件，焦點為長榮海運、韓國造船海洋、韓華海洋相關動態：「Trucker Path integrates Verisk CargoNet theft intelligenc...」。整體情緒偏負面，需留意潛在風險。",
+    "signals": [
+      {
+        "text": "Trucker Path integrates Verisk CargoNet theft intelligence into navigation pl...（航運產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "IMO suspends Hormuz transits after Evergreen ship attacked（航運產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
