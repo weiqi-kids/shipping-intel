@@ -1,0 +1,16 @@
+{
+  "total_raw": 352,
+  "dup_title": 147,
+  "no_date": 1,
+  "too_old": 100,
+  "gate1_fail": 22,
+  "gate2_fail": 10,
+  "passed": 72,
+  "gate2_samples": [
+    "Hanwha Ocean on board proposed $15.7 billion Canada FLNG project - Upstream Online",
+    "Hanwha Ocean's Ad Campaign for 60 Trillion Won Canadian Submarine Project - 조선일보",
+    "Hanwha Ocean Joins $15.7 Billion, 12-MMtpy LNG Project in British Columbia - Pipeline and Gas Journa",
+    "NH Securities sees June–July bid results set Hanwha Ocean up for global gains - CHOSUNBIZ - Chosunbi",
+    "Enterprise value to EBITDA forward of Evergreen Marine Corp. (Taiwan) Ltd. – TWSE:2603 - TradingView"
+  ]
+}

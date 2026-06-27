@@ -1,0 +1,33 @@
+{
+  "date": "2026-06-27",
+  "total_events": 7,
+  "by_company": {
+    "hd_korea": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "wan_hai": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "cosco": {
+      "count": 3,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "industry_general": {
+      "count": 6,
+      "sentiment_avg": -0.08
+    },
+    "container_freight": {
+      "count": 1,
+      "sentiment_avg": -0.5
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}

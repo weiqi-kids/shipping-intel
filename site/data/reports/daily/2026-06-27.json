@@ -1,0 +1,202 @@
+{
+  "date": "2026-06-27",
+  "generated_at": "2026-06-27T10:14:12.585644Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "hd_korea-2026-06-27-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Enterprise value to EBIT forward of HD KOREA SHIPBUILDING & OFFSHORE ENGINEERING CO. LTD. – KRX:009540 - TradingView",
+      "companies": [
+        "hd_korea"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPak55R3UwR045WHpUQ09DU09vZDIyLTlpWVVIdWt6aFJBc19QU3lIcUZnNUk4ejVvY1ZJdGxpMXcwYWZVdThSZkthc09qcl9LYzN1SmVjLWhhZkhFMUtuNlVnOGkwRzJJcWFSaWRvMHJsZEVsT0JaM1Yyd3YtMFhTRVA4M3JKY0hjemUwRzdDMlBfS3oxRm1hcG5LTUJLbGpaaW9PVEZDUnlxUQ?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "wan_hai-2026-06-27-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Price to sales forward of Wan Hai Lines Ltd. – TWSE:2615 - TradingView",
+      "companies": [
+        "wan_hai"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQZjVDb1ppN0dfa1NxcDd0VlhUUDhYWWRzaUxUbWZpZ29oSFdmbGxMTnZjLU9PYzR5RDUzbERacGMtOGwtRGhUaHltaU14Nklnd3BBRjNzVXc0NDZOQURjLTRfWlFscElOY1dfUXBOaFYtc3k3VF9KNHFQdXZkcXBaS29JRktRNjZGSEtOQV93UDd6WEtIbU1TeS0zbw?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "cosco-2026-06-27-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "COSCO SHIPPING Development Co., Ltd. Class H Actuals & Estimates (OTC:CITAF) - TradingView",
+      "companies": [
+        "cosco"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNU0tfSFJhSmlRNHNPSFF1RTRVY0h6ajVjb2hRWmcxcEZHNmJQVTBVaHJ0blBjdUxtb3BIZ3JnVUVZdFpMeHZNdnN4VXA0cEJPaVVDVzVRbzRXTThNWU9YX3RNWk1xR29KYWxfWFhPQlJRSDJvQWZ0VGhEbnFuX0Y0cmU1WQ?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "cosco-2026-06-27-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "COSCO SHIPPING International (Hong Kong) Co., Ltd. Actuals & Estimates (DUS:CSB) - TradingView",
+      "companies": [
+        "cosco"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOMjFjMEFWVkhFZFFDWVU3MVY1ZjJmOS11N0NjamRaMlF2OEZuWkFYOHBScEoxdlFIYmxzaS1EdUI5Q1ZJY3V6a0Ixb1MtRC1IenBaYlpYMEtvb0ItbWdDQU5RX0NucWFqRzNxSlFuVmY5TUIwSE1MYzVwLVpmRklmSQ?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "cosco-2026-06-27-005",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Enterprise value to EBIT forward of COSCO Shipping Specialized Carriers Co., Ltd. Class A – SSE:600428 - TradingView",
+      "companies": [
+        "cosco"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPZnZzLXRTd3M4T2VjZTdqOVNJTVRmdFZIWlM3Rk9wR3B4ek5nVE12NXZRUXpJM0d6TDQ2TENpRHd3WDYyaDNEOE16OTg1VEt4WUdJTFJ3b1pBcTlnclQzcEJhc2dhT01Yem11TkhaRmVVdDZDdlVseTF6SXhkZUk3Q2wzYm5hbkJvZUMyZmpjZHVRYV9welkzZjAwaU1vc0pNQkx6VW9PZVFVdw?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 6,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.08,
+      "sentiment_7d_avg": null
+    },
+    "container_freight": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.5,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 7,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 6,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "cosco",
+        "count": 3
+      },
+      {
+        "id": "hd_korea",
+        "count": 1
+      },
+      {
+        "id": "wan_hai",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 6
+      },
+      {
+        "id": "container_freight",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 352,
+    "dup_title": 147,
+    "too_old": 100,
+    "gate1_blocked": 22,
+    "gate2_blocked": 10,
+    "passed": 72,
+    "pass_rate": "35.1%",
+    "gate2_block_rate": "4.9%",
+    "gate2_samples": [
+      "Hanwha Ocean on board proposed $15.7 billion Canada FLNG project - Upstream Online",
+      "Hanwha Ocean's Ad Campaign for 60 Trillion Won Canadian Submarine Project - 조선일보",
+      "Hanwha Ocean Joins $15.7 Billion, 12-MMtpy LNG Project in British Columbia - Pipeline and Gas Journa",
+      "NH Securities sees June–July bid results set Hanwha Ocean up for global gains - CHOSUNBIZ - Chosunbi",
+      "Enterprise value to EBITDA forward of Evergreen Marine Corp. (Taiwan) Ltd. – TWSE:2603 - TradingView"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 7 則事件，焦點為中遠海控、韓國造船海洋、萬海航運相關動態：「Enterprise value to EBIT forward of HD KOREA SHIPBUILDING...」。整體情緒偏負面，需留意潛在風險。",
+    "signals": [
+      {
+        "text": "Enterprise value to EBIT forward of HD KOREA SHIPBUILDING & OFFSHORE ENGINEER...（航運產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "Price to sales forward of Wan Hai Lines Ltd. – TWSE:2615 - TradingView",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
