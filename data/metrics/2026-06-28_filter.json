@@ -1,0 +1,16 @@
+{
+  "total_raw": 342,
+  "dup_title": 187,
+  "no_date": 1,
+  "too_old": 95,
+  "gate1_fail": 20,
+  "gate2_fail": 8,
+  "passed": 31,
+  "gate2_samples": [
+    "Price to sales forward of Hanwha Ocean Co., Ltd. – KRX:042660 - TradingView",
+    "Hanwha Ocean's Ad Campaign for 60 Trillion Won Canadian Submarine Project - 조선일보",
+    "Hanwha Ocean on board proposed $15.7 billion Canada FLNG project - Upstream Online",
+    "Enterprise value to EBIT forward of Evergreen Marine Corp. (Taiwan) Ltd. – TWSE:2603 - TradingView",
+    "Strait Of Hormuz Risk Puts Evergreen Marine And Chubb Stock In Focus - Sahm"
+  ]
+}

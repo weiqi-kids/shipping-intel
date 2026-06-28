@@ -1,5 +1,81 @@
 [
   {
+    "id": "unknown-2026-06-28-001",
+    "date": "2026-06-28",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Hanwha Group Opens “Tomorrow Academy” Job Training to Help Young People Land Employment ...Measures to Strengthen Young People’s Job Skills and Support Successful Entry Into Society - 더글로벌기빙뉴스",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiVEFVX3lxTE5TQ0xoQ3NNaTBWQW5TM1Ewek5uSU9SRmtYa3N4WWltVU0xd0ViNVFOT0pQQWV4RU1QbkphbzFEUElpRzQyVkJid3d6b3lNbG9LVS1xQw?oc=5\" target=\"_blank\">Hanwha Group ",
+    "sources": [
+      {
+        "name": "hanwha_ocean",
+        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5TQ0xoQ3NNaTBWQW5TM1Ewek5uSU9SRmtYa3N4WWltVU0xd0ViNVFOT0pQQWV4RU1QbkphbzFEUElpRzQyVkJid3d6b3lNbG9LVS1xQw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "yang_ming-2026-06-28-002",
+    "date": "2026-06-28",
+    "companies": [
+      "yang_ming"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Enterprise value to EBITDA forward of Yang Ming Marine Transport Corp. – TWSE:2609 - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxNN3VCN0ZmdkN1VU9jYTRYUjR2M29vMDJTdlRyVzNlYzJoVFFqLWZjcFg5RnRTaDR3QUtubmh1V2MxZVJVMGRWeXVYV1RMRGNqdlNKWmc3cGVuN2ppeWZHR3p3WjRrMkdrZWIxSWotRk",
+    "sources": [
+      {
+        "name": "yang_ming",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNN3VCN0ZmdkN1VU9jYTRYUjR2M29vMDJTdlRyVzNlYzJoVFFqLWZjcFg5RnRTaDR3QUtubmh1V2MxZVJVMGRWeXVYV1RMRGNqdlNKWmc3cGVuN2ppeWZHR3p3WjRrMkdrZWIxSWotRkhsT1dMNlVHZDBkTVFJUzZCVlNPS2VwWDlYYkh1UUswbVR1UkkxUW5oek5FZmRQR0x4dWw2cE9tT3UzTGs?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "cosco-2026-06-28-003",
+    "date": "2026-06-28",
+    "companies": [
+      "cosco"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Enterprise value to revenue forward of COSCO SHIPPING Ports Limited – HKEX:1199 - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxOb3E1UHI0RXdWTWwtYkRSNkVsazNvcV9VX0ZGQlFUNXp0QTRoTl90aEp4T1d4LWhuUkVWRV9rV3g3OGk4ak9qYVdTbS04WVRMbHg1bktOWlJtMTNZcncxS1cySEI5VjYzS3RlazhWaG",
+    "sources": [
+      {
+        "name": "cosco",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOb3E1UHI0RXdWTWwtYkRSNkVsazNvcV9VX0ZGQlFUNXp0QTRoTl90aEp4T1d4LWhuUkVWRV9rV3g3OGk4ak9qYVdTbS04WVRMbHg1bktOWlJtMTNZcncxS1cySEI5VjYzS3RlazhWaG5STmJiTnBrY0VNMlZFM2JsVzktWEtlUVZNN0d0YV8wa0xQUTBfakczTVZPcFBhWTM5bktmUll4NkJyQQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-28-004",
+    "date": "2026-06-28",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "US Carries Out Fresh Strikes Against Iran After Tanker Struck In Hormuz, Escalating Hostilities",
+    "summary": "By Jana Choukeir and Jasper Ward DUBAI/WASHINGTON, June 28 (Reuters) &#8211; The U.S. military said it struck Iran again, hours after a tanker was hit in the Strait of Hormuz, in the...",
+    "sources": [
+      {
+        "name": "gcaptain",
+        "url": "https://gcaptain.com/us-carries-out-fresh-strikes-against-iran-after-tanker-struck-in-hormuz-escalating-hostilities/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "hd_korea-2026-06-27-001",
     "date": "2026-06-27",
     "companies": [
@@ -130,6 +206,430 @@
       {
         "name": "google_container_shipping",
         "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOWmxhYTNNcGZwR1luWmlCME5EdTAzbUpHMXVQR2hwaG9iVEgxUFF4RTZEbm5TenUyNkxwa3p4cUs3UGVoQV9SUWxkZ2pqS0ZsYy1CTWthRDJWQUJIVkFIU09zbGRYc1BpUi0tSlZwS2pmdzlYemFHR0NleFd5amZZZjNmdkhNWWdDdkZXbHBycmtWNkpuNjdMUW9mejJkeWJQRGtOa19DZGZVdw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-27-008",
+    "date": "2026-06-27",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Yang Ming names third 15,500 TEU LNG dual-fuel containership - Container News",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxNdlk4NkNPUnFGbWNaQU1WRUgzY0p4Uk1wNThROWthM2JjeUtIUVhZY0FEdDkta3N1VVFqWDhFQ1ZCQlJkSm9Td2hMaDFqTVhnWHJtRzB2MVpUbW0xa0JMcW5oVWNFN0xiWkM2Q1FlVn",
+    "sources": [
+      {
+        "name": "yang_ming",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNdlk4NkNPUnFGbWNaQU1WRUgzY0p4Uk1wNThROWthM2JjeUtIUVhZY0FEdDkta3N1VVFqWDhFQ1ZCQlJkSm9Td2hMaDFqTVhnWHJtRzB2MVpUbW0xa0JMcW5oVWNFN0xiWkM2Q1FlVnh3aEJtbURMNVBESE0tSGR1Y2dERENfcUFRZzJiOFB2aHA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "yang_ming-2026-06-27-009",
+    "date": "2026-06-27",
+    "companies": [
+      "yang_ming"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "YM Wayfinder from Yang Ming Marine Transport Corp. - LNG dual-fuel giant joins Asia–Europe loop - Ad-hoc-news.de",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxPUU9pMEVxSkU3TjV2bFdEWW5MeG9OdVFZczQxSk5tanR1V0FPYWFrTXZkZnNNQ0RWbl9TZnAyQXI0NWltU0RfRU03Z2QzX3NRTGN4elpyZHFKZG5nd3hURWVxZmQ2dEJLZFZyNTYtaG",
+    "sources": [
+      {
+        "name": "yang_ming",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPUU9pMEVxSkU3TjV2bFdEWW5MeG9OdVFZczQxSk5tanR1V0FPYWFrTXZkZnNNQ0RWbl9TZnAyQXI0NWltU0RfRU03Z2QzX3NRTGN4elpyZHFKZG5nd3hURWVxZmQ2dEJLZFZyNTYtaGl2bTBRa2dNZVVXWWZUdnc5MWpwSm1CczF4Qmo1bkpyWDVjWnJYQURJMjlpb0Y0anNvN1JpU29QSDJiQVVHWUg5Q1lIa3o0SXVWOHVyY1dDamVsUllRY3BV?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "cosco-2026-06-27-010",
+    "date": "2026-06-27",
+    "companies": [
+      "cosco"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "COSCO SHIPPING Energy Declares Final 2025 Dividend and Details Tax Treatment - The Globe and Mail",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi7gFBVV95cUxQU2w0UC1HQmdyWV9uRzZaX3RleXNZcTdHTVJjcW1iWFZJeV95em1MOFRNbV9WUTZqZEdQMXhZUFh2T3F6czQzeHlrU0x5bEZ0QmFyLW9tWTdVM3NsQ29RZG5RUWpuam9LcG1fNURZMk",
+    "sources": [
+      {
+        "name": "cosco",
+        "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQU2w0UC1HQmdyWV9uRzZaX3RleXNZcTdHTVJjcW1iWFZJeV95em1MOFRNbV9WUTZqZEdQMXhZUFh2T3F6czQzeHlrU0x5bEZ0QmFyLW9tWTdVM3NsQ29RZG5RUWpuam9LcG1fNURZMkdqdFE3ZkR3SzFzNnpLMWZTaWlSUTRIWWhRV0t2SVZpNjQyb3V6azZQNkJDa2k2UkU1MExvRlFoQjcyLXRIQ0hBMHlnamtkS1g5NTBFc1libFFKeVVZRkNnalJEc21oRmdrLTNTNl9Iek5SUkIwamZVVHpUMmd2WFpBaW5kTlR3?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "cosco-2026-06-27-011",
+    "date": "2026-06-27",
+    "companies": [
+      "cosco"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Enterprise value to revenue forward of COSCO Shipping Specialized Carriers Co., Ltd. Class A – SSE:600428 - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxOUGwzMThlWTRZcHlnbnhIMXRmelk2eUtuaUFHSFdWTDZ0UlpkdmZzUHg0Y1B6YjNKbDJSb3BMSDFUOFM2Q0hMdGx1SF9JcmNWVXhaRnJLdTJNdDF3U3p3eXZEZlRYSWpRaERJLVJLUj",
+    "sources": [
+      {
+        "name": "cosco",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOUGwzMThlWTRZcHlnbnhIMXRmelk2eUtuaUFHSFdWTDZ0UlpkdmZzUHg0Y1B6YjNKbDJSb3BMSDFUOFM2Q0hMdGx1SF9JcmNWVXhaRnJLdTJNdDF3U3p3eXZEZlRYSWpRaERJLVJLUjdxbm5BYlg4c0dZVmxLTlp1RzFzaktaMnY4Q2l4ZFZ6UHYxNGUtRVJnQVA5SVBiZzlyUEEyTlg4SThoOTg?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "cosco-2026-06-27-012",
+    "date": "2026-06-27",
+    "companies": [
+      "cosco"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "COSCO Shipping Energy (01138.HK): Proposal to Appoint Wang Mingfeng as Executive Director - 富途牛牛",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxPcTVGTUlDLUpBUVZwY29rUlM2S3dIUG0wQkExWHFyVzN2cmZuQ2hfampSbTViMXgxXzJ2d1hkMGtScGlnS0ZITXpEMENBREpNdXBMb1RTcG93dGNLaXRwRkI3cHduZnotNHVkYWNGMk",
+    "sources": [
+      {
+        "name": "cosco",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPcTVGTUlDLUpBUVZwY29rUlM2S3dIUG0wQkExWHFyVzN2cmZuQ2hfampSbTViMXgxXzJ2d1hkMGtScGlnS0ZITXpEMENBREpNdXBMb1RTcG93dGNLaXRwRkI3cHduZnotNHVkYWNGMkMyak9pSEFNLTNEQnppczJVb2VRNmd0cUlONW92TzAySlJzLWdXV1g2LWVxN3BsSWk1UERJam9oZVA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "u_ming-2026-06-27-013",
+    "date": "2026-06-27",
+    "companies": [
+      "u_ming"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Price to earnings forward of U-Ming Marine Transport Corp. – TWSE:2606 - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxPMG9hdms0T243dm1lUzFSenVSTTNIUmlRMzN4WmpSV1d6aW5IajhYcVBMQ1Z5NXdLVDZqbmtvdVl1QlNNdlhCSnhHNUVwY0RRZFA5dzZHTDJIbmwzalJlNUtXaEtzZUdrTFd4U0xLQV",
+    "sources": [
+      {
+        "name": "u_ming",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPMG9hdms0T243dm1lUzFSenVSTTNIUmlRMzN4WmpSV1d6aW5IajhYcVBMQ1Z5NXdLVDZqbmtvdVl1QlNNdlhCSnhHNUVwY0RRZFA5dzZHTDJIbmwzalJlNUtXaEtzZUdrTFd4U0xLQVhWOWcwRW1zYmZNeUxGSXpJSDlNV29nUmZXaHVtb2pKaTRSWVdyMXJsQlpXT3N0RkE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-27-014",
+    "date": "2026-06-27",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "3 Shipping Stocks Worth Watching As Strait Of Hormuz Traffic Rebounds - Sahm",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxPbl80NmFHWXZ1c29CeDY4YXdpcG1mSHI5SHJkckpIeFRPSG90Z2ctQjBQSGFDbUh0RUhyN1pGbFV2a1REUV9JZnJEYThhaTZsX1JDS25iTmxyM2JlMnRmaHduMmtBMDBwN0ZlRjBmQk",
+    "sources": [
+      {
+        "name": "star_bulk",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPbl80NmFHWXZ1c29CeDY4YXdpcG1mSHI5SHJkckpIeFRPSG90Z2ctQjBQSGFDbUh0RUhyN1pGbFV2a1REUV9JZnJEYThhaTZsX1JDS25iTmxyM2JlMnRmaHduMmtBMDBwN0ZlRjBmQk0yOS1DLVZQZUFJdWViUlh1Z2NheFdFdE9ocXMzLWpfOG9VVmFzLVJpa1RPLUJQQ0x1YVdieUtCdDRNQ2VUOUZ6RVpwQk1vbVpOQnN4Q0hn?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-27-015",
+    "date": "2026-06-27",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Sweden Fits Guns To Coast Guard Vessels As Baltic Tensions Rise",
+    "summary": "By&#160;Charlie Duxbury Jun 27, 2026 (Bloomberg) &#8211;Sweden is fitting machine guns to its civilian coast guard vessels to better counter what it views as an intensifying threat from Russia-linked ",
+    "sources": [
+      {
+        "name": "gcaptain",
+        "url": "https://gcaptain.com/sweden-fits-guns-to-coast-guard-vessels-as-baltic-tensions-rise/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-27-016",
+    "date": "2026-06-27",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Second Tanker Struck in Strait of Hormuz as U.S.-Iran Shipping Crisis Deepens",
+    "summary": "A second merchant vessel has been struck while transiting the Strait of Hormuz, underscoring the rapidly deteriorating security situation despite efforts to keep commercial shipping moving through the",
+    "sources": [
+      {
+        "name": "gcaptain",
+        "url": "https://gcaptain.com/second-tanker-struck-in-strait-of-hormuz-as-u-s-iran-shipping-crisis-deepens/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-27-017",
+    "date": "2026-06-27",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Tanker Struck In Hormuz As Navies Raise Threat Level To Ships",
+    "summary": "By&#160;Sara Gharaibeh and Alex Longley Jun 27, 2026 (Bloomberg) &#8211;A ship was attacked in the Strait of Hormuz and naval authorities increased the threat level to shipping in the area,...",
+    "sources": [
+      {
+        "name": "gcaptain",
+        "url": "https://gcaptain.com/tanker-struck-in-hormuz-as-navies-raise-threat-level-to-ships/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-27-018",
+    "date": "2026-06-27",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Saudi Arabia Is Ramping Up Oil Exports As Gulf Ports Restart",
+    "summary": "By&#160;Julian Lee and Priyanjana Bengani Jun 26, 2026 (Bloomberg) &#8211;Saudi Arabia is boosting crude shipments, opening up its Persian Gulf ports that were shuttered by the Iran war while also...",
+    "sources": [
+      {
+        "name": "gcaptain",
+        "url": "https://gcaptain.com/saudi-arabia-is-ramping-up-oil-exports-as-gulf-ports-restart/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-27-019",
+    "date": "2026-06-27",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Vitol Sails Stranded Aluminum Cargo Out Of Strait Of Hormuz",
+    "summary": "By&#160;Mark Burton Jun 26, 2026 (Bloomberg) &#8211;Vitol Group has shipped a stranded cargo of aluminum out of the Strait of Hormuz, in an early sign of supply relief for buyers...",
+    "sources": [
+      {
+        "name": "gcaptain",
+        "url": "https://gcaptain.com/vitol-sails-stranded-aluminum-cargo-out-of-strait-of-hormuz/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-27-020",
+    "date": "2026-06-27",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "U.S. Opposes Sale of Artifacts Recovered from the Titanic",
+    "summary": "\n                The U.S. District Court in the Eastern District of Virginia, which continues to oversee the management of the wreck of the famed ocean liner Titanic,...\n            ",
+    "sources": [
+      {
+        "name": "maritime_executive",
+        "url": "https://maritime-executive.com/article/u-s-opposes-sale-of-artifacts-recovered-from-the-titanic",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-27-021",
+    "date": "2026-06-27",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "negative",
+    "title": "Tanker Struck by Drone off Oman and the US Again Responds with New Strkes",
+    "summary": "\n                A laden Panama-flagged tanker outbound from the Gulf was struck early on Saturday, June 27, as Iran continues to say it is firing “warning shots” at a...\n            ",
+    "sources": [
+      {
+        "name": "maritime_executive",
+        "url": "https://maritime-executive.com/article/tanker-struck-by-drone-off-oman-as-tensions-rise-with-iran",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-27-022",
+    "date": "2026-06-27",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Port Canaveral Earns Green Marine Certification for 10th Consecutive Year",
+    "summary": "\n                For the 10th consecutive year, Port Canaveral has earned Green Marine certification, continuing its decade of environmental leadership and sustainabil...\n            ",
+    "sources": [
+      {
+        "name": "maritime_executive",
+        "url": "https://maritime-executive.com/article/port-canaveral-earns-green-marine-certification-for-10th-consecutive-year",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-27-023",
+    "date": "2026-06-27",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "USCGC JUNIPER Conducts FY26 Drydock at Pacific Shipyards in Honolulu",
+    "summary": "\n                [By Pacific Shipyards International}Pacific Shipyards International, LLC (PSI), a subsidiary of Pacific Marine & Supply Company, is proud to announce...\n            ",
+    "sources": [
+      {
+        "name": "maritime_executive",
+        "url": "https://maritime-executive.com/article/uscgc-juniper-conducts-fy26-drydock-at-pacific-shipyards-in-honolulu",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-27-024",
+    "date": "2026-06-27",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Leaders Address Regulatory Barriers to Maritime Nuclear Technologies",
+    "summary": "\n                The U.S. Center for Maritime Innovation (USCMI) convened industry, government and regulatory leaders for a workshop on Maritime Nuclear Technology Reg...\n            ",
+    "sources": [
+      {
+        "name": "maritime_executive",
+        "url": "https://maritime-executive.com/article/leaders-address-regulatory-barriers-to-maritime-nuclear-technologies",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-27-025",
+    "date": "2026-06-27",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "The Maritime Executive’s Shipbuilding & Repair Edition is Now Online",
+    "summary": "\n                “50 Years of Shipbuilding Excellence” - That's the theme of Eastern Shipbuilding Group's celebratory year and it coincides with the 250th anniversary...\n            ",
+    "sources": [
+      {
+        "name": "maritime_executive",
+        "url": "https://maritime-executive.com/article/the-maritime-executive-s-shipbuilding-repair-edition-is-now-online",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-27-026",
+    "date": "2026-06-27",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Progressive’s Mandatory ELD Switch? Some Small Trucking Fleets May Be Required to Switch ELD Providers.",
+    "summary": "<p>For years, commercial trucking insurers have encouraged fleets to participate in telematics programs by offering premium discounts in exchange for access to electronic driving data. Programs that o",
+    "sources": [
+      {
+        "name": "freightwaves",
+        "url": "https://www.freightwaves.com/news/progressives-mandatory-eld-switch-some-small-trucking-fleets-may-be-required-to-switch-eld-providers",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-27-027",
+    "date": "2026-06-27",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "A $290,000 Tesla Semi for $50,000?? California’s Incentive Stack Is Real, but the Number Hides as Much as It Reveals.",
+    "summary": "<p>A claim is circulating that stops you mid-scroll: a California small fleet can now buy a Tesla Semi for as little as $50,000. The Tesla Semi carries a $290,000 sticker. The post lays out how two Ca",
+    "sources": [
+      {
+        "name": "freightwaves",
+        "url": "https://www.freightwaves.com/news/a-290000-tesla-semi-for-50000-californias-incentive-stack-is-real-but-the-number-hides-as-much-as-it-reveals",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-27-028",
+    "date": "2026-06-27",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Prime Is Suing the IRS for $11 Million Over Fuel Tax It Paid on Reefer Diesel. The Same Credit It Is Fighting For Is One Small Carriers Can Claim Too.",
+    "summary": "<p>A reefer unit burns its own diesel. Anyone who runs refrigerated freight knows this, because they are paying for two fuel burns on every load: the diesel that moves the truck down the road, and the",
+    "sources": [
+      {
+        "name": "freightwaves",
+        "url": "https://www.freightwaves.com/news/prime-is-suing-the-irs-for-11-million-over-fuel-tax-it-paid-on-reefer-diesel-the-same-credit-it-is-fighting-for-is-one-small-carriers-can-claim-too",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-27-029",
+    "date": "2026-06-27",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Freight forwarding manager sentenced for violating U.S. export controls",
+    "summary": "<p>A former regional manager for Delex Air Cargo LLC has been sentenced to 18 months in federal prison after pleading guilty to conspiracy to violate the Export Control Reform Act. According to the U.",
+    "sources": [
+      {
+        "name": "freightwaves",
+        "url": "https://www.freightwaves.com/news/freight-forwarding-manager-sentenced-for-violating-u-s-export-controls",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-27-030",
+    "date": "2026-06-27",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Tanker hit in Hormuz, threat level raised",
+    "summary": "A VLCC has been struck in Strait of Hormuz after US hit Iranian coastal positions",
+    "sources": [
+      {
+        "name": "seatrade_maritime",
+        "url": "https://www.seatrade-maritime.com/security/tanker-hit-in-hormuz-threat-level-raised",
         "type": "rss"
       }
     ]
@@ -1560,6 +2060,24 @@
     ]
   },
   {
+    "id": "unknown-2026-06-26-077",
+    "date": "2026-06-26",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "News Newbuild box ships bound for booming China-India trades - The Loadstar",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxOY21VX1M5cXU0aWx4N3BDN0RkQk1TX05yNWxDX20tcXdFSE5icHpNNTlhTnVQUngwOVJZdFNkZjg3cXlCRGpZUEU5R1JUNF94RGZDTjh4NzBWd1JCV0R4Mk5NTm1TSW50UkxOX25EME",
+    "sources": [
+      {
+        "name": "yang_ming",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOY21VX1M5cXU0aWx4N3BDN0RkQk1TX05yNWxDX20tcXdFSE5icHpNNTlhTnVQUngwOVJZdFNkZjg3cXlCRGpZUEU5R1JUNF94RGZDTjh4NzBWd1JCV0R4Mk5NTm1TSW50UkxOX25EMENHcmY4QVJKZGVhUWExNlRFTEF5ZHNDT28?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "unknown-2026-06-25-001",
     "date": "2026-06-25",
     "companies": [],
@@ -2721,6 +3239,44 @@
     ]
   },
   {
+    "id": "unknown-2026-06-25-064",
+    "date": "2026-06-25",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "India’s shipbuilding ambitions can set sail with Korea - The Hindu",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxQeFZwZGNaQ2htVFBsTzJhVU84RzVxS2RxUEhXYURGMnR0elJzYUdkOUhsZzJtSm1mdThidXZFTEYtbGZTQ2tSLXEweXJQeVlJci03SmdaQThZS3FYdGoxcnVQN2wwODBxS1NvUmNYN3",
+    "sources": [
+      {
+        "name": "hd_korea",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQeFZwZGNaQ2htVFBsTzJhVU84RzVxS2RxUEhXYURGMnR0elJzYUdkOUhsZzJtSm1mdThidXZFTEYtbGZTQ2tSLXEweXJQeVlJci03SmdaQThZS3FYdGoxcnVQN2wwODBxS1NvUmNYN3lZSGxhbGxRRXFTelRQS3BXVXNwcE0zVGlZaXJLTS0xN0dZVFhyZ3V0UGxoRGxYdGV2SXhfV0tVcXdvWHNZN2ZDWE1n0gG4AUFVX3lxTFBabDc3RWhRMDFsLU9FZF9MU1VRMW93VE9hOFdWYkZ2eXlMX0cyOU8xaU8zSGFtYzh5TVk0bi1FMmY4MnR3aDJGc05iVUJUZDhRUHg3blFMS19vVHROQ2s3VkFMUTdJdFhjRXc5SkRaZ3FzUzQzTTk3Xy1CSjRxSjJLSkIyZkF4aC1RT3NwX250RE9hd0xncllZVm1ENDBUZ1o2eThtSTZrSHFTWDJ0dTFpVXFwNUUycS0?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "cosco-2026-06-25-065",
+    "date": "2026-06-25",
+    "companies": [
+      "cosco"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "COSCO Shipping Energy Orders Four LNG Carriers from Jiangnan Shipyard with $948 Million - imarinenews.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiT0FVX3lxTE9jUlpxdTN5NWtLdXM4b2lsclFCck84djJmSkZ4TFFuM0w1OWpjZUw1VU9tZXoybzBuMV9aTW10UVNCa1hpSDU4X0w4WlIzQkk?oc=5\" target=\"_blank\">COSCO Shipping Energ",
+    "sources": [
+      {
+        "name": "cosco",
+        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9jUlpxdTN5NWtLdXM4b2lsclFCck84djJmSkZ4TFFuM0w1OWpjZUw1VU9tZXoybzBuMV9aTW10UVNCa1hpSDU4X0w4WlIzQkk?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "unknown-2026-06-24-001",
     "date": "2026-06-24",
     "companies": [],
@@ -3834,6 +4390,26 @@
       {
         "name": "google_container_shipping",
         "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPNjViOWFZby1fNWlGSzdtanJ5UTBsOEkzekZHVnpKZ3ktb05FZS14ZENNMlBRWndyMXNyZl9HTlYxcFRsTmh5NS1ZTUx3Y3E2UlA1R1VQUDR0cGt2UWhvTzBGTEhReXp1bTh6WmZYRTFJcndQVkdzTVMxcnlSdjJNUHI1bzIyOUU?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "cosco-2026-06-24-062",
+    "date": "2026-06-24",
+    "companies": [
+      "cosco"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Rhenus Group and COSCO SHIPPING Specialized Carriers Form Strategic Partnership at Cuxport - IndexBox",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxOOGVFV2dDVXQ1c2xLREM1QzlYa01sZ2lIbjJlbVdHZ0NkM2lvcXBlSElQRUFNQTZJNjJWUHJ5ckJBdGpidGt4aHJpVHFfUk92dkZ1dVZsb0hHT2NFSGsydXpKZzJ3YjNxeEJ0MExjWG",
+    "sources": [
+      {
+        "name": "cosco",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOOGVFV2dDVXQ1c2xLREM1QzlYa01sZ2lIbjJlbVdHZ0NkM2lvcXBlSElQRUFNQTZJNjJWUHJ5ckJBdGpidGt4aHJpVHFfUk92dkZ1dVZsb0hHT2NFSGsydXpKZzJ3YjNxeEJ0MExjWGdrTEhNbFR6RUZfZkZjY1ZxNkwyTERidWg3Sm4xUDJoX1RCQm1SZE9NQzJsN0xycmJldDlKZm96bGZDa25lRUI5b045eVI0SzhnYzFWUQ?oc=5",
         "type": "rss"
       }
     ]

@@ -1,0 +1,160 @@
+{
+  "date": "2026-06-28",
+  "generated_at": "2026-06-28T10:31:40.381062Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-06-28-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Hanwha Group Opens “Tomorrow Academy” Job Training to Help Young People Land Employment ...Measures to Strengthen Young People’s Job Skills and Support Successful Entry Into Society - 더글로벌기빙뉴스",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5TQ0xoQ3NNaTBWQW5TM1Ewek5uSU9SRmtYa3N4WWltVU0xd0ViNVFOT0pQQWV4RU1QbkphbzFEUElpRzQyVkJid3d6b3lNbG9LVS1xQw?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "yang_ming-2026-06-28-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Enterprise value to EBITDA forward of Yang Ming Marine Transport Corp. – TWSE:2609 - TradingView",
+      "companies": [
+        "yang_ming"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNN3VCN0ZmdkN1VU9jYTRYUjR2M29vMDJTdlRyVzNlYzJoVFFqLWZjcFg5RnRTaDR3QUtubmh1V2MxZVJVMGRWeXVYV1RMRGNqdlNKWmc3cGVuN2ppeWZHR3p3WjRrMkdrZWIxSWotRkhsT1dMNlVHZDBkTVFJUzZCVlNPS2VwWDlYYkh1UUswbVR1UkkxUW5oek5FZmRQR0x4dWw2cE9tT3UzTGs?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "cosco-2026-06-28-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Enterprise value to revenue forward of COSCO SHIPPING Ports Limited – HKEX:1199 - TradingView",
+      "companies": [
+        "cosco"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOb3E1UHI0RXdWTWwtYkRSNkVsazNvcV9VX0ZGQlFUNXp0QTRoTl90aEp4T1d4LWhuUkVWRV9rV3g3OGk4ak9qYVdTbS04WVRMbHg1bktOWlJtMTNZcncxS1cySEI5VjYzS3RlazhWaG5STmJiTnBrY0VNMlZFM2JsVzktWEtlUVZNN0d0YV8wa0xQUTBfakczTVZPcFBhWTM5bktmUll4NkJyQQ?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-06-28-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "US Carries Out Fresh Strikes Against Iran After Tanker Struck In Hormuz, Escalating Hostilities",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://gcaptain.com/us-carries-out-fresh-strikes-against-iran-after-tanker-struck-in-hormuz-escalating-hostilities/"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 4,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 4,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 4,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "yang_ming",
+        "count": 1
+      },
+      {
+        "id": "cosco",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 4
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 342,
+    "dup_title": 187,
+    "too_old": 95,
+    "gate1_blocked": 20,
+    "gate2_blocked": 8,
+    "passed": 31,
+    "pass_rate": "20.0%",
+    "gate2_block_rate": "5.2%",
+    "gate2_samples": [
+      "Price to sales forward of Hanwha Ocean Co., Ltd. – KRX:042660 - TradingView",
+      "Hanwha Ocean's Ad Campaign for 60 Trillion Won Canadian Submarine Project - 조선일보",
+      "Hanwha Ocean on board proposed $15.7 billion Canada FLNG project - Upstream Online",
+      "Enterprise value to EBIT forward of Evergreen Marine Corp. (Taiwan) Ltd. – TWSE:2603 - TradingView",
+      "Strait Of Hormuz Risk Puts Evergreen Marine And Chubb Stock In Focus - Sahm"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 4 則事件，焦點為陽明海運、中遠海控相關動態：「Hanwha Group Opens “Tomorrow Academy” Job Training to Hel...」。主要關注主題為航運產業通用，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Hanwha Group Opens “Tomorrow Academy” Job Training to Help Young People Land ...（航運產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "Enterprise value to EBITDA forward of Yang Ming Marine Transport Corp. – TWSE...（航運產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
