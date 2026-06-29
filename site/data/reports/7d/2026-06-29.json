@@ -1,0 +1,167 @@
+{
+  "date": "2026-06-29",
+  "date_range": {
+    "start": "2026-06-23",
+    "end": "2026-06-29"
+  },
+  "generated_at": "2026-06-29T12:40:24.638657Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "maersk-2026-06-24-054",
+      "date": "2026-06-24",
+      "title": "Gemini carriers sail past 90% schedule reliability targets in April/May",
+      "importance_score": 0.85
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "industry_general": {
+      "this_week": 126,
+      "last_week": 161,
+      "week_over_week_change": "-22%",
+      "sentiment_this_week": -0.0
+    },
+    "container_freight": {
+      "this_week": 5,
+      "last_week": 5,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": -0.1
+    },
+    "port_congestion": {
+      "this_week": 1,
+      "last_week": 2,
+      "week_over_week_change": "-50%",
+      "sentiment_this_week": 0.0
+    },
+    "shipbuilding_orders": {
+      "this_week": 8,
+      "last_week": 10,
+      "week_over_week_change": "-20%",
+      "sentiment_this_week": 0.19
+    },
+    "dry_bulk_rate": {
+      "this_week": 2,
+      "last_week": 1,
+      "week_over_week_change": "+100%",
+      "sentiment_this_week": 0.25
+    }
+  },
+  "company_7d_summary": {
+    "hd_korea": {
+      "event_count": 9,
+      "sentiment_avg": -0.11,
+      "rank": 2
+    },
+    "cosco": {
+      "event_count": 16,
+      "sentiment_avg": 0.0,
+      "rank": 1
+    },
+    "maersk": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 7
+    },
+    "hapag": {
+      "event_count": 3,
+      "sentiment_avg": 0.0,
+      "rank": 4
+    },
+    "hanwha_ocean": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 5
+    },
+    "evergreen": {
+      "event_count": 8,
+      "sentiment_avg": -0.12,
+      "rank": 3
+    },
+    "u_ming": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 6
+    },
+    "wan_hai": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 8
+    },
+    "yang_ming": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 9
+    },
+    "samsung_heavy": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 10
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 370,
+        "last": 369,
+        "change_pct": 0.3
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-06-23",
+      "event_count": 70,
+      "sentiment_avg": -0.03
+    },
+    {
+      "date": "2026-06-24",
+      "event_count": 62,
+      "sentiment_avg": 0.04
+    },
+    {
+      "date": "2026-06-25",
+      "event_count": 65,
+      "sentiment_avg": -0.03
+    },
+    {
+      "date": "2026-06-26",
+      "event_count": 78,
+      "sentiment_avg": -0.06
+    },
+    {
+      "date": "2026-06-27",
+      "event_count": 34,
+      "sentiment_avg": -0.03
+    },
+    {
+      "date": "2026-06-28",
+      "event_count": 17,
+      "sentiment_avg": 0.18
+    },
+    {
+      "date": "2026-06-29",
+      "event_count": 44,
+      "sentiment_avg": -0.01
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-06-23 ~ 2026-06-29）共 370 則事件，重點為「Gemini carriers sail past 90% schedule reliabil...」。航運產業通用、造船訂單、貨櫃運價為本週焦點話題。",
+    "watchlist": [
+      {
+        "company": "韓國造船海洋",
+        "reason": "本週出現 9 則相關事件且情緒偏負面，需特別關注。"
+      },
+      {
+        "company": "中遠海控",
+        "reason": "本週出現 16 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "赫伯羅特",
+        "reason": "本週出現 3 則相關事件，為高關注企業，動態頻繁。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

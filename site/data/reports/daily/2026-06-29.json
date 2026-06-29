@@ -1,0 +1,238 @@
+{
+  "date": "2026-06-29",
+  "generated_at": "2026-06-29T12:40:24.501079Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-06-29-033",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "A calmer transatlantic as box carriers balance supply and demand",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -0.75
+      },
+      "source_url": "https://theloadstar.com/a-calmer-transatlantic-as-box-carriers-balance-supply-and-demand/"
+    },
+    {
+      "rank": 2,
+      "event_id": "hd_korea-2026-06-29-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "HD Korea Shipbuilding localizes key component for LNG-powered ships - The Korea Times",
+      "companies": [
+        "hd_korea"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQeW1QaE9FNmtkNEFXN01SU2xZSnVKTm91OTB5SGxhbUlhelJTN2R3YjVPR0hibFUxYTBBNTNDSmpPdjZ0WGtMQlJxenJZN1I3TVdPRzZ1Y0VQNU9ydmdZeUtWQjRWR3JRRnVPS05Vem1IR0tHdzUxZm1QWURCaXFpTVBfNlpHd3FWenVpSXJpN0NNTnBKTzlHY2prbWV0Y0dQSnJMUEtOMUVSNE5WNjg3UlpXNHFwY1IyRmJfRzU0akd0ZWVQX0NZ0gHHAUFVX3lxTFB5bVBoT0U2a2Q0QVc3TVJTbFlKdUpOb3U5MHlIbGFtSWF6UlM3ZHdiNU9HSGJsVTFhMEE1M0NKak92NnRYa0xCUnF6clk3UjdNV09HNnVjRVA1T3J2Z1l5S1ZCNFZHclFGdU9LTlV6bUhHS0d3NTFmbVBZREJpcWlNUF82Wkd3cVZ6dWlJcmk3Q01OcEpPOUdjamttZXRjR1BKckxQS04xRVI0TlY2ODdSWlc0cXBjUjJGYl9HNTRqR3RlZVBfQ1k?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "hd_korea-2026-06-29-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "HD Korea Shipbuilding Secures KRW366 Billion Order for Two LPG Carriers; Shares Rise 3% - marketscreener.com",
+      "companies": [
+        "hd_korea"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPSXEzaHV5ak0zLUR1TmdJUnhhbkVvN1EzcERqVnhNemRxU0gzZ24yRjBHVEdYZkRpbm9WN2d1UDF0UUNrUWlKVkRMRlRzWDJUcUItZHh6VFFIQXNROERkWF9sR1I4Y2JKbS1ETmNGSU1QbEJjUWdlVy1OZUF2S1lpdEZRN1o2ZFd4VHdOSExOZllyLUJiOEVkeDlqSTdyaEwtWUpBYjk2S1JVYXVoeXBkay1WODdfeGdhcU1fWTdUdGlBX2ZpX1g4RHdBbFZXRmh6akk0Zw?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "hd_korea-2026-06-29-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "HD Korea Shipbuilding Localizes LNG Ship Equipment - Businesskorea",
+      "companies": [
+        "hd_korea"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBhdHZoRzU5QVJ4bEJXOWJPRlVyem9kYVNmZFpkTFJJakJiNWE5Sm1qbGxjc0RRZWdwVzlacVBrQ1VWeHlKQ3hMbjYyUHZ3M3lnRXZON2lNTXV5MGV3V2ozQzlFZDRTbm0wYzIwRVJOOVkzNUpV?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-06-29-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "HD KSOE develops fuel pump for LNG-powered vessels - LNG Prime",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNRGZvaXlBWUtGcWVDbHhhQlJtYXZIN2ZubmNRTkRTUHRWdWZRbFl0TDF4eExERV9Sb3FDdzVLNG12cnRIbmVRUnBVQW50OThxRjFndUlkdFNuakdtQnF1aExuaW5Zb0k1UFVuZ1RULU1MRU1XZHhyRk9PNDU5YVRSRU1IODJaZldnVUFIaw?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 43,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.01,
+      "sentiment_7d_avg": null
+    },
+    "shipbuilding_orders": {
+      "today": 5,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.2,
+      "sentiment_7d_avg": null
+    },
+    "dry_bulk_rate": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.5,
+      "sentiment_7d_avg": null
+    },
+    "container_freight": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 44,
+    "sentiment_distribution": {
+      "positive": 3,
+      "neutral": 38,
+      "negative": 3
+    },
+    "top_companies": [
+      {
+        "id": "hd_korea",
+        "count": 6
+      },
+      {
+        "id": "cosco",
+        "count": 6
+      },
+      {
+        "id": "hapag",
+        "count": 2
+      },
+      {
+        "id": "samsung_heavy",
+        "count": 1
+      },
+      {
+        "id": "u_ming",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 43
+      },
+      {
+        "id": "shipbuilding_orders",
+        "count": 5
+      },
+      {
+        "id": "dry_bulk_rate",
+        "count": 1
+      },
+      {
+        "id": "container_freight",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 352,
+    "dup_title": 165,
+    "too_old": 95,
+    "gate1_blocked": 21,
+    "gate2_blocked": 7,
+    "passed": 63,
+    "pass_rate": "33.7%",
+    "gate2_block_rate": "3.7%",
+    "gate2_samples": [
+      "Samsung Heavy Industries Vice Chairman Choi Sung-an Buys 10,000 Treasury Shares, Signaling Commitmen",
+      "GTT reçoit une commande de Samsung Heavy Industries pour la conception des cuves de trois méthaniers",
+      "Hanwha Ocean's Ad Campaign for 60 Trillion Won Canadian Submarine Project - 조선일보",
+      "Enterprise value to EBIT forward of Evergreen Marine Corp. (Taiwan) Ltd. – TWSE:2603 - TradingView",
+      "Strait Of Hormuz Risk Puts Evergreen Marine And Chubb Stock In Focus - Sahm"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 44 則事件，焦點為韓國造船海洋、中遠海控、赫伯羅特相關動態：「A calmer transatlantic as box carriers balance supply and...」。主要關注主題為航運產業通用、造船訂單、散裝運價，市場情緒中性。",
+    "signals": [
+      {
+        "text": "A calmer transatlantic as box carriers balance supply and demand（航運產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "HD Korea Shipbuilding localizes key component for LNG-powered ships - The Kor...（航運產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
