@@ -1,0 +1,222 @@
+{
+  "date": "2026-06-30",
+  "generated_at": "2026-06-30T11:15:07.713794Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-06-30-022",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Record breaking heatwaves - why the IMO NZF must go ahead",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://www.seatrade-maritime.com/regulations/record-breaking-heatwaves-why-the-imo-nzf-must-go-ahead"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-06-30-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "South Korea pushes to localize LNG ship equipment - upi.com",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNN2otV0JicVR6ejBZdThfTENYZmhrSmh3aEMwMHpyeWJNOWFJWF9Nanl0d19EQXFqVjR2UXgtZ3V0Xy1xV1JydHdkRTJwcmFxcWNQX1FvLWsxaDdfWXN0ZGZBREFUZV9FVGJkQ3RxUUIxbTBuV2JWXzc5OFBtODJuVlZtYVJRSVlYeGk3M2RvTGxqLWd2NFI4WEFBb9IBmwFBVV95cUxNN2otV0JicVR6ejBZdThfTENYZmhrSmh3aEMwMHpyeWJNOWFJWF9Nanl0d19EQXFqVjR2UXgtZ3V0Xy1xV1JydHdkRTJwcmFxcWNQX1FvLWsxaDdfWXN0ZGZBREFUZV9FVGJkQ3RxUUIxbTBuV2JWXzc5OFBtODJuVlZtYVJRSVlYeGk3M2RvTGxqLWd2NFI4WEFBbw?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-06-30-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "South Korea tempers shipbuilding expansion as China accelerates state-backed boom - CHOSUNBIZ - Chosunbiz",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQTGpSdGNYRDFtM2wycmlFbktxRXhhU0FsLUtIQVVYUXFqSnZhbXAxRXRVUDlZUWUtMm1hczJUWDNGeGFfVzNGMTUwcTNaSUQ5cG1HeDBORlcwTWd2QzZGOUNVNXplWks0ZzhoZ0Z0c1RpTFc0V0tpOHdfS19tRTB0cjhB0gGWAUFVX3lxTFBPNFozM2dELWhEN2NBaFRWU0lQQ2VvbFM2azJRNGMzQWcxYld5UkRmS01FQ0x1OWVQNGowYzY2VndhM29adHpyODJTZ1I3LURIUXhyN29CZ01OZWREMHJmX3BpX0E3NDJnaUhqYmdvbngzODNIR2NZekZ6TnZsb3pDdnpKbTlTYkc1VFQxLWNaNDg1RnYxZw?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "samsung_heavy-2026-06-30-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Samsung Heavy Industries and NAPA partner on fuel-efficient ship design - Smart Maritime Network",
+      "companies": [
+        "samsung_heavy"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQcTNjTkowUkF5dHpfcXJYUlRCM1d2R2hDczVHM182NXNQN3lHUm91WWFsYWFIbURFVTJlR3BMZGlKQXFTdkc2cHd2NnVBNmRiQkhGSDYxSTlRcE11RFhKeGotX1BzV3lZNFg3OTVxYmpWdFVacmUxUmVWS3FrSGthaGtHQnc0Z1EzNHRkUDBrdG45WmNSNWc5TkNfRWN2bkxSR0NMVVdqd2F1RUMyRk16dFZ1a0ZUMHc?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "samsung_heavy-2026-06-30-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "NAPA and Samsung Heavy Industries team up to boost wind-powered ship efficiency - Splash247",
+      "companies": [
+        "samsung_heavy"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOdThxX3BVajRHY0tTRXJkUVVjNjBORTQ0ZmdXa2NzYlNuTmd6ZS15cE9FNjJpRVhscWhqR0VhMF9oT0NaWFg4UjZhQlRMSjVyeU5NTnRtendFSXJRRzZfWHRxVmt4WUJ5WThXcTBRdDB1RFczSndVeGpLSHZ4NkRYaDlwZUxDZG1Hbmc0bUNYQU9BNUItZDUzSmdrNkExVkc3dEtPSQ?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 25,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.08,
+      "sentiment_7d_avg": null
+    },
+    "shipbuilding_orders": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.25,
+      "sentiment_7d_avg": null
+    },
+    "container_freight": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 26,
+    "sentiment_distribution": {
+      "positive": 5,
+      "neutral": 19,
+      "negative": 2
+    },
+    "top_companies": [
+      {
+        "id": "maersk",
+        "count": 3
+      },
+      {
+        "id": "samsung_heavy",
+        "count": 2
+      },
+      {
+        "id": "hanwha_ocean",
+        "count": 1
+      },
+      {
+        "id": "u_ming",
+        "count": 1
+      },
+      {
+        "id": "hapag",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 25
+      },
+      {
+        "id": "shipbuilding_orders",
+        "count": 2
+      },
+      {
+        "id": "container_freight",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 350,
+    "dup_title": 157,
+    "too_old": 86,
+    "gate1_blocked": 20,
+    "gate2_blocked": 7,
+    "passed": 79,
+    "pass_rate": "40.9%",
+    "gate2_block_rate": "3.6%",
+    "gate2_samples": [
+      "Samsung Heavy Industries Vice Chairman Choi Sung-an Buys 10,000 Treasury Shares, Signaling Commitmen",
+      "GTT reçoit une commande de Samsung Heavy Industries pour la conception des cuves de trois méthaniers",
+      "Canadas Submarine Procurement Narrows to Two Finalists: Hanwha Ocean and TKMS - Aju Press",
+      "Strait Of Hormuz Risk Puts Evergreen Marine And Chubb Stock In Focus - Sahm",
+      "Enterprise value to EBIT forward of Evergreen Marine Corp. (Taiwan) Ltd. – TWSE:2603 - TradingView"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 26 則事件，焦點為馬士基、三星重工、韓華海洋相關動態：「Record breaking heatwaves - why the IMO NZF must go ahead」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Record breaking heatwaves - why the IMO NZF must go ahead（航運產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "South Korea pushes to localize LNG ship equipment - upi.com（航運產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
