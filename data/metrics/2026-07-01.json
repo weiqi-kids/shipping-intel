@@ -1,0 +1,41 @@
+{
+  "date": "2026-07-01",
+  "total_events": 28,
+  "by_company": {
+    "hd_korea": {
+      "count": 3,
+      "sentiment_avg": 0.0
+    },
+    "samsung_heavy": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "yang_ming": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "cosco": {
+      "count": 7,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "industry_general": {
+      "count": 27,
+      "sentiment_avg": -0.01
+    },
+    "shipbuilding_orders": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "container_freight": {
+      "count": 4,
+      "sentiment_avg": 0.04
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}

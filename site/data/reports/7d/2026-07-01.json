@@ -1,0 +1,161 @@
+{
+  "date": "2026-07-01",
+  "date_range": {
+    "start": "2026-06-25",
+    "end": "2026-07-01"
+  },
+  "generated_at": "2026-07-01T11:29:19.664412Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "zim-2026-06-26-076",
+      "date": "2026-06-26",
+      "title": "Base case: current Hapag-Zim deal falls at Golden Share hurdle",
+      "importance_score": 0.7
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "industry_general": {
+      "this_week": 132,
+      "last_week": 146,
+      "week_over_week_change": "-10%",
+      "sentiment_this_week": -0.0
+    },
+    "shipbuilding_orders": {
+      "this_week": 10,
+      "last_week": 9,
+      "week_over_week_change": "+11%",
+      "sentiment_this_week": 0.2
+    },
+    "container_freight": {
+      "this_week": 7,
+      "last_week": 7,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": -0.05
+    },
+    "dry_bulk_rate": {
+      "this_week": 1,
+      "last_week": 2,
+      "week_over_week_change": "-50%",
+      "sentiment_this_week": 0.5
+    }
+  },
+  "company_7d_summary": {
+    "hanwha_ocean": {
+      "event_count": 3,
+      "sentiment_avg": 0.0,
+      "rank": 5
+    },
+    "cosco": {
+      "event_count": 22,
+      "sentiment_avg": 0.0,
+      "rank": 1
+    },
+    "hd_korea": {
+      "event_count": 11,
+      "sentiment_avg": 0.0,
+      "rank": 2
+    },
+    "evergreen": {
+      "event_count": 8,
+      "sentiment_avg": -0.12,
+      "rank": 3
+    },
+    "u_ming": {
+      "event_count": 3,
+      "sentiment_avg": 0.0,
+      "rank": 6
+    },
+    "wan_hai": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 10
+    },
+    "yang_ming": {
+      "event_count": 3,
+      "sentiment_avg": 0.0,
+      "rank": 7
+    },
+    "samsung_heavy": {
+      "event_count": 4,
+      "sentiment_avg": 0.0,
+      "rank": 4
+    },
+    "hapag": {
+      "event_count": 3,
+      "sentiment_avg": 0.0,
+      "rank": 8
+    },
+    "maersk": {
+      "event_count": 3,
+      "sentiment_avg": 0.17,
+      "rank": 9
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 404,
+        "last": 370,
+        "change_pct": 9.2
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-06-25",
+      "event_count": 66,
+      "sentiment_avg": -0.03
+    },
+    {
+      "date": "2026-06-26",
+      "event_count": 82,
+      "sentiment_avg": -0.06
+    },
+    {
+      "date": "2026-06-27",
+      "event_count": 35,
+      "sentiment_avg": -0.03
+    },
+    {
+      "date": "2026-06-28",
+      "event_count": 17,
+      "sentiment_avg": 0.18
+    },
+    {
+      "date": "2026-06-29",
+      "event_count": 97,
+      "sentiment_avg": -0.01
+    },
+    {
+      "date": "2026-06-30",
+      "event_count": 79,
+      "sentiment_avg": 0.03
+    },
+    {
+      "date": "2026-07-01",
+      "event_count": 28,
+      "sentiment_avg": -0.01
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-06-25 ~ 2026-07-01）共 404 則事件，重點為「Base case: current Hapag-Zim deal falls at Gold...」。航運產業通用、造船訂單、貨櫃運價為本週焦點話題。",
+    "watchlist": [
+      {
+        "company": "韓華海洋",
+        "reason": "本週出現 3 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "中遠海控",
+        "reason": "本週出現 22 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "韓國造船海洋",
+        "reason": "本週出現 11 則相關事件，為高關注企業，動態頻繁。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

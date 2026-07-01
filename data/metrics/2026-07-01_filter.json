@@ -1,0 +1,16 @@
+{
+  "total_raw": 352,
+  "dup_title": 127,
+  "no_date": 0,
+  "too_old": 107,
+  "gate1_fail": 21,
+  "gate2_fail": 9,
+  "passed": 88,
+  "gate2_samples": [
+    "Price to sales forward of Samsung Heavy Industries Co., Ltd – KRX:010140 - TradingView",
+    "Samsung Heavy Industries Vice Chairman Choi Sung-an Buys 10,000 Treasury Shares, Signaling Commitmen",
+    "Strait Of Hormuz Risk Puts Evergreen Marine And Chubb Stock In Focus - Sahm",
+    "Enterprise value to EBIT forward of Evergreen Marine Corp. (Taiwan) Ltd. – TWSE:2603 - TradingView",
+    "Evergreen Marine - Kurdistan24"
+  ]
+}
