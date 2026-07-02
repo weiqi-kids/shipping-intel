@@ -1,0 +1,16 @@
+{
+  "total_raw": 341,
+  "dup_title": 139,
+  "no_date": 0,
+  "too_old": 88,
+  "gate1_fail": 20,
+  "gate2_fail": 16,
+  "passed": 78,
+  "gate2_samples": [
+    "Samsung Heavy Industries Vice Chairman Choi Sung-an Buys 10,000 Treasury Shares, Signaling Commitmen",
+    "Hanwha Ocean picked as preferred bidder for W7.8tr Navy destroyer project - The Korea Herald",
+    "Hanwha Ocean Named KDDX Detailed Design Preferred Negotiator - 조선일보",
+    "Hanwha Ocean Wins Preferred Bidder Spot for KDDX - Businesskorea",
+    "Hanwha Ocean Selected as Preferred Negotiator for KDDX - 매일경제"
+  ]
+}

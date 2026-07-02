@@ -1,0 +1,222 @@
+{
+  "date": "2026-07-02",
+  "generated_at": "2026-07-02T10:46:25.883471Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "cosco-2026-07-02-013",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Economy&Life | COSCO bulk carrier sets Tianjin Port draft record at 22.18 meters - Xinhua",
+      "companies": [
+        "cosco"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE52YU5KSVU3Q0NiQURkd0tidmVVOVlEYzZoVGVHT3ZWaWJWamktVE1SSWJlaFpoZmdQeU1wRjZFdHlQWDBiY2FyRUJ3aXNMS1oweHg1WGpZd2lzUDJpTlVNeWdXNUNHZFBPUUI1YzJXWlBIaE5RMnBBMWxoa3E?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-07-02-020",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Can black swans continue saving container lines from overcapacity?",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://www.seatrade-maritime.com/containers/can-black-swans-continue-saving-container-lines-from-overcapacity-"
+    },
+    {
+      "rank": 3,
+      "event_id": "samsung_heavy-2026-07-02-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Samsung Heavy Industries Partners With Kuok Group - Businesskorea",
+      "companies": [
+        "samsung_heavy"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "container_freight"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1ZZVJSY2J3TUxSMFhLUDJEcTNUaGRtOG03TDhDWER1ZGhmcUNFM0RHVUNNZDdwQU9sYUhKQmJpdXhaTDY1ZVlDdS1aNlRHYmt6S1lJbFBXOWlaV3VSTW1GTmRKaFdYcFZOLXFRSldaZHVMSGMz?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "samsung_heavy-2026-07-02-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Price to earnings forward of Samsung Heavy Industries Co., Ltd – KRX:010140 - TradingView",
+      "companies": [
+        "samsung_heavy"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPYkU4VmgwSVczZ3FSS0dRRFV6ZWhJM2hwa0FuYWQ3Vnk0T05mNGNQQkpJVDJDVkRzYUNTSnJSbm5lZVlpdkJkZGZhcXVoSE93YmVKM2x1a1RoTWoyc19wYjFmeENnRHRyZnlVcGI2bWxUVGtsazc5eldoUHp4a0VqOVdTd2JaajQyNHVGaEZ6aGZ6VE1FVHRybXlia055ekZN?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "samsung_heavy-2026-07-02-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Samsung Heavy Industries Secures $2.7 Billion Contract for Two Oil Tankers - Aju Press",
+      "companies": [
+        "samsung_heavy"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5MZG1LVUhtN2Q4M3F0b0JXY2I4SmloaDZudE9LMDJwSElobkFEQWRITk5BaHNkR3NBV3BPTFZUS2xyWk9qUjVfMFdsbGpuVUY3Q1JMd1hYRdIBV0FVX3lxTE5MZG1LVUhtN2Q4M3F0b0JXY2I4SmloaDZudE9LMDJwSElobkFEQWRITk5BaHNkR3NBV3BPTFZUS2xyWk9qUjVfMFdsbGpuVUY3Q1JMd1hYRQ?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "container_freight": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 15,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.07,
+      "sentiment_7d_avg": null
+    },
+    "shipbuilding_orders": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 21,
+    "sentiment_distribution": {
+      "positive": 3,
+      "neutral": 17,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "samsung_heavy",
+        "count": 5
+      },
+      {
+        "id": "hanwha_ocean",
+        "count": 4
+      },
+      {
+        "id": "cosco",
+        "count": 3
+      },
+      {
+        "id": "maersk",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 15
+      },
+      {
+        "id": "container_freight",
+        "count": 2
+      },
+      {
+        "id": "shipbuilding_orders",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 341,
+    "dup_title": 139,
+    "too_old": 88,
+    "gate1_blocked": 20,
+    "gate2_blocked": 16,
+    "passed": 78,
+    "pass_rate": "38.6%",
+    "gate2_block_rate": "7.9%",
+    "gate2_samples": [
+      "Samsung Heavy Industries Vice Chairman Choi Sung-an Buys 10,000 Treasury Shares, Signaling Commitmen",
+      "Hanwha Ocean picked as preferred bidder for W7.8tr Navy destroyer project - The Korea Herald",
+      "Hanwha Ocean Named KDDX Detailed Design Preferred Negotiator - 조선일보",
+      "Hanwha Ocean Wins Preferred Bidder Spot for KDDX - Businesskorea",
+      "Hanwha Ocean Selected as Preferred Negotiator for KDDX - 매일경제"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 21 則事件，焦點為三星重工、韓華海洋、中遠海控相關動態：「Economy&Life | COSCO bulk carrier sets Tianjin Port draft...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Economy&Life | COSCO bulk carrier sets Tianjin Port draft record at 22.18 met...（航運產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "Can black swans continue saving container lines from overcapacity?（航運產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
