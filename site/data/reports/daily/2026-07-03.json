@@ -1,0 +1,211 @@
+{
+  "date": "2026-07-03",
+  "generated_at": "2026-07-03T10:42:26.145191Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-07-03-019",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Iran tries to exert control over Hormuz with armed response warning",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://www.seatrade-maritime.com/security/iran-tries-to-exert-control-over-hormuz-with-armed-response-warning"
+    },
+    {
+      "rank": 2,
+      "event_id": "hanwha_ocean-2026-07-03-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Hanwha Ocean selected to build South Korea's KDDX lead ship - Janes",
+      "companies": [
+        "hanwha_ocean"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNMWg4T2lZRU1TT3FEeU9aTUpfUERmbUJZM3N4ME1TWjdId1N6eGxkdTFYTGpUZmFDZ1NtdDBLdFpOMTlBOWlGb2hLWHBYamlsbURHSVNtMk5tQTEzNzIycllzS3pSV2prMzhDVFRHeG1DSTVNcDlZUURhZ1QydzFIbVRzaVlreWdwVmV3b09qRUxjRUg3bkQ5dWp3MUhiZXhMeFhicTVwSjB4M2dEUTk1MnR2X2RPWFhIZ3FFb3VOYmphRGZIRWc?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "hanwha_ocean-2026-07-03-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Hanwha Ocean Subcontractors Win Strike Rights - Businesskorea",
+      "companies": [
+        "hanwha_ocean"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE4zWXRPQ0dGSVNjWW1VbzlGMGQ1VEEwa1dKR3JwZjE4ZFMwVG1pTDk1WFl6dEdxSUtYQnY0bVl2VnQtbllsMnA2NlBta0lsZHFNV0theDRsajM1cUFVR2hQdGljTjBPZVpBb2tLV2JJeThObkR4?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "cosco-2026-07-03-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "YUEXIN GROUP and COSCO SHIPPING Forge Strategic Partnership with 240 TEU Electric Vessel Order - imarinenews.com",
+      "companies": [
+        "cosco"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5EbndLYlkzVXNmc0pPTDBtVXltUmxqYkhSVHQzMDM0d3FSdXVfSUpkMzBseFdQZWUtM2pOd1BDWk9tbUVXQ1llWmFmbWo4WlU?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-07-03-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Container spot rates hit four-year highs",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "container_freight",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://splash247.com/container-spot-rates-hit-four-year-highs/"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 19,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.03,
+      "sentiment_7d_avg": null
+    },
+    "container_freight": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "shipbuilding_orders": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 20,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 18,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "hanwha_ocean",
+        "count": 2
+      },
+      {
+        "id": "cosco",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 19
+      },
+      {
+        "id": "shipbuilding_orders",
+        "count": 3
+      },
+      {
+        "id": "container_freight",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 351,
+    "dup_title": 163,
+    "too_old": 92,
+    "gate1_blocked": 17,
+    "gate2_blocked": 10,
+    "passed": 69,
+    "pass_rate": "36.7%",
+    "gate2_block_rate": "5.3%",
+    "gate2_samples": [
+      "Samsung Heavy Industries Vice Chairman Choi Sung-an Buys 10,000 Treasury Shares, Signaling Commitmen",
+      "Hanwha Ocean selected as preferred bidder for South Korea’s $5.1 billion KDDX next-generation destro",
+      "Hanwha Ocean picked as preferred bidder for W7.8tr Navy destroyer project - The Korea Herald",
+      "(LEAD) Hanwha Ocean picked as preferred bidder for 7.8 tln-won Navy destroyer project - Yonhap News ",
+      "Hanwha Ocean Co., Ltd. Financial Disclosures & Filings - TradingView"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 20 則事件，焦點為韓華海洋、中遠海控相關動態：「Iran tries to exert control over Hormuz with armed respon...」。主要關注主題為航運產業通用、造船訂單、貨櫃運價，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Iran tries to exert control over Hormuz with armed response warning（航運產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "Hanwha Ocean selected to build South Korea's KDDX lead ship - Janes（航運產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
