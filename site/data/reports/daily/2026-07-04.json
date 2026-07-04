@@ -1,0 +1,195 @@
+{
+  "date": "2026-07-04",
+  "generated_at": "2026-07-04T10:16:17.682692Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-07-04-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Frontline Stock And 2 Tanker Names Facing Strait Of Hormuz Shipping Risk - simplywall.st",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOV2N0d05SWkZZUHF4V2xyekdjVjNhcEltamE5bm1HX2JnLU43VVFNU2YyazdVdjNqWjRSX1RfVWdnMlVPTEI2MXFkYzVDLWQ0VmVleDZ4dGs4a0RpNk9oNlBvclhDd2E3WHY5ODdFTmlhSDZDdEY3dFZuYUV1c1Q0MS01dklNUnNWdC1pOEFqX3JqUklfZGYwS2h0ZjhEaDJHWnRjTk9GZzhNWWZaZjI4WTlheVVvNUw4OXBxcU5mRlV0ZWk1MElwb01OTXIzclRWUkYyazdYMEdXWXdfTUJzdE1kdm92NDRtNlJQLWp5ZHB2N3dCekNwSTd2R3JQQdIB_gFBVV95cUxOV2N0d05SWkZZUHF4V2xyekdjVjNhcEltamE5bm1HX2JnLU43VVFNU2YyazdVdjNqWjRSX1RfVWdnMlVPTEI2MXFkYzVDLWQ0VmVleDZ4dGs4a0RpNk9oNlBvclhDd2E3WHY5ODdFTmlhSDZDdEY3dFZuYUV1c1Q0MS01dklNUnNWdC1pOEFqX3JqUklfZGYwS2h0ZjhEaDJHWnRjTk9GZzhNWWZaZjI4WTlheVVvNUw4OXBxcU5mRlV0ZWk1MElwb01OTXIzclRWUkYyazdYMEdXWXdfTUJzdE1kdm92NDRtNlJQLWp5ZHB2N3dCekNwSTd2R3JQQQ?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "cosco-2026-07-04-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "COSCO SHIPPING ENGY TPT CO LTD To Go Ex-Dividend On July 20th, 2026 With 0.05611 USD Dividend Per Share - 富途牛牛",
+      "companies": [
+        "cosco"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQWTdhZlByQVY3RGV2VFZfMGUyNVhXcmlJd1ZUMDNQWDNRRk5JbmhGSU4yTEZIU3J2NUEwMVZlR1lFbG4tOGQxOFc2ZnZ1dHlkdGxRU3RHMkRkTEVMdklDWk42dFUxVlF2RjlwVENJdklCT2VSMS1pYVp2aFVqWEZkdGQyZjJnNUlqRjk0dHNzbXozYTQ?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-07-04-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Freight rates hit two-year high as geopolitics disrupt global trade - AzerNews",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "container_freight",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1oNnV6VFcxZWM2LUFxN1M5M3QzZnlnUjdqRnV4Q21FVlBOT1R1U1MyUWhZMlJKcFJYbmk1eHl6SmZ0LXlmYjBYNHY3VDBpMElndDV0QW0zOA?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "hapag-2026-07-04-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Hapag-Lloyd announces US$1,000 GRI for Shipments from Indian Subcontinent and Pakistan to North America - India Shipping News",
+      "companies": [
+        "hapag"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNckhNdkZMZVEtbThUNFY0NzlXSm9sQ3UtU04yT2VGUHFzRFQyS2VjeHVBLU1LZ1pHWE9oQ3FnQXctbEZOVlZrRUNCMXpKSU45cW5WOXluZ1JZWkpPVy1qWHg3TlNmTDZuR3RMT0RQNjZCWWdScXFxUEQ1U05jRTYxRW9GY3BXNUFsOFRWT3R6STNSUklBM3hGUmJGakh1ZF9CX1RfR2JZMU9zQlRhTGNQbGw2UDlCeHdjYWNMRUZFcmZXS0ZSUGpNaUo4RGg?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-07-04-005",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Drewry: Intra-Asia Container Index down 4% last week - India Shipping News",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOd3RUT2NGMzNYYmJTNGhrVjdtVGhweVNMWDljSDJxVVF6ZjRGVVFfbFlfTDBXbkhIVlRKSWt1bWh6QWJGZmZ3SnBTbFpzZl9EQW5oMFpOdVJJVnVab0MtVDdoZk81bk0yajdleTRkS2VuYVpwNmw3OVVuQU1Iem05cnlZQm9KVE1v?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 5,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "container_freight": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 5,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 5,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "cosco",
+        "count": 1
+      },
+      {
+        "id": "hapag",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 5
+      },
+      {
+        "id": "container_freight",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 341,
+    "dup_title": 177,
+    "too_old": 99,
+    "gate1_blocked": 16,
+    "gate2_blocked": 8,
+    "passed": 41,
+    "pass_rate": "25.0%",
+    "gate2_block_rate": "4.9%",
+    "gate2_samples": [
+      "Samsung Heavy Industries Vice Chairman Choi Sung-an buys 10,000 treasury shares, signaling commitmen",
+      "Hanwha Ocean selected as preferred bidder for South Korea’s $5.1 billion KDDX next-generation destro",
+      "Hanwha Ocean picked as preferred bidder for W7.8tr Navy destroyer project - The Korea Herald",
+      "Hanwha Ocean Wins Preferred Bidder Spot for KDDX - Businesskorea",
+      "(LEAD) Hanwha Ocean picked as preferred bidder for 7.8 tln-won Navy destroyer project - Yonhap News "
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 5 則事件，焦點為中遠海控、赫伯羅特相關動態：「Frontline Stock And 2 Tanker Names Facing Strait Of Hormu...」。主要關注主題為航運產業通用、貨櫃運價，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Frontline Stock And 2 Tanker Names Facing Strait Of Hormuz Shipping Risk - si...（航運產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "COSCO SHIPPING ENGY TPT CO LTD To Go Ex-Dividend On July 20th, 2026 With 0.05...（航運產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
