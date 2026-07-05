@@ -1,0 +1,16 @@
+{
+  "total_raw": 342,
+  "dup_title": 206,
+  "no_date": 0,
+  "too_old": 95,
+  "gate1_fail": 13,
+  "gate2_fail": 6,
+  "passed": 22,
+  "gate2_samples": [
+    "Hanwha Ocean picked as preferred bidder for W7.8tr Navy destroyer project - The Korea Herald",
+    "Hanwha Ocean selected as preferred bidder for South Korea’s $5.1 billion KDDX next-generation destro",
+    "Hanwha Ocean Co., Ltd. Financial Disclosures & Filings - TradingView",
+    "Hanwha Ocean Wins Preferred Bidder Spot for KDDX - Businesskorea",
+    "Hanwha Ocean picked as preferred bidder for 7.8 tln-won Navy destroyer project - Yonhap News Agency"
+  ]
+}

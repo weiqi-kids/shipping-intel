@@ -1,0 +1,161 @@
+{
+  "date": "2026-07-05",
+  "date_range": {
+    "start": "2026-06-29",
+    "end": "2026-07-05"
+  },
+  "generated_at": "2026-07-05T10:21:26.777269Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "unknown-2026-06-29-033",
+      "date": "2026-06-29",
+      "title": "A calmer transatlantic as box carriers balance supply and demand",
+      "importance_score": 0.65
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "industry_general": {
+      "this_week": 136,
+      "last_week": 124,
+      "week_over_week_change": "+10%",
+      "sentiment_this_week": 0.01
+    },
+    "shipbuilding_orders": {
+      "this_week": 13,
+      "last_week": 7,
+      "week_over_week_change": "+86%",
+      "sentiment_this_week": 0.12
+    },
+    "dry_bulk_rate": {
+      "this_week": 1,
+      "last_week": 1,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.5
+    },
+    "container_freight": {
+      "this_week": 10,
+      "last_week": 6,
+      "week_over_week_change": "+67%",
+      "sentiment_this_week": 0.02
+    }
+  },
+  "company_7d_summary": {
+    "hd_korea": {
+      "event_count": 9,
+      "sentiment_avg": 0.0,
+      "rank": 3
+    },
+    "samsung_heavy": {
+      "event_count": 10,
+      "sentiment_avg": 0.05,
+      "rank": 2
+    },
+    "cosco": {
+      "event_count": 21,
+      "sentiment_avg": 0.05,
+      "rank": 1
+    },
+    "u_ming": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 7
+    },
+    "hapag": {
+      "event_count": 4,
+      "sentiment_avg": 0.0,
+      "rank": 5
+    },
+    "evergreen": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 9
+    },
+    "hanwha_ocean": {
+      "event_count": 7,
+      "sentiment_avg": 0.0,
+      "rank": 4
+    },
+    "maersk": {
+      "event_count": 4,
+      "sentiment_avg": 0.13,
+      "rank": 6
+    },
+    "yang_ming": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 8
+    },
+    "wisdom": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 10
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 413,
+        "last": 417,
+        "change_pct": -1.0
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-06-29",
+      "event_count": 100,
+      "sentiment_avg": -0.01
+    },
+    {
+      "date": "2026-06-30",
+      "event_count": 83,
+      "sentiment_avg": 0.03
+    },
+    {
+      "date": "2026-07-01",
+      "event_count": 91,
+      "sentiment_avg": -0.01
+    },
+    {
+      "date": "2026-07-02",
+      "event_count": 69,
+      "sentiment_avg": 0.04
+    },
+    {
+      "date": "2026-07-03",
+      "event_count": 49,
+      "sentiment_avg": 0.11
+    },
+    {
+      "date": "2026-07-04",
+      "event_count": 17,
+      "sentiment_avg": 0.0
+    },
+    {
+      "date": "2026-07-05",
+      "event_count": 4,
+      "sentiment_avg": 0.0
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-06-29 ~ 2026-07-05）共 413 則事件，重點為「A calmer transatlantic as box carriers balance ...」。航運產業通用、造船訂單、貨櫃運價為本週焦點話題。",
+    "watchlist": [
+      {
+        "company": "韓國造船海洋",
+        "reason": "本週出現 9 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "三星重工",
+        "reason": "本週出現 10 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "中遠海控",
+        "reason": "本週出現 21 則相關事件，為高關注企業，動態頻繁。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

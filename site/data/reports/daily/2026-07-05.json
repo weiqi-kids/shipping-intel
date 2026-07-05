@@ -1,0 +1,164 @@
+{
+  "date": "2026-07-05",
+  "generated_at": "2026-07-05T10:21:26.638227Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "samsung_heavy-2026-07-05-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Enterprise value to revenue forward of Samsung Heavy Industries Co., Ltd – KRX:010140 - TradingView",
+      "companies": [
+        "samsung_heavy"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQbnY2N3JyWmNKR2FpbGtrbDhwVHZGenNrbUZrTmRqRXlod2pvS0R3UmhkbDA2MEZJOTUwd2xQbGktV1dhblJDN0NvVVdBX1I2d3JkNFRYMDdjWFBKSUo3c3hxWm5RbHlpaThXY3pFSDU5YzZ1VFR1X3c2WW1hVlpQR0NCSTJRWUdvZGVWVzR5V0hvaXptUm1Obm5vVC1kVkFUUDhPZjBsODVGak0?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "cosco-2026-07-05-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Price to earnings forward of COSCO SHIPPING Development Co., Ltd. Class H – HAN:EZ5 - TradingView",
+      "companies": [
+        "cosco"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOSHV4aEc3dS0ybFFfX3FDVWFXSjcxU2FGUDNQbldLbzZuemZKb1I2MzZnR0NFZmpqVGxvQnVnS2duNFVTMURabmhHckZXaXRQRXY2cUxpaWZLb0lYY3pScGtfakMxT1V6cG9FWEt3eUU1a19CUFJ1M0Z6V2hVYVhmdDF3Z1NDdmxfa2tzN19COW41S09oRG9qa1FZZmg?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "cosco-2026-07-05-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "The COSCO Shipping Container. Classic steel workhorse keeps global trade moving - AD HOC NEWS",
+      "companies": [
+        "cosco"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNVjYwY1VJeFpUMVNUOHUyNTRKbEJaN081VUotQXdyRXkxNUdsTUVkLXBNMXc3ZmhTXzk3SEdwd21iYnFBWmU1SmxfV2RON3REV2hzVzZYekhMdkVFeGJjMDctUnNDbW5fNktvODJRb0hPenZlb3NFYWtCbE03SnBUYVFyTElMZmJPVWdPS2YtdE4wTWVXNnExamNuRE81TURiQmxHNWFUeFMwLWFsUGQ1ak5uX24zNWlxeG9QclBMLXMwUFl2QnRma3J3?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "wisdom-2026-07-05-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Number of shareholders of Wisdom Marine Lines Co., Limited. – TWSE:2637 - TradingView",
+      "companies": [
+        "wisdom"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPblk4LUJva0NpQXRwcEl2VUJTRDRBcXpJMlM0Ynd1dXJLMTJaNklnbkFDaVV4VEZZbmxtNmFLdnhlZ254bHFLc1FWcTh6MzZtM2tZWkNNTlRlVHJDTWVVR3E3UnFOYXlIdG1tMkZZcG9YQlhWalFwamtwUjNKUklkMlF2OUk0bmRubzIzU0dnekVqUXlQTGtLcGo3SW9TdkRnbFFIaw?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 4,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 4,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "cosco",
+        "count": 2
+      },
+      {
+        "id": "samsung_heavy",
+        "count": 1
+      },
+      {
+        "id": "wisdom",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 2
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 342,
+    "dup_title": 206,
+    "too_old": 95,
+    "gate1_blocked": 13,
+    "gate2_blocked": 6,
+    "passed": 22,
+    "pass_rate": "16.2%",
+    "gate2_block_rate": "4.4%",
+    "gate2_samples": [
+      "Hanwha Ocean picked as preferred bidder for W7.8tr Navy destroyer project - The Korea Herald",
+      "Hanwha Ocean selected as preferred bidder for South Korea’s $5.1 billion KDDX next-generation destro",
+      "Hanwha Ocean Co., Ltd. Financial Disclosures & Filings - TradingView",
+      "Hanwha Ocean Wins Preferred Bidder Spot for KDDX - Businesskorea",
+      "Hanwha Ocean picked as preferred bidder for 7.8 tln-won Navy destroyer project - Yonhap News Agency"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 4 則事件，焦點為中遠海控、三星重工、慧洋海運相關動態：「Enterprise value to revenue forward of Samsung Heavy Indu...」。主要關注主題為航運產業通用，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Enterprise value to revenue forward of Samsung Heavy Industries Co., Ltd – KR...",
+        "level": "green"
+      },
+      {
+        "text": "Price to earnings forward of COSCO SHIPPING Development Co., Ltd. Class H – H...（航運產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
