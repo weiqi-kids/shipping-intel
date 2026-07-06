@@ -1,0 +1,16 @@
+{
+  "total_raw": 352,
+  "dup_title": 173,
+  "no_date": 0,
+  "too_old": 98,
+  "gate1_fail": 18,
+  "gate2_fail": 5,
+  "passed": 58,
+  "gate2_samples": [
+    "Hanwha Ocean Rallies Ahead of Canada Submarine Decision - Businesskorea",
+    "Hanwha Ocean selected as preferred bidder for South Korea’s $5.1 billion KDDX next-generation destro",
+    "Hanwha Ocean surges as South Korea nears decision in Canada sub bid - CHOSUNBIZ - Chosunbiz",
+    "Taiwan authorities search premises of Evergreen Marine over suspected insider trading - The Edge Sin",
+    "As rates rally, the FMC enforcement offensive hits critical mass…"
+  ]
+}

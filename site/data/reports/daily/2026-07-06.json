@@ -1,0 +1,240 @@
+{
+  "date": "2026-07-06",
+  "generated_at": "2026-07-06T12:09:29.830592Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "zim-2026-07-06-024",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "Investing.com: ZIM stock tumbles after Israeli officials oppose Hapag-Lloyd sale",
+      "companies": [
+        "zim",
+        "hapag"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://theloadstar.com/investing-com-zim-stock-tumbles-after-israeli-officials-oppose-hapag-lloyd-sale/"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-07-06-022",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Vessel attacked off Yemen",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://splash247.com/vessel-attacked-off-yemen/"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-07-06-030",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Asia-Europe ocean spot split nears record level",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "container_freight",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://theloadstar.com/asia-europe-ocean-spot-split-nears-record-level/"
+    },
+    {
+      "rank": 4,
+      "event_id": "samsung_heavy-2026-07-06-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Samsung Heavy Industries to Launch Floating Data Center by 2028 - Seoul Economic Daily",
+      "companies": [
+        "samsung_heavy"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPbGhsX3VlbEgzN2NGLV9DdGk3NmxkM0NDeXRyaUhwV1A0TDFMR181TVhTSVNjODN5czB2aXJDdFhrcnBLSDRMSmNHa2d5NTdVMm1lcW9xRFlLemN0OVZDMk9HakpqT0dWUGFtaWRYTndwdVJtd2o0M1RiUHBvLXI4cEpkaFBvdWhCYm9ZNDZPQXdhNTNGZDJ6ZDVPVUJMV0lBekE?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "hanwha_ocean-2026-07-06-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Hanwha Ocean is soaring on the 6th in anticipation of the final selection ahead of the announcement - 매일경제",
+      "companies": [
+        "hanwha_ocean"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBLc0pWbUdxV0F6QlVhU2tDWHhHak5TOC1vYVRnY3QydFNiY05GSjlQTFFXbEpxejZjS2lNZmpkTktZdzZGNTdwNGQySFVsRGs?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 29,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.02,
+      "sentiment_7d_avg": null
+    },
+    "container_freight": {
+      "today": 4,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.25,
+      "sentiment_7d_avg": null
+    },
+    "shipbuilding_orders": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "dry_bulk_rate": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 35,
+    "sentiment_distribution": {
+      "positive": 2,
+      "neutral": 30,
+      "negative": 3
+    },
+    "top_companies": [
+      {
+        "id": "hanwha_ocean",
+        "count": 4
+      },
+      {
+        "id": "cosco",
+        "count": 2
+      },
+      {
+        "id": "maersk",
+        "count": 2
+      },
+      {
+        "id": "zim",
+        "count": 2
+      },
+      {
+        "id": "samsung_heavy",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 29
+      },
+      {
+        "id": "container_freight",
+        "count": 4
+      },
+      {
+        "id": "shipbuilding_orders",
+        "count": 2
+      },
+      {
+        "id": "dry_bulk_rate",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 352,
+    "dup_title": 173,
+    "too_old": 98,
+    "gate1_blocked": 18,
+    "gate2_blocked": 5,
+    "passed": 58,
+    "pass_rate": "32.4%",
+    "gate2_block_rate": "2.8%",
+    "gate2_samples": [
+      "Hanwha Ocean Rallies Ahead of Canada Submarine Decision - Businesskorea",
+      "Hanwha Ocean selected as preferred bidder for South Korea’s $5.1 billion KDDX next-generation destro",
+      "Hanwha Ocean surges as South Korea nears decision in Canada sub bid - CHOSUNBIZ - Chosunbiz",
+      "Taiwan authorities search premises of Evergreen Marine over suspected insider trading - The Edge Sin",
+      "As rates rally, the FMC enforcement offensive hits critical mass…"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 35 則事件，焦點為韓華海洋、中遠海控、馬士基相關動態：「Investing.com: ZIM stock tumbles after Israeli officials ...」。整體情緒偏負面，需留意潛在風險。",
+    "signals": [
+      {
+        "text": "Investing.com: ZIM stock tumbles after Israeli officials oppose Hapag-Lloyd sale（航運產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "Vessel attacked off Yemen（航運產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
