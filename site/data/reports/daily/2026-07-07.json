@@ -1,0 +1,207 @@
+{
+  "date": "2026-07-07",
+  "generated_at": "2026-07-07T11:13:36.507448Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "hapag-2026-07-07-017",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "Netanyahu and Katz urge ZIM sale be scrapped",
+      "companies": [
+        "hapag",
+        "zim"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://splash247.com/netanyahu-and-katz-urge-zim-sale-be-scrapped/"
+    },
+    {
+      "rank": 2,
+      "event_id": "hanwha_ocean-2026-07-07-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Hanwha Ocean shares sink 23% as it loses bid to build Canada's next fleet of submarines - CNBC",
+      "companies": [
+        "hanwha_ocean"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNSDh5cHlZblZJMHg5dEdnLXd2OFlVeWNhckJ5WVo2aGlBeEN4Q1hLamw0a2dVWkRqV19LTGdEV2pLemdUdG5qeEFQLVVXM2N2VHdKcWxQNVp1a3JORTRxanRqdFZkZlN0ZC1vWFB2VF9ndzQ3Vnlndk1fQUxGUms2SEpVM0pjc1ZVVE9fddIBkgFBVV95cUxNQlFHX1QxNG5wOXdLMmhTZnNQTXFGdzNiRGdtTkVITVFyMXhETjIxeHBXQmt0YUV2VE43LUFGV0pObmRNSU5GMEc3Q2dEa3BmVUs3NjZwczlsTGtXb1lySk5uY2l1VDdIeDN3cE5OV28wMVVwUnNzS1I3QWRVMHVUWUZZWC1CVWlyX2xJbmVZYmc4QQ?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "hanwha_ocean-2026-07-07-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Hanwha Ocean loses Canada bid, gains global recognition - The Korea Herald",
+      "companies": [
+        "hanwha_ocean"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5uLWVfcnZWMFdJYTkzREtMTjlscjY2bm15RjV1MVlfU1E5aTJqWVNXV2YyVElIQk56UWp5amRmNHJpaFp0cVJNQ1FycWpWdWJXQUZuUER2VQ?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "hanwha_ocean-2026-07-07-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Hanwha Ocean's Canada setback boosts export prospects - The Korea Times",
+      "companies": [
+        "hanwha_ocean"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQNy1BUU42OFVieHZxbWtveHVCem9mUzA1QUpPSDdlSXU1bVhSZlM4Rkx1NHVkZzJhVE5OSndab1JFM0EwUUFmNlNuTTZwYkZIMlNJSG15amQtR081S2I0cUdxSmNQd2JLRGx6bUtaX1lLV0hrRmlBb0tWa1pFb2NJR2I3SmRQR1E2RGRDRUZHODVGTUZMc2ljRzNlQndKUEJ5VWRGUDliekwwOE55YW90Tm9JZ9IBswFBVV95cUxQNy1BUU42OFVieHZxbWtveHVCem9mUzA1QUpPSDdlSXU1bVhSZlM4Rkx1NHVkZzJhVE5OSndab1JFM0EwUUFmNlNuTTZwYkZIMlNJSG15amQtR081S2I0cUdxSmNQd2JLRGx6bUtaX1lLV0hrRmlBb0tWa1pFb2NJR2I3SmRQR1E2RGRDRUZHODVGTUZMc2ljRzNlQndKUEJ5VWRGUDliekwwOE55YW90Tm9JZw?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "hanwha_ocean-2026-07-07-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Hanwha Ocean Loses Canadian Submarine Bid - 조선일보",
+      "companies": [
+        "hanwha_ocean"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQWUtPQlg4TndxWFgzT2tJVU9rcVhoOWoxTVdIWmZ5MEtpZFMzTTQ2eGh5VWs2VTYyaUFJdW1PVFNxSU5IbHY5eWFjRzNsWnhUUExYc3N4U1VEQTdrNjJMeHNhVk9tRER5akN5V0RySGE2TVpqWFZyYXJvcGNhRVZEZlVTa0ZJYjhX?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 18,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.06,
+      "sentiment_7d_avg": null
+    },
+    "shipbuilding_orders": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 24,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 22,
+      "negative": 2
+    },
+    "top_companies": [
+      {
+        "id": "hanwha_ocean",
+        "count": 7
+      },
+      {
+        "id": "evergreen",
+        "count": 3
+      },
+      {
+        "id": "hapag",
+        "count": 1
+      },
+      {
+        "id": "zim",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 18
+      },
+      {
+        "id": "shipbuilding_orders",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 352,
+    "dup_title": 155,
+    "too_old": 92,
+    "gate1_blocked": 16,
+    "gate2_blocked": 13,
+    "passed": 76,
+    "pass_rate": "38.6%",
+    "gate2_block_rate": "6.6%",
+    "gate2_samples": [
+      "Hanwha Ocean Loses Bid for Canada's 60 Trillion Won Submarine Program - thelec.net",
+      "Hanwha Ocean shares sink over 20% after Canada loss - Korea JoongAng Daily",
+      "Hanwha Ocean Stock Slumps After Canada Bid Loss - Businesskorea",
+      "Evergreen Marine director released on bail in insider trading probe - Focus Taiwan",
+      "Evergreen Marine Raided by Taiwan Authorities in Insider Trading Investigation | 2026 - News and Sta"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 24 則事件，焦點為韓華海洋、長榮海運、赫伯羅特相關動態：「Netanyahu and Katz urge ZIM sale be scrapped」。整體情緒偏負面，需留意潛在風險。",
+    "signals": [
+      {
+        "text": "Netanyahu and Katz urge ZIM sale be scrapped（航運產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "Hanwha Ocean shares sink 23% as it loses bid to build Canada's next fleet of ...（航運產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

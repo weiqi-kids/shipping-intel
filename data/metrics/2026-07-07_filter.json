@@ -1,0 +1,16 @@
+{
+  "total_raw": 352,
+  "dup_title": 155,
+  "no_date": 0,
+  "too_old": 92,
+  "gate1_fail": 16,
+  "gate2_fail": 13,
+  "passed": 76,
+  "gate2_samples": [
+    "Hanwha Ocean Loses Bid for Canada's 60 Trillion Won Submarine Program - thelec.net",
+    "Hanwha Ocean shares sink over 20% after Canada loss - Korea JoongAng Daily",
+    "Hanwha Ocean Stock Slumps After Canada Bid Loss - Businesskorea",
+    "Evergreen Marine director released on bail in insider trading probe - Focus Taiwan",
+    "Evergreen Marine Raided by Taiwan Authorities in Insider Trading Investigation | 2026 - News and Sta"
+  ]
+}
