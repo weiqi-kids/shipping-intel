@@ -1,0 +1,211 @@
+{
+  "date": "2026-07-08",
+  "generated_at": "2026-07-08T10:23:45.806760Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-07-08-021",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Panama flag detentions put Chinese carriers in US crosshairs",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://splash247.com/panama-flag-detentions-put-chinese-carriers-in-us-crosshairs/"
+    },
+    {
+      "rank": 2,
+      "event_id": "hd_korea-2026-07-08-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "HD Korea Shipbuilding joining forces with Schneider Electric - The Korea News Plus",
+      "companies": [
+        "hd_korea"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1OZTRXV1RzTFJWZTZ3elJXWld2alloR0dBZXJKRkRseXM4VE10Z0xlaDNZTGJkVlZmWThkUkgzdlg5Z1lkQ2hNTHRkd2RKb3RLM3k1bzY3UUdvVkVVcmlsZ3JJbElSajd0dkxyUk5NZmhDaHBPX1Vv?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "hd_korea-2026-07-08-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "HD Korea Shipbuilding strikes Schneider Electric deal to develop floating data centers - CHOSUNBIZ - Chosunbiz",
+      "companies": [
+        "hd_korea"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPaFNTLXpZX2xreEt6UzFoUlJsNlFpLXUweW5EaHBtWG85a0ttRGlyN1RsYWRmc1BsckU1dFNUY2NkTDh6bHo3TS1fclZGbjZ1clFpMUcyTWZrUkRCQm9OUTlaQVowRHZWZ2NYa2pONzVMLXZ2a1J3ODFrVXZHbGE4UWNB0gGWAUFVX3lxTE1keHVWVExSVWFzc2lIVERzd1U2SUxIYWY1Sm83SEo0Yi1abWdROHhBdzJ5TnRmTGpvako2Nngwc3dPcGw1SjJSVllXNGhwOFpsWVVoMllNU2JRNnVEYTVUZENvSlNGS1pnOENnazBKUUh5NmwxU0RTdGV5WkhsOG5IVExpUmlERFZjdVl2N3VqeDliVlF4dw?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-07-08-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Shipbuilding's Next Frontier Is 'FDC': HD KSOE Teams With Schneider Electric on Tech - Seoul Economic Daily",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "container_freight",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPaGZKU1ZHdVZ6eHJWZmE2OVJFekUtYVJPeWx0VTl2alhvY1o3MWE3N1FabFhtMDhrdkxTVFVja2Y4Mm5fbXlGU1hJVGFRMHU1cGdSb1JyaF9QRFJhRk42djczUDQ5bnFfb3ZVanFFbEtIbmcwQlRDdU5ncFI4RFpzTlpYNGF2eXhYbUU4aXVEM0haNDdGUFVN?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "samsung_heavy-2026-07-08-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "\"Floating the data center on the sea\" HD Shipbuilding & Marine Engineering Co., Ltd. and Samsung Heavy Industries Co., Ltd - 매일경제",
+      "companies": [
+        "samsung_heavy"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9MSzdqYk5JVndTRFkxaFhLcFZBbzU5bVd6azh3UXJLeDdqaEV1M21wVW1CM05hX2Ixb1FzamxYUGhkb2VOeFFVNDFhdUFFcHVuWXpF?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 29,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.02,
+      "sentiment_7d_avg": null
+    },
+    "container_freight": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 30,
+    "sentiment_distribution": {
+      "positive": 3,
+      "neutral": 26,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "hd_korea",
+        "count": 5
+      },
+      {
+        "id": "samsung_heavy",
+        "count": 4
+      },
+      {
+        "id": "cosco",
+        "count": 2
+      },
+      {
+        "id": "evergreen",
+        "count": 1
+      },
+      {
+        "id": "maersk",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 29
+      },
+      {
+        "id": "container_freight",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 350,
+    "dup_title": 127,
+    "too_old": 84,
+    "gate1_blocked": 34,
+    "gate2_blocked": 11,
+    "passed": 94,
+    "pass_rate": "42.2%",
+    "gate2_block_rate": "4.9%",
+    "gate2_samples": [
+      "Hanwha Ocean shares sink after Canada loss - Korea JoongAng Daily",
+      "Hanwha Ocean Stock Slumps After Canada Bid Loss - Businesskorea",
+      "Evergreen Marine director released amid investigation - Taipei Times",
+      "Evergreen Marine director released on bail in insider trading probe - Focus Taiwan",
+      "News Content Hub - Taiwan raids Evergreen Marine offices in insider trading investigation - rivieram"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 30 則事件，焦點為韓國造船海洋、三星重工、中遠海控相關動態：「Panama flag detentions put Chinese carriers in US crosshairs」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Panama flag detentions put Chinese carriers in US crosshairs（航運產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "HD Korea Shipbuilding joining forces with Schneider Electric - The Korea News...（航運產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

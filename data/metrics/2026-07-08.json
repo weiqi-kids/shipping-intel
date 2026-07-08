@@ -1,0 +1,45 @@
+{
+  "date": "2026-07-08",
+  "total_events": 30,
+  "by_company": {
+    "hd_korea": {
+      "count": 5,
+      "sentiment_avg": 0.0
+    },
+    "samsung_heavy": {
+      "count": 4,
+      "sentiment_avg": 0.0
+    },
+    "evergreen": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "cosco": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "maersk": {
+      "count": 1,
+      "sentiment_avg": 0.5
+    },
+    "hanwha_ocean": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "industry_general": {
+      "count": 29,
+      "sentiment_avg": 0.02
+    },
+    "container_freight": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}
