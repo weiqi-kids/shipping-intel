@@ -1,0 +1,198 @@
+{
+  "date": "2026-07-09",
+  "generated_at": "2026-07-09T11:08:48.835714Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-07-09-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "South Korean shipbuilders race for floating data centers - upi.com",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNdVBpSXJ2cHNYbW14T0hNTTNTX0tfUUpnSlVBaXlJamh1QV9QT01VSTNSaUpaM3lWU1RheDlWQzhUb3VXT2lWVTR6Z0p4b281dExnWm1QVHdvZnZoRkFDNGk1SDJlaVhUU0tqNEk5Mk1IRVhUakkzMmZZYU56WVlodHRkVndHSFZENDZVaHk1TURhN0Z0alZIQUNSU28wal9hcEFHa0pWclQ5cnY3U1V3UHdmMFN0UdIBtgFBVV95cUxNdVBpSXJ2cHNYbW14T0hNTTNTX0tfUUpnSlVBaXlJamh1QV9QT01VSTNSaUpaM3lWU1RheDlWQzhUb3VXT2lWVTR6Z0p4b281dExnWm1QVHdvZnZoRkFDNGk1SDJlaVhUU0tqNEk5Mk1IRVhUakkzMmZZYU56WVlodHRkVndHSFZENDZVaHk1TURhN0Z0alZIQUNSU28wal9hcEFHa0pWclQ5cnY3U1V3UHdmMFN0UQ?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "hd_korea-2026-07-09-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "HD Korea Shipbuilding & Offshore Engineering Wins Order for Six PC Carriers Worth 469.9 Billion Won, 69% of Annual Target - 매일경제",
+      "companies": [
+        "hd_korea"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5ickV4M2hnNUJoY3Z6NDZ0NUZOcElSTFNlUWhzeUxPZkdIdjN2eVBjaWhPTFVfcl8tNE9RNDhndmxRVWFxM2pqRjAtY2ZtZU5JUE13?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-07-09-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Floating Data Centers Emerge as Solution to AI Power Crunch, Sparking Shipbuilding Industry Race - finance.biggo.com",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1hc2ttME5UalNhZU9Ra0xqdG4tU0FEdEd2QjQ4dlN1XzJqYjNCR3YxRjJHczkzUVc2c3VLbnNsa1B6MWVWdHJfN0VNM3Y5RGdzZGVwdExueVlQZHM4Q3ZGZWtIT0oweE04UDJxQnMxVzcyWlRXSXc?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-07-09-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Samsung Heavy Hits $10B Annual Order Milestone with Two Suezmax Tanker Deal from JPMorgan - imarinenews.com",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5YcTNST0QzUk9Db1lZUjVHXzFGM3JhdEtwb3l4bUh1RmpZYXRjR190UW5oM1hWUWFzN2Z2TUdNUXpLa3ZwQ1BQSkNOQW9FOHM?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "hanwha_ocean-2026-07-09-005",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Shipbuilder Hanwha Ocean agrees cyber deal with Rakuten Symphony - Smart Maritime Network",
+      "companies": [
+        "hanwha_ocean"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOUnRkX0hMNkswVm5kT2loV0cySzludU51REtsWnluTEFETVlvalRwakt3Ynpaak15dmdtMEtSZHl5akY1eHRRUnRMVTBPZUJPcEZuYWwycHVaUHVEbktZVmJYQ0M0LVl1NWVtd0FIUkpIUXZ2UEtDSEJza1EzRnJtUWY0ekFnWlNNMFlRWVZhei14ZFNfQ3lWdzVkUWhGekE2ME9qX2lTLVFnTDlnV0E?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 20,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.03,
+      "sentiment_7d_avg": null
+    },
+    "container_freight": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.25,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 20,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 19,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "hanwha_ocean",
+        "count": 4
+      },
+      {
+        "id": "cosco",
+        "count": 2
+      },
+      {
+        "id": "hd_korea",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 20
+      },
+      {
+        "id": "container_freight",
+        "count": 2
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 342,
+    "dup_title": 126,
+    "too_old": 86,
+    "gate1_blocked": 32,
+    "gate2_blocked": 14,
+    "passed": 84,
+    "pass_rate": "38.9%",
+    "gate2_block_rate": "6.5%",
+    "gate2_samples": [
+      "Hanwha Ocean shares sink after Canada loss - Korea JoongAng Daily",
+      "Hanwha Ocean Stock Slumps After Canada Bid Loss - Businesskorea",
+      "Evergreen Marine director released on bail in insider trading probe - Focus Taiwan",
+      "Evergreen Group president questioned for suspected insider trading - Taipei Times",
+      "Evergreen Marine director questioned, offices searched in Taiwan insider trading probe - Manifold Ti"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 20 則事件，焦點為韓華海洋、中遠海控、韓國造船海洋相關動態：「South Korean shipbuilders race for floating data centers ...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "South Korean shipbuilders race for floating data centers - upi.com（航運產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "HD Korea Shipbuilding & Offshore Engineering Wins Order for Six PC Carriers W...（航運產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

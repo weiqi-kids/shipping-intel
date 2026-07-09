@@ -1,0 +1,16 @@
+{
+  "total_raw": 342,
+  "dup_title": 126,
+  "no_date": 0,
+  "too_old": 86,
+  "gate1_fail": 32,
+  "gate2_fail": 14,
+  "passed": 84,
+  "gate2_samples": [
+    "Hanwha Ocean shares sink after Canada loss - Korea JoongAng Daily",
+    "Hanwha Ocean Stock Slumps After Canada Bid Loss - Businesskorea",
+    "Evergreen Marine director released on bail in insider trading probe - Focus Taiwan",
+    "Evergreen Group president questioned for suspected insider trading - Taipei Times",
+    "Evergreen Marine director questioned, offices searched in Taiwan insider trading probe - Manifold Ti"
+  ]
+}

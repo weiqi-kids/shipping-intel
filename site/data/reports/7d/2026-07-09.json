@@ -1,0 +1,173 @@
+{
+  "date": "2026-07-09",
+  "date_range": {
+    "start": "2026-07-03",
+    "end": "2026-07-09"
+  },
+  "generated_at": "2026-07-09T11:08:48.976298Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "zim-2026-07-06-024",
+      "date": "2026-07-06",
+      "title": "Investing.com: ZIM stock tumbles after Israeli officials oppose Hapag-Lloyd sale",
+      "importance_score": 0.7
+    },
+    {
+      "type": "emerging_relation",
+      "company_a": "hapag",
+      "company_b": "maersk",
+      "co_mention_count": 4,
+      "rank": 2
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "industry_general": {
+      "this_week": 122,
+      "last_week": 135,
+      "week_over_week_change": "-10%",
+      "sentiment_this_week": -0.01
+    },
+    "container_freight": {
+      "this_week": 9,
+      "last_week": 9,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.17
+    },
+    "shipbuilding_orders": {
+      "this_week": 6,
+      "last_week": 10,
+      "week_over_week_change": "-40%",
+      "sentiment_this_week": 0.0
+    },
+    "dry_bulk_rate": {
+      "this_week": 1,
+      "last_week": 1,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    }
+  },
+  "company_7d_summary": {
+    "hanwha_ocean": {
+      "event_count": 18,
+      "sentiment_avg": 0.0,
+      "rank": 1
+    },
+    "cosco": {
+      "event_count": 10,
+      "sentiment_avg": 0.0,
+      "rank": 2
+    },
+    "hapag": {
+      "event_count": 3,
+      "sentiment_avg": 0.0,
+      "rank": 6
+    },
+    "samsung_heavy": {
+      "event_count": 6,
+      "sentiment_avg": 0.0,
+      "rank": 3
+    },
+    "wisdom": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 9
+    },
+    "evergreen": {
+      "event_count": 5,
+      "sentiment_avg": 0.0,
+      "rank": 5
+    },
+    "u_ming": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 10
+    },
+    "cssc": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 11
+    },
+    "maersk": {
+      "event_count": 3,
+      "sentiment_avg": 0.0,
+      "rank": 7
+    },
+    "zim": {
+      "event_count": 3,
+      "sentiment_avg": 0.0,
+      "rank": 8
+    },
+    "hd_korea": {
+      "event_count": 6,
+      "sentiment_avg": 0.0,
+      "rank": 4
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 374,
+        "last": 486,
+        "change_pct": -23.0
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-07-03",
+      "event_count": 52,
+      "sentiment_avg": 0.1
+    },
+    {
+      "date": "2026-07-04",
+      "event_count": 21,
+      "sentiment_avg": 0.02
+    },
+    {
+      "date": "2026-07-05",
+      "event_count": 22,
+      "sentiment_avg": -0.02
+    },
+    {
+      "date": "2026-07-06",
+      "event_count": 86,
+      "sentiment_avg": -0.03
+    },
+    {
+      "date": "2026-07-07",
+      "event_count": 84,
+      "sentiment_avg": -0.0
+    },
+    {
+      "date": "2026-07-08",
+      "event_count": 89,
+      "sentiment_avg": 0.12
+    },
+    {
+      "date": "2026-07-09",
+      "event_count": 20,
+      "sentiment_avg": 0.03
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-07-03 ~ 2026-07-09）共 374 則事件，重點為「Investing.com: ZIM stock tumbles after Israeli ...」。航運產業通用、貨櫃運價、造船訂單為本週焦點話題。",
+    "watchlist": [
+      {
+        "company": "韓華海洋",
+        "reason": "本週出現 18 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "中遠海控",
+        "reason": "本週出現 10 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "赫伯羅特",
+        "reason": "本週出現 3 則相關事件，為高關注企業，動態頻繁。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
