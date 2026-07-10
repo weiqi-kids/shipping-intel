@@ -1,0 +1,212 @@
+{
+  "date": "2026-07-10",
+  "generated_at": "2026-07-10T11:09:24.573219Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "samsung_heavy-2026-07-10-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "GTT New Order from Samsung Heavy Industries for Tank Design of FLNG Unit - The Maritime Executive",
+      "companies": [
+        "samsung_heavy"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNY0U5LXNHOTJwMVU2VU9QOV94UGJpZzVGT04zSV9DN05CbXJScl9TMmVWYnBUSTUwdXFKdzNjazBnYlBDVnpGR195ZUVOamVhRUNxQjVVZTFTUmtQQnNCemhLMEFYMUsySHdNU1ZKaER3R0RwUURUZFg4X1JJa1o4Sk1PMWhwbVN0OFZ5TEhwWkd0LXBDb3hUU0ZraVdLSEpBY2dENnYzN0hZSkpxcmRwSFdmRQ?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-07-10-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "JP Morgan drives ship investment as Samsung Heavy wins Korea tanker orders - CHOSUNBIZ - Chosunbiz",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNY0J0N204cFNkbS0wT3lQS3FUYmVRY3h2R1RLMGVyQXY5T1JjamltSzNCS1VrUnVMUDlHamJlSjRaU2plenFveW5NVHZMb2d0WFBEQkdCT1JaREc4MmxrREljZTM4X2NZMjRzaF9GYVZmQi16bnlYV1ZqTUREVzJ5WnZ30gGWAUFVX3lxTE9yd2pHNTNQLUhoWDEtYTU3ZE5hRlMzMGR6NmVpTU1sV0RwMUo5bUdnUFdUZ3RnTTdqZE93ajJwNmJ0Zjh6NDRhd0lOZnZqNTlOOTgwT3JVV3Zfd0dKamMyT1MtZVplSFgyb0g0N0tZY2ExczZnNmY5X01SZ3d2bjBJUVlGS0k5ZFVPeWF5S1BMVURHV0N5Zw?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-07-10-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "South Korean Shipbuilders Hit by Target Price Cuts After Canada Submarine Deal Slips Away - finance.biggo.com",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1WUXhBYlRCSktoMXJ3OVZJbEV1dEd2NjhtWnBoZ05yXzhKVXVoZTdvTzlYQzRLY2pNcjEwUXVWZ1ZncERKd3pYY0d0RGlXVXdOeXpDYUxtQk84QTVQbVlGZWtCYk9GRVI3NHFlaXA2SVUtMnlCa1E?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "hanwha_ocean-2026-07-10-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Hanwha Ocean sold around $2 billion in dollar-won forward market, source says - TradingView",
+      "companies": [
+        "hanwha_ocean"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNa1dudjBNb3loZzB3akg1N2ZINkRFcE1QQ09mRzM0SXptQm5VRExXWHRvcHBfMGx3Wk9jOG00V0FUNmtYUC1rX3I3MksxdkNtanFscXFKWXZuTnZjU3lhbEZjOFNrREk4dml5UXJvUzRiaEcyWk9UdFVrM1h6MEJuempaX005TWlRdDlFb1Mxd3ozaUE3OHd0M0lLMnZsR0t1UU5CTFZzNlJNLTNaMF9Jc0FqdG42YTBHVWxqNFdPNlNQbndBUFcxR1BuVVRJWmhYSW9YQ2V4bkh2bkQtdEE?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "hanwha_ocean-2026-07-10-005",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Rakuten Symphony Deploys Vessel Cybersecurity Solution with Hanwha Ocean - The Fast Mode",
+      "companies": [
+        "hanwha_ocean"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPN3VaaHVKejVweTNiMzhyYlFHbWdiMTdQZDFlMHdXWVU0a2o2Tm5HVXlzVk5ZMzd6ZU1CZVNvSm5BVE93T05qN0JkdEdiNTFtMjdDTndrZktMOUVuTDZDcWlwWjY1NV9HeVJQTzlqb19uQmIyUTdtR1pieE1UN0dTOFpEVUk0QlZ5T3JDUmpTQjB3X3hJLUhwcWdwMlVkejN1a1lFMHB6dkVIVXRfR2p2eGlTaU5teGJ0cGZqYzVZSFF5cU9Pd0E?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 24,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "shipbuilding_orders": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "dry_bulk_rate": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 26,
+    "sentiment_distribution": {
+      "positive": 2,
+      "neutral": 22,
+      "negative": 2
+    },
+    "top_companies": [
+      {
+        "id": "hanwha_ocean",
+        "count": 2
+      },
+      {
+        "id": "cosco",
+        "count": 2
+      },
+      {
+        "id": "samsung_heavy",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 24
+      },
+      {
+        "id": "shipbuilding_orders",
+        "count": 3
+      },
+      {
+        "id": "dry_bulk_rate",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 352,
+    "dup_title": 132,
+    "too_old": 94,
+    "gate1_blocked": 26,
+    "gate2_blocked": 19,
+    "passed": 81,
+    "pass_rate": "36.8%",
+    "gate2_block_rate": "8.6%",
+    "gate2_samples": [
+      "Hanwha Ocean sold around $2 billion in dollar-won forward market, source says - Reuters",
+      "Hanwha Ocean starts WTIV construction - reNEWS",
+      "Evergreen Marine director released on bail in insider trading probe - Focus Taiwan",
+      "Evergreen Marine director released amid investigation - Taipei Times",
+      "News Content Hub - Taiwan raids Evergreen Marine offices in insider trading investigation - rivieram"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 26 則事件，焦點為韓華海洋、中遠海控、三星重工相關動態：「GTT New Order from Samsung Heavy Industries for Tank Desi...」。主要關注主題為航運產業通用、造船訂單、散裝運價，市場情緒中性。",
+    "signals": [
+      {
+        "text": "GTT New Order from Samsung Heavy Industries for Tank Design of FLNG Unit - Th...（航運產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "JP Morgan drives ship investment as Samsung Heavy wins Korea tanker orders - ...（航運產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

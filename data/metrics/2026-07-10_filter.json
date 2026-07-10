@@ -1,0 +1,16 @@
+{
+  "total_raw": 352,
+  "dup_title": 132,
+  "no_date": 0,
+  "too_old": 94,
+  "gate1_fail": 26,
+  "gate2_fail": 19,
+  "passed": 81,
+  "gate2_samples": [
+    "Hanwha Ocean sold around $2 billion in dollar-won forward market, source says - Reuters",
+    "Hanwha Ocean starts WTIV construction - reNEWS",
+    "Evergreen Marine director released on bail in insider trading probe - Focus Taiwan",
+    "Evergreen Marine director released amid investigation - Taipei Times",
+    "News Content Hub - Taiwan raids Evergreen Marine offices in insider trading investigation - rivieram"
+  ]
+}
