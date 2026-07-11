@@ -1,0 +1,87 @@
+{
+  "date": "2026-07-11",
+  "generated_at": "2026-07-11T09:43:33.736356Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-07-11-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Operating Profit Forecast Jumps 41%... Shipping Sector Emerges as a Defensive Stock [Weekend Money] - 아시아경제",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9HQVQwSV84TllQeUtpZVZ0UkkyOFd2dm4tbXdmZk1BSFZLOWk3dlRVMjVyUFM5MW5pcVQ1R0xYVjdKZFlXempqcVZYMWlkdmxDTms4bWNQU1BpQ2x2dHcteFpBZGk?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 1,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 1,
+      "negative": 0
+    },
+    "top_companies": [],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 351,
+    "dup_title": 167,
+    "too_old": 90,
+    "gate1_blocked": 24,
+    "gate2_blocked": 18,
+    "passed": 52,
+    "pass_rate": "28.3%",
+    "gate2_block_rate": "9.8%",
+    "gate2_samples": [
+      "Hanwha Ocean sold around $2 billion in dollar-won forward market, source says - Reuters",
+      "Hanwha Ocean shares sink over 20% after Canada loss - Korea JoongAng Daily",
+      "Hanwha Ocean sells around $2 billion in dollar-won forward market, source says - TradingView",
+      "Evergreen Marine director released on bail in insider trading probe - Focus Taiwan",
+      "Evergreen Marine director released amid investigation - Taipei Times"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 1 則事件，焦點為航運產業通用相關動態：「Operating Profit Forecast Jumps 41%... Shipping Sector Em...」。主要關注主題為航運產業通用，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Operating Profit Forecast Jumps 41%... Shipping Sector Emerges as a Defensive...（航運產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "建議持續監控後續發展動態。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

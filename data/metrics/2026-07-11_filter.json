@@ -1,0 +1,16 @@
+{
+  "total_raw": 351,
+  "dup_title": 167,
+  "no_date": 0,
+  "too_old": 90,
+  "gate1_fail": 24,
+  "gate2_fail": 18,
+  "passed": 52,
+  "gate2_samples": [
+    "Hanwha Ocean sold around $2 billion in dollar-won forward market, source says - Reuters",
+    "Hanwha Ocean shares sink over 20% after Canada loss - Korea JoongAng Daily",
+    "Hanwha Ocean sells around $2 billion in dollar-won forward market, source says - TradingView",
+    "Evergreen Marine director released on bail in insider trading probe - Focus Taiwan",
+    "Evergreen Marine director released amid investigation - Taipei Times"
+  ]
+}
