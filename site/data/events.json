@@ -1,5 +1,63 @@
 [
   {
+    "id": "hd_korea-2026-07-12-001",
+    "date": "2026-07-12",
+    "companies": [
+      "hd_korea"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "HD Korea Shipbuilding Looks to Engines for Its Future After Ships - 매일경제",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiU0FVX3lxTE1LYmE1NDJPNzAtaWNUcEZTa19kTGtOMTRrai1HYVdDaTg0TUhqdWxqZ3ZOSFV5WFVwNlNyV09yZFVNVE9PQ2RFamN2QnBWXzE3Tkhz?oc=5\" target=\"_blank\">HD Korea Shipbu",
+    "sources": [
+      {
+        "name": "hd_korea",
+        "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1LYmE1NDJPNzAtaWNUcEZTa19kTGtOMTRrai1HYVdDaTg0TUhqdWxqZ3ZOSFV5WFVwNlNyV09yZFVNVE9PQ2RFamN2QnBWXzE3Tkhz?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "cosco-2026-07-12-002",
+    "date": "2026-07-12",
+    "companies": [
+      "cosco"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Has COSCO SHIPPING International (Hong Kong) (SEHK:517) Run Ahead Of Fair Value Following Board Compliance Issues? - simplywall.st",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi-gFBVV95cUxOMHA3Q1V6MGJtT2ZBVWJBYThSYjNhRnA1bk5RX0F1TnlYbVJ0NVQ4ZkpfcG9obXl1TXJoQ2N3V2ROWFJldlBBT2o2aEJ5LXk0eUNwVnliMkNkMnlwSklqc3ZvN0pRNWkyVEVONm5MTH",
+    "sources": [
+      {
+        "name": "cosco",
+        "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOMHA3Q1V6MGJtT2ZBVWJBYThSYjNhRnA1bk5RX0F1TnlYbVJ0NVQ4ZkpfcG9obXl1TXJoQ2N3V2ROWFJldlBBT2o2aEJ5LXk0eUNwVnliMkNkMnlwSklqc3ZvN0pRNWkyVEVONm5MTHFHZG9CT21aSVRCTUFrYmtfUFlteDZHYjM0bndPOVdGOEp1MW1ZNExoWjVyb0RveE1MdlZTYXNEbWl6akdyRWtwNVhtdVlMeUJYcHhnX05MdVoyNk5VRWRGT0UxbmRNWmdzcVBvRklqblZ0RDBoRVdfMW1ZRmh4Y3MwWEIzbkFNRzhRM2JVQjYyMUdR0gH_AUFVX3lxTE9MN0E1MHBjbVRCdXdqekk2UVpCckpBUUdicTVlTFZtUFFIXzkxWWFVTmdqS2VkN2R3aHlUdEFyZW5GdXNJTzdxc3dSZnB5eUFJUFo3TmdsUE1VcVJEck9VNk9adWdTZzlTUHhtYVpxLUg5ckpadTFLeWFkNVZHa0pqVVRtUnNiLUhGWEctTDJKOG50RlZDYTJIaS1hM1BrQWJZVTJKRWM1U0M3ZlFEVHNqakRRaXl5WG5Yb2dWOUI0VHNZWjlCUWlrLU5lOU50ZnlZSDA1bXdMTEZ0MVRCZmVoY09sTWNQTGdLVXNMR2VJajhKS3hkeWpySnJHZldISQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-12-003",
+    "date": "2026-07-12",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "How much is trade policy influencing imports?",
+    "summary": "<p>Container import bookings are riding a prolonged wave as new tariffs are reviewed. How much of this is tariff induced and what does it mean for domestic transportation markets?</p>\n<p>The post <a h",
+    "sources": [
+      {
+        "name": "freightwaves",
+        "url": "https://www.freightwaves.com/news/how-much-is-trade-policy-influencing-imports",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "unknown-2026-07-11-001",
     "date": "2026-07-11",
     "companies": [],
@@ -13,6 +71,62 @@
       {
         "name": "google_container_shipping",
         "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9HQVQwSV84TllQeUtpZVZ0UkkyOFd2dm4tbXdmZk1BSFZLOWk3dlRVMjVyUFM5MW5pcVQ1R0xYVjdKZFlXempqcVZYMWlkdmxDTms4bWNQU1BpQ2x2dHcteFpBZGk?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "hanwha_ocean-2026-07-11-002",
+    "date": "2026-07-11",
+    "companies": [
+      "hanwha_ocean"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Steel cutting ceremony for WTIV Hanwha Ocean - Ocean Energy Resources",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxPSXNYc0lFR28wVnppVUxQcG1jRU1WbC13ZFlBT1dxLUR0azlmNmJ1VzVWN180RHR1NWlaQWo1dnRmYXNtTmRjS2FDQ29MLTM2WmRzSTktMTVCMWpBTDNJdHVyN1JVV0d4TFVXMmkzeD",
+    "sources": [
+      {
+        "name": "hanwha_ocean",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPSXNYc0lFR28wVnppVUxQcG1jRU1WbC13ZFlBT1dxLUR0azlmNmJ1VzVWN180RHR1NWlaQWo1dnRmYXNtTmRjS2FDQ29MLTM2WmRzSTktMTVCMWpBTDNJdHVyN1JVV0d4TFVXMmkzeDl3WXRoRURRaFJjek1JX0VCT0ZaU1d1X2dfZFJFM2hRMVBab0Nq?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "star_bulk-2026-07-11-003",
+    "date": "2026-07-11",
+    "companies": [
+      "star_bulk"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Star Bulk Carriers Corp. $SBLK Shares Sold by Relyea Zuckerberg Hanson LLC - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxNaUEwYWNKQmIyanhyMTFlN042ZGJCeTZyTzFfZ214V29lYmc1UFY4Y3hHckNDLTZ2cXZOTDVkWEZ0SFFxQ1JpY0ExWlNlT3MtTnU2RFgtdFVUYTlmbVBNYXJIUHUySE5WN0JlWExqaG",
+    "sources": [
+      {
+        "name": "star_bulk",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNaUEwYWNKQmIyanhyMTFlN042ZGJCeTZyTzFfZ214V29lYmc1UFY4Y3hHckNDLTZ2cXZOTDVkWEZ0SFFxQ1JpY0ExWlNlT3MtTnU2RFgtdFVUYTlmbVBNYXJIUHUySE5WN0JlWExqaGlfZXFRMDBuQVNNWjhTWE1pSFkydEpVWEdFdjhGcjV6ZFowRDBQc052RnFmSDVtQ0xUdGlhTURTY3pxYmZTMnV3U0Z6RE9MSFlRMVZ3U281dC10aW5zY1hGb0VXVGJtQQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-11-004",
+    "date": "2026-07-11",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Government intervenes as shipping shocks expose container vulnerability - The Hindu",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxPWTR5aFRoNWJ1eVU3WGxOVUprS2FwVDFkUUtXMEU5VU1Zb3p5ank1TDBsbjZnOThDTFJtdThNRl9vcFU4ckJoRGdTd3NiVnVNazc3Y09fZEtnRlRibVEweWF1LXFmMkpKMzFPQnVyY2",
+    "sources": [
+      {
+        "name": "google_container_shipping",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPWTR5aFRoNWJ1eVU3WGxOVUprS2FwVDFkUUtXMEU5VU1Zb3p5ank1TDBsbjZnOThDTFJtdThNRl9vcFU4ckJoRGdTd3NiVnVNazc3Y09fZEtnRlRibVEweWF1LXFmMkpKMzFPQnVyY2pLRDdEN1Bua2hBWl9lYVVicnVsdjNrT3RTZF9WZWtoYktPNDdYME9MeHNOS0ZaYlhERkVkbVlDTGdoSkFPd243dzV1eXphVTAycm5xSzcxNzlUa0HSAcoBQVVfeXFMT2NoQmRwa05nLU9fbjVHQWlmX1hnV25BdXloX0tNakpNa2R1SVpUYzRtSDZ3MFZMLXUxclkzWWFsOEM2UVJJTVR0YjBNRW5OSmo4aUNDV3NqTWc4UWJuelFkYUY1eGZ5NUdaMUJ0SUZvWnNJTkM4bzU4TFpuZTZyZ1ZoTlNtcXZzaWh1dlV0QmJEaHJ6UnRQMWpLYVV3WnoxaHRDR2tQNm44eXRCaGh1VXZ3YWZLRUJrSlRkVnZyUkt4U1B0T1JYakZzQQ?oc=5",
         "type": "rss"
       }
     ]
@@ -1305,6 +1419,46 @@
     ]
   },
   {
+    "id": "hd_korea-2026-07-10-071",
+    "date": "2026-07-10",
+    "companies": [
+      "hd_korea"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "HD Korea Shipbuilding Secures KRW469.9 Billion Order for Six Product Carriers; Shares Jump 5% - Moomoo",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxPQm9CVEMwakZ2d0w5MGJFaUZKZjc4a21ydkZYUWFHWVhyVTVEODNldGg4eFN1dTRsV1ZtYms4VFkxYXp6aG10bDBVX2Z5Qkd1dEZtMGtQY0FFbUlDSHQ5X2dsNFY0T09uVUFtcjdhOE",
+    "sources": [
+      {
+        "name": "hd_korea",
+        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPQm9CVEMwakZ2d0w5MGJFaUZKZjc4a21ydkZYUWFHWVhyVTVEODNldGg4eFN1dTRsV1ZtYms4VFkxYXp6aG10bDBVX2Z5Qkd1dEZtMGtQY0FFbUlDSHQ5X2dsNFY0T09uVUFtcjdhOEQ1eGVRUXBoRzZfV21oaVpmYUFGWVV6c1FsdFRlN0V2TF9WalJJaHJ1UEN1Zjh0T2wtd1haRlppd0JIN3lNWG5qaXRCUGJKZ01NWjU3c1NwUWN5N25JcndYazBuQXdiX3hNanhR?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "cosco-2026-07-10-072",
+    "date": "2026-07-10",
+    "companies": [
+      "cosco"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "COSCO SHIPPING Energy Transportation Co., Ltd. Provides Preliminary Consolidated Earnings Guidance for the Six Months Ended 30 June 2026 - marketscreener.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwJBVV95cUxOLWtteDJzcWxOYmR2SU1wQy1mVnhXUmdudkV4bWVYbVV1SEtiSEs4RzJtWk1Mb3ozLTh2V2VibGZ1RG91d3ZBbmI3LS05ejEwVDdrU1lucmx4c3kxbjlNcXk5WEVZOWFnRGc0SHJfOT",
+    "sources": [
+      {
+        "name": "cosco",
+        "url": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxOLWtteDJzcWxOYmR2SU1wQy1mVnhXUmdudkV4bWVYbVV1SEtiSEs4RzJtWk1Mb3ozLTh2V2VibGZ1RG91d3ZBbmI3LS05ejEwVDdrU1lucmx4c3kxbjlNcXk5WEVZOWFnRGc0SHJfOTl5VHFzN29nQ1lQSENHZDd1d0J3UG9XZnYzNWFGcy05V1p4VlZLWFNDU1VYZ0ZXNUg4ZF82MzBXWW5BU3Vzamo0ZEFoTmFTRmNkUHZ1UHVJTk1TLU5GenBHQ3FQa3FHU0s5cXBjOC1PclY1YVlkTVE4eHpkZXI4NHNWeFkwYnBHY2pnbEljTHFSTE55X3RGdzZDTjd2SXRWTG5wbjR5dFc2Z2p6bGNGbWhKZHVlR1RjQmJlXzRqQ2FDMElJdw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "unknown-2026-07-09-001",
     "date": "2026-07-09",
     "companies": [],
@@ -2577,6 +2731,44 @@
       {
         "name": "cosco",
         "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNYS1wVm4tMVpZcnFkVHVnR1dCM1RwWWI0b3Y3OHRYZ2s1RF9tQjBNNDBuTWJSZkFsdEtYalBVZS1lUG5meGZwUEI3THoyWHhyZmoybVY4WVRqZEtmcjNHM0dBT0haTFYwY0RmUVJvRHZBTDc0QTI2OU9oNkh6NHdmVk15TllNVjBLMnc1bjJWdU1aeVlLSDJVMF9HRGh1Sm1EV1VTTW0yY21mUkNuM213clRJSmpVdw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-09-070",
+    "date": "2026-07-09",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "HD KSOE Secures $311M MR Tanker Order, Reaches 68.8% of 2026 Annual Target - imarinenews.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiT0FVX3lxTE92Rm5LZTZBeHVZV3B0dS0yaEROajRsVEUwM09ZRW5NRU5YVFRadTFzOFFlMU00QVJUMC14SlhabUpGaWs0RmRDR0pjM2VWSnM?oc=5\" target=\"_blank\">HD KSOE Secures $311",
+    "sources": [
+      {
+        "name": "hd_korea",
+        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE92Rm5LZTZBeHVZV3B0dS0yaEROajRsVEUwM09ZRW5NRU5YVFRadTFzOFFlMU00QVJUMC14SlhabUpGaWs0RmRDR0pjM2VWSnM?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "cosco-2026-07-09-071",
+    "date": "2026-07-09",
+    "companies": [
+      "cosco"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Enterprise value to EBIT forward of COSCO Shipping International Singapore Co Ltd – SGX:F83 - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxPUzl0RVppVU8tWFdKTTdILXZUcXlvMzhLdXdBbzN4TFZ1ZlVJR1hTaVlKRlNRUDJmRXR4RDdIYUdieDlTcTgxVmZyZ2lPQzU4YU02aGhfdEZBYnQtd2N6OG9BdWF1ZmFPSlgtX1M0X0",
+    "sources": [
+      {
+        "name": "cosco",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPUzl0RVppVU8tWFdKTTdILXZUcXlvMzhLdXdBbzN4TFZ1ZlVJR1hTaVlKRlNRUDJmRXR4RDdIYUdieDlTcTgxVmZyZ2lPQzU4YU02aGhfdEZBYnQtd2N6OG9BdWF1ZmFPSlgtX1M0X0lHVE85UlVTbm1sZTY1WVAwNkNfblpRWXotTklsVHBWVGxLNGhRczQ0Z0U5WVZyMHRwaFRnaWFn?oc=5",
         "type": "rss"
       }
     ]
@@ -4365,6 +4557,44 @@
       {
         "name": "wan_hai",
         "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOdTJBaXpBenpseFc2RHpOeVJFT2c4TDJJM0lnSzJRaGZwc2lzakdZV25DdWlfN20yZWRRakZNRlZMVG1ETnROeUFoN3F3aUZoVTdPcElDV3liejBRSExuUjFTUUdYajYxQUxuZUVRbHNmRlFpV1FzVDhmVnBCSW03YnB1MUZaZzgzclQ5ZmFyMUZ0WU0zeFQwM21mZ0xJTTMzOXpBOHFEeFo0czdoLS0talZFOC12ZWItNllOWGJ2X2pYaWt3czR1Q3dJcw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "cosco-2026-07-08-097",
+    "date": "2026-07-08",
+    "companies": [
+      "cosco"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Enterprise value to EBIT forward of COSCO SHIPPING Technology Co Ltd Class A – SZSE:002401 - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxOOVRMZkRGLS1xdEw4RjNrTENIUVdMb09TdTBtSkRNWmwwRS1seEREMHh0azdaWDFYWEFSbFZiYmhvWnM5b1hPRlBlZF9vVE4wcjdOd0tGbXVRUWQycHZHUGY0Q0E1OUdqcko4QXNKU1",
+    "sources": [
+      {
+        "name": "cosco",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOOVRMZkRGLS1xdEw4RjNrTENIUVdMb09TdTBtSkRNWmwwRS1seEREMHh0azdaWDFYWEFSbFZiYmhvWnM5b1hPRlBlZF9vVE4wcjdOd0tGbXVRUWQycHZHUGY0Q0E1OUdqcko4QXNKU1BnTXVfbTBsNVNnbXVzWG1Fc2lxeVhDSGJZQ0hSV3ctWnE3VDlydzFTUG1zSnIxSlhvckdPQ00wTlV0Rnc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-08-098",
+    "date": "2026-07-08",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "negative",
+    "title": "US container imports jumped 8% in June ahead of higher fuel costs and tariff increases - Reuters",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxPbTVzaWpNbFQtYTgwNHZ0TXNhd3VqUC1oWktUQWtEUmNXWjNnV0tCX2JPT29RdVgyOWh0Z2VIOWtLY2tZN25XYTlRU1dhVHVvaDA2QVUwbDBPYVpFRldvZ3g1dzdrQnFQZno0RGhycn",
+    "sources": [
+      {
+        "name": "google_container_shipping",
+        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPbTVzaWpNbFQtYTgwNHZ0TXNhd3VqUC1oWktUQWtEUmNXWjNnV0tCX2JPT29RdVgyOWh0Z2VIOWtLY2tZN25XYTlRU1dhVHVvaDA2QVUwbDBPYVpFRldvZ3g1dzdrQnFQZno0RGhycnBzeVNjbk9JVU1JMHZpTHFmZmpoUUNDMVpPb3R5bmdzY05iTGJ0TllRblBhSi1vRmJjanhZTW1GOEc0M3VPelJrVXhvbGJtT0JkVWNpWXVyc0NoZXlIWWlpTElwZ19oVEpYaUE?oc=5",
         "type": "rss"
       }
     ]
@@ -7588,6 +7818,26 @@
       {
         "name": "cosco",
         "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOVTNxRG5Salk2cUdxX1lZdTRKNnJ1OUdleHpiWlVEdkhhYmREbFdmREdWYk5USWc0aWVQcV9feW96SzFYdm1fWDdvZERPUm1sZ3lFTjk1SUh3dkFUbFkza1B0MVN3TXZEZHRLM2lrRTJNYk81UzFYR1RDaDZ5bUdoYy04SURaekk4OHhVYmZ2WGFBTXlVZ0x6dWx3LUhHeWdLWUQ0?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "cosco-2026-07-06-089",
+    "date": "2026-07-06",
+    "companies": [
+      "cosco"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "COSCO Shipping Holdings Plans To Buy Back Co A-Shares - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxPZzdCNl9xaWQwb3JZMTNOdnNtVHg0NXYyakhBc3oyMEhnbVc2djk3cTFNQTQ0MjY0OE4yZVRyNzNkdkNpTVVzY3pBMUt1R2FYVERiLXZKaTEwWXpoX211T2RFMFd3QzlmTVp5ZHJibm",
+    "sources": [
+      {
+        "name": "cosco",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPZzdCNl9xaWQwb3JZMTNOdnNtVHg0NXYyakhBc3oyMEhnbVc2djk3cTFNQTQ0MjY0OE4yZVRyNzNkdkNpTVVzY3pBMUt1R2FYVERiLXZKaTEwWXpoX211T2RFMFd3QzlmTVp5ZHJibmloRl9ORFZZOEx1a0Q5M2JTXzVLYVkwaDNmenZJMjNNRVNfRUVRS2V6eDdPb2lCaGZMenBEb1BCcFRrS1ZoR2hjVXlES3ZWRGFsb2hPMGFuSHU?oc=5",
         "type": "rss"
       }
     ]

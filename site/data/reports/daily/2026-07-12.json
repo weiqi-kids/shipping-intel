@@ -1,0 +1,140 @@
+{
+  "date": "2026-07-12",
+  "generated_at": "2026-07-12T09:55:28.278365Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "hd_korea-2026-07-12-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "HD Korea Shipbuilding Looks to Engines for Its Future After Ships - 매일경제",
+      "companies": [
+        "hd_korea"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1LYmE1NDJPNzAtaWNUcEZTa19kTGtOMTRrai1HYVdDaTg0TUhqdWxqZ3ZOSFV5WFVwNlNyV09yZFVNVE9PQ2RFamN2QnBWXzE3Tkhz?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "cosco-2026-07-12-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Has COSCO SHIPPING International (Hong Kong) (SEHK:517) Run Ahead Of Fair Value Following Board Compliance Issues? - simplywall.st",
+      "companies": [
+        "cosco"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOMHA3Q1V6MGJtT2ZBVWJBYThSYjNhRnA1bk5RX0F1TnlYbVJ0NVQ4ZkpfcG9obXl1TXJoQ2N3V2ROWFJldlBBT2o2aEJ5LXk0eUNwVnliMkNkMnlwSklqc3ZvN0pRNWkyVEVONm5MTHFHZG9CT21aSVRCTUFrYmtfUFlteDZHYjM0bndPOVdGOEp1MW1ZNExoWjVyb0RveE1MdlZTYXNEbWl6akdyRWtwNVhtdVlMeUJYcHhnX05MdVoyNk5VRWRGT0UxbmRNWmdzcVBvRklqblZ0RDBoRVdfMW1ZRmh4Y3MwWEIzbkFNRzhRM2JVQjYyMUdR0gH_AUFVX3lxTE9MN0E1MHBjbVRCdXdqekk2UVpCckpBUUdicTVlTFZtUFFIXzkxWWFVTmdqS2VkN2R3aHlUdEFyZW5GdXNJTzdxc3dSZnB5eUFJUFo3TmdsUE1VcVJEck9VNk9adWdTZzlTUHhtYVpxLUg5ckpadTFLeWFkNVZHa0pqVVRtUnNiLUhGWEctTDJKOG50RlZDYTJIaS1hM1BrQWJZVTJKRWM1U0M3ZlFEVHNqakRRaXl5WG5Yb2dWOUI0VHNZWjlCUWlrLU5lOU50ZnlZSDA1bXdMTEZ0MVRCZmVoY09sTWNQTGdLVXNMR2VJajhKS3hkeWpySnJHZldISQ?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-07-12-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "How much is trade policy influencing imports?",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.freightwaves.com/news/how-much-is-trade-policy-influencing-imports"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 3,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 3,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "hd_korea",
+        "count": 1
+      },
+      {
+        "id": "cosco",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 3
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 350,
+    "dup_title": 205,
+    "too_old": 93,
+    "gate1_blocked": 22,
+    "gate2_blocked": 17,
+    "passed": 13,
+    "pass_rate": "9.0%",
+    "gate2_block_rate": "11.7%",
+    "gate2_samples": [
+      "Hanwha Ocean sold around $2 billion in dollar-won forward market, source says - Reuters",
+      "Hanwha Ocean sells around $2 billion in dollar-won forward market, source says - TradingView",
+      "Evergreen Marine director released on bail in insider trading probe - Focus Taiwan",
+      "Evergreen Marine director released amid investigation - Taipei Times",
+      "News Content Hub - Taiwan raids Evergreen Marine offices in insider trading investigation - rivieram"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 3 則事件，焦點為韓國造船海洋、中遠海控相關動態：「HD Korea Shipbuilding Looks to Engines for Its Future Aft...」。主要關注主題為航運產業通用，市場情緒中性。",
+    "signals": [
+      {
+        "text": "HD Korea Shipbuilding Looks to Engines for Its Future After Ships - 매일경제（航運產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "Has COSCO SHIPPING International (Hong Kong) (SEHK:517) Run Ahead Of Fair Val...（航運產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
