@@ -1,0 +1,16 @@
+{
+  "total_raw": 350,
+  "dup_title": 156,
+  "no_date": 0,
+  "too_old": 96,
+  "gate1_fail": 20,
+  "gate2_fail": 15,
+  "passed": 63,
+  "gate2_samples": [
+    "Hanwha Ocean Cuts Steel on New WTIV with 15MW-Class Capability - imarinenews.com",
+    "Hanwha Ocean has sold about $2 billion of dollar-won futures market, a source claims - Marine News M",
+    "Hanwha Ocean sells around $2 billion in dollar-won forward market, source says - TradingView",
+    "Evergreen Marine director released on bail in insider trading probe - Focus Taiwan",
+    "Evergreen Marine director released amid investigation - Taipei Times"
+  ]
+}

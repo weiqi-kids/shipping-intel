@@ -1,0 +1,240 @@
+{
+  "date": "2026-07-13",
+  "generated_at": "2026-07-13T11:18:07.500550Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "hd_korea-2026-07-13-005",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "HD Korea Shipbuilding & Offshore Engineering Secures Order for 3 Very Large Ammonia Carriers, Surpassing 70% of Annual Target - 아시아경제",
+      "companies": [
+        "hd_korea"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1kbE5QTnJDbm5WR2ktaTEtSVJ1UnNJS0xXVVNWamczUXUwVk4zVjBIanRWODRvN3g2bTd5Uk1BYXpxYUI5dFE3ZUY3ak14WHljN3FMVTF5R2RYWl9sa0puRDNvWWZ2b2RJ?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-07-13-032",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "A ‘super’ El Niño a major threat to LatAm’s perishable exports",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://theloadstar.com/a-super-el-nino-a-major-threat-to-latams-perishable-exports/"
+    },
+    {
+      "rank": 3,
+      "event_id": "hd_korea-2026-07-13-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "HD Korea Shipbuilding eyes engines, components as future growth drivers - 매일경제",
+      "companies": [
+        "hd_korea"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5sMHkxcVpmMWVnUUtJMndCSld4djFES2g0TFBRWGQ0dlR2Z3BnbHZrSE14NU9tblBPN3ExZVROb3ctODRYTTdzN0F5RDhxS19mQjZyem1ZZw?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-07-13-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Korean shipbuilders eye W10tr profit on LNG boom - The Korea Herald",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBFM0lBcWdEZWxuR0FOOTBod3lnWFZ5VzVnRGdLeFNuRXJLRDJ6QjU1dFZxMkpISDN4aTJ1Z3lKejN3MDl4YTVETFlhSWFFS1l2clJiRWJQYw?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "hd_korea-2026-07-13-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "HD Korea Shipbuilding secures 545.6b-won order for three ammonia carriers - CHOSUNBIZ - Chosunbiz",
+      "companies": [
+        "hd_korea"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQRnJIYzFNVDVlYkl2QTltbDdIa2dpRW91MDRfZEdIQW5DSWZjSlJVa21JVGdWZFM4ajdJa3NYdWxuT0ZEVkp4cFpYMGh6alpERzBsY1Q2RjA0UnhyRDZEUm9hMV9YMXJuMnB2ekp2VTREOTBWRjg2dWwzTmlKcW9VZXZR0gGWAUFVX3lxTE4xZW02d0YxQW51aEFYZHlIcFAwU3BIOWxYck5WTGo5UENZNVB3ZElFeEFHRDJrSDV0TU5RZ2RmZ1RKSjAwUmJ5QThSSE84Wm1TaWhUbFl2ZXB1V3dIS2dPWl9KY1ROTlNKQk4ydDBpZFNxU3BVZWc5UHIxdDNObGN4UkV5bFh1QXRJV0NwR0RSRXZhejFoZw?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 37,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.01,
+      "sentiment_7d_avg": null
+    },
+    "shipbuilding_orders": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "container_freight": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "port_congestion": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 38,
+    "sentiment_distribution": {
+      "positive": 3,
+      "neutral": 31,
+      "negative": 4
+    },
+    "top_companies": [
+      {
+        "id": "hd_korea",
+        "count": 5
+      },
+      {
+        "id": "cosco",
+        "count": 3
+      },
+      {
+        "id": "hanwha_ocean",
+        "count": 1
+      },
+      {
+        "id": "wisdom",
+        "count": 1
+      },
+      {
+        "id": "cssc",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 37
+      },
+      {
+        "id": "container_freight",
+        "count": 3
+      },
+      {
+        "id": "shipbuilding_orders",
+        "count": 1
+      },
+      {
+        "id": "port_congestion",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 350,
+    "dup_title": 156,
+    "too_old": 96,
+    "gate1_blocked": 20,
+    "gate2_blocked": 15,
+    "passed": 63,
+    "pass_rate": "32.5%",
+    "gate2_block_rate": "7.7%",
+    "gate2_samples": [
+      "Hanwha Ocean Cuts Steel on New WTIV with 15MW-Class Capability - imarinenews.com",
+      "Hanwha Ocean has sold about $2 billion of dollar-won futures market, a source claims - Marine News M",
+      "Hanwha Ocean sells around $2 billion in dollar-won forward market, source says - TradingView",
+      "Evergreen Marine director released on bail in insider trading probe - Focus Taiwan",
+      "Evergreen Marine director released amid investigation - Taipei Times"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 38 則事件，焦點為韓國造船海洋、中遠海控、韓華海洋相關動態：「HD Korea Shipbuilding & Offshore Engineering Secures Orde...」。整體情緒偏負面，需留意潛在風險。",
+    "signals": [
+      {
+        "text": "HD Korea Shipbuilding & Offshore Engineering Secures Order for 3 Very Large A...（航運產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "A ‘super’ El Niño a major threat to LatAm’s perishable exports（航運產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
