@@ -1,83 +1,83 @@
 {
   "hd_korea": {
-    "earliest": "2002-01-03",
-    "latest": "2026-07-13",
-    "count": 6109
+    "earliest": "2001-10-05",
+    "latest": "2026-07-14",
+    "count": 6174
   },
   "samsung_heavy": {
-    "earliest": "2002-01-03",
-    "latest": "2026-07-13",
-    "count": 6109
+    "earliest": "2001-10-05",
+    "latest": "2026-07-14",
+    "count": 6174
   },
   "hanwha_ocean": {
-    "earliest": "2002-01-03",
-    "latest": "2026-07-13",
-    "count": 6109
+    "earliest": "2001-10-05",
+    "latest": "2026-07-14",
+    "count": 6174
   },
   "cssc": {
-    "earliest": "2002-01-21",
-    "latest": "2026-07-13",
-    "count": 6015
+    "earliest": "2001-10-23",
+    "latest": "2026-07-14",
+    "count": 6080
   },
   "evergreen": {
-    "earliest": "2002-01-21",
-    "latest": "2026-07-13",
-    "count": 6060
+    "earliest": "2001-10-23",
+    "latest": "2026-07-14",
+    "count": 6125
   },
   "yang_ming": {
-    "earliest": "2002-01-21",
-    "latest": "2026-07-13",
-    "count": 6060
+    "earliest": "2001-10-23",
+    "latest": "2026-07-14",
+    "count": 6125
   },
   "wan_hai": {
-    "earliest": "2002-01-21",
-    "latest": "2026-07-13",
-    "count": 6060
+    "earliest": "2001-10-23",
+    "latest": "2026-07-14",
+    "count": 6125
   },
   "maersk": {
-    "earliest": "2002-01-07",
-    "latest": "2026-07-13",
-    "count": 6172
+    "earliest": "2001-10-09",
+    "latest": "2026-07-14",
+    "count": 6237
   },
   "hapag": {
     "earliest": "2015-11-06",
-    "latest": "2026-07-13",
-    "count": 2713,
+    "latest": "2026-07-14",
+    "count": 2714,
     "history_complete": true
   },
   "zim": {
     "earliest": "2021-01-28",
-    "latest": "2026-07-10",
-    "count": 1368,
+    "latest": "2026-07-13",
+    "count": 1369,
     "history_complete": true
   },
   "cosco": {
     "earliest": "2005-06-30",
-    "latest": "2026-07-13",
-    "count": 5185,
+    "latest": "2026-07-14",
+    "count": 5186,
     "history_complete": true
   },
   "u_ming": {
-    "earliest": "2002-01-21",
-    "latest": "2026-07-13",
-    "count": 6060
+    "earliest": "2001-10-23",
+    "latest": "2026-07-14",
+    "count": 6125
   },
   "wisdom": {
     "earliest": "2010-12-01",
-    "latest": "2026-07-13",
-    "count": 3811,
+    "latest": "2026-07-14",
+    "count": 3812,
     "history_complete": true
   },
   "star_bulk": {
     "earliest": "2007-12-03",
-    "latest": "2026-07-10",
-    "count": 4679,
+    "latest": "2026-07-13",
+    "count": 4680,
     "history_complete": true
   },
   "etf_sea": {
     "earliest": "2022-01-20",
-    "latest": "2026-07-10",
-    "count": 1121,
+    "latest": "2026-07-13",
+    "count": 1122,
     "history_complete": true
   }
 }

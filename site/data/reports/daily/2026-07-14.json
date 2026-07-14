@@ -1,0 +1,222 @@
+{
+  "date": "2026-07-14",
+  "generated_at": "2026-07-14T10:03:36.006181Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-07-14-019",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Lufthansa Cargo, WiseTech & IBS Software ‘shape the future of air cargo’",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://theloadstar.com/lufthansa-cargo-wisetech-ibs-software-shape-the-future-of-air-cargo/"
+    },
+    {
+      "rank": 2,
+      "event_id": "hd_korea-2026-07-14-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "HD Korea Shipbuilding & Offshore Engineering secures order to build 3 ammonia carriers worth $360 million - Bitget",
+      "companies": [
+        "hd_korea"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFB2NElUYnlmTWlkNVZScUZCR212ZkVJWUtMOUtOSENqYWpRNEdPNy1DdEJuVGpFMHdsY2p3OE5MNzNtYU5FSTloLTdvdUxHRlBjN2tWZEJDbFFwYjdvT2NUTnlDc9IBY0FVX3lxTFB2NElUYnlmTWlkNVZScUZCR212ZkVJWUtMOUtOSENqYWpRNEdPNy1DdEJuVGpFMHdsY2p3OE5MNzNtYU5FSTloLTdvdUxHRlBjN2tWZEJDbFFwYjdvT2NUTnlDcw?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "hanwha_ocean-2026-07-14-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Rakuten Symphony Deploys Maritime Cybersecurity Solution with Hanwha Ocean - The Fast Mode",
+      "companies": [
+        "hanwha_ocean"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQYTZCdGNMWkRxV0NmM3VIWGV3Zlo5UFFQUlpIamhBVjA2b0hPeWY5VEVWZk1INGpDbGZJMnAtR0lhUVhDVDdkbm9UZURsZUxPMFNtNXFVYUNTTUstTURqSmlQMVJYZFRZd1I1c3ZMcjQyOFhweTBaRW1tb0txczF3d1hBZnhSYVU1Nmg4MHJmTTQ0M1RVWDhJM2V5VGxwMi1yeU14a0NHUVdleEdpMXVxdlhlN0NYdXMzaW52VnNvWU5KWEFVLXp1Sw?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "cosco-2026-07-14-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "COSCO Shipping Energy Transportation sees 141% first half profit surge - Seatrade Maritime News",
+      "companies": [
+        "cosco"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPTWJYTXZHVEV0ajFNdmlPRjhsbUZJaGJ6WUhhbU80M1NCakNydzRtLWZpMDlvb0hqLTNPRFZ5QkhtYkR0UWIxOE5kNHI0STZhZUdCMk5ZOVlSWDlTMU9nUmtvSDJWQkptY3kwMU5WU284UDFESHFiTnlsR2J0UzktUDRGYS15UFJ6Z2IyZTBIdXFpMndSYUhDN0hDZnJMcHFPUi1yM2FDb2M3ZEdBX01tTA?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "cosco-2026-07-14-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "COSCO Shipping Energy fell further, despite reporting a doubling of net profit in the second quarter year-over-year; analysts noted that vessels trapped within the Gulf weighed on its performance. - Moomoo",
+      "companies": [
+        "cosco"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQLXdXZW1hYTZ3UTdwSG1yTU9zOUlrSllHQmdUaGcxOXBNS2hHa2c4ajR6Qi1UcHlpNld0QjJTaEl6c2ZaQWp2bkE1eWVmN0d2TDgxTlVaVGlwRURvd0hQQ2JCZUx3blJIYXNXNjZsWGdpOWF6dEE1ZVEzTGJuZE02V0M4RXBZOEdNR2RJSm9sS3Y1a0tmV2pOZnI0ZWRzb2dhSnZnLVdsSTd0a1Fz?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 22,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.07,
+      "sentiment_7d_avg": null
+    },
+    "shipbuilding_orders": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "container_freight": {
+      "today": 5,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 22,
+    "sentiment_distribution": {
+      "positive": 2,
+      "neutral": 20,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "hapag",
+        "count": 4
+      },
+      {
+        "id": "cosco",
+        "count": 3
+      },
+      {
+        "id": "hd_korea",
+        "count": 2
+      },
+      {
+        "id": "hanwha_ocean",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 22
+      },
+      {
+        "id": "container_freight",
+        "count": 5
+      },
+      {
+        "id": "shipbuilding_orders",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 350,
+    "dup_title": 148,
+    "too_old": 99,
+    "gate1_blocked": 16,
+    "gate2_blocked": 16,
+    "passed": 71,
+    "pass_rate": "35.1%",
+    "gate2_block_rate": "7.9%",
+    "gate2_samples": [
+      "Hanwha Ocean Pulls Out of Canada Training Hub After Losing Submarine Bid to TKMS - imarinenews.com",
+      "Hanwha Ocean sold around $2 billion in dollar-won forward market, source says - Reuters",
+      "Hanwha Ocean has sold about $2 billion of dollar-won futures market, a source claims - Marine News M",
+      "Hanwha Ocean sells around $2 billion in dollar-won forward market, source says - TradingView",
+      "Hanwha Ocean Cuts Steel on New WTIV with 15MW-Class Capability - imarinenews.com"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 22 則事件，焦點為赫伯羅特、中遠海控、韓國造船海洋相關動態：「Lufthansa Cargo, WiseTech & IBS Software ‘shape the futur...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Lufthansa Cargo, WiseTech & IBS Software ‘shape the future of air cargo’（航運產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "HD Korea Shipbuilding & Offshore Engineering secures order to build 3 ammonia...（航運產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

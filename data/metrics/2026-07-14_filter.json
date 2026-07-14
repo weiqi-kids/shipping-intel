@@ -1,0 +1,16 @@
+{
+  "total_raw": 350,
+  "dup_title": 148,
+  "no_date": 0,
+  "too_old": 99,
+  "gate1_fail": 16,
+  "gate2_fail": 16,
+  "passed": 71,
+  "gate2_samples": [
+    "Hanwha Ocean Pulls Out of Canada Training Hub After Losing Submarine Bid to TKMS - imarinenews.com",
+    "Hanwha Ocean sold around $2 billion in dollar-won forward market, source says - Reuters",
+    "Hanwha Ocean has sold about $2 billion of dollar-won futures market, a source claims - Marine News M",
+    "Hanwha Ocean sells around $2 billion in dollar-won forward market, source says - TradingView",
+    "Hanwha Ocean Cuts Steel on New WTIV with 15MW-Class Capability - imarinenews.com"
+  ]
+}
