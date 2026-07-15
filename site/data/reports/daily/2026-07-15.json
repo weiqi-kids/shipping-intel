@@ -1,0 +1,210 @@
+{
+  "date": "2026-07-15",
+  "generated_at": "2026-07-15T10:07:20.439387Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "hanwha_ocean-2026-07-15-006",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Missing Out on a 60 Trillion Won Deal and Suffering a 20% Stock Plunge, But...\"Buy While It's Cheap, Hanwha Ocean Has a Rebound Opportunity\" [Click e-Stock] - 아시아경제",
+      "companies": [
+        "hanwha_ocean"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE16RkhjemJmVFVEWExyakFpRFhLRmJUT20xOWtoYXREazRoVzJFR0Vkc2I2R0pCT2luMlc5MlJKR3NIWjdjR01WbW5PSFh2eUlHUU5zVkhIODN3eFFJUWxtRTJzcTdUWVNjay14N3NnaTdfWk9JTEM3amViRQ?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-07-15-010",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Ukraine’s Azov campaign eclipses the tanker wars of the 1980s",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://splash247.com/ukraines-azov-campaign-eclipses-the-tanker-wars-of-the-1980s/"
+    },
+    {
+      "rank": 3,
+      "event_id": "hanwha_ocean-2026-07-15-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Hanwha Ocean bags $265M deal for 2 very large crude carriers - Korea JoongAng Daily",
+      "companies": [
+        "hanwha_ocean"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPeHNnMUh3UUhGMDRxLXNBaG5XaWQ5czEzaE5OUFZ6MWZjMVBTRmNDN21pRGNWUXJTbFpRaVJEUGtNU0xlOU5YYUF6TlBtdTZ3YzU1aDR6T0tLSmFSQkg0VWE1enlzYVlSZ0t0T2hVRWVUNW5hbDJ0RnZpMzdiMHNyNzF0YnRmR2xZdGJoajFTM19WUWZScVFvRURVS3NIektPRE1PbERFZGpCZTBfVlhpendn?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "hanwha_ocean-2026-07-15-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Hanwha Ocean Lands KRW394 Billion Order for Two Crude Carriers - Moomoo",
+      "companies": [
+        "hanwha_ocean"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQUHRLMkJrNHpJeVlEeFdZZnpLTVowaW9PendSQWprUGFoS1NFYmFYMTRXRmM4MnBYMjltMXNGdXkzQzJGRzRJajdMMVpFWUJsLXJrZHlPNnY3OUphelp1TzRyMjhxZVFTWlB5M2YwOXZQUFNCTWJMV3ZPWVVVX2JoRlYxSEt5Rm1IUFlkeGxHdjRqM0NLa25XdWgydG1NdG0tQVNIM2dYa1d4enAxQ1JCZFpuY1R6eHQweFU4THBaTEh3UnRDMlhqV2ZIbjNOb1VkX2J5X3JR?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "hanwha_ocean-2026-07-15-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Hanwha Ocean Co Ltd Wins 394 Billion Won Order - TradingView",
+      "companies": [
+        "hanwha_ocean"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNbWZtZkpZR2RDQThrNVlhaG1sa0ZvcmxGNW54ZWp1bnBZdUtmUkpZSS1xci1tMXhCMkduajBTOFNtdnVpel95ZEtVa2hIRFQ5Z0JFWU11TDdIODhjWGYwWEU2OGVWUE9lU0s4Zmxma1puOTBqQTJ4NnFZc1hMZF9NR0NHUG1MVnpXT0tueEIzalc1Y3VKc2RHbFZ5ZEhzLWF4Nkc2TzRucVV4M1JGVTRvQnQ5Z1lFN00?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 14,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.02,
+      "sentiment_7d_avg": null
+    },
+    "shipbuilding_orders": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "container_freight": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 20,
+    "sentiment_distribution": {
+      "positive": 2,
+      "neutral": 16,
+      "negative": 2
+    },
+    "top_companies": [
+      {
+        "id": "hanwha_ocean",
+        "count": 7
+      },
+      {
+        "id": "cosco",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 14
+      },
+      {
+        "id": "shipbuilding_orders",
+        "count": 1
+      },
+      {
+        "id": "container_freight",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 352,
+    "dup_title": 146,
+    "too_old": 110,
+    "gate1_blocked": 12,
+    "gate2_blocked": 6,
+    "passed": 78,
+    "pass_rate": "37.9%",
+    "gate2_block_rate": "2.9%",
+    "gate2_samples": [
+      "Hanwha Ocean Pulls Out of Canada Training Hub After Losing Submarine Bid to TKMS - imarinenews.com",
+      "Hanwha Ocean sold around $2 billion in dollar-won forward market, source says - Reuters",
+      "Hanwha Ocean has sold about $2 billion of dollar-won futures market, a source claims - Marine News M",
+      "Hanwha Ocean Cuts Steel on New WTIV with 15MW-Class Capability - imarinenews.com",
+      "Evergreen Marine director questioned, offices searched in Taiwan insider trading probe - Manifold Ti"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 20 則事件，焦點為韓華海洋、中遠海控相關動態：「Missing Out on a 60 Trillion Won Deal and Suffering a 20%...」。主要關注主題為航運產業通用、造船訂單、貨櫃運價，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Missing Out on a 60 Trillion Won Deal and Suffering a 20% Stock Plunge, But.....（航運產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "Ukraine’s Azov campaign eclipses the tanker wars of the 1980s（航運產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

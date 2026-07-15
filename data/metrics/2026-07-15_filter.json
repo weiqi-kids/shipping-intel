@@ -1,0 +1,16 @@
+{
+  "total_raw": 352,
+  "dup_title": 146,
+  "no_date": 0,
+  "too_old": 110,
+  "gate1_fail": 12,
+  "gate2_fail": 6,
+  "passed": 78,
+  "gate2_samples": [
+    "Hanwha Ocean Pulls Out of Canada Training Hub After Losing Submarine Bid to TKMS - imarinenews.com",
+    "Hanwha Ocean sold around $2 billion in dollar-won forward market, source says - Reuters",
+    "Hanwha Ocean has sold about $2 billion of dollar-won futures market, a source claims - Marine News M",
+    "Hanwha Ocean Cuts Steel on New WTIV with 15MW-Class Capability - imarinenews.com",
+    "Evergreen Marine director questioned, offices searched in Taiwan insider trading probe - Manifold Ti"
+  ]
+}
