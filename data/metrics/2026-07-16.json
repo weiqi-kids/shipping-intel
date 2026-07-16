@@ -1,0 +1,29 @@
+{
+  "date": "2026-07-16",
+  "total_events": 19,
+  "by_company": {
+    "hanwha_ocean": {
+      "count": 6,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "industry_general": {
+      "count": 16,
+      "sentiment_avg": 0.06
+    },
+    "shipbuilding_orders": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "container_freight": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}

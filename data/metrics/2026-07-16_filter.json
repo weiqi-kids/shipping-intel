@@ -1,0 +1,14 @@
+{
+  "total_raw": 331,
+  "dup_title": 145,
+  "no_date": 0,
+  "too_old": 109,
+  "gate1_fail": 18,
+  "gate2_fail": 3,
+  "passed": 56,
+  "gate2_samples": [
+    "Hanwha Ocean breaks ground on Shinan-Ui offshore wind farm in South Korea - CHOSUNBIZ - Chosunbiz",
+    "Hanwha Ocean Pulls Out of Canada Training Hub After Losing Submarine Bid to TKMS - imarinenews.com",
+    "Hanwha Ocean sold around $2 billion in dollar-won forward market, source says - Reuters"
+  ]
+}

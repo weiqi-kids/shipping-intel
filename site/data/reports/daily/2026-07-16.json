@@ -1,0 +1,202 @@
+{
+  "date": "2026-07-16",
+  "generated_at": "2026-07-16T10:13:58.549032Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-07-16-010",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Hormuz and Red Sea risks converge",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://splash247.com/hormuz-and-red-sea-risks-converge/"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-07-16-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Trump's 'Korea Shipbuilding Cooperation' Remarks Spark Rebound in Shipbuilding Stocks Amid Market Rout - finance.biggo.com",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE53YzJCNlpPcEV1S0xERncxTW1OZFNyOS1kc3pkQTk3emIwM2RVUkhuZWVrUlh5RTJXTzJ2bEpLc3JRUXFrdW01d2tnVE42ZU5lZXpEVll2OXYwRkZYSllZVzlsSmNEOF9KVzRmdlBFLVZUZktBclE?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "hanwha_ocean-2026-07-16-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Shipbuilding Stocks Dodge Selloff on Trump Remarks; Hanwha Ocean Gains 1.5% - Seoul Economic Daily",
+      "companies": [
+        "hanwha_ocean"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNMjByVFA5WlAwNm03U0NYYjlDdnprUXFNV3Z1aS12d09EOVVaeE1wTWFGZGpPRG5rVXdfSl9qSzRWdkd1UUxPU01vUktuaTZLTnJta2xlYXZibEFJQWFTWE5FOTk5d2xLTXRucXdtM2JZM0FMT1NmVWxwODlfZ015MWhlVGh0V1FzZXJOVm9rcjlpMjI1eWEwM1IyZm5GTkYz?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-07-16-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Trump comments lift South Korea shipbuilders on cooperation hopes - CHOSUNBIZ - Chosunbiz",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNRmlKS2ZkWUZOUUJOZUV2REduUWlqYjZncFJGUWxBaG1OcUtQRWdjNlduekxuWFRxd0QwV01sYVNIaTFSQkFvYmcxVUxRNjc3c2dZRUhpajBpWG1qVnNkZlVURzJfU0E5Ym5YTTd1c0dYRlFDVFlKVnNLdklNRW5oadIBlAFBVV95cUxPSlhNN0NPT3NPZ2YxQjNsYnRBcDlycGVVbkNQbmlBeHFmRmFrX1ZOb1l6SmtueThwR2JUMWhHWVpCUHJ3SzZ5clZFQjd3ZlFseUlFMVlWZGFvUEcxYmt1alNmUEtSOFhTOHd1eGd1REJOQU1qQkVTS0g3Rng2X09wTlYyM2VlZzdwcXVHOVR6SExHcUJr?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-07-16-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "KAERI, KRISO, Samsung win ABS nod for MSR-powered container ship concept - Chosunbiz",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPbW5GbG1nVDNHRW1yeDRXbVlYZmgtd2xnanhqWjRlVU1nRHJIWXJfRHl1V2ZhaGJNbzNRVlNNZHE2aTB3ZFVKVzZKNW1zaEM0TmJNVDhPNF9MdjVfSmRwbmxMUlF6OWplT2dyMFhkZEhPcEtEU01KZjJZdW9KcDE0NQ?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 16,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.06,
+      "sentiment_7d_avg": null
+    },
+    "shipbuilding_orders": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "container_freight": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 19,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 18,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "hanwha_ocean",
+        "count": 6
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 16
+      },
+      {
+        "id": "shipbuilding_orders",
+        "count": 2
+      },
+      {
+        "id": "container_freight",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 331,
+    "dup_title": 145,
+    "too_old": 109,
+    "gate1_blocked": 18,
+    "gate2_blocked": 3,
+    "passed": 56,
+    "pass_rate": "30.1%",
+    "gate2_block_rate": "1.6%",
+    "gate2_samples": [
+      "Hanwha Ocean breaks ground on Shinan-Ui offshore wind farm in South Korea - CHOSUNBIZ - Chosunbiz",
+      "Hanwha Ocean Pulls Out of Canada Training Hub After Losing Submarine Bid to TKMS - imarinenews.com",
+      "Hanwha Ocean sold around $2 billion in dollar-won forward market, source says - Reuters"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 19 則事件，焦點為韓華海洋相關動態：「Hormuz and Red Sea risks converge」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Hormuz and Red Sea risks converge（航運產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "Trump's 'Korea Shipbuilding Cooperation' Remarks Spark Rebound in Shipbuildin...（航運產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
