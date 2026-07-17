@@ -1,0 +1,15 @@
+{
+  "total_raw": 331,
+  "dup_title": 134,
+  "no_date": 0,
+  "too_old": 113,
+  "gate1_fail": 20,
+  "gate2_fail": 4,
+  "passed": 60,
+  "gate2_samples": [
+    "Hanwha Ocean Accelerates Offshore Wind Ambitions With Landmark Shinan Project - Koreabizwire",
+    "Hanwha Ocean Pulls Out of Canada Training Hub After Losing Submarine Bid to TKMS - imarinenews.com",
+    "Hanwha Ocean sold around $2 billion in dollar-won forward market, source says - Reuters",
+    "COSCO signs for four Qingdao Beihai newcastlemaxes - Splash247"
+  ]
+}

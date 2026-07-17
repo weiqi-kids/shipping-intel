@@ -1,0 +1,227 @@
+{
+  "date": "2026-07-17",
+  "generated_at": "2026-07-17T10:03:58.423369Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "cosco-2026-07-17-002",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "COSCO Shipping Bulk Orders Four Newcastlemax Vessels at CSSC Qingdao Beihai - IndexBox",
+      "companies": [
+        "cosco",
+        "cssc"
+      ],
+      "related": {
+        "customers": [
+          "cosco"
+        ],
+        "suppliers": [
+          "cssc"
+        ]
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQZ3Z3dlBzekltTjkzUzFKNWt6OTJNTi1ITXY4cmVSbUwwNzE5dzNpaWgxZkpPV1JwQ1h4NnJxa3N5TXkyNHpxR1VHMkpDZ0ZVZm1Ddm92ZUNBRERnUEV5eUl6dWFaY0Zia01IT0dhQkx3XzB3OXk2bzdUaDRVNlM4UC03UzFCUDF4Si1LazNvazZwLWpLNzV1aGE3M2hNWE1ic1p0elJXZGM?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "cosco-2026-07-17-014",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "COSCO signs for four Qingdao Beihai newcastlemaxes",
+      "companies": [
+        "cosco",
+        "cssc"
+      ],
+      "related": {
+        "customers": [
+          "cosco"
+        ],
+        "suppliers": [
+          "cssc"
+        ]
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://splash247.com/cosco-signs-for-four-qingdao-beihai-newcastlemaxes/"
+    },
+    {
+      "rank": 3,
+      "event_id": "cosco-2026-07-17-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "COSCO SHIPPING launches CHX3 Peru–Costa Rica service - Container News",
+      "companies": [
+        "cosco"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQeTEyaUJmRXEwY1FxS20yWWtValJRTlphVG9HSTdUSE9CQUZsbW9GeXgxLWd0OXl3NmhncTIwclptQ1NENXJOblJ1NVA3dC1TZVgzZ0dTYTljc3NwSG1RbXZObXljanNTSV8tVlZzcWRNYXdQd0xjQkV5a29NQjcwSWJiNS1PaTA?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "cosco-2026-07-17-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Cosco Shipping Bulk orders newcastlemax quartet at Qingdao Beihai - TradeWinds News",
+      "companies": [
+        "cosco"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPbTdJNWpzUG9uWVJ2NnRvNFNQM0xTTVFueGFfMnlzOEVDN2p4Q3BXV3AwcU9tNEdrN2JPUGNEellHR1NXWVJzUmd4MjB4ZHl2dUJHa2t1dWlNUUpyeHFrejNzQlJOa194VU9tRW1YQWtoTERMR0NLam9iQWFNVG01NXcxQmJOMXg4OF9ldTdxZlVORDNXaDZ4LXZZMm9PeWQ1NlFsaXIxMGhjTjRvdVBhZU5YRzhTRDg?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "cosco-2026-07-17-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "COSCO Shipping Energy (01138) transferred shares with a total market value of HK$1.201 billion, accounting for 7.31%, including 75.5816 million shares transferred out from Citi. - Moomoo",
+      "companies": [
+        "cosco"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQX2VobFozeHZKckFzUG5PUmwwSm5qWTNfbzJ4bkJ4ZEtIRHdzQ29NUmhwSWEzaWRIMkFDdGpNRzhKWkRnWDFNdDYtUExQeUQwYkZlSGw3bDN4Ri0wMkt1R1RaYTFWQnRKTlZWZkhoN3gxekJIa1prUVBKSXVaenJaVFVjcVdMcnlWX09mNDR2c21zR0NvYWVBZDBCMFVjU3Z6cGMxLTBHbjJFckdy?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 18,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.06,
+      "sentiment_7d_avg": null
+    },
+    "shipbuilding_orders": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [
+    {
+      "from": "cosco",
+      "to": "cssc",
+      "relation": "supplier_customer",
+      "co_mention_count": 2,
+      "topics": [
+        "industry_general"
+      ]
+    }
+  ],
+  "stats": {
+    "total_events": 18,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 16,
+      "negative": 2
+    },
+    "top_companies": [
+      {
+        "id": "cosco",
+        "count": 6
+      },
+      {
+        "id": "cssc",
+        "count": 3
+      },
+      {
+        "id": "wisdom",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 18
+      },
+      {
+        "id": "shipbuilding_orders",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 331,
+    "dup_title": 134,
+    "too_old": 113,
+    "gate1_blocked": 20,
+    "gate2_blocked": 4,
+    "passed": 60,
+    "pass_rate": "30.5%",
+    "gate2_block_rate": "2.0%",
+    "gate2_samples": [
+      "Hanwha Ocean Accelerates Offshore Wind Ambitions With Landmark Shinan Project - Koreabizwire",
+      "Hanwha Ocean Pulls Out of Canada Training Hub After Losing Submarine Bid to TKMS - imarinenews.com",
+      "Hanwha Ocean sold around $2 billion in dollar-won forward market, source says - Reuters",
+      "COSCO signs for four Qingdao Beihai newcastlemaxes - Splash247"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 18 則事件，焦點為中遠海控、中國船舶、慧洋海運相關動態：「COSCO Shipping Bulk Orders Four Newcastlemax Vessels at C...」。整體情緒偏負面，需留意潛在風險。",
+    "signals": [
+      {
+        "text": "COSCO Shipping Bulk Orders Four Newcastlemax Vessels at CSSC Qingdao Beihai -...（航運產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "COSCO signs for four Qingdao Beihai newcastlemaxes（航運產業通用）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
