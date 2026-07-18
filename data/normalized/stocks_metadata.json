@@ -1,43 +1,44 @@
 {
   "hd_korea": {
-    "earliest": "2001-01-10",
+    "earliest": "2000-10-12",
     "latest": "2026-07-16",
-    "count": 6368
+    "count": 6432
   },
   "samsung_heavy": {
-    "earliest": "2001-01-10",
+    "earliest": "2000-10-12",
     "latest": "2026-07-16",
-    "count": 6368
+    "count": 6432
   },
   "hanwha_ocean": {
     "earliest": "2001-02-05",
     "latest": "2026-07-16",
-    "count": 6350
+    "count": 6350,
+    "history_complete": true
   },
   "cssc": {
-    "earliest": "2001-01-26",
+    "earliest": "2000-10-30",
     "latest": "2026-07-17",
-    "count": 6275
+    "count": 6339
   },
   "evergreen": {
-    "earliest": "2001-01-26",
+    "earliest": "2000-10-30",
     "latest": "2026-07-17",
-    "count": 6320
+    "count": 6384
   },
   "yang_ming": {
-    "earliest": "2001-01-26",
+    "earliest": "2000-10-30",
     "latest": "2026-07-17",
-    "count": 6320
+    "count": 6384
   },
   "wan_hai": {
-    "earliest": "2001-01-26",
+    "earliest": "2000-10-30",
     "latest": "2026-07-17",
-    "count": 6320
+    "count": 6384
   },
   "maersk": {
-    "earliest": "2001-01-12",
+    "earliest": "2000-10-16",
     "latest": "2026-07-17",
-    "count": 6432
+    "count": 6496
   },
   "hapag": {
     "earliest": "2015-11-06",
@@ -47,8 +48,8 @@
   },
   "zim": {
     "earliest": "2021-01-28",
-    "latest": "2026-07-16",
-    "count": 1372,
+    "latest": "2026-07-17",
+    "count": 1373,
     "history_complete": true
   },
   "cosco": {
@@ -58,9 +59,9 @@
     "history_complete": true
   },
   "u_ming": {
-    "earliest": "2001-01-26",
+    "earliest": "2000-10-30",
     "latest": "2026-07-17",
-    "count": 6320
+    "count": 6384
   },
   "wisdom": {
     "earliest": "2010-12-01",
@@ -70,14 +71,14 @@
   },
   "star_bulk": {
     "earliest": "2007-12-03",
-    "latest": "2026-07-16",
-    "count": 4683,
+    "latest": "2026-07-17",
+    "count": 4684,
     "history_complete": true
   },
   "etf_sea": {
     "earliest": "2022-01-20",
-    "latest": "2026-07-16",
-    "count": 1125,
+    "latest": "2026-07-17",
+    "count": 1126,
     "history_complete": true
   }
 }
