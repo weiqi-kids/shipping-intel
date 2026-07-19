@@ -1,0 +1,13 @@
+{
+  "total_raw": 332,
+  "dup_title": 179,
+  "no_date": 0,
+  "too_old": 113,
+  "gate1_fail": 15,
+  "gate2_fail": 2,
+  "passed": 23,
+  "gate2_samples": [
+    "Hanwha Ocean Pulls Out of Canada Training Hub After Losing Submarine Bid to TKMS - imarinenews.com",
+    "Hanwha Ocean Cuts Steel on New WTIV with 15MW-Class Capability - imarinenews.com"
+  ]
+}
