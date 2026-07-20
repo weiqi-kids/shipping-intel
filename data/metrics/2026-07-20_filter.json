@@ -1,0 +1,14 @@
+{
+  "total_raw": 332,
+  "dup_title": 149,
+  "no_date": 0,
+  "too_old": 108,
+  "gate1_fail": 16,
+  "gate2_fail": 3,
+  "passed": 56,
+  "gate2_samples": [
+    "Hanwha Ocean Breaks Ground on Shinan Ui Offshore Wind Farm - thelec.net",
+    "Hanwha Ocean Accelerates Offshore Wind Ambitions With Landmark Shinan Project - Koreabizwire",
+    "Hanwha Ocean Pulls Out of Canada Training Hub After Losing Submarine Bid to TKMS - imarinenews.com"
+  ]
+}
