@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-20T10:57:40.586704Z",
+  "updated_at": "2026-07-21T10:29:03.595804Z",
   "quarter": "2025-12-31, 2026-03-31",
   "companies": [
     {
@@ -160,17 +160,17 @@
       "name": "裕民航運",
       "ticker": "2606.TW",
       "currency": "TWD",
-      "ar": 639707000,
-      "ar_prev": 595476000,
-      "ar_qoq": "+7%",
+      "ar": 572511000,
+      "ar_prev": 639707000,
+      "ar_qoq": "-11%",
       "ar_period": "QoQ",
-      "inventory": 509525000,
-      "inv_prev": 566271000,
-      "inv_qoq": "-10%",
+      "inventory": 775365000,
+      "inv_prev": 509525000,
+      "inv_qoq": "+52%",
       "inv_period": "QoQ",
       "inventory_applicable": true,
-      "alert": false,
-      "quarter_date": "2025-12-31"
+      "alert": true,
+      "quarter_date": "2026-03-31"
     },
     {
       "id": "wan_hai",

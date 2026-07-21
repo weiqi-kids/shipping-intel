@@ -1,0 +1,141 @@
+{
+  "date": "2026-07-21",
+  "date_range": {
+    "start": "2026-07-15",
+    "end": "2026-07-21"
+  },
+  "generated_at": "2026-07-21T10:29:07.098337Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "cosco-2026-07-17-002",
+      "date": "2026-07-17",
+      "title": "COSCO Shipping Bulk Orders Four Newcastlemax Vessels at CSSC Qingdao Beihai - IndexBox",
+      "importance_score": 0.7
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "industry_general": {
+      "this_week": 112,
+      "last_week": 136,
+      "week_over_week_change": "-18%",
+      "sentiment_this_week": 0.03
+    },
+    "shipbuilding_orders": {
+      "this_week": 6,
+      "last_week": 5,
+      "week_over_week_change": "+20%",
+      "sentiment_this_week": 0.0
+    },
+    "container_freight": {
+      "this_week": 2,
+      "last_week": 11,
+      "week_over_week_change": "-82%",
+      "sentiment_this_week": 0.0
+    },
+    "dry_bulk_rate": {
+      "this_week": 1,
+      "last_week": 1,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    }
+  },
+  "company_7d_summary": {
+    "hanwha_ocean": {
+      "event_count": 14,
+      "sentiment_avg": -0.07,
+      "rank": 1
+    },
+    "cosco": {
+      "event_count": 8,
+      "sentiment_avg": 0.0,
+      "rank": 2
+    },
+    "cssc": {
+      "event_count": 5,
+      "sentiment_avg": 0.0,
+      "rank": 3
+    },
+    "wisdom": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 5
+    },
+    "hd_korea": {
+      "event_count": 4,
+      "sentiment_avg": 0.0,
+      "rank": 4
+    },
+    "samsung_heavy": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 6
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 319,
+        "last": 444,
+        "change_pct": -28.2
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-07-15",
+      "event_count": 58,
+      "sentiment_avg": 0.1
+    },
+    {
+      "date": "2026-07-16",
+      "event_count": 61,
+      "sentiment_avg": 0.02
+    },
+    {
+      "date": "2026-07-17",
+      "event_count": 58,
+      "sentiment_avg": -0.03
+    },
+    {
+      "date": "2026-07-18",
+      "event_count": 15,
+      "sentiment_avg": 0.0
+    },
+    {
+      "date": "2026-07-19",
+      "event_count": 28,
+      "sentiment_avg": 0.07
+    },
+    {
+      "date": "2026-07-20",
+      "event_count": 75,
+      "sentiment_avg": -0.01
+    },
+    {
+      "date": "2026-07-21",
+      "event_count": 24,
+      "sentiment_avg": 0.11
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-07-15 ~ 2026-07-21）共 319 則事件，重點為「COSCO Shipping Bulk Orders Four Newcastlemax Ve...」。航運產業通用、造船訂單、貨櫃運價為本週焦點話題。",
+    "watchlist": [
+      {
+        "company": "韓華海洋",
+        "reason": "本週出現 14 則相關事件且情緒偏負面，需特別關注。"
+      },
+      {
+        "company": "中遠海控",
+        "reason": "本週出現 8 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "中國船舶",
+        "reason": "本週出現 5 則相關事件，為高關注企業，動態頻繁。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

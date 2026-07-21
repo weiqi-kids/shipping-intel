@@ -1,0 +1,15 @@
+{
+  "total_raw": 329,
+  "dup_title": 129,
+  "no_date": 0,
+  "too_old": 106,
+  "gate1_fail": 21,
+  "gate2_fail": 4,
+  "passed": 69,
+  "gate2_samples": [
+    "Hanwha Ocean has started construction on the Shinan Ui Offshore wind project. - 4C Offshore",
+    "Hanwha Ocean Breaks Ground on Shinan Ui Offshore Wind Farm - thelec.net",
+    "Hanwha Ocean Pulls Out of Canada Training Hub After Losing Submarine Bid to TKMS - imarinenews.com",
+    "OceanX : Breaking down the AI hype – face-to-face is your superpower"
+  ]
+}

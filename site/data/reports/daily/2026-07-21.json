@@ -1,0 +1,209 @@
+{
+  "date": "2026-07-21",
+  "generated_at": "2026-07-21T10:29:06.951831Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-07-21-013",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Record 2m cars tipped to move in containers as China outgrows car carrier fleet",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://splash247.com/record-2m-cars-tipped-to-move-in-containers-as-china-outgrows-car-carrier-fleet/"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-07-21-015",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "New registries emerge for the shadow fleet",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://splash247.com/new-registries-emerge-for-the-shadow-fleet/"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-07-21-019",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Wärtsilä records all-time high order intake in second quarter",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.75
+      },
+      "source_url": "https://www.seatrade-maritime.com/maritime-technology/w-rtsil-records-all-time-high-order-intake-in-second-quarter"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-07-21-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "HD Hyundai Names Qatar LNG Carrier - Businesskorea",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBialZVWi14WTV4RGxpamFrTWItQzdXaEZqZ3Zab293WDNzZlYyYjF3aklfazRiZ3I1ZmNNeEVJQjl5cUw0N2ZodDgtMkYtYlk1VnM2QWlvRGNOWlBfczZYY29TLUJvby1uNjZYQXNDSE1IRlJu?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-07-21-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "How smart yards are reshaping shipbuilding | Hanwha - Hanwha Group",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQYVRKNjZoWkFaMGZCUlpWU2ozQXFvZmt3UkIwYnRGbTFGckRyTkllM0xxMm40SGNqM01WLTVaRVNDVksyWXhyNXdaSlFLWDlVNFRzUmhzTXpXRGFjUWM4OHJzVU5XcWpBLUQ4ZmxUaUxHUjY3a2FxUUtCdURONFNTcUpyeEl6d0l6dG05YlpYdjlKTU1DbFA5N3ZXWXBVbW10UlJld3p1ZnpiY09Jd0sw?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 24,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.11,
+      "sentiment_7d_avg": null
+    },
+    "shipbuilding_orders": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "dry_bulk_rate": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 24,
+    "sentiment_distribution": {
+      "positive": 4,
+      "neutral": 19,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "cssc",
+        "count": 2
+      },
+      {
+        "id": "hanwha_ocean",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 24
+      },
+      {
+        "id": "shipbuilding_orders",
+        "count": 1
+      },
+      {
+        "id": "dry_bulk_rate",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 329,
+    "dup_title": 129,
+    "too_old": 106,
+    "gate1_blocked": 21,
+    "gate2_blocked": 4,
+    "passed": 69,
+    "pass_rate": "34.5%",
+    "gate2_block_rate": "2.0%",
+    "gate2_samples": [
+      "Hanwha Ocean has started construction on the Shinan Ui Offshore wind project. - 4C Offshore",
+      "Hanwha Ocean Breaks Ground on Shinan Ui Offshore Wind Farm - thelec.net",
+      "Hanwha Ocean Pulls Out of Canada Training Hub After Losing Submarine Bid to TKMS - imarinenews.com",
+      "OceanX : Breaking down the AI hype – face-to-face is your superpower"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 24 則事件，焦點為中國船舶、韓華海洋相關動態：「Record 2m cars tipped to move in containers as China outg...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Record 2m cars tipped to move in containers as China outgrows car carrier fleet（航運產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "New registries emerge for the shadow fleet（航運產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
