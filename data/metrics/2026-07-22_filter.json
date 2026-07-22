@@ -1,0 +1,16 @@
+{
+  "total_raw": 319,
+  "dup_title": 130,
+  "no_date": 0,
+  "too_old": 99,
+  "gate1_fail": 17,
+  "gate2_fail": 8,
+  "passed": 65,
+  "gate2_samples": [
+    "Samsung Heavy Industries Partners with U.S. Nuclear Design Powerhouse S&L to Co-Develop Floating Off",
+    "Samsung Heavy Industries Partners with US Nuclear Design Leader S&L on FSMR - Seoul Economic Daily",
+    "Samsung Heavy Industries Collaborates with U.S. Nuclear Design Firm to Jointly Develop Floating SMR ",
+    "Hanwha Ocean Publicly Acknowledges Canadian Submarine Bid Loss - 조선일보",
+    "Hanwha Ocean has started construction on the Shinan Ui Offshore wind project. - 4C Offshore"
+  ]
+}
