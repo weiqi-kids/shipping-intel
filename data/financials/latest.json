@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-22T10:31:06.977986Z",
+  "updated_at": "2026-07-23T10:28:13.588217Z",
   "quarter": "2025-12-31, 2026-03-31",
   "companies": [
     {
@@ -211,17 +211,17 @@
       "name": "陽明海運",
       "ticker": "2609.TW",
       "currency": "TWD",
-      "ar": 13224123000,
-      "ar_prev": 10755589000,
-      "ar_qoq": "+23%",
+      "ar": 12772476000,
+      "ar_prev": 13224123000,
+      "ar_qoq": "-3%",
       "ar_period": "QoQ",
-      "inventory": 4099241000,
-      "inv_prev": 4090366000,
-      "inv_qoq": "+0%",
+      "inventory": 4745252000,
+      "inv_prev": 4099241000,
+      "inv_qoq": "+16%",
       "inv_period": "QoQ",
       "inventory_applicable": true,
-      "alert": true,
-      "quarter_date": "2025-12-31"
+      "alert": false,
+      "quarter_date": "2026-03-31"
     },
     {
       "id": "zim",

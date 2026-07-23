@@ -1,0 +1,16 @@
+{
+  "total_raw": 329,
+  "dup_title": 137,
+  "no_date": 0,
+  "too_old": 88,
+  "gate1_fail": 21,
+  "gate2_fail": 10,
+  "passed": 73,
+  "gate2_samples": [
+    "Samsung Heavy Industries Partners with S&L to Develop FSMR Techn - GuruFocus",
+    "Samsung Heavy Industries Partners with S&L for Floating SMR - Sea News",
+    "Samsung Heavy Industries Partners with U.S. Nuclear Design Powerhouse S&L to Co-Develop Floating Off",
+    "Samsung Heavy Industries Partners with US Nuclear Design Leader S&L on FSMR - Seoul Economic Daily",
+    "Samsung Heavy Industries Collaborates with U.S. Nuclear Design Firm to Jointly Develop Floating SMR "
+  ]
+}

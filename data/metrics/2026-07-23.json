@@ -1,0 +1,29 @@
+{
+  "date": "2026-07-23",
+  "total_events": 25,
+  "by_company": {
+    "hanwha_ocean": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "cosco": {
+      "count": 6,
+      "sentiment_avg": 0.0
+    },
+    "star_bulk": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "industry_general": {
+      "count": 24,
+      "sentiment_avg": -0.02
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}

@@ -1,5 +1,469 @@
 [
   {
+    "id": "unknown-2026-07-23-001",
+    "date": "2026-07-23",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "South Korean-US Partnership For Floating SMR Platform - Eurasia Review",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxPcHBiZHd4OVRITWV0SkpzbVRCTkpPYVh1T3BiUVRvVzIyald4SXVxSGlsSW5jQk80S3Yzd0pvSjg1eE9XenBwcnJpMWhMek5QUWxRNm5lWl8wa29URkNLSVZMdzg3ZE9Ba3c3OGk3cE",
+    "sources": [
+      {
+        "name": "samsung_heavy",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPcHBiZHd4OVRITWV0SkpzbVRCTkpPYVh1T3BiUVRvVzIyald4SXVxSGlsSW5jQk80S3Yzd0pvSjg1eE9XenBwcnJpMWhMek5QUWxRNm5lWl8wa29URkNLSVZMdzg3ZE9Ba3c3OGk3cENhQ1R6aG1UUUMyanNFV1hsNDdUbzhmclZuNUt0S3J0NzV3R2QzYk5FRg?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "hanwha_ocean-2026-07-23-002",
+    "date": "2026-07-23",
+    "companies": [
+      "hanwha_ocean"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Hanwha Ocean Discloses USD RP-Related Party Transaction with Hanwha Investment & Securities - marketscreener.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2gFBVV95cUxOazBSSVpoVnVGR2N5d3FjLThleXY3MjNFVXB3VDZDSGIwcHIxSnFWRHh6WE5yNE8tWnZ3ZjFBcnFmUUNLRXpTdHRsZEw0cV9qQ0Q0S29tMFBqM1AwdmV4TXFfUEt4VmxxaUVIWTJlLW",
+    "sources": [
+      {
+        "name": "hanwha_ocean",
+        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOazBSSVpoVnVGR2N5d3FjLThleXY3MjNFVXB3VDZDSGIwcHIxSnFWRHh6WE5yNE8tWnZ3ZjFBcnFmUUNLRXpTdHRsZEw0cV9qQ0Q0S29tMFBqM1AwdmV4TXFfUEt4VmxxaUVIWTJlLWF6djA2QkJocUplN1hacG0tYXRjR0pEOXlITmI5YzgyT0h4cDZydjJrS0s0X3o0elpOT2FPZWZMX1hhc29BWGZHblRzVTFLRTBWOUJtelpib1Z6cHBvbUZZWFJySmFxM0RPNjNoY01oLURMUQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-23-003",
+    "date": "2026-07-23",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "U.S. House Appropriations subcommittee officials toured Korean shipyards in July: Sources - Korea JoongAng Daily",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxPYjJnSm1ic0NfQmczZnZKcmNsclZONVJ0bUl3ZmI3d0FMYkRCX3ZUYW1xelQtbFJpNnJwT3dTM3NOX3VPU1dqSGtDZkMyWFZLSS1yTWxoRHA1SDgyemtzSlpqOUtQdVIzLW9iTDZ1dm",
+    "sources": [
+      {
+        "name": "hanwha_ocean",
+        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPYjJnSm1ic0NfQmczZnZKcmNsclZONVJ0bUl3ZmI3d0FMYkRCX3ZUYW1xelQtbFJpNnJwT3dTM3NOX3VPU1dqSGtDZkMyWFZLSS1yTWxoRHA1SDgyemtzSlpqOUtQdVIzLW9iTDZ1dmxqdEJORmpudmFDcFdqTkZMVnZwNkwtekxxQU9EUjlyajhQR3BYR1FNTnZmVE5yamFxUUZnYW9tNGd2VmFoUzlzTTdmTDNPYjYybUhlb3VtLXpXdTBBQ1E1b0NBd29WcVVPZ1VybFd3?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "cosco-2026-07-23-004",
+    "date": "2026-07-23",
+    "companies": [
+      "cosco"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "JPMorgan Chase & Co's Long Position In H-Shares Of COSCO Shipping Energy Transportation Decreases To 5.73% On July 17, HKEX Says - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwJBVV95cUxQZjJFUF9KZ1VJNWhaVE1ZQzJReDkySTdOTW9ySWFrWkFSWHFHU3RmeGo2WFNkRFRFWWx0ZVhRUHpHUFNmN3F5RlAzS3JpR3lncGFPZ0J1TFBndXJyZlA2eTJWWURGWG5iYkk2SXF5Z3",
+    "sources": [
+      {
+        "name": "cosco",
+        "url": "https://news.google.com/rss/articles/CBMinwJBVV95cUxQZjJFUF9KZ1VJNWhaVE1ZQzJReDkySTdOTW9ySWFrWkFSWHFHU3RmeGo2WFNkRFRFWWx0ZVhRUHpHUFNmN3F5RlAzS3JpR3lncGFPZ0J1TFBndXJyZlA2eTJWWURGWG5iYkk2SXF5Z3BnUW5MbU9McVFqaXRXdmN0YVM4aWZES0JDci1mR0NDZTZJZ2JKb2hTOUw2ZTlLQTFyc3lmYWFXNjVNdlVaWTBOMmtXMVpEY3hBQ18tUVFnR0k4akdVVklidW0tanZ2VGx2Yk5kNFI3Um1aWmRRbEVmWUhMWi1CZnVWcUNONkFma2xCdHNWVkVMQUVRemVaa2JLeWNDNVBCX0FULTM0cnhWeHRWenVMV3c0YXFVS0Vtaw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "cosco-2026-07-23-005",
+    "date": "2026-07-23",
+    "companies": [
+      "cosco"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Cosco Shipping orders eight heavy-lift vessels from Chengxi Shipbuilding - Seatrade Maritime News",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxQNzdDdnZPcy1BeVJfQ3BuYXpSRXFuaUs1R29TQWs0dURPN0F6cEVkWDlCcXVhdGlFUzhuVDlTdURRM0h6Tmw4Tnoyb3I1amJKWkpkcWI5YTJ0bndTaEpLYUxYS1huaWxwaEljZVk5OG",
+    "sources": [
+      {
+        "name": "cosco",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQNzdDdnZPcy1BeVJfQ3BuYXpSRXFuaUs1R29TQWs0dURPN0F6cEVkWDlCcXVhdGlFUzhuVDlTdURRM0h6Tmw4Tnoyb3I1amJKWkpkcWI5YTJ0bndTaEpLYUxYS1huaWxwaEljZVk5OG1GSVVOVVFtbWViWXBrdnJJT01sN2FIWTRfaFBDQVFYSF9jR2Y1UmNQS2dibW9uMExZOEhQbUxGald4WDhidS1wZUM5aUpHalY3Mm1hdHAyLVFaRU1DNmRkYUdB?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "cosco-2026-07-23-006",
+    "date": "2026-07-23",
+    "companies": [
+      "cosco"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "COSCO Shipping Heavy Industry (Tianjin) Unveils $1.18B Shipbuilding Base with Two 300,000-Ton Dry Docks - imarinenews.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiT0FVX3lxTE93MjlVSXpJaFFuZWExTkN0WThPV0FXN1lDNEx6bm5PNTlRM0ZPWHItVWJUemlyQTZQYmdPamoteWsweXMtSGdCbkltV3V3ZDA?oc=5\" target=\"_blank\">COSCO Shipping Heavy",
+    "sources": [
+      {
+        "name": "cosco",
+        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE93MjlVSXpJaFFuZWExTkN0WThPV0FXN1lDNEx6bm5PNTlRM0ZPWHItVWJUemlyQTZQYmdPamoteWsweXMtSGdCbkltV3V3ZDA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "cosco-2026-07-23-007",
+    "date": "2026-07-23",
+    "companies": [
+      "cosco"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "COSCO Shipping Energy (01138) transferred a total market value of HK$1.56 billion, accounting for 9.59%, with 71.52 million shares moved out from Morgan Stanley Hong Kong Securities. - Moomoo",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxNOFVSY0I5TzhHLWZJbGF3RW9UVWRrdnhlVDB2b0p1UjdGekgwd2s1Si1sQkNkUVJ2VjhZUkNCaFNNSUljNXF4SlFKREFFNGhINUtWZEltcUM4QVF3cVJuczhTLWxhb2hJbWVoMFF3OW",
+    "sources": [
+      {
+        "name": "cosco",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNOFVSY0I5TzhHLWZJbGF3RW9UVWRrdnhlVDB2b0p1UjdGekgwd2s1Si1sQkNkUVJ2VjhZUkNCaFNNSUljNXF4SlFKREFFNGhINUtWZEltcUM4QVF3cVJuczhTLWxhb2hJbWVoMFF3OW9nUUdEVXdPbl9hbldLcDJXekpjS2plU2g1SHZiVmxKRkxsU3VtUE5SOXR3ckRZbGE1VFU1cnNiaks?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "cosco-2026-07-23-008",
+    "date": "2026-07-23",
+    "companies": [
+      "cosco"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Cosco VLCCs head out of Red Sea with Saudi Arabian cargoes amid renewed Houthi attacks - TradeWinds News",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxOYmgyUDZKVkJmYlEzT04zbXpfaXcxcFhISHcxMzE4aUJvOTBmRmF4MEJZY0FjZloycjBVeHprMUlpVGVDTVI2QTFWekxHa01QdExzR3JIalN0bU82VW1xWlNuSERvcGJVUlBfXzQwbk",
+    "sources": [
+      {
+        "name": "cosco",
+        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOYmgyUDZKVkJmYlEzT04zbXpfaXcxcFhISHcxMzE4aUJvOTBmRmF4MEJZY0FjZloycjBVeHprMUlpVGVDTVI2QTFWekxHa01QdExzR3JIalN0bU82VW1xWlNuSERvcGJVUlBfXzQwbkxXYVQxejhub3RhQ2hsSmc3MUFQX3NaVWtWNVBXZ21PSGlsazZhb2xWWklfakcxcFJxSjN6OUs3SHliaVRZakUwYVpxbnVKbFEzdnVkREJNT2c2c3N4VHJoa2xVN2V3Q2hobGFJ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "star_bulk-2026-07-23-009",
+    "date": "2026-07-23",
+    "companies": [
+      "star_bulk"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Impala Asset Management LLC Sells 47,000 Shares of Star Bulk Carriers Corp. $SBLK - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxQbDlNckRGZGpDSjVVUFRXdy1jNDYxOGF0RE1ZcFlDX2FSeFVpT2N5VlB1ZjltZ1pOVzNlc0lFUE82UU5UZ25Cak8tcnp1Z2JCY2FDTEFPNlVuTXpFam9uZ0FqVlJVLUZDTnRwUEhkVE",
+    "sources": [
+      {
+        "name": "star_bulk",
+        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQbDlNckRGZGpDSjVVUFRXdy1jNDYxOGF0RE1ZcFlDX2FSeFVpT2N5VlB1ZjltZ1pOVzNlc0lFUE82UU5UZ25Cak8tcnp1Z2JCY2FDTEFPNlVuTXpFam9uZ0FqVlJVLUZDTnRwUEhkVE5taFZEU2FWdkNvUE5BVGdoMTFNdWQ4YXlnampxZ1FTSjZBbktLM0t3eE1pV2NwNTRPQWdzeWFvbVlzSXU1Mm9UM0syYXo2ZnMyMmcxX2pHOWNxY0pDQVdOUGJKUURTQ2s5SU1fd0Rn?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-23-010",
+    "date": "2026-07-23",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Aberdeen buys into Malaysian liner MTT",
+    "summary": "<p>London-listed asset manager Aberdeen Group has taken a 5.075% stake in Malaysian liner operator MTT Shipping and Logistics, becoming one of the company’s largest shareholders. Aberdeen’s Malaysian ",
+    "sources": [
+      {
+        "name": "splash247",
+        "url": "https://splash247.com/aberdeen-buys-into-malaysian-liner-mtt/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-23-011",
+    "date": "2026-07-23",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "negative",
+    "title": "Vale shareholders elect Manuel Oliveira as chairman",
+    "summary": "<p>The shareholders of Brazilian mining giant Vale elected lead independent director Manuel Lino Oliveira as chairman‚ ending a boardroom struggle at one of the most important dry bulk market cargo in",
+    "sources": [
+      {
+        "name": "splash247",
+        "url": "https://splash247.com/vale-shareholders-elect-manuel-oliveira-as-chairman/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-23-012",
+    "date": "2026-07-23",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Houthis claim strikes on two Saudi tankers",
+    "summary": "<p>Yemen&#8217;s Houthi movement claimed to have struck two Saudi oil tankers in the Red Sea on Wednesday, the first attacks since the group declared a naval blockade on Saudi Arabia earlier this week",
+    "sources": [
+      {
+        "name": "splash247",
+        "url": "https://splash247.com/houthis-claim-strikes-on-two-saudi-tankers/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-23-013",
+    "date": "2026-07-23",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Splash Ports: A new home for ports intelligence",
+    "summary": "<p>Splash Ports, a dedicated vertical covering the ports and terminals sector across container, bulk, and energy operations worldwide, launches today. The new publication has been created to provide d",
+    "sources": [
+      {
+        "name": "splash247",
+        "url": "https://splash247.com/splash-ports-a-new-home-for-ports-intelligence/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-23-014",
+    "date": "2026-07-23",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Ports and pipelines reshape Middle East trade beyond Hormuz",
+    "summary": "<p>DP World has confirmed plans for two major terminals on the UAE’s east coast, creating new cargo-handling capacity outside the Strait of Hormuz as war forces governments and logistics groups to red",
+    "sources": [
+      {
+        "name": "splash247",
+        "url": "https://splash247.com/ports-and-pipelines-reshape-middle-east-trade-beyond-hormuz/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-23-015",
+    "date": "2026-07-23",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Russia-Ukraine strikes choke Black Sea trade",
+    "summary": "<p>Commercial shipping across the Black Sea is being squeezed from both directions as Russia steps up attacks on Ukrainian ports and vessels while Kyiv’s drone campaign forces new restrictions at Russ",
+    "sources": [
+      {
+        "name": "splash247",
+        "url": "https://splash247.com/russia-ukraine-strikes-choke-black-sea-trade/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-23-016",
+    "date": "2026-07-23",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Why America may reflag Gulf tankers again",
+    "summary": "<p>The US does not depend on Gulf oil as it once did, yet the threat to global prices and shipping may leave Washington with little choice but to formalise its growing escort operation. Punit Oza expl",
+    "sources": [
+      {
+        "name": "splash247",
+        "url": "https://splash247.com/why-america-may-reflag-gulf-tankers-again/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-23-017",
+    "date": "2026-07-23",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Titan Wind Energy joins China’s tanker building ranks",
+    "summary": "<p>Another Chinese industrial group is moving into mainstream merchant shipbuilding, with Titan Wind Energy securing its first order for conventional crude oil tankers. The Suzhou-based renewable ener",
+    "sources": [
+      {
+        "name": "splash247",
+        "url": "https://splash247.com/titan-wind-energy-joins-chinas-tanker-building-ranks/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-23-018",
+    "date": "2026-07-23",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Dalian launches new deepsea shipping platform",
+    "summary": "<p>A new ocean-going shipping company has been established in Dalian as the northeastern Chinese port city seeks to retain more value from locally generated cargo and build greater control over intern",
+    "sources": [
+      {
+        "name": "splash247",
+        "url": "https://splash247.com/dalian-launches-new-deepsea-shipping-platform/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-23-019",
+    "date": "2026-07-23",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Why the Shipping Container Industry Is Booming Worldwide - IMARC Group",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxNNTJnSlViQnc3ZXlYbXRDeVZSTWxiWGVsVjJHOVotZ2xxYVRHNUFpcDUtcFdWODVWalFxWEg3b3lLVFRmMVdYYThKLW92VENNU240enpOSGNZcmdMYzY2TmRwTm9FU1pEeTBvcVdvMV",
+    "sources": [
+      {
+        "name": "google_container_shipping",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNNTJnSlViQnc3ZXlYbXRDeVZSTWxiWGVsVjJHOVotZ2xxYVRHNUFpcDUtcFdWODVWalFxWEg3b3lLVFRmMVdYYThKLW92VENNU240enpOSGNZcmdMYzY2TmRwTm9FU1pEeTBvcVdvMVBpOTJCZ1VxbTRZLU9YMkg5ZGtGQQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-23-020",
+    "date": "2026-07-23",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "US Treasury sanctions six more box ships as SeaLead struggles",
+    "summary": "<p>Singapore-based SeaLead has seen its ability to deploy capacity further hobbled by the US Treasury Department’s decision to sanction six more of its vessels over accusations that they are being use",
+    "sources": [
+      {
+        "name": "loadstar",
+        "url": "https://theloadstar.com/us-treasury-sanctions-six-vessels-of-struggling-sealead/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-23-021",
+    "date": "2026-07-23",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Russian seafarers on Jones Act waiver tanker stoke national security fears",
+    "summary": "The charter of the Maltese-flag Pyxis Lamda on US domestic trades has sharpened the controversy over Jones Act waivers",
+    "sources": [
+      {
+        "name": "seatrade_maritime",
+        "url": "https://www.seatrade-maritime.com/regulations/russian-seafarers-on-jones-act-waiver-tanker-stoke-national-security-fears",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "cosco-2026-07-23-022",
+    "date": "2026-07-23",
+    "companies": [
+      "cosco"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Cosco Shipping orders eight heavy-lift vessels from Chengxi Shipbuilding",
+    "summary": "This batch of newbuilds from the Chinese shipowner is designed to fill a capacity gap in specialised cargo transportation",
+    "sources": [
+      {
+        "name": "seatrade_maritime",
+        "url": "https://www.seatrade-maritime.com/maritime-transportation/cosco-shipping-orders-eight-heavy-lift-vessels-from-chengxi-shipbuilding",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-23-023",
+    "date": "2026-07-23",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "DP World seeks to bypass Hormuz with new Fujairah terminals",
+    "summary": "The Dubai-headquartered company is to develop new container and general cargo terminals on the UAE’s East Coast",
+    "sources": [
+      {
+        "name": "seatrade_maritime",
+        "url": "https://www.seatrade-maritime.com/ports-logistics/dp-world-seeks-to-bypass-hormuz-with-new-fujairah-terminals",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-23-024",
+    "date": "2026-07-23",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Weekly tanker and dry bulk time charter rates - 22 July",
+    "summary": "Dry bulk and tanker shipping time charter rates",
+    "sources": [
+      {
+        "name": "seatrade_maritime",
+        "url": "https://www.seatrade-maritime.com/tankers/weekly-tanker-and-dry-bulk-time-charter-rates-22-july",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-23-025",
+    "date": "2026-07-23",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Saudi tanker on fire after Houthi strike in Red Sea",
+    "summary": "The Yemen based group follows through on a blockade of Saudi ports claiming to have struck two tankers in the Red Sea",
+    "sources": [
+      {
+        "name": "seatrade_maritime",
+        "url": "https://www.seatrade-maritime.com/security/saudi-tanker-on-fire-after-houthi-strike-in-red-sea",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "hd_korea-2026-07-22-001",
     "date": "2026-07-22",
     "companies": [
@@ -369,6 +833,789 @@
       {
         "name": "seatrade_maritime",
         "url": "https://www.seatrade-maritime.com/containers/us-steps-up-iran-sanctions-pressure-on-sealead-shipping",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-22-021",
+    "date": "2026-07-22",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "\"Artificial intelligence base floating on the sea\"...中 Technology of K-ship Breaks Its Will to Pursue - 매일경제",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiU0FVX3lxTFBTb0FHeUhqS053anFWZ21KZ1VNLUp2T1RVdkcxRmdVSXRON2RCazV3MEdTR0RkU3JQS2dWVzAwR21UZVRQeFREd05xb3VRcTcwTXBZ?oc=5\" target=\"_blank\">\"Artificial int",
+    "sources": [
+      {
+        "name": "samsung_heavy",
+        "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBTb0FHeUhqS053anFWZ21KZ1VNLUp2T1RVdkcxRmdVSXRON2RCazV3MEdTR0RkU3JQS2dWVzAwR21UZVRQeFREd05xb3VRcTcwTXBZ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-22-022",
+    "date": "2026-07-22",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Charting a New Course: Countering China's Dominance in Global Shipbuilding - CSIS | Center for Strategic and International Studies",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxNLVhJSFcwRkFadWQwbkU1ZGxpMU9uVDQ5UG5qdEtIZFlQZ3JTV0E1d2dkaUt1bTB0cTUyNzRfcFZfZE8zaEExNnZUNFNQVzJGczFUejRYcGM4RTVEdnRuUzdhTi1xYm1Sb0dDYWtYaH",
+    "sources": [
+      {
+        "name": "cssc",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNLVhJSFcwRkFadWQwbkU1ZGxpMU9uVDQ5UG5qdEtIZFlQZ3JTV0E1d2dkaUt1bTB0cTUyNzRfcFZfZE8zaEExNnZUNFNQVzJGczFUejRYcGM4RTVEdnRuUzdhTi1xYm1Sb0dDYWtYaHZWQjl5eXhjVDRuY3lCLVp0MVlGTWQyc1VKVzVoaHRTVllzREZraUtpRjEycjNUUQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-22-023",
+    "date": "2026-07-22",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "US Congress weighs new tariffs, sanctions to counter China’s shipbuilding threat - South China Morning Post",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxQcGFnbE0yNHVjY0dhcnl3ODZROHhESGc4TjRoV0pXNmtYeDJmS3RzM2hxWkdQaENPSU5pZmpsV0sxTEhjR1JEU2NNMndTNzFBbXZYcUczS1cyTDBhT29ZYnBBRFNMVDhTajBFRVNWWj",
+    "sources": [
+      {
+        "name": "cssc",
+        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQcGFnbE0yNHVjY0dhcnl3ODZROHhESGc4TjRoV0pXNmtYeDJmS3RzM2hxWkdQaENPSU5pZmpsV0sxTEhjR1JEU2NNMndTNzFBbXZYcUczS1cyTDBhT29ZYnBBRFNMVDhTajBFRVNWWjJaUUcwdXYtUnRHaU1Tdjh4MXA4UXQ4anVWVHlObEVxckkxNXlnQ0g0Z3d2anZDLTdBZ1VHb0ptTnp2bXl3ZEJqYzdWYVhSQ1lQMzJBVGVwc21mUzVGLXg2cWJRak8xQVFtSkcxV9IB1AFBVV95cUxQcGFnbE0yNHVjY0dhcnl3ODZROHhESGc4TjRoV0pXNmtYeDJmS3RzM2hxWkdQaENPSU5pZmpsV0sxTEhjR1JEU2NNMndTNzFBbXZYcUczS1cyTDBhT29ZYnBBRFNMVDhTajBFRVNWWjJaUUcwdXYtUnRHaU1Tdjh4MXA4UXQ4anVWVHlObEVxckkxNXlnQ0g0Z3d2anZDLTdBZ1VHb0ptTnp2bXl3ZEJqYzdWYVhSQ1lQMzJBVGVwc21mUzVGLXg2cWJRak8xQVFtSkcxVw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-22-024",
+    "date": "2026-07-22",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Yang Ming and PSA to work together on decarb - Smart Maritime Network",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxNWlJ1R2pJY1lGTUgzVFlRamJTRWhVeE9fRmFVX1RSMnhya2NYRXMxanNyaUdZQmRjZURmdmdmcjBkUkpvMlh1YnJlcWR4WS1Id25jUzJKNWhIZ2d3dVRuS2FKcUVKRXlJcDlGTWpGUE",
+    "sources": [
+      {
+        "name": "yang_ming",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNWlJ1R2pJY1lGTUgzVFlRamJTRWhVeE9fRmFVX1RSMnhya2NYRXMxanNyaUdZQmRjZURmdmdmcjBkUkpvMlh1YnJlcWR4WS1Id25jUzJKNWhIZ2d3dVRuS2FKcUVKRXlJcDlGTWpGUEhER2o3Sy1Qdnoydm85eE93R3c3ZkpoZ3pjQk1QazdiWE9xREE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-22-025",
+    "date": "2026-07-22",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Yang Ming and PSA Push Beyond Ocean Shipping With Verifiable Sea and Land Carbon Insets - Breakbulk.News",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxNbEtyV1JDeHJobzZIMzlLMkp6WUhFeEp0Qi1jcnI5anE0QnJUOXJpeDFIT1ZYRlFXTlNROWNuS2ZQRG1rSFBTS3FjZ0RJcWhFRG9vNXpIR2I5ZzdJWFotd3B1SkpWNnV4elIzZG5jR1",
+    "sources": [
+      {
+        "name": "yang_ming",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNbEtyV1JDeHJobzZIMzlLMkp6WUhFeEp0Qi1jcnI5anE0QnJUOXJpeDFIT1ZYRlFXTlNROWNuS2ZQRG1rSFBTS3FjZ0RJcWhFRG9vNXpIR2I5ZzdJWFotd3B1SkpWNnV4elIzZG5jR1Q1cGNDblAybnoyNzNsZXV3Q3ZpeGh3WWE0cldCTjE1TmVKaEc3U0FkRGhhM0kzU1Z5SkZIcTZDeGxvTFJrT2pWcQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-22-026",
+    "date": "2026-07-22",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Shipping giant bets big on wind cargo growth with eight new vessels - Recharge News",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxQRXFYa1VmVGNKb2RFYmgxdG1MTFNEdjhSM1hQT3IyZmVtYlp0TkVuVVgzV250N0tFRGVpRWxXUHJ0enhlUmZLdkliNklSOXRjdWFEQm10Mm5iekI4Qm1XUnd5OHc4RXVuMWdnOTFJeW",
+    "sources": [
+      {
+        "name": "cosco",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQRXFYa1VmVGNKb2RFYmgxdG1MTFNEdjhSM1hQT3IyZmVtYlp0TkVuVVgzV250N0tFRGVpRWxXUHJ0enhlUmZLdkliNklSOXRjdWFEQm10Mm5iekI4Qm1XUnd5OHc4RXVuMWdnOTFJeWhqc0dZU0VlVnhCdUR6eHNtcXoxcTdJaUEwYU1qdmE4VG9vdXpxckVNN0pHajBudFpZSUhYXzNNTzFpbTlpQUJVdEtyT3dfeUE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "cssc-2026-07-22-027",
+    "date": "2026-07-22",
+    "companies": [
+      "cssc",
+      "cosco"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "COSCO SHIPPING Specialized Carriers Orders Eight Heavy-Lift Vessels at CSSC Chengxi Shipyard - imarinenews.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiT0FVX3lxTE0zNjRwRWZ3NzFLWGxKLVNqMGZZN29Qd0s1Uy1xNGVvZ3FGUEVBRGo4TWN5dWZhZXhNV3k1MTZlR1k1NklrNmp2QmZ3STAtZjg?oc=5\" target=\"_blank\">COSCO SHIPPING Speci",
+    "sources": [
+      {
+        "name": "cosco",
+        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE0zNjRwRWZ3NzFLWGxKLVNqMGZZN29Qd0s1Uy1xNGVvZ3FGUEVBRGo4TWN5dWZhZXhNV3k1MTZlR1k1NklrNmp2QmZ3STAtZjg?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-22-028",
+    "date": "2026-07-22",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Houthis Resume Attacks on Shipping, Claim Strikes on Two Saudi Tankers",
+    "summary": "Yemen&#8217;s Houthi movement has resumed direct attacks on commercial shipping, claiming responsibility for strikes on two Saudi oil tankers just minutes after the UK Maritime Trade Operations (UKMTO",
+    "sources": [
+      {
+        "name": "gcaptain",
+        "url": "https://gcaptain.com/houthis-resume-attacks-on-shipping-claim-strikes-on-two-saudi-tankers/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-22-029",
+    "date": "2026-07-22",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Port of Long Beach, MARAD Launch First U.S. Partnership on Nuclear-Powered Shipping",
+    "summary": "The Port of Long Beach has become the first U.S. seaport to formalize a partnership with the U.S. Maritime Administration (MARAD) aimed at advancing small modular reactor (SMR) technology for...",
+    "sources": [
+      {
+        "name": "gcaptain",
+        "url": "https://gcaptain.com/port-of-long-beach-marad-launch-first-u-s-partnership-on-nuclear-powered-shipping/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-22-030",
+    "date": "2026-07-22",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "negative",
+    "title": "U.S. Polar Security Cutter Delayed to 2033 as Costs Top $6 Billion, GAO Warns",
+    "summary": "The U.S. Coast Guard’s troubled Polar Security Cutter program faces further delays with a new government watchdog report projecting delivery of the first heavy icebreaker in March 2033, almost a decad",
+    "sources": [
+      {
+        "name": "gcaptain",
+        "url": "https://gcaptain.com/u-s-polar-security-cutter-delayed-to-2033-as-costs-top-6-billion-gao-warns/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-22-031",
+    "date": "2026-07-22",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "ABS Grants AIP for Nuclear-Powered 15,000 TEU Containership Concept",
+    "summary": "ABS has awarded Approval in Principle (AIP) for a concept design for a nuclear-powered 15,000 TEU containership developed in collaboration with the Korea Research Institute of Ships and Ocean Engineer",
+    "sources": [
+      {
+        "name": "gcaptain",
+        "url": "https://gcaptain.com/abs-grants-aip-for-nuclear-powered-15000-teu-containership-concept/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-22-032",
+    "date": "2026-07-22",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Houthi Threats Give Oil Markets a ‘Two Chokepoint Problem’",
+    "summary": "Ships continue to turn away from the southern end of the Red Sea, after Yemen’s Iran-backed Houthi rebels announced an embargo on Saudi exports through the Bab el-Mandeb Strait, a narrow channel that ",
+    "sources": [
+      {
+        "name": "gcaptain",
+        "url": "https://gcaptain.com/houthi-threats-give-oil-markets-a-two-chokepoint-problem/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-22-033",
+    "date": "2026-07-22",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Mooring Lines Inquiry: How Many is Enough?",
+    "summary": "Ports&#160;sometimes&#160;have requirements&#160;for&#160;the number of mooring ropes&#160;a vessel calling must have&#160;on board.&#160;John Southam&#160;and&#160;Vicky Dolka, of NorthStandard*, exa",
+    "sources": [
+      {
+        "name": "gcaptain",
+        "url": "https://gcaptain.com/mooring-lines-inquiry-how-many-is-enough/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-22-034",
+    "date": "2026-07-22",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "negative",
+    "title": "Trump’s New Warning to Iran: Attack a Ship in Hormuz, Lose a Bridge or Power Plant",
+    "summary": "President Donald Trump on Wednesday threatened to destroy Iranian bridges and power plants each time Tehran attacks a ship in the Strait of Hormuz, laying out a direct retaliation policy...",
+    "sources": [
+      {
+        "name": "gcaptain",
+        "url": "https://gcaptain.com/trumps-new-warning-to-iran-attack-a-ship-in-hormuz-lose-a-bridge-or-power-plant/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-22-035",
+    "date": "2026-07-22",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "EU Warns Israeli- and U.S.-Linked Ships to Avoid Red Sea Amid Houthi Saudi Embargo",
+    "summary": "The European Union&#8217;s naval mission in the Red Sea has raised its threat assessment for the North Red Sea after Yemen&#8217;s Houthi movement expanded its maritime campaign to include vessels...",
+    "sources": [
+      {
+        "name": "gcaptain",
+        "url": "https://gcaptain.com/eu-warns-israeli-and-u-s-linked-ships-to-avoid-red-sea-amid-houthi-saudi-embargo/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-22-036",
+    "date": "2026-07-22",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "EU Naval Force Boards Sanctioned Russian Shadow Fleet Tanker Over Suspected False Flag",
+    "summary": "The European Union has boarded another tanker linked to Russia’s shadow fleet as Brussels expands its use of naval forces to challenge vessels suspected of operating under false flags. Forces...",
+    "sources": [
+      {
+        "name": "gcaptain",
+        "url": "https://gcaptain.com/eu-naval-force-boards-sanctioned-russian-shadow-fleet-tanker-over-suspected-false-flag/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-22-037",
+    "date": "2026-07-22",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Middle East Shipping Threats Rise as Owners Plot Best Course",
+    "summary": "Challenges to shipping in the Middle East escalated, as a call from Iran-backed Houthi rebels against servicing Saudi ports spurred unusual maneuvers in the Red Sea, while a European Union naval group",
+    "sources": [
+      {
+        "name": "gcaptain",
+        "url": "https://gcaptain.com/middle-east-shipping-threats-rise-as-owners-plot-best-course/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-22-038",
+    "date": "2026-07-22",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "More Ships Change Course in the Red Sea After Houthi Threats, Shipping Data Shows",
+    "summary": "Four tankers changed their navigational course in the Red Sea on Wednesday with two signaling the Suez Canal as their new destination after Yemen's Houthi militia warned ships to avoid sailing to Saud",
+    "sources": [
+      {
+        "name": "gcaptain",
+        "url": "https://gcaptain.com/more-ships-change-course-in-the-red-sea-after-houthi-threats-shipping-data-shows/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-22-039",
+    "date": "2026-07-22",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Toxic Rotting Fish Nearly Killed Three Crewmembers on Australian Longliner",
+    "summary": "\n                Marine investigators in New Zealand are yet again highlighting the dangers that fishing vessel crews continue to face from toxic gas associated with r...\n            ",
+    "sources": [
+      {
+        "name": "maritime_executive",
+        "url": "https://maritime-executive.com/article/toxic-rotting-fish-nearly-killed-three-crewmembers-on-australian-longliner",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-22-040",
+    "date": "2026-07-22",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Port of Galveston’s Newest Cruise Terminal Earns LEED Silver Certification",
+    "summary": "\n                The Port of Galveston’s Cruise Terminal 16 has been recognized for meeting high standards for environmentally sustainable design, construction and ope...\n            ",
+    "sources": [
+      {
+        "name": "maritime_executive",
+        "url": "https://maritime-executive.com/article/port-of-galveston-s-newest-cruise-terminal-earns-leed-silver-certification",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-22-041",
+    "date": "2026-07-22",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Mixed Messages for Maritime in the Refreshed UK Government",
+    "summary": "\n                There are mixed messages for the maritime community in the appointment of ministers to the government of the UK’s latest Prime Minister Andy Burnham.P...\n            ",
+    "sources": [
+      {
+        "name": "maritime_executive",
+        "url": "https://maritime-executive.com/article/mixed-messages-for-maritime-in-the-refreshed-uk-government",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-22-042",
+    "date": "2026-07-22",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Stricken Greek Product Tanker Appears to Be in Iranian Custody",
+    "summary": "\n                A Greek-operated product tanker that was hit by an Iranian strike last weekend appears to have been towed to the north side of the strait, where it is...\n            ",
+    "sources": [
+      {
+        "name": "maritime_executive",
+        "url": "https://maritime-executive.com/article/stricken-greek-product-tanker-appears-to-be-in-iranian-custody",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-22-043",
+    "date": "2026-07-22",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "One Seafarer Missing After LNG Barge Rocked by Explosion in Chinese Port",
+    "summary": "\n                  Chinese officials are confirming a small feeder ship used to transfer containers on the Yangtze River was rocked by an explosion early on Wednesday...\n            ",
+    "sources": [
+      {
+        "name": "maritime_executive",
+        "url": "https://maritime-executive.com/article/one-seafarer-missing-after-lng-barge-rocked-by-explosion-in-chinese-port",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-22-044",
+    "date": "2026-07-22",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Dubai and DP World Confirm Plans to Expand Fujairah Port to Bypass Hormuz",
+    "summary": "\n                DP World, the government-controlled ports and logistics giant, confirmed it is pushing forward with a plan to build a new port for Dubai that will byp...\n            ",
+    "sources": [
+      {
+        "name": "maritime_executive",
+        "url": "https://maritime-executive.com/article/dubai-and-dp-world-confirm-plans-to-expand-fujairah-port-to-bypass-hormuz",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-22-045",
+    "date": "2026-07-22",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Video: Houthi Forces Claim Strikes on Two Saudi Tankers",
+    "summary": "\n                Yemen's Houthi rebel forces claim to have attacked two Saudi oil tankers in the Red Sea, the first time that the group has launched a strike in connec...\n            ",
+    "sources": [
+      {
+        "name": "maritime_executive",
+        "url": "https://maritime-executive.com/article/video-houthi-forces-claim-strikes-on-two-saudi-tankers",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-22-046",
+    "date": "2026-07-22",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Laker Grounded in Ontario Becomes Local Tourist Attraction",
+    "summary": "\n                While it can happen a few times a year along the busy shipping lanes of the Great Lakes and the St. Lawrence, every time one of the big ships goes agr...\n            ",
+    "sources": [
+      {
+        "name": "maritime_executive",
+        "url": "https://maritime-executive.com/article/laker-grounded-in-ontario-becomes-local-tourist-attraction",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-22-047",
+    "date": "2026-07-22",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "UK Convicts 11 Members of Drug Gang in Bumbled Smuggling Effort",
+    "summary": "\n                The UK’s National Crime Agency is reporting the details of a bumbled smuggling effort that nearly saw the gang lose the drugs before they could ever g...\n            ",
+    "sources": [
+      {
+        "name": "maritime_executive",
+        "url": "https://maritime-executive.com/article/uk-convicts-11-members-of-drug-gang-in-bumbled-smuggling-effort",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "maersk-2026-07-22-048",
+    "date": "2026-07-22",
+    "companies": [
+      "maersk"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Maersk Suspends Chornomorsk Service as Ukraine and Russia Increase Attacks",
+    "summary": "\n                With both Russia and Ukraine intensifying attacks on the region’s ports and commercial shipping, Maersk on July 22 announced it was temporarily suspen...\n            ",
+    "sources": [
+      {
+        "name": "maritime_executive",
+        "url": "https://maritime-executive.com/article/maersk-suspends-chornomorsk-service-as-ukraine-and-russia-increase-attacks",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-22-049",
+    "date": "2026-07-22",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "An Imperative Case for eLoran",
+    "summary": "\n                Imagine a liquefied natural gas (LNG) or an oil tanker transiting some of the world's most strategically important waterways while relying on civil Gl...\n            ",
+    "sources": [
+      {
+        "name": "maritime_executive",
+        "url": "https://maritime-executive.com/article/an-imperative-case-for-eloran",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-22-050",
+    "date": "2026-07-22",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Laborde Products Repowers M/V Miss Sophia Claire With Mitsubishi Power",
+    "summary": "\n                Laborde Products has completed the repower of the M/V Miss Sophia Claire, owned by LAD Services of Louisiana, at the company’s shipyard in Morgan City...\n            ",
+    "sources": [
+      {
+        "name": "maritime_executive",
+        "url": "https://maritime-executive.com/article/laborde-products-repowers-m-v-miss-sophia-claire-with-mitsubishi-power",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-22-051",
+    "date": "2026-07-22",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "South Korea Confirms Detaining Vessel Smuggling for North Korea",
+    "summary": "\n                South Korea’s Ministry of Foreign Affairs confirmed to the media on Wednesday, July 22, that it has been detaining a small bulk cargo vessel on charge...\n            ",
+    "sources": [
+      {
+        "name": "maritime_executive",
+        "url": "https://maritime-executive.com/article/south-korea-confirms-detaining-vessel-smuggling-for-north-korea",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-22-052",
+    "date": "2026-07-22",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "EU Inspects Sanctioned Tanker as It Increases Pressure on Shadow Fleet",
+    "summary": "\n                The European Union is taking further steps to increase pressure on the shadow fleet targeting vessels it believes are operating under a false flag, bu...\n            ",
+    "sources": [
+      {
+        "name": "maritime_executive",
+        "url": "https://maritime-executive.com/article/eu-inspects-sanctioned-tanker-as-it-increases-pressure-on-shadow-fleet",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-22-053",
+    "date": "2026-07-22",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "More Ships U-Turn to Avoid Houthi Threats",
+    "summary": "\n                Further to vessels suspected of having reversed course on July 21 to avoid potential Houthi hostile action, more ships have been identified doing so o...\n            ",
+    "sources": [
+      {
+        "name": "maritime_executive",
+        "url": "https://maritime-executive.com/article/more-ships-u-turn-to-avoid-houthi-threats",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-22-054",
+    "date": "2026-07-22",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Strong demand and constrained capacity are reshaping container shipping - Metro Global",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxNbDBMUDI0aWtDdXVBeVA5ZUV0U3l4ZkZsMEdCNHhUc3hkeDdkRlJlQmQ5V0lPVFRCS1VZQmMxbVpMR0twS0tTQjVFZC1UX0Y5dkJaZS02Y2NXYldfNHdfcDE1OV9RYWtkVGNSNUoydU",
+    "sources": [
+      {
+        "name": "google_container_shipping",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNbDBMUDI0aWtDdXVBeVA5ZUV0U3l4ZkZsMEdCNHhUc3hkeDdkRlJlQmQ5V0lPVFRCS1VZQmMxbVpMR0twS0tTQjVFZC1UX0Y5dkJaZS02Y2NXYldfNHdfcDE1OV9RYWtkVGNSNUoydUpiS2tKS0xPT1RUclZZTHZSZVBfRnBMRlNUZEtwZEJPdDB6V29ySGgwdUVoYVRfVmk0ZWxLcDA2TQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-22-055",
+    "date": "2026-07-22",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "DP World to develop new UAE terminals outside Hormuz",
+    "summary": "<p>DP World confirmed today that it had reached an agreement with Fujairah Ports Authority to build two new terminals on the UAE’s east coast – and outside the Hormuz Strait – under a 50-year concessi",
+    "sources": [
+      {
+        "name": "loadstar",
+        "url": "https://theloadstar.com/dp-world-signs-50-year-concession-to-develop-new-uae-terminal-outside-hormuz/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-22-056",
+    "date": "2026-07-22",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Expansion-focused GTOs boost market share – but M&A rules get tougher",
+    "summary": "<p>The world’s largest port operators increased their market share last year – container volumes growing at almost double the global growth rate.<br />\nAccording to Drewry&#8217;s new Global Container",
+    "sources": [
+      {
+        "name": "loadstar",
+        "url": "https://theloadstar.com/expansion-focused-gtos-boost-market-share-but-ma-rules-get-tougher/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-22-057",
+    "date": "2026-07-22",
+    "companies": [],
+    "topics": [
+      "container_freight",
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Q4 will be ‘a turning point’, says Yang Ming chief – depending on the US",
+    "summary": "<p>Although transpacific freight rates have dipped, cargo volumes remain high, according to Yang Ming chairman Tsai Feng-ming.<br />\nAt a Maritime Day event on Monday, Dr Tsai added that he believed t",
+    "sources": [
+      {
+        "name": "loadstar",
+        "url": "https://theloadstar.com/q4-will-be-a-turning-point-says-yang-ming-chief-depending-on-the-us/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-22-058",
+    "date": "2026-07-22",
+    "companies": [],
+    "topics": [
+      "container_freight",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Carriers roll out hefty surcharges as demand rises in ‘hot’ Indian markets",
+    "summary": "<p>Container lines serving Indian trades are taking advantage of massive capacity demand from local exporters.<br />\nAccording to industry updates, container freight rates from India to the US and Eur",
+    "sources": [
+      {
+        "name": "loadstar",
+        "url": "https://theloadstar.com/carriers-roll-out-hefty-surcharges-as-demand-rises-in-hot-indian-markets/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-22-059",
+    "date": "2026-07-22",
+    "companies": [],
+    "topics": [
+      "container_freight",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Spot rates: the Fortnight Brace principle holds – for now",
+    "summary": "<p>Looking backwards, Drewry’s World Container Index (WCI) returned to the recently observed Fortnight Brace trend in week 29 (to 19 July).<br />\nAs a reminder<br />\nDuring this year’s peak season, on",
+    "sources": [
+      {
+        "name": "loadstar",
+        "url": "https://theloadstar.com/spot-rates-the-fortnight-brace-principle-holds-for-now/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-22-060",
+    "date": "2026-07-22",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "India unveils ambitious plan to become a leading global shipbuilder",
+    "summary": "<p>India is aiming to transform itself into one of the world&#8217;s leading shipbuilding nations with an ambitious long-term strategy that combines state funding, industrial policy, and international",
+    "sources": [
+      {
+        "name": "loadstar",
+        "url": "https://theloadstar.com/india-unveils-ambitious-plan-to-become-a-leading-global-shipbuilder/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-22-061",
+    "date": "2026-07-22",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Abu Dhabi bets on gas growth despite Hormuz blockade",
+    "summary": "The $6.2bn Umm Shaif development will add over 600m scfd as Gulf producers face damaged infrastructure and curtailed LNG shipping.",
+    "sources": [
+      {
+        "name": "seatrade_maritime",
+        "url": "https://www.seatrade-maritime.com/lng/abu-dhabi-bets-on-gas-growth-despite-hormuz-blockade",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-22-062",
+    "date": "2026-07-22",
+    "companies": [],
+    "topics": [
+      "container_freight",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Seafarers cannot remain the shock absorbers of geopolitical risk",
+    "summary": "Ship’s crew often feel forgotten in public discussions around freight rates, insurance premiums and disruption to trade",
+    "sources": [
+      {
+        "name": "seatrade_maritime",
+        "url": "https://www.seatrade-maritime.com/crewing/seafarers-cannot-remain-the-shock-absorbers-of-geopolitical-risk",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-22-063",
+    "date": "2026-07-22",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Ukraine and Russia strike multiple ships in the Black Sea",
+    "summary": "Vessel routes are now hugging coastal areas in an effort to avoid drone attacks, Russian ships to the east and Ukrainian vessels to the west as the war on trade continues",
+    "sources": [
+      {
+        "name": "seatrade_maritime",
+        "url": "https://www.seatrade-maritime.com/security/ukraine-and-russia-strike-multiple-in-the-black-sea",
         "type": "rss"
       }
     ]
@@ -1622,6 +2869,99 @@
       {
         "name": "seatrade_maritime",
         "url": "https://www.seatrade-maritime.com/tankers/crew-abandon-burning-lpg-tanker-in-black-sea",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "samsung_heavy-2026-07-21-069",
+    "date": "2026-07-21",
+    "companies": [
+      "samsung_heavy"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "GTT receives an order from Samsung Heavy Industries for the tank design of one new LNG Carrier - imarinenews.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiT0FVX3lxTE5TLUczalhiSmwwOHZKMGtwQXc2TlRDZkZJLW9ZMlp4VW1UdWlqRWh0RzRiU1A2b3pEOE1TTzVYN0F3VU9HbkVHc3pIcUVpWDQ?oc=5\" target=\"_blank\">GTT receives an orde",
+    "sources": [
+      {
+        "name": "samsung_heavy",
+        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5TLUczalhiSmwwOHZKMGtwQXc2TlRDZkZJLW9ZMlp4VW1UdWlqRWh0RzRiU1A2b3pEOE1TTzVYN0F3VU9HbkVHc3pIcUVpWDQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-21-070",
+    "date": "2026-07-21",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "China sets records with new self-unloading vessel - China Daily - Global Edition",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxOdFFwZzN5YVR0NVJkandfNjhfUWljcFZZXzVPSTRwZG45bDFjMFBkMTlsaDBmTUtmY1V6S216eUlPbnBNaW1pdHU1dTRfOGtQWGlQaThnLUNnLVlHcEJHaHdlZXY5aWRQVUZOV0NNbz",
+    "sources": [
+      {
+        "name": "cssc",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOdFFwZzN5YVR0NVJkandfNjhfUWljcFZZXzVPSTRwZG45bDFjMFBkMTlsaDBmTUtmY1V6S216eUlPbnBNaW1pdHU1dTRfOGtQWGlQaThnLUNnLVlHcEJHaHdlZXY5aWRQVUZOV0NNbzZIeXJERGkzVGFwWUR5TkFFdA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-21-071",
+    "date": "2026-07-21",
+    "companies": [],
+    "topics": [
+      "container_freight",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Houthi Blockade of Saudi Shipping Begins to Bite - The Maritime Executive",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxQaDQ1SEZfQm9DVmxYVHJLclNEOTBCazdDclFBRWE2WTRQSzFGbjVTWW15NlVFM2ZKUjQ0SUlDUDBsc2pEWmpjYVNqRHkxZ2YyUG9pT1hDMDAzNFpvelFTRW14aVNEd1YxR3ZIblpyRV",
+    "sources": [
+      {
+        "name": "cosco",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQaDQ1SEZfQm9DVmxYVHJLclNEOTBCazdDclFBRWE2WTRQSzFGbjVTWW15NlVFM2ZKUjQ0SUlDUDBsc2pEWmpjYVNqRHkxZ2YyUG9pT1hDMDAzNFpvelFTRW14aVNEd1YxR3ZIblpyRVBGVjB3TmdaaXlJZTVfRnFKZ0tia1ZVaW03c0tfbXJ5b00?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-21-072",
+    "date": "2026-07-21",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "negative",
+    "title": "Three tankers carrying Saudi crude make U-turns in Red Sea after Houthi warning - Reuters",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxPVmdHTWJMUUNZTWRSakluQzVLdlpKd2dSQWpoYXhaRVl0OTQyYy1oeldnaWRmMXpkSy1OVjFSXzZHbWdzQmtCLVljcnZST3laUk50aThFel81QnZNS3I1TU10MzItWG1CdW1lMENtaW",
+    "sources": [
+      {
+        "name": "cosco",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPVmdHTWJMUUNZTWRSakluQzVLdlpKd2dSQWpoYXhaRVl0OTQyYy1oeldnaWRmMXpkSy1OVjFSXzZHbWdzQmtCLVljcnZST3laUk50aThFel81QnZNS3I1TU10MzItWG1CdW1lMENtaWtMS3QwenREbEN2a1l0Ukh5TDNDazl6R0ppQVNQeUljSFJnUncwU1hnS09yZ21ydVR4WDNEZE1ObEUwcmVuazdOYWs3T2NNekdPVTVWcF9qdkkzUGR2SEo0?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-21-073",
+    "date": "2026-07-21",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "3 Shipping Stocks Retail Investors Are Watching After Strait Of Hormuz Risks - Sahm",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxPQ21tdC1EQUpQVml3VzFwdC1HRnJmMVJfRWR0ekxFcjZ6UDkwTTlLaGppZTVVb1Q1TktqRi1UdUJvTkdBMWhtQ29vaTQ1eUMtakczSFZvcEpLdkhLZlVHQkl4V2RWMWVoT3ZyMmJsRU",
+    "sources": [
+      {
+        "name": "star_bulk",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPQ21tdC1EQUpQVml3VzFwdC1HRnJmMVJfRWR0ekxFcjZ6UDkwTTlLaGppZTVVb1Q1TktqRi1UdUJvTkdBMWhtQ29vaTQ1eUMtakczSFZvcEpLdkhLZlVHQkl4V2RWMWVoT3ZyMmJsRUZucjNDc0dYeEV0Y3RMbXdOclJlbHAwVXlfSGdPNUF6eFB2NUhFbF96M3dNbTIzSkpzS0hUNDZnQXRtNEVKZkpRY1NQYkxOenZ0QktTbUp5ekxNdGx5aEww?oc=5",
         "type": "rss"
       }
     ]
