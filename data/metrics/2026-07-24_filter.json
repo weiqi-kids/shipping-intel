@@ -1,0 +1,16 @@
+{
+  "total_raw": 349,
+  "dup_title": 115,
+  "no_date": 0,
+  "too_old": 84,
+  "gate1_fail": 21,
+  "gate2_fail": 9,
+  "passed": 120,
+  "gate2_samples": [
+    "Samsung Heavy Industries partners with U.S. firm on floating nuclear reactors - safety4sea",
+    "Samsung Heavy Industries Posts Q2 Sales of 3.2 Trillion Won, Up 20% Year-on-Year - 아시아경제",
+    "Samsung Heavy Industries Partners with S&L to Develop FSMR Techn - GuruFocus",
+    "Hanwha Ocean has started construction on the Shinan Ui Offshore wind project. - 4C Offshore",
+    "Hanwha Ocean Publicly Acknowledges Canadian Submarine Bid Loss - 조선일보"
+  ]
+}

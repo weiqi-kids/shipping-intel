@@ -1,0 +1,239 @@
+{
+  "date": "2026-07-24",
+  "generated_at": "2026-07-24T10:24:20.150295Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-07-24-040",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Splash Wrap: Triple-pronged war threat",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://splash247.com/splash-wrap-triple-pronged-war-threat/"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-07-24-043",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "China smashes ship orders record in first half",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "shipbuilding_orders",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://splash247.com/china-smashes-ship-order-record-in-first-half/"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-07-24-045",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Korean yards roll out US projects as Lutnick demands ships, not MOUs",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://splash247.com/korean-yards-roll-out-us-projects-as-lutnick-demands-ships-not-mous/"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-07-24-046",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Container Spot Rates Extend Decline as Global Shipping Demand Softens - Global Trade Magazine",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "container_freight",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPdGRnSHVKMXN6dTFMRjhuWVJneUdEUnZVa0NldXUxQS02aXBiczdVRm4wTkhnVFBickl2SUpuczBkYks0UDEwMHBEcmRuREtCSmJrTWRVSkxMeHptNWo2X1M2MVhmTUhYN3hqVkpybVBtVmRMbFlfVld0SThSVklfNHFuZzR0MFUydWt2OE0wSFFnSXNyUXVIX2ROVEtveFJJbm8zUHJNWU11Y3dWQXIxY20wTjhHQQ?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-07-24-051",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Newbuilding orders at Chinese shipyards surge 173% in H1",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "shipbuilding_orders",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://www.seatrade-maritime.com/shipyards/newbuilding-orders-at-chinese-shipyards-surge-173-in-h1"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 54,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.15,
+      "sentiment_7d_avg": null
+    },
+    "container_freight": {
+      "today": 4,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.25,
+      "sentiment_7d_avg": null
+    },
+    "shipbuilding_orders": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.67,
+      "sentiment_7d_avg": null
+    },
+    "dry_bulk_rate": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 55,
+    "sentiment_distribution": {
+      "positive": 14,
+      "neutral": 39,
+      "negative": 2
+    },
+    "top_companies": [
+      {
+        "id": "hanwha_ocean",
+        "count": 7
+      },
+      {
+        "id": "hd_korea",
+        "count": 6
+      },
+      {
+        "id": "samsung_heavy",
+        "count": 4
+      },
+      {
+        "id": "wisdom",
+        "count": 2
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 54
+      },
+      {
+        "id": "container_freight",
+        "count": 4
+      },
+      {
+        "id": "shipbuilding_orders",
+        "count": 3
+      },
+      {
+        "id": "dry_bulk_rate",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 349,
+    "dup_title": 115,
+    "too_old": 84,
+    "gate1_blocked": 21,
+    "gate2_blocked": 9,
+    "passed": 120,
+    "pass_rate": "51.3%",
+    "gate2_block_rate": "3.8%",
+    "gate2_samples": [
+      "Samsung Heavy Industries partners with U.S. firm on floating nuclear reactors - safety4sea",
+      "Samsung Heavy Industries Posts Q2 Sales of 3.2 Trillion Won, Up 20% Year-on-Year - 아시아경제",
+      "Samsung Heavy Industries Partners with S&L to Develop FSMR Techn - GuruFocus",
+      "Hanwha Ocean has started construction on the Shinan Ui Offshore wind project. - 4C Offshore",
+      "Hanwha Ocean Publicly Acknowledges Canadian Submarine Bid Loss - 조선일보"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 55 則事件，焦點為韓華海洋、韓國造船海洋、三星重工相關動態：「Splash Wrap: Triple-pronged war threat」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Splash Wrap: Triple-pronged war threat（航運產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "China smashes ship orders record in first half（造船訂單、航運產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
