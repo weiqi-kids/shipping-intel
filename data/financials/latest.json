@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-24T10:24:16.591288Z",
+  "updated_at": "2026-07-25T09:54:04.402623Z",
   "quarter": "2025-12-31, 2026-03-31",
   "companies": [
     {
@@ -177,17 +177,17 @@
       "name": "萬海航運",
       "ticker": "2615.TW",
       "currency": "TWD",
-      "ar": 3127848000,
-      "ar_prev": 3028505000,
-      "ar_qoq": "+3%",
+      "ar": 3448717000,
+      "ar_prev": 3127848000,
+      "ar_qoq": "+10%",
       "ar_period": "QoQ",
-      "inventory": 3543099000,
-      "inv_prev": 3503328000,
-      "inv_qoq": "+1%",
+      "inventory": 4935986000,
+      "inv_prev": 3543099000,
+      "inv_qoq": "+39%",
       "inv_period": "QoQ",
       "inventory_applicable": true,
-      "alert": false,
-      "quarter_date": "2025-12-31"
+      "alert": true,
+      "quarter_date": "2026-03-31"
     },
     {
       "id": "wisdom",

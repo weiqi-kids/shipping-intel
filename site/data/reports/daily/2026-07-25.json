@@ -1,0 +1,87 @@
+{
+  "date": "2026-07-25",
+  "generated_at": "2026-07-25T09:54:07.348053Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-07-25-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Autonomous manufacturing system that connects entire shipbuilding process set to be developed - Interesting Engineering",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNd2tSR2dyTXhYS3lhSmN2VTNjblVEdVlvekw4aTYxWlBXSGxxNms5Y2pTeUdvdmRTeWJ6QUpYbkM1UGpXSWx6Njh6WHRqVkxGMXhWeHV3Ym5nal93NnRnMDYzOTZRTHFFMFFCcU5iU0NuczRBVm40STdSampYU0lROUJrcEJfQ2NfeVRzMTlxRnZESU85MHBhWXhqRUctWGFWdlhB?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 1,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 1,
+      "negative": 0
+    },
+    "top_companies": [],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 350,
+    "dup_title": 162,
+    "too_old": 87,
+    "gate1_blocked": 15,
+    "gate2_blocked": 9,
+    "passed": 77,
+    "pass_rate": "41.0%",
+    "gate2_block_rate": "4.8%",
+    "gate2_samples": [
+      "Saronic and Samsung Heavy Industries Team Up - Tectonic Defense",
+      "Samsung Heavy Industries partners with U.S. firm on floating nuclear reactors - safety4sea",
+      "Samsung Heavy Industries Partners with S&L to Develop FSMR Techn - GuruFocus",
+      "Hanwha Ocean has started construction on the Shinan Ui Offshore wind project. - 4C Offshore",
+      "Hanwha Ocean Publicly Acknowledges Canadian Submarine Bid Loss - 조선일보"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 1 則事件，焦點為航運產業通用相關動態：「Autonomous manufacturing system that connects entire ship...」。主要關注主題為航運產業通用，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Autonomous manufacturing system that connects entire shipbuilding process set...（航運產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "建議持續監控後續發展動態。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
