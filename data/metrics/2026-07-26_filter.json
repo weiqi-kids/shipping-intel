@@ -1,0 +1,16 @@
+{
+  "total_raw": 352,
+  "dup_title": 215,
+  "no_date": 0,
+  "too_old": 87,
+  "gate1_fail": 14,
+  "gate2_fail": 11,
+  "passed": 25,
+  "gate2_samples": [
+    "Saronic and Samsung Heavy Industries Team Up - Tectonic Defense",
+    "Samsung Heavy Industries partners with U.S. firm on floating nuclear reactors - safety4sea",
+    "Samsung Heavy Industries 2Q Net KRW222.80B Vs. Net KRW212.40B >010140.SE - Moomoo",
+    "Hanwha Ocean Wins Global Certifications for Latin America FPSO Standard Model - Seoul Economic Daily",
+    "Hanwha Ocean has started construction on the Shinan Ui Offshore wind project. - 4C Offshore"
+  ]
+}
