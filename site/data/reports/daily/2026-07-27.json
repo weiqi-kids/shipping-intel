@@ -1,0 +1,217 @@
+{
+  "date": "2026-07-27",
+  "generated_at": "2026-07-27T11:30:06.725007Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-07-27-020",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "War sends Asia-US ocean rates soaring 234% since February",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "container_freight",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://www.freightwaves.com/news/war-sends-asia-us-ocean-rates-soaring-234-since-february"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-07-27-035",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Top maritime news stories for week ended 25 July",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://www.seatrade-maritime.com/security/top-maritime-news-stories-for-week-ended-25-july"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-07-27-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "ABS Consulting Signs Agreement with HD KSOE to Support Software-Defined Vessel Platform Development - imarinenews.com",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFA0Rm5zVWE3Y29qQ2QwSE8zMUxGaXY4bjNKb3ZyeEhaNUx2T1lkTi1rajYzRzB4YXdaV1ZsZlludjlXNkJoOGRQajZtSmNJdzQ?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "samsung_heavy-2026-07-27-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Saronic Brings in Samsung Heavy Industries as its Korean Industrial Partner - The Maritime Executive",
+      "companies": [
+        "samsung_heavy"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNMmhrWWxnc25WX0lyZERLdTFBRmtRazRGYUtBNW9GcUZoNmlFdnRaZXFudjl4eW1mNTY5eUNfcDJuZjFYc2ZkZzRSM1RyaDQtQ3VrQzFXME5nSmN1MW5naUJRVnNLWElVRV9vLUF2ZGpnUkhlczhvMFR4Uk1PNVBscjUxMGFGTGk1clZfLXhndklILTQtSkdQZkMxbERwekxnWl9IZW5XenBYQkZpckNxaURfSVM?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "samsung_heavy-2026-07-27-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Saronic and Samsung Heavy Industries Join Forces for U.S. Shipbuilding Automation - News and Statistics - IndexBox",
+      "companies": [
+        "samsung_heavy"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOeGNKZmpKOEdsaUpjTlVIME9uUzItX1hsZ1JidkVud1pxMkNFMFFiZDVVVkJXblBFcVdQdnRkSEMyWjA3OVUzcUVSQVZQUy12ckxoelZhTVpTSkZqWDVRNGJLUHY3cDM4bHc0ODB0Z1VJdFpvVWdUNHJNclgtZGlzM2pOakJlWVo5cE9Bb19oSm9QU3B1LXJJNVRJNlhGYkRxT2hNSl8yZG9BckNhMkE?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 31,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.01,
+      "sentiment_7d_avg": null
+    },
+    "container_freight": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -1.0,
+      "sentiment_7d_avg": null
+    },
+    "shipbuilding_orders": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 36,
+    "sentiment_distribution": {
+      "positive": 5,
+      "neutral": 26,
+      "negative": 5
+    },
+    "top_companies": [
+      {
+        "id": "hanwha_ocean",
+        "count": 11
+      },
+      {
+        "id": "samsung_heavy",
+        "count": 4
+      },
+      {
+        "id": "cosco",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 31
+      },
+      {
+        "id": "container_freight",
+        "count": 1
+      },
+      {
+        "id": "shipbuilding_orders",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 352,
+    "dup_title": 184,
+    "too_old": 87,
+    "gate1_blocked": 13,
+    "gate2_blocked": 7,
+    "passed": 61,
+    "pass_rate": "36.3%",
+    "gate2_block_rate": "4.2%",
+    "gate2_samples": [
+      "Saronic and Samsung Heavy Industries Team Up - Tectonic Defense",
+      "Samsung Heavy Industries partners with U.S. firm on floating nuclear reactors - safety4sea",
+      "Samsung Heavy Industries 2Q Net KRW222.80B Vs. Net KRW212.40B >010140.SE - Moomoo",
+      "Hanwha Ocean's Q2 Net Attributable Income Jumps 367%, Sales Up 65% - marketscreener.com",
+      "Cosco vehicle carrier makes U-turn after Houthi warning as Saudi embargo bites - Lloyd's List"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 36 則事件，焦點為韓華海洋、三星重工、中遠海控相關動態：「War sends Asia-US ocean rates soaring 234% since February」。主要關注主題為航運產業通用、貨櫃運價、造船訂單，市場情緒中性。",
+    "signals": [
+      {
+        "text": "War sends Asia-US ocean rates soaring 234% since February（貨櫃運價、航運產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "Top maritime news stories for week ended 25 July（航運產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

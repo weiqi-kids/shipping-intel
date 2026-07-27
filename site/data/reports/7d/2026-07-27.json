@@ -1,0 +1,146 @@
+{
+  "date": "2026-07-27",
+  "date_range": {
+    "start": "2026-07-21",
+    "end": "2026-07-27"
+  },
+  "generated_at": "2026-07-27T11:30:06.869540Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "cssc-2026-07-22-027",
+      "date": "2026-07-22",
+      "title": "COSCO SHIPPING Specialized Carriers Orders Eight Heavy-Lift Vessels at CSSC Chengxi Shipyard - imarinenews.com",
+      "importance_score": 0.7
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "industry_general": {
+      "this_week": 160,
+      "last_week": 110,
+      "week_over_week_change": "+45%",
+      "sentiment_this_week": 0.07
+    },
+    "shipbuilding_orders": {
+      "this_week": 6,
+      "last_week": 6,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.42
+    },
+    "dry_bulk_rate": {
+      "this_week": 2,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    },
+    "container_freight": {
+      "this_week": 8,
+      "last_week": 7,
+      "week_over_week_change": "+14%",
+      "sentiment_this_week": -0.25
+    }
+  },
+  "company_7d_summary": {
+    "hanwha_ocean": {
+      "event_count": 25,
+      "sentiment_avg": 0.12,
+      "rank": 1
+    },
+    "cssc": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 6
+    },
+    "hd_korea": {
+      "event_count": 7,
+      "sentiment_avg": 0.0,
+      "rank": 4
+    },
+    "cosco": {
+      "event_count": 10,
+      "sentiment_avg": 0.05,
+      "rank": 2
+    },
+    "star_bulk": {
+      "event_count": 3,
+      "sentiment_avg": 0.0,
+      "rank": 5
+    },
+    "samsung_heavy": {
+      "event_count": 8,
+      "sentiment_avg": 0.25,
+      "rank": 3
+    },
+    "wisdom": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 7
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 443,
+        "last": 376,
+        "change_pct": 17.8
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-07-21",
+      "event_count": 76,
+      "sentiment_avg": 0.08
+    },
+    {
+      "date": "2026-07-22",
+      "event_count": 70,
+      "sentiment_avg": 0.07
+    },
+    {
+      "date": "2026-07-23",
+      "event_count": 87,
+      "sentiment_avg": 0.08
+    },
+    {
+      "date": "2026-07-24",
+      "event_count": 132,
+      "sentiment_avg": 0.08
+    },
+    {
+      "date": "2026-07-25",
+      "event_count": 13,
+      "sentiment_avg": 0.12
+    },
+    {
+      "date": "2026-07-26",
+      "event_count": 29,
+      "sentiment_avg": 0.01
+    },
+    {
+      "date": "2026-07-27",
+      "event_count": 36,
+      "sentiment_avg": 0.01
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-07-21 ~ 2026-07-27）共 443 則事件，重點為「COSCO SHIPPING Specialized Carriers Orders Eigh...」。三星重工表現正面，整體氣氛穩健。",
+    "watchlist": [
+      {
+        "company": "韓華海洋",
+        "reason": "本週出現 25 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "韓國造船海洋",
+        "reason": "本週出現 7 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "中遠海控",
+        "reason": "本週出現 10 則相關事件，為高關注企業，動態頻繁。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

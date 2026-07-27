@@ -1,0 +1,16 @@
+{
+  "total_raw": 352,
+  "dup_title": 184,
+  "no_date": 0,
+  "too_old": 87,
+  "gate1_fail": 13,
+  "gate2_fail": 7,
+  "passed": 61,
+  "gate2_samples": [
+    "Saronic and Samsung Heavy Industries Team Up - Tectonic Defense",
+    "Samsung Heavy Industries partners with U.S. firm on floating nuclear reactors - safety4sea",
+    "Samsung Heavy Industries 2Q Net KRW222.80B Vs. Net KRW212.40B >010140.SE - Moomoo",
+    "Hanwha Ocean's Q2 Net Attributable Income Jumps 367%, Sales Up 65% - marketscreener.com",
+    "Cosco vehicle carrier makes U-turn after Houthi warning as Saudi embargo bites - Lloyd's List"
+  ]
+}
