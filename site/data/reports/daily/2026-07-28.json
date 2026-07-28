@@ -1,0 +1,204 @@
+{
+  "date": "2026-07-28",
+  "generated_at": "2026-07-28T10:40:36.683107Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-07-28-015",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "The small test that can prevent a nickel ore tragedy",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://splash247.com/the-small-test-that-can-prevent-a-nickel-ore-tragedy/"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-07-28-026",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "World’s largest iron ore port handles record annual volumes",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://www.seatrade-maritime.com/ports-logistics/world-s-largest-iron-ore-port-handles-record-annual-volumes"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-07-28-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Siemens and HD Hyundai sign multi-million dollar AI-shipbuilding deal - Vietnam Investment Review - VIR",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPWmJWQ1ZwbnNVS2ItWGUzX19sdDRFdkZWdFpKV29FUlNtMFZNbF9XN3pFUWxfM1RmanFIaUtuNzhIbEFwNjNfUVE0bm5yMHdTUnNhMlJDWC16d1A2YUtXVkpGckpSUlBCcGtCbk1hSG5MTVpReDdScklLWXo5dHdQYWpRUklmYmFpM19UdFc4RDZNOEp0MloxNFZiVjBSNU5TTlE?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "hd_korea-2026-07-28-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "HD Korea Shipbuilding & Offshore Engineering Advances AI Shipyard - Shipping Telegraph",
+      "companies": [
+        "hd_korea"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQWlZBd3RlZGRLVThoMmNEekRzajNQdEZYNDAwU0x2UUc4YV9NRDJvVDZaUnFhMDQwNms4V1QzWmMyWF9iR0N2aTdkam80R1poSzBWSm5oSlNuVlVYanVvV0xTT1dDTTEwNGRRM0hoVmNuenFGMmFnN3hBbzBsaVB0aEwwOXltdmpZYXNHN2t5d1hFdjA3dS03SVB0d3FLTVBGTGpCY2NEQXpuV19E?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-07-28-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Hyundai Movex leads Korea–US push on autonomous shipyard transport - CHOSUNBIZ - Chosunbiz",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPNmlxNURIcFQxSEpPOE1BY3VMVjVkU3RaNXhmTjdHSDV0UzUxU09ZWjJMdnBnWWtISzNyVEtWMTlXQWN6U3NCaXE4eVFGeWVSYWtXU0lkSndNdnlXcE1FdHR6ekExbTBHTkdveGtQXzVha3FaQmlIS0NLeGtmbVZoZWpn0gGWAUFVX3lxTE9EZE10WWpRS1VUNWJSXzd2ZEQ0SUlCaDdWVmg2MTRZMjhqT3dfZlJVN0MtWHlFX0dtTVE5Mk1yZlZTR1dYcThNM3NDNHk5dERWV1I2akMyWHRuaUpHS19EMEhXVjZUMWpUWjZoTV81UTZ2dnl2a0N6X3BTdXlNdTM1ZlgtUF9HNV9aVGlLOFo4UmR5UHhHUQ?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 25,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "shipbuilding_orders": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 26,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 24,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "samsung_heavy",
+        "count": 3
+      },
+      {
+        "id": "hanwha_ocean",
+        "count": 2
+      },
+      {
+        "id": "hd_korea",
+        "count": 1
+      },
+      {
+        "id": "cssc",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 25
+      },
+      {
+        "id": "shipbuilding_orders",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 351,
+    "dup_title": 158,
+    "too_old": 90,
+    "gate1_blocked": 17,
+    "gate2_blocked": 10,
+    "passed": 76,
+    "pass_rate": "39.4%",
+    "gate2_block_rate": "5.2%",
+    "gate2_samples": [
+      "Saronic and Samsung Heavy Industries Team Up - Tectonic Defense",
+      "Samsung Heavy Industries Stock And 2 Emerging Market Industrial Picks To Watch - simplywall.st",
+      "Hanwha Ocean, Samsung Heavy Diverge on Currency Hedging - Seoul Economic Daily",
+      "Hanwha Ocean 2Q Net KRW692.60B Vs. Net KRW148.50B >042660.SE - Moomoo",
+      "SK Securities backs Hanwha Ocean after Q2 beat but warns of H2 risks - CHOSUNBIZ - Chosunbiz"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 26 則事件，焦點為三星重工、韓華海洋、韓國造船海洋相關動態：「The small test that can prevent a nickel ore tragedy」。主要關注主題為航運產業通用、造船訂單，市場情緒中性。",
+    "signals": [
+      {
+        "text": "The small test that can prevent a nickel ore tragedy（航運產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "World’s largest iron ore port handles record annual volumes（航運產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

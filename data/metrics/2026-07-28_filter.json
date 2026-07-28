@@ -1,0 +1,16 @@
+{
+  "total_raw": 351,
+  "dup_title": 158,
+  "no_date": 0,
+  "too_old": 90,
+  "gate1_fail": 17,
+  "gate2_fail": 10,
+  "passed": 76,
+  "gate2_samples": [
+    "Saronic and Samsung Heavy Industries Team Up - Tectonic Defense",
+    "Samsung Heavy Industries Stock And 2 Emerging Market Industrial Picks To Watch - simplywall.st",
+    "Hanwha Ocean, Samsung Heavy Diverge on Currency Hedging - Seoul Economic Daily",
+    "Hanwha Ocean 2Q Net KRW692.60B Vs. Net KRW148.50B >042660.SE - Moomoo",
+    "SK Securities backs Hanwha Ocean after Q2 beat but warns of H2 risks - CHOSUNBIZ - Chosunbiz"
+  ]
+}
