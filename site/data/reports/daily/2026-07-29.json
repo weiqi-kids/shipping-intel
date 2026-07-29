@@ -1,0 +1,219 @@
+{
+  "date": "2026-07-29",
+  "generated_at": "2026-07-29T10:44:09.562324Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "hd_korea-2026-07-29-004",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "HD Korea Shipbuilding & Offshore Engineering Posts Record 1.6 Trillion Won Profit - 조선일보",
+      "companies": [
+        "hd_korea"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQNTFnVDhVbnM5SXFQX1MtMkZzZ0hMT2VITk1tTzlTOVRId3hCaHRmZUhZc2dkVHltdjJSS2hFUlE1LWZXcE1URTVia3RSQlJXaDB1empjb29mSVFpTm5HREpLRmRjTnNsUjlsNEpIZ05SaEtxd3Zhb3owQThBUFlmaG5sTDBWSG5l?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-07-29-005",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "HD KSOE profit hits record $1.1 billion on high-value ship deliveries - KED Global",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1FdV9uY3BNOWNtOWpVTzBoWEhFQ05HVjhVZHdzR1BPbTNkc3J6X1lScV9GMjRFMUFkV0FLd29XVkRONWVNY3dHdGZUeWdLX2ZwaXdRVHEtUmFsZTc2UXlCbHUyRkVCOWh5dlJF?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "hd_korea-2026-07-29-007",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "HD Korea Shipbuilding & Offshore Engineering (009540) Earnings Surpass Expectations: 2Q Operating Profit Up 73% Y/Y - Smartkarma",
+      "companies": [
+        "hd_korea"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNekJkaWRqTVV2VEFyWHVWdGpqdXc0MmxmalNBU282UVBMSUdscXhBbmU0Qk1Jd1oyM3V2ME9PUTdTZVBtejRhcnFmNUd4ZlBnaTZTcEwtWlJaQ2haYURDdnpOTlRjU2lEdy13XzF0V1hEYTA3RXc5Z21PdlZKNXJ1TDNSVEg0Smo2RXlOYXhocXZZUEM1OFl6S2libXNQa1ZObVBNOTV3S3VzUDZsSVdITmczemh0UVR3YTdVTDNWY2h6R3BOZnZDUlR3R3NTdU4wNUM1UUdlbW40QjFTdTR6ODgxM0JSb3NTTWNaUlA1X1ZpLVc4RnAxcl84WQ?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "hd_korea-2026-07-29-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "HD Korea Shipbuilding's Q2 profit jumps 73% on high-priced vessel sales - The Korea Herald",
+      "companies": [
+        "hd_korea"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "container_freight",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBXQzlHQUFKX05SM1liQXM3ZXdvRDVBNGExSUxPU3FCMlZ4SVkyUkdUck5FcGJDZWFLYlZ0MkowNHNmS1BJWEdhdzVXdGJqbktnZHlNN0xjaw?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "hd_korea-2026-07-29-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "HD Korea Shipbuilding & Offshore Engineering: Strong revenue and profit growth, high-value order intake, and bullish shipbuilding outlook - TradingView",
+      "companies": [
+        "hd_korea"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiwAJBVV95cUxPVFE3VnItX05tNTBVSXdzcWYxb0ZEWXhINWQxNEpXOVV6Q0xGdVFveW81cFItU1JWd3V5RTViWkZuaThZekI1Mm9FRWFtQTVRNWEzS3RseFI4V3cxdmdQTnpCWEZkLWlURlY1NVpja01FbjdfTUwzdHFLS1ZSVWJVM2hGVGVuanpFTXN0d1VFVUd6NmJXY3lfbmNhVGdwVW4wMnJoR19BcmdWcFJNenJkOGhXU2pVZ3FKYWJyNXpOYkJBYkF4ZlpkMFNHYml2T05YWDEyeENIb2JfMFAxd09uR0RBdUhfNWw2M29GUk16Q1Azd1V6SjBfWnpXTWRSeHRzVEtyYWRSdGR5cW4yY0Q1SWpES1pvX2FIM3VpSGEwQUc5NEpIa2VhRjRCVG9oVjRIbnNWNEx1VkZZUU1kNGNEZQ?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "container_freight": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 36,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.15,
+      "sentiment_7d_avg": null
+    },
+    "shipbuilding_orders": {
+      "today": 4,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 38,
+    "sentiment_distribution": {
+      "positive": 10,
+      "neutral": 26,
+      "negative": 2
+    },
+    "top_companies": [
+      {
+        "id": "hd_korea",
+        "count": 10
+      },
+      {
+        "id": "cosco",
+        "count": 2
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 36
+      },
+      {
+        "id": "shipbuilding_orders",
+        "count": 4
+      },
+      {
+        "id": "container_freight",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 352,
+    "dup_title": 145,
+    "too_old": 91,
+    "gate1_blocked": 14,
+    "gate2_blocked": 5,
+    "passed": 97,
+    "pass_rate": "46.9%",
+    "gate2_block_rate": "2.4%",
+    "gate2_samples": [
+      "Saronic and Samsung Heavy Industries Team Up - Tectonic Defense",
+      "COSCO completes second record-breaking 2GW HVDC station installation - Ocean Energy Resources",
+      "Price to book forward of Wisdom Marine Lines Co., Limited. – TWSE:2637 - TradingView",
+      "How Lanesurf has offers on 62% of loads before a brokerage office opens",
+      "Kuehne + Nagel expands ‘Cool Corridor network’ for temperature-sensitive healthcare logistics"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 38 則事件，焦點為韓國造船海洋、中遠海控相關動態：「HD Korea Shipbuilding & Offshore Engineering Posts Record...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "HD Korea Shipbuilding & Offshore Engineering Posts Record 1.6 Trillion Won Pr...（航運產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "HD KSOE profit hits record $1.1 billion on high-value ship deliveries - KED G...（航運產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

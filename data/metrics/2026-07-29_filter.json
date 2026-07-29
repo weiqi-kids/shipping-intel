@@ -1,0 +1,16 @@
+{
+  "total_raw": 352,
+  "dup_title": 145,
+  "no_date": 0,
+  "too_old": 91,
+  "gate1_fail": 14,
+  "gate2_fail": 5,
+  "passed": 97,
+  "gate2_samples": [
+    "Saronic and Samsung Heavy Industries Team Up - Tectonic Defense",
+    "COSCO completes second record-breaking 2GW HVDC station installation - Ocean Energy Resources",
+    "Price to book forward of Wisdom Marine Lines Co., Limited. – TWSE:2637 - TradingView",
+    "How Lanesurf has offers on 62% of loads before a brokerage office opens",
+    "Kuehne + Nagel expands ‘Cool Corridor network’ for temperature-sensitive healthcare logistics"
+  ]
+}
