@@ -1,0 +1,146 @@
+{
+  "date": "2026-07-30",
+  "date_range": {
+    "start": "2026-07-24",
+    "end": "2026-07-30"
+  },
+  "generated_at": "2026-07-30T10:30:12.073093Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "unknown-2026-07-24-040",
+      "date": "2026-07-24",
+      "title": "Splash Wrap: Triple-pronged war threat",
+      "importance_score": 0.65
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "industry_general": {
+      "this_week": 206,
+      "last_week": 125,
+      "week_over_week_change": "+65%",
+      "sentiment_this_week": 0.08
+    },
+    "container_freight": {
+      "this_week": 10,
+      "last_week": 3,
+      "week_over_week_change": "+233%",
+      "sentiment_this_week": -0.25
+    },
+    "shipbuilding_orders": {
+      "this_week": 12,
+      "last_week": 4,
+      "week_over_week_change": "+200%",
+      "sentiment_this_week": 0.17
+    },
+    "dry_bulk_rate": {
+      "this_week": 1,
+      "last_week": 1,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    }
+  },
+  "company_7d_summary": {
+    "hd_korea": {
+      "event_count": 20,
+      "sentiment_avg": 0.15,
+      "rank": 2
+    },
+    "samsung_heavy": {
+      "event_count": 11,
+      "sentiment_avg": 0.18,
+      "rank": 3
+    },
+    "hanwha_ocean": {
+      "event_count": 23,
+      "sentiment_avg": 0.13,
+      "rank": 1
+    },
+    "wisdom": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 6
+    },
+    "star_bulk": {
+      "event_count": 3,
+      "sentiment_avg": 0.0,
+      "rank": 5
+    },
+    "cosco": {
+      "event_count": 7,
+      "sentiment_avg": 0.0,
+      "rank": 4
+    },
+    "cssc": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 7
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 486,
+        "last": 413,
+        "change_pct": 17.7
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-07-24",
+      "event_count": 138,
+      "sentiment_avg": 0.07
+    },
+    {
+      "date": "2026-07-25",
+      "event_count": 13,
+      "sentiment_avg": 0.12
+    },
+    {
+      "date": "2026-07-26",
+      "event_count": 30,
+      "sentiment_avg": 0.01
+    },
+    {
+      "date": "2026-07-27",
+      "event_count": 90,
+      "sentiment_avg": 0.01
+    },
+    {
+      "date": "2026-07-28",
+      "event_count": 77,
+      "sentiment_avg": 0.01
+    },
+    {
+      "date": "2026-07-29",
+      "event_count": 85,
+      "sentiment_avg": 0.1
+    },
+    {
+      "date": "2026-07-30",
+      "event_count": 53,
+      "sentiment_avg": 0.05
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-07-24 ~ 2026-07-30）共 486 則事件，重點為「Splash Wrap: Triple-pronged war threat」。航運產業通用、造船訂單、貨櫃運價為本週焦點話題。",
+    "watchlist": [
+      {
+        "company": "韓國造船海洋",
+        "reason": "本週出現 20 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "三星重工",
+        "reason": "本週出現 11 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "韓華海洋",
+        "reason": "本週出現 23 則相關事件，為高關注企業，動態頻繁。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

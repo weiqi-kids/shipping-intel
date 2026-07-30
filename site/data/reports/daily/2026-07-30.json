@@ -1,0 +1,213 @@
+{
+  "date": "2026-07-30",
+  "generated_at": "2026-07-30T10:30:11.928833Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-07-30-033",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Trucking Company’s ESOP: How Employee Ownership Drives Low Turnover (35%)",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://www.freightwaves.com/news/trucking-companys-esop-how-employee-ownership-drives-low-turnover-35"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-07-30-049",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Savannah cargo rises as GPA advances $5bn master plan",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://www.seatrade-maritime.com/containers/savannah-cargo-rises-as-gpa-advances-5bn-master-plan"
+    },
+    {
+      "rank": 3,
+      "event_id": "hd_korea-2026-07-30-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "HD Korea Shipbuilding to Support Modernization of US Shipyard - thelec.net",
+      "companies": [
+        "hd_korea"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBVTnFYSWpKTWh0blo1WDVaMURMMjZDT21TQWNqcnpwR2x1djNBTlpuODU2R0xuR3NNdS1TeGhieXhNQWJ1NFJ5MkZNRGRmaF9ZVDhIdmxGakVxVHRySXZxU0h0N0xfY2M?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-07-30-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "HD Hyundai partners with Fraser Industries to empower US shipbuilding - The Korea Herald",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9FeDBQNDBIb0tfOEJXSUN4di16VFpldjcybkRTS0FfdEx4cm00MXU1eV83MXU3MklMWHRnQTBjTVgtMzNSRWJpbmNsZnREVE42b0tWR3NOaw?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-07-30-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "HD Hyundai to Help Modernize U.S. Shipyards with End-to-End Shipyard Solutions - PR Newswire",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "container_freight",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPU3pGOHBsWTZTV3p3UGhPbUJ0NGsyV1Z6b090anZkQnJUcG40a1ZpbzljMkU4R2N2TzJBaTNqNS1jcEtoR2FScFIzSmJFOWRsUFFmQ2JHZjhNMlZLM3MzM0NZNTdwaUFSbHF0cmNQUVc3OEhlQ2xycTZwRUpEelFoMDQzTHphRy1yR1NGSXRXZW9uNkNxNUpOZEttaV9zTjZISzVQS1ZkeF94ZEg3TW92b19UdTlhUFBnc2RYR1NybDVGejdZdUJZR1VqejE?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 52,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.05,
+      "sentiment_7d_avg": null
+    },
+    "container_freight": {
+      "today": 4,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.12,
+      "sentiment_7d_avg": null
+    },
+    "shipbuilding_orders": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 53,
+    "sentiment_distribution": {
+      "positive": 7,
+      "neutral": 43,
+      "negative": 3
+    },
+    "top_companies": [
+      {
+        "id": "cosco",
+        "count": 4
+      },
+      {
+        "id": "hd_korea",
+        "count": 3
+      },
+      {
+        "id": "star_bulk",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 52
+      },
+      {
+        "id": "container_freight",
+        "count": 4
+      },
+      {
+        "id": "shipbuilding_orders",
+        "count": 3
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 352,
+    "dup_title": 137,
+    "too_old": 91,
+    "gate1_blocked": 16,
+    "gate2_blocked": 3,
+    "passed": 105,
+    "pass_rate": "48.8%",
+    "gate2_block_rate": "1.4%",
+    "gate2_samples": [
+      "Saronic and Samsung Heavy Industries Team Up - Tectonic Defense",
+      "Price to book forward of Wisdom Marine Lines Co., Limited. – TWSE:2637 - TradingView",
+      "Massive $600 Million Nuclear Verdict Hits C.H. Robinson & Brokerage Industry"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 53 則事件，焦點為中遠海控、韓國造船海洋、Star Bulk Carriers相關動態：「Trucking Company’s ESOP: How Employee Ownership Drives Lo...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Trucking Company’s ESOP: How Employee Ownership Drives Low Turnover (35%)（航運產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "Savannah cargo rises as GPA advances $5bn master plan（航運產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
