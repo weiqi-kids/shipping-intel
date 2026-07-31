@@ -1,0 +1,12 @@
+{
+  "total_raw": 352,
+  "dup_title": 157,
+  "no_date": 0,
+  "too_old": 93,
+  "gate1_fail": 17,
+  "gate2_fail": 1,
+  "passed": 84,
+  "gate2_samples": [
+    "Price to book forward of Wisdom Marine Lines Co., Limited. – TWSE:2637 - TradingView"
+  ]
+}

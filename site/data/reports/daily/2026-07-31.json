@@ -1,0 +1,223 @@
+{
+  "date": "2026-07-31",
+  "generated_at": "2026-07-31T10:44:24.353222Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-07-31-018",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Is LTL the NEW King? Market Shift & Carrier Investment Explained",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://www.freightwaves.com/news/is-ltl-the-new-king-market-shift-carrier-investment-explained"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-07-31-034",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Seatrium profits up, but net orderbook declines",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "shipbuilding_orders",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://www.seatrade-maritime.com/shipyards/seatrium-profits-up-but-net-orderbook-declines"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-07-31-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "(LEAD) HD Hyundai Q2 net income up 550 pct on ships, construction biz - Yonhap News Agency",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBzZHhKUTRrNVB0VnU1cGVVcVRIN2NCUHIxYk1ZeVhmTXBLMFdlelBsaG5NUi11TWtieGxvODdlYkI4Q3BudXV0YU9HbVFvZnhLT2xvSkRrVWVsZw?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "samsung_heavy-2026-07-31-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Samsung Heavy Industries: Q2 2026 delivered robust profit growth and a strong order backlog, led by LNG and offshore segments - TradingView",
+      "companies": [
+        "samsung_heavy"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMirwJBVV95cUxPendlMEVNRFdvSm5JUUVZYzBBMHcwdndOaHJWSEo3bDFNbXBJc2NSTC1iYzZrMUtDdzJSMFZldWh6MGsyR3pKMi11a0EwQnJLbU1KZ1RJOE85NXJJb1BaMWw4RHludVV6ZmlHVjZNN0l2OVZzcTBlVGVYVEtpUlJYN01vV0kwZE8tQm5rMW9SWTBZbnFJdEJ2ZXhYUDl4d3ZSVmE2Z0RnLVlIQktGWm82aWY2d2N0X011R0hJWGVsRW9OdDlYY0pXR1psUWtBYXAtcGtRbjZ4MVhvTWIzcm9Dc0cxWndRWE05a2E0ZF9CS2NFcms2NksycmFKblRoeUw0UTU3cDZJOEQ0RndLdm9kd1dPWkkxN3huczY2YWtTdXg5VlpKajBFejJ0TVBtblU?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-07-31-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Fx hedges split Korea’s shipbuilding big three profitability - CHOSUNBIZ - Chosunbiz",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNVXQ2Qm9jZE1UQ0tVLWVTa3dxYU5kSTlGWUJHbXM3eTY2bHE4dWlPMS11ZWVSZTVmUmRTdHlXQUNQa0NUSFN6TGhpUF82bEZTT1RFZ0dFWlhFc3V0YjJYUFFIckVLMTJZM01uVnpUbFpBVmd1SGFUckN3RGNsTmk0OTln0gGWAUFVX3lxTE14REN3d1p3S1RPcjQ5VEZXbnZWU3h2Yy1zRmNfSC1ZeDNOWkNwWTlhS25RYkFEUm1zMUY0aF9QMjJjYjBPNDR6WUN1WGN6N1d4WDJQcnNnRUlHSGFONHY1UXcyeU9WSnRNRWRJUVlMMFNxVU1MRHV1ZENjUVpEaHgzZWFCM0NsMDgyM3hvNjZ6N0FySHV0UQ?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 29,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.02,
+      "sentiment_7d_avg": null
+    },
+    "container_freight": {
+      "today": 4,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "shipbuilding_orders": {
+      "today": 4,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.25,
+      "sentiment_7d_avg": null
+    },
+    "dry_bulk_rate": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 37,
+    "sentiment_distribution": {
+      "positive": 2,
+      "neutral": 32,
+      "negative": 3
+    },
+    "top_companies": [
+      {
+        "id": "hanwha_ocean",
+        "count": 8
+      },
+      {
+        "id": "cosco",
+        "count": 4
+      },
+      {
+        "id": "samsung_heavy",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 29
+      },
+      {
+        "id": "container_freight",
+        "count": 4
+      },
+      {
+        "id": "shipbuilding_orders",
+        "count": 4
+      },
+      {
+        "id": "dry_bulk_rate",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 352,
+    "dup_title": 157,
+    "too_old": 93,
+    "gate1_blocked": 17,
+    "gate2_blocked": 1,
+    "passed": 84,
+    "pass_rate": "43.1%",
+    "gate2_block_rate": "0.5%",
+    "gate2_samples": [
+      "Price to book forward of Wisdom Marine Lines Co., Limited. – TWSE:2637 - TradingView"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 37 則事件，焦點為韓華海洋、中遠海控、三星重工相關動態：「Is LTL the NEW King? Market Shift & Carrier Investment Ex...」。整體情緒偏負面，需留意潛在風險。",
+    "signals": [
+      {
+        "text": "Is LTL the NEW King? Market Shift & Carrier Investment Explained（航運產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "Seatrium profits up, but net orderbook declines（造船訂單、航運產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
