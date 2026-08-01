@@ -1,0 +1,16 @@
+{
+  "total_raw": 332,
+  "dup_title": 173,
+  "no_date": 0,
+  "too_old": 99,
+  "gate1_fail": 9,
+  "gate2_fail": 5,
+  "passed": 46,
+  "gate2_samples": [
+    "Hanwha Ocean Begins Construction of South Korea's First Domestic Aegis Destroyer - 조선일보",
+    "Erie truck driver faces 22 charges after police say he fled 9-vehicle crash carrying Bud Light",
+    "Amazon ramps up delivery speed, robotics roll out",
+    "Inside Hirschbach’s push into AI driver communication",
+    "Maersk expands Gemini shuttle strategy to west coast Latin America"
+  ]
+}

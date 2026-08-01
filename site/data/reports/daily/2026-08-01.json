@@ -1,0 +1,171 @@
+{
+  "date": "2026-08-01",
+  "generated_at": "2026-08-01T10:03:43.598173Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-08-01-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "South Korea’s KDDX Enters Detailed Design and Lead Ship Construction Phase - navalnews.com",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPQ1BoYXdsVFhqVS1VTmFzQ3U0RnMxRkcwNzYzUjdWaTlxS003ZmFtYXZwRTB3aW5LTDAwZE9VTERBcVV5Q3hDMTh3LUxCdEswc0gxWGVDTDlXUFppOU5OTk5RQlRPOFZiSHBLbHcwcEFpcG9iMk1uYi05ckdxR3ViZ0haQWJESmNPbnh0OTZna2xjYlZaNkxrbUM4TW9uV3J2cEt4RkM3UV85RFd6dENIYW13NjUxSWRYbkVR?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "cosco-2026-08-01-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Beihai Shipbuilding Reaches 100-Vessel Orderbook Milestone with New COSCO Shipping Bulk Contract - imarinenews.com",
+      "companies": [
+        "cosco"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "shipbuilding_orders",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBIcHdjNWVJT2NBajBzR2Y5MEZ3WC1WcHdoeXYwZnY3T2JsM0JsYXV4U0pLY0p0NXhlT2xQM0ZOSVlFeWNpc1p4YTYtVmEtbE0?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "cosco-2026-08-01-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "COSCO Shipping International Singapore Co Ltd Revenue Breakdown – SGX:F83 - TradingView",
+      "companies": [
+        "cosco"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMickFVX3lxTE02b2FyRkc0X1E2M1QzUjlSVEZIRUFkb3VSRktwamt5dzNoWjNRNkJ3OGdOTkZ2dHoxRlBFcEFtaXd5TU5Ccl9IYUgteXVhbE8tR3l6TVpnNlc2UFVDdXd3R0ctVGR1dXBnME10a2xvWjJQZw?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-08-01-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Export freight costs double, lead time rises as shipping lines trim Bangladesh bookings - The Business Standard",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOTHNvRS1LeC10enJ5Ukt5dE55S1NFekpDRnkzU2ZKaDhGM21QZkFhdXJWalpfVXNHQTlOcXdEbWh2eWpId3hlSksxclVBNHF4MTRBbGtxWUNCM0xkUE9XdDdRM0NDWTY4blNvUjAwMFh2NkdxNi1kd2stQjRNUmZ4cGQtRE5kOFA5SHN0Yzd2SzI1a0dkTFVkUi1DcDBSS25vMFRVdFNDdWlqOTI2blBiTHJsWVBXcWt6WmFR0gHAAUFVX3lxTE1MUE81cU5hOV80YUZ3ZmZmZUZ4bEdWVzE2Mzl3anhBMTQ5cmNZV3dLUkVES1M3d2xGa0QxWDZsZm9RNnlCdTRoSjlteW5MMGUwa3B1QTZLNWJNa0J1MndsX3VmNTNCZENDUFNYM2hZVzNvOHVhOHFBRzV6N25ySGxLaDlwZWxzdUJaU1ZXSUlVa3FRNFJ5OXFRWng0aGRUbmZUTXdaMGc4X0xSaUVOTDFrb3FhRFBpVVhmcEpqaFNIUg?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 4,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "shipbuilding_orders": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 4,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 4,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "cosco",
+        "count": 2
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 4
+      },
+      {
+        "id": "shipbuilding_orders",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 332,
+    "dup_title": 173,
+    "too_old": 99,
+    "gate1_blocked": 9,
+    "gate2_blocked": 5,
+    "passed": 46,
+    "pass_rate": "28.9%",
+    "gate2_block_rate": "3.1%",
+    "gate2_samples": [
+      "Hanwha Ocean Begins Construction of South Korea's First Domestic Aegis Destroyer - 조선일보",
+      "Erie truck driver faces 22 charges after police say he fled 9-vehicle crash carrying Bud Light",
+      "Amazon ramps up delivery speed, robotics roll out",
+      "Inside Hirschbach’s push into AI driver communication",
+      "Maersk expands Gemini shuttle strategy to west coast Latin America"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 4 則事件，焦點為中遠海控相關動態：「South Korea’s KDDX Enters Detailed Design and Lead Ship C...」。主要關注主題為航運產業通用、造船訂單，市場情緒中性。",
+    "signals": [
+      {
+        "text": "South Korea’s KDDX Enters Detailed Design and Lead Ship Construction Phase - ...（航運產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "Beihai Shipbuilding Reaches 100-Vessel Orderbook Milestone with New COSCO Shi...（造船訂單、航運產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
