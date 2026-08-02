@@ -1,5 +1,43 @@
 [
   {
+    "id": "hanwha_ocean-2026-08-02-001",
+    "date": "2026-08-02",
+    "companies": [
+      "hanwha_ocean"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Hanwha Ocean KDDX Project, Full Launch for 2032 Lead Ship Deployment - starnewskorea.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxPSW1Sd05neWdyMUhJRDJNd29RM2pkNkdXdVJCOG52d2FCbVE0Y05HMVdSM0pPa3p3enpBd3NEck9SU25IMVZhZER3MXRPaE9Tdi03V0p3eGdvV1g5dTRINUlOVlVadjdEVkl4ZWxCcE",
+    "sources": [
+      {
+        "name": "hanwha_ocean",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPSW1Sd05neWdyMUhJRDJNd29RM2pkNkdXdVJCOG52d2FCbVE0Y05HMVdSM0pPa3p3enpBd3NEck9SU25IMVZhZER3MXRPaE9Tdi03V0p3eGdvV1g5dTRINUlOVlVadjdEVkl4ZWxCcER0ODFUVWhVTHlTX19mWDNNX3VESQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-02-002",
+    "date": "2026-08-02",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "negative",
+    "title": "Reuters: Citadel buys most of Situational’s stock holdings after AI share rout, sources say",
+    "summary": "<p>REUTERS reports:<br />\nSituational Awareness, an AI-focused ​hedge fund run by former OpenAI researcher Leopold Aschenbrenner, sold the bulk of its stock portfolio to Ken Griffin’s Citadel after be",
+    "sources": [
+      {
+        "name": "loadstar",
+        "url": "https://theloadstar.com/reuters-citadel-buys-most-of-situationals-stock-holdings-after-ai-share-rout-sources-say/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "unknown-2026-08-01-001",
     "date": "2026-08-01",
     "companies": [],
@@ -72,6 +110,225 @@
       {
         "name": "google_container_shipping",
         "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOTHNvRS1LeC10enJ5Ukt5dE55S1NFekpDRnkzU2ZKaDhGM21QZkFhdXJWalpfVXNHQTlOcXdEbWh2eWpId3hlSksxclVBNHF4MTRBbGtxWUNCM0xkUE9XdDdRM0NDWTY4blNvUjAwMFh2NkdxNi1kd2stQjRNUmZ4cGQtRE5kOFA5SHN0Yzd2SzI1a0dkTFVkUi1DcDBSS25vMFRVdFNDdWlqOTI2blBiTHJsWVBXcWt6WmFR0gHAAUFVX3lxTE1MUE81cU5hOV80YUZ3ZmZmZUZ4bEdWVzE2Mzl3anhBMTQ5cmNZV3dLUkVES1M3d2xGa0QxWDZsZm9RNnlCdTRoSjlteW5MMGUwa3B1QTZLNWJNa0J1MndsX3VmNTNCZENDUFNYM2hZVzNvOHVhOHFBRzV6N25ySGxLaDlwZWxzdUJaU1ZXSUlVa3FRNFJ5OXFRWng0aGRUbmZUTXdaMGc4X0xSaUVOTDFrb3FhRFBpVVhmcEpqaFNIUg?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-01-005",
+    "date": "2026-08-01",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Fraser, Hyundai plan major shipyard upgrade - BusinessNorth",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxOUUlGSjJxR01EajB0WkJfRnJ2Uk9CRUNlc1psZE5sNlB3djNxZllXWWlXd25GcjZSNnRDNjk4aDhaOVF3QlF1T0lPcV9odGtWTzBVd0ZyVnJRbkZjdmVQR2JqVl9KTGp4QmtXWFppam",
+    "sources": [
+      {
+        "name": "hd_korea",
+        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOUUlGSjJxR01EajB0WkJfRnJ2Uk9CRUNlc1psZE5sNlB3djNxZllXWWlXd25GcjZSNnRDNjk4aDhaOVF3QlF1T0lPcV9odGtWTzBVd0ZyVnJRbkZjdmVQR2JqVl9KTGp4QmtXWFppamhOR09BM2N6V0hmS0t2Q0s4Z3c2MEp5Rzd0VmJaQkMwWUxCNDgtZkNDYXpQRUwxR04tZWsxNkFhYmdCbzZQemxrUWpucTRVYTZsT3ZnWkNyTTBDR2RJYm9Scm1zNmVjdzZHTS1v?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "hanwha_ocean-2026-08-01-006",
+    "date": "2026-08-01",
+    "companies": [
+      "hanwha_ocean"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "South Korea awards Hanwha Ocean KDDX lead-ship contract, targeting 2032 delivery of its first domestically built Aegis destroyer - Defence Industry Europe",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi7AFBVV95cUxOU1dtelljQmxsMnlKU2swV2x6WjQ1Rnpod2x2WU9MeGFac2hrZ3lfc3llV3huaTNrSkZrX2o2Mi1jc3NwbV9zMXhIMHlSVXEtazlSQXFDSEE2Q0l4TzVXTHVXcGhZcW5za0c1d3VWNl",
+    "sources": [
+      {
+        "name": "hanwha_ocean",
+        "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOU1dtelljQmxsMnlKU2swV2x6WjQ1Rnpod2x2WU9MeGFac2hrZ3lfc3llV3huaTNrSkZrX2o2Mi1jc3NwbV9zMXhIMHlSVXEtazlSQXFDSEE2Q0l4TzVXTHVXcGhZcW5za0c1d3VWNlhjamJqR05LTDg1UVZwQXdvdkFESEVyRkJ6anVVNmZzMi1qUWM1ZU5HdnczWXE2U05vYk1nekxOWWs5YXFWN3F6WldwdlBDVWJXNHBSc0tPQVAwZ18zNWhPTnh2ME9KV1lIam5iVi1UcDY5b3VUcVByNm1LYTdXdkhFRlFHTg?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-01-007",
+    "date": "2026-08-01",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Yemen’s Houthis Deny Plans To Impose Fees On Ships Sailing Through Red Sea",
+    "summary": "Aug 1 (Reuters) &#8211; Yemen&#8217;s Houthi-run maritime coordination body denied on Saturday that it planned to impose fees on commercial ships transiting the Bab el-Mandeb strait, saying no such de",
+    "sources": [
+      {
+        "name": "gcaptain",
+        "url": "https://gcaptain.com/yemens-houthis-deny-plans-to-impose-fees-on-ships-sailing-through-red-sea/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-01-008",
+    "date": "2026-08-01",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Italian Frigate Escorts Merchant Vessel Safely Through Red Sea",
+    "summary": "Aug 1 (Reuters) &#8211; A merchant vessel safely passed through the Red Sea under the protection of the Italian frigate Bergamini, the European Union naval mission ASPIDES said on Saturday. Related Ar",
+    "sources": [
+      {
+        "name": "gcaptain",
+        "url": "https://gcaptain.com/italian-frigate-escorts-merchant-vessel-safely-through-red-sea/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-01-009",
+    "date": "2026-08-01",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Civilian Vessel Sinks In Black Sea After Ukrainian Drone Attack",
+    "summary": "MOSCOW, Aug 1 (Reuters)&#160;&#8211;&#160;Two Ukrainian drones hit and sank a civilian vessel owned by Russian state nuclear corporation Rosatom sailing in the Black Sea overnight, the company&#8217;s",
+    "sources": [
+      {
+        "name": "gcaptain",
+        "url": "https://gcaptain.com/civilian-vessel-sinks-in-black-sea-after-ukrainian-drone-attack/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-01-010",
+    "date": "2026-08-01",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "GasLog LNG Carrier Damaged Exiting Hormuz as UKMTO Reports Two New Attacks",
+    "summary": "A GasLog-operated LNG carrier sustained damage while exiting the Strait of Hormuz on Friday as maritime security authorities reported two separate security incidents near the strategic waterway, highl",
+    "sources": [
+      {
+        "name": "gcaptain",
+        "url": "https://gcaptain.com/gaslog-lng-carrier-damaged-exiting-hormuz-as-ukmto-reports-two-new-attacks/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-01-011",
+    "date": "2026-08-01",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Ukraine Sinks Russian-Flagged Containership in Black Sea",
+    "summary": "\n                Ukraine struck a container vessel operated by Fesco, a division of Rosatom, while the vessel was transiting the Black Sea bound for Novorossiysk, Russ...\n            ",
+    "sources": [
+      {
+        "name": "maritime_executive",
+        "url": "https://maritime-executive.com/article/ukraine-sinks-russian-flagged-containership-in-black-sea-2",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-01-012",
+    "date": "2026-08-01",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "$20M in cocaine found beneath floorboards of commercial truck trailer at California border",
+    "summary": "<p>Customs and Border Protection officers found 366 cocaine packages after an X-ray scan showed trailer-floor anomalies and a drug dog alerted investigators. The driver faces a federal importation cha",
+    "sources": [
+      {
+        "name": "freightwaves",
+        "url": "https://www.freightwaves.com/news/20m-in-cocaine-found-beneath-floorboards-of-commercial-truck-trailer-at-california-border",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-01-013",
+    "date": "2026-08-01",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "negative",
+    "title": "Aurora reports Q2 results, details per-mile pricing",
+    "summary": "<p>Aurora Innovation said it expects to reach an $80 million TaaS revenue run-rate by year-end, detailing the per-mile revenue outlook for both business models ahead of a planned 2027 shift to driver-",
+    "sources": [
+      {
+        "name": "freightwaves",
+        "url": "https://www.freightwaves.com/news/aurora-q2-earnings-driverless-truck-rates",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-01-014",
+    "date": "2026-08-01",
+    "companies": [],
+    "topics": [
+      "container_freight",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Container Freight Rates Slip Again as Carriers Cut Prices Ahead of August Rate Hikes - Global Trade Magazine",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxOb3YyVm9FUk5qWkRDcDlmcnNPMnBSekRoVG5uc2JsR3dDY2p3SGxNQ052UWpkY2wyRUt1dUZXV29jLWNoX0pQbHFrdE5ldEZfaUNHNk1PblluVS1idzNieUx2VEVIRVBuLTRzbFhFUl",
+    "sources": [
+      {
+        "name": "google_container_shipping",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOb3YyVm9FUk5qWkRDcDlmcnNPMnBSekRoVG5uc2JsR3dDY2p3SGxNQ052UWpkY2wyRUt1dUZXV29jLWNoX0pQbHFrdE5ldEZfaUNHNk1PblluVS1idzNieUx2VEVIRVBuLTRzbFhFUlVVQk1Ic05VYkR1Ui1WMXFKdFdsV2tXM3JoTGM2RW5VRTdIU05WTk1hLXNEYjA3MDV0TjBjV2JaMFc5UnJEZHBHZXpkYUdhcWM?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-01-015",
+    "date": "2026-08-01",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Crude oil shipping rates surge, diverging trends in dry bulk and container shipping, tanker rents strengthen against the odds after geopolitical premium recedes - Bitget",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE1ScTlVSHJOLXhaR0NMRlJNeXVvSmJHb25BdWNvNTdRVWRScnBDOUptbV8tbm1jWnIwRVQwY1AyOVFVMFVwZmhtbmlKZDMzRGZVZzVGMUJVbVpFT1UwaUgyQ1BiWHRTSjlIU1HSAWpBVV",
+    "sources": [
+      {
+        "name": "google_container_shipping",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1ScTlVSHJOLXhaR0NMRlJNeXVvSmJHb25BdWNvNTdRVWRScnBDOUptbV8tbm1jWnIwRVQwY1AyOVFVMFVwZmhtbmlKZDMzRGZVZzVGMUJVbVpFT1UwaUgyQ1BiWHRTSjlIU1HSAWpBVV95cUxNUnE5VUhyTi14WkdDTEZSTXl1b0piR29uQXVjbzU3UVVkUnJwQzlKbW1fLW5tY1pyMEVUMGNQMjlRVTBVcGZobW5pSmQzM0RmVWc1RjFCVW1aRU9VMGlIMkNQYlh0U0o5SFNR?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-01-016",
+    "date": "2026-08-01",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "LNG carrier struck in Hormuz, tanker in near miss",
+    "summary": "Iran renews attacks on vessels transiting through the southern corridor close to the Oman coast",
+    "sources": [
+      {
+        "name": "seatrade_maritime",
+        "url": "https://www.seatrade-maritime.com/tankers/lng-carrier-struck-in-hormuz-tanker-in-near-miss",
         "type": "rss"
       }
     ]
@@ -1332,6 +1589,172 @@
       {
         "name": "loadstar",
         "url": "https://theloadstar.com/exclusive-msc-targets-smes-share-gains-to-be-had-where-others-fall-behind/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-31-069",
+    "date": "2026-07-31",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "HD Hyundai Partners with Fraser Industries for U.S. Shipyard Modernization | KSOE - News and Statistics - IndexBox",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxNbFFfakJFVnBRT2FQLU9kWksyTFRMYjhRVTZuc1M4YTJXU3hGX3MyLXZCUXE4dHBERXlnTVhZekY5a3N2UExvZnpsSlBQcDBPWTA3cU15X3U5YW9tbE00eVU5TUx4Ymw4RF9BOWQtYk",
+    "sources": [
+      {
+        "name": "hd_korea",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNbFFfakJFVnBRT2FQLU9kWksyTFRMYjhRVTZuc1M4YTJXU3hGX3MyLXZCUXE4dHBERXlnTVhZekY5a3N2UExvZnpsSlBQcDBPWTA3cU15X3U5YW9tbE00eVU5TUx4Ymw4RF9BOWQtYkRHNzJzN3Q3MEdFeUZTd3pXeUtLOUZ3Wi1zRGlBSk9CU1U5TnZGcHJOaXBvcWx6eHFZ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "star_bulk-2026-07-31-070",
+    "date": "2026-07-31",
+    "companies": [
+      "star_bulk"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Arrowstreet Capital Limited Partnership Makes New Investment in Star Bulk Carriers Corp. $SBLK - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi6AFBVV95cUxNQllpeG5BNFJTZE8zT3RaZ0ExZWxJSW1LckhsRkFOVkEtVDNuSmJmbldZMTdISFA5QnRFVkNxM09SSVJfT1NDWldzbDJKcURrNFRWNmp0eHJQajZlVGlnZldzd0pMU3RWZ2pfQ1FyZV",
+    "sources": [
+      {
+        "name": "star_bulk",
+        "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNQllpeG5BNFJTZE8zT3RaZ0ExZWxJSW1LckhsRkFOVkEtVDNuSmJmbldZMTdISFA5QnRFVkNxM09SSVJfT1NDWldzbDJKcURrNFRWNmp0eHJQajZlVGlnZldzd0pMU3RWZ2pfQ1FyZVFTM1JyN3ZWNGJtcjFPa3lXc3Y1NXBvSHBWcEtjVXY4RTdWTU44MEItNE1wSzBkcUJzNGxqUThhZmtsM0I4eUFBcjRhRFRjc24xZlc3eENKMUhWWjM1M2lNekQyZ0JoRXFXV0J5ODJDME56dDNwenQ0WHlxY0F1SDdU?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-31-071",
+    "date": "2026-07-31",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Scandlines Retires “Old Lady of the Baltic” for Recycling",
+    "summary": "\n                Danish ferry operator Scandlines retired the oldest vessel in its fleet, the Kronprins Frederik, which had become a well-known fixture on the Baltic....\n            ",
+    "sources": [
+      {
+        "name": "maritime_executive",
+        "url": "https://maritime-executive.com/article/scandlines-retires-old-lady-of-baltic-for-recycling",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-31-072",
+    "date": "2026-07-31",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Somali Pirates Continue to Hold Four Vessels with 67 Crewmembers",
+    "summary": "\n                After three months, Somali pirates continue to hold four smaller vessels with no reports of progress in the efforts to free the 67 crewmembers that ar...\n            ",
+    "sources": [
+      {
+        "name": "maritime_executive",
+        "url": "https://maritime-executive.com/article/somali-pirates-continue-to-hold-four-vessels-with-67-crewmembers",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "hapag-2026-07-31-073",
+    "date": "2026-07-31",
+    "companies": [
+      "hapag"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Hapag-Lloyd Reports Temporary Suspension of Feeder Calls to Ukraine",
+    "summary": "\n                Citing the continued deterioration of the security situation, Hapag-Lloyd announced on July 31 that feeder operators have temporarily suspended calls...\n            ",
+    "sources": [
+      {
+        "name": "maritime_executive",
+        "url": "https://maritime-executive.com/article/hapag-lloyd-reports-temporary-suspension-of-feeder-calls-to-ukraine",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-31-074",
+    "date": "2026-07-31",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "CENTCOM Denies Iran's Gulf Breakout Claims Saying Danger is Verbal Threats",
+    "summary": "\n                The war of words and claims continued after several days of relative calm, with no vessels attacked in the Strait of Hormuz. Iran is making bold claim...\n            ",
+    "sources": [
+      {
+        "name": "maritime_executive",
+        "url": "https://maritime-executive.com/article/centcom-denies-iran-s-gulf-breakout-claims-saying-danger-is-verbal-threats",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-31-075",
+    "date": "2026-07-31",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Sweden Arrests Cargo Ship Captain After Deaths in Pleasure Boat Collision",
+    "summary": "\n                Swedish prosecutors confirmed that they have taken the captain of a Norwegian cargo ship into custody after an accident on Tuesday night that killed a...\n            ",
+    "sources": [
+      {
+        "name": "maritime_executive",
+        "url": "https://maritime-executive.com/article/sweden-arrests-cargo-ship-captain-after-deaths-in-pleasure-boat-collision",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-31-076",
+    "date": "2026-07-31",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Iceland Seizes Paul Watson Foundation’s Boat as it Tracks Whale Hunt",
+    "summary": "\n                The Icelandic Coast Guard and a team of special forces from the police boarded the vessel Bandero operated by the Captain Paul Watson Foundation on Ju...\n            ",
+    "sources": [
+      {
+        "name": "maritime_executive",
+        "url": "https://maritime-executive.com/article/iceland-seizes-paul-watson-foundation-s-boat-as-it-tracks-whale-hunt",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-31-077",
+    "date": "2026-07-31",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Saudi Arabia Builds Maritime Coalition to Keep Red Sea Shipping Moving",
+    "summary": "\n                Saudi Arabia convened an inaugural meeting in Riyadh on July 30 of nations interested in joining a maritime defense coalition to “enhance maritime sec...\n            ",
+    "sources": [
+      {
+        "name": "maritime_executive",
+        "url": "https://maritime-executive.com/article/saudi-arabia-builds-maritime-coalition-to-keep-red-sea-shipping-moving",
         "type": "rss"
       }
     ]
@@ -3205,6 +3628,67 @@
     ]
   },
   {
+    "id": "hd_korea-2026-07-30-102",
+    "date": "2026-07-30",
+    "companies": [
+      "hd_korea"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "HD Korea Shipbuilding & Offshore Engineering Q2 2026 Results Beat Market Expectations - IndexBox",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxNbUtBanNzblQ0d1hQY1VvdkFaSTI0Q0pJWXFwRUdDMms2LVRQWElxanBsLTNOX0Z2OXR2VWU1UEc5bUlGV3ZUSXNYT3JxTVpkYTMyQlRLNXZjcS1OS2lZWEZhWF9KTUpSVkJuSEJFNX",
+    "sources": [
+      {
+        "name": "hd_korea",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNbUtBanNzblQ0d1hQY1VvdkFaSTI0Q0pJWXFwRUdDMms2LVRQWElxanBsLTNOX0Z2OXR2VWU1UEc5bUlGV3ZUSXNYT3JxTVpkYTMyQlRLNXZjcS1OS2lZWEZhWF9KTUpSVkJuSEJFNXpDV2RrNUdLTGZralhHaXM2b1p5bEVtbnhZOGRSRlNOcGJpZXBKS2x4dEFhOU5VVFNQN0lYZzJFZFRTXzR1bF9VX1FQTQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "hd_korea-2026-07-30-103",
+    "date": "2026-07-30",
+    "companies": [
+      "hd_korea"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "HD Korea Shipbuilding Slashes Conversion Price of Exchangeable Bond - Moomoo",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxPWVZCbzByOXF2R2xRbW1LRU50QmFOU2tmSTlILTAzemJfOThfb3pMbFV5TDNSbEdyYUpyeDdJTGsyeGppbVp2WkNkckNMV0RwLXpYQmhaMEdCWV91MXlYYkZQeUR3RkFKWm5EYzQ1Y1",
+    "sources": [
+      {
+        "name": "hd_korea",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPWVZCbzByOXF2R2xRbW1LRU50QmFOU2tmSTlILTAzemJfOThfb3pMbFV5TDNSbEdyYUpyeDdJTGsyeGppbVp2WkNkckNMV0RwLXpYQmhaMEdCWV91MXlYYkZQeUR3RkFKWm5EYzQ1Y1l5LVFCTzkybXFfT3A3a3FJcXNITkQ3WHloaG5PSlBPMnVtbGcwQzJBcjRQOUlRaFdOaUliQUlQeHpzYzhzS3c?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "cosco-2026-07-30-104",
+    "date": "2026-07-30",
+    "companies": [
+      "cosco"
+    ],
+    "topics": [
+      "container_freight",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Hong Kong Stock Market Movement | COSCO Shipping Energy (01138) rises over 4% as recurring U.S.-Iran tensions push Strait transit volumes to lows, leaving room for further upside in VLCC freight rate levels. - 富途牛牛",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxOZnZjTV8xR2FJSWNiQ2tHVHphdV8zRkZWTXp4aFRZQVByY1JQaXUzci1LTUhVb3RzR2VYazZsSjZtc0d0ZW5ZODk2S3F6T3lXRnMycXRFQno3QXhPX2RUaVdrWFZFU3lDQklzODN4dV",
+    "sources": [
+      {
+        "name": "cosco",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOZnZjTV8xR2FJSWNiQ2tHVHphdV8zRkZWTXp4aFRZQVByY1JQaXUzci1LTUhVb3RzR2VYazZsSjZtc0d0ZW5ZODk2S3F6T3lXRnMycXRFQno3QXhPX2RUaVdrWFZFU3lDQklzODN4dVh0UEI3ZDAydEN6MVVqMmgydk1vZm83aVVKLUdhUGc0eTRXd0lybEpEd01IazBqekRsaTZQYjFBOUxsQQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "hd_korea-2026-07-29-001",
     "date": "2026-07-29",
     "companies": [
@@ -4898,6 +5382,26 @@
     ]
   },
   {
+    "id": "hanwha_ocean-2026-07-29-092",
+    "date": "2026-07-29",
+    "companies": [
+      "hanwha_ocean"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Hanwha Ocean boosts naval shipbuilding collaboration with US partners - navaltoday.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxPYWxfX2hVeUNhU0VDeG1NZWx0ZHNXYjlwdmZRaXQtVkgtWDFaRnVheGczeEpvbXdnb0tOdFEtQXZsN0JuaEJkemstVWU3ZV9nMEdXeGhCYktfbUZ3b3BaREpBQUlYYkhKSTA1a01PQX",
+    "sources": [
+      {
+        "name": "hanwha_ocean",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPYWxfX2hVeUNhU0VDeG1NZWx0ZHNXYjlwdmZRaXQtVkgtWDFaRnVheGczeEpvbXdnb0tOdFEtQXZsN0JuaEJkemstVWU3ZV9nMEdXeGhCYktfbUZ3b3BaREpBQUlYYkhKSTA1a01PQXd4cFZfR0lpWGtwWThhOGhzZ0ZBcGZSYk13dEZHM1JwZlJXaHpDOENuYVRZaWJEcmlFTC15YkhvNi1GUzQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "unknown-2026-07-28-001",
     "date": "2026-07-28",
     "companies": [],
@@ -6330,6 +6834,24 @@
       {
         "name": "hanwha_ocean",
         "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxObXlpZlY1bmxLWlNwcGhiOERIRHdJWUo5Mm9WOXdrQmZDV0NPUWZBNUtqRkpfdXBNTHFFY3p6aFF0LXl2NFdVT3hSWDNEYkFXTDVTQ1lqQU1OaHkyUi1JSFo5UnNNMWhVSVdhV3VHQ1J6Um9PUHFzNE9zYzFtRkowVHR6RjJpWFpmY3BTWWhIenJrb3A2VDVMVzRpeHJwSTA0UWItcjRodC1SeXhPZnc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-28-079",
+    "date": "2026-07-28",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "News Carriers demand new surcharges as Middle East conflict sees bunker costs surge - The Loadstar",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxObFk2dkxHZEJoWEtUMWtocU40ZHUxaElaNV9paVppY0Q1Vm52V3NtemJqUHFCd3NlNjVrYTVSV0hkeGVCekJaX01PendUTjl1X1ZyX3YxZnh4RkZ6NVA2aVdkWHJ0c192WExiaTFfaX",
+    "sources": [
+      {
+        "name": "google_container_shipping",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxObFk2dkxHZEJoWEtUMWtocU40ZHUxaElaNV9paVppY0Q1Vm52V3NtemJqUHFCd3NlNjVrYTVSV0hkeGVCekJaX01PendUTjl1X1ZyX3YxZnh4RkZ6NVA2aVdkWHJ0c192WExiaTFfaXU1X2o4X2FoMG9ocU9fOXc3TFVtX3BhVUlKU2pLUWxraGl6VENBZ3ljRTVoMmhRSE9HQUZTczNn?oc=5",
         "type": "rss"
       }
     ]

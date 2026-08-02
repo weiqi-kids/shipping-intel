@@ -1,0 +1,116 @@
+{
+  "date": "2026-08-02",
+  "generated_at": "2026-08-02T10:01:59.132800Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-08-02-002",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Reuters: Citadel buys most of Situational’s stock holdings after AI share rout, sources say",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://theloadstar.com/reuters-citadel-buys-most-of-situationals-stock-holdings-after-ai-share-rout-sources-say/"
+    },
+    {
+      "rank": 2,
+      "event_id": "hanwha_ocean-2026-08-02-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Hanwha Ocean KDDX Project, Full Launch for 2032 Lead Ship Deployment - starnewskorea.com",
+      "companies": [
+        "hanwha_ocean"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPSW1Sd05neWdyMUhJRDJNd29RM2pkNkdXdVJCOG52d2FCbVE0Y05HMVdSM0pPa3p3enpBd3NEck9SU25IMVZhZER3MXRPaE9Tdi03V0p3eGdvV1g5dTRINUlOVlVadjdEVkl4ZWxCcER0ODFUVWhVTHlTX19mWDNNX3VESQ?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.5,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 2,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 1,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "hanwha_ocean",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 2
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 352,
+    "dup_title": 204,
+    "too_old": 101,
+    "gate1_blocked": 13,
+    "gate2_blocked": 6,
+    "passed": 28,
+    "pass_rate": "18.9%",
+    "gate2_block_rate": "4.1%",
+    "gate2_samples": [
+      "Hanwha Ocean Begins Construction of South Korea's First Domestic Aegis Destroyer - 조선일보",
+      "Price to sales forward of Wisdom Marine Lines Co., Limited. – TWSE:2637 - TradingView",
+      "Erie truck driver faces 22 charges after police say he fled 9-vehicle crash carrying Bud Light",
+      "Amazon ramps up delivery speed, robotics roll out",
+      "Inside Hirschbach’s push into AI driver communication"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 2 則事件，焦點為韓華海洋相關動態：「Reuters: Citadel buys most of Situational’s stock holding...」。整體情緒偏負面，需留意潛在風險。",
+    "signals": [
+      {
+        "text": "Reuters: Citadel buys most of Situational’s stock holdings after AI share rou...（航運產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "Hanwha Ocean KDDX Project, Full Launch for 2032 Lead Ship Deployment - starne...（航運產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
