@@ -1,0 +1,212 @@
+{
+  "date": "2026-08-03",
+  "generated_at": "2026-08-03T11:30:42.388444Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "maersk-2026-08-03-023",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "Shippers unimpressed by container line reliability",
+      "companies": [
+        "maersk",
+        "hapag"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.seatrade-maritime.com/containers/shippers-unimpressed-by-container-line-reliability"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-08-03-020",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "OceanX: Turkey delight – what delight for forwarders?",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://theloadstar.com/oceanx-turkey-delight-what-delight-for-forwarders/"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-08-03-024",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Two tankers escape suspected attacks in Strait of Hormuz",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://www.seatrade-maritime.com/security/two-tankers-escape-suspected-attacks-in-strait-of-hormuz"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-08-03-025",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Houthi threat, record VLCC orders - Maritime in Minutes July in review",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://www.seatrade-maritime.com/security/houthi-threat-record-vlcc-orders-maritime-in-minutes-july-in-review"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-08-03-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "HD Hyundai begins US Shipyard Export Push - Cyprus Shipping News",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQbkZ2Z3FzVkNpZUZhSFRvLS1DV2hTVmtlM3Z6dU5QZDR4dW9wNDFSMnFHR29nOFhMeGR6MmdSalk2aS1YUEtBaUZRZHNUYnltV1h3aktmWm9LZHd3ZTNCR2ZfYnUwVDRTTFBiT0lVX01pSnBUemZRem1UbXJmOFpGdWhkVGlPLXJMZmZQcA?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 24,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "shipbuilding_orders": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.25,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 27,
+    "sentiment_distribution": {
+      "positive": 4,
+      "neutral": 20,
+      "negative": 3
+    },
+    "top_companies": [
+      {
+        "id": "samsung_heavy",
+        "count": 5
+      },
+      {
+        "id": "hanwha_ocean",
+        "count": 1
+      },
+      {
+        "id": "cosco",
+        "count": 1
+      },
+      {
+        "id": "maersk",
+        "count": 1
+      },
+      {
+        "id": "hapag",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 24
+      },
+      {
+        "id": "shipbuilding_orders",
+        "count": 2
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 322,
+    "dup_title": 150,
+    "too_old": 99,
+    "gate1_blocked": 15,
+    "gate2_blocked": 4,
+    "passed": 54,
+    "pass_rate": "31.4%",
+    "gate2_block_rate": "2.3%",
+    "gate2_samples": [
+      "Hanwha Ocean Begins Construction of South Korea's First Domestic Aegis Destroyer - 조선일보",
+      "MS-Taiwan Index Earning Revision (Jul): TSMC, Formosa Chemicals & Fibre, UMC, Evergreen Marine - Sma",
+      "Price to sales forward of Wisdom Marine Lines Co., Limited. – TWSE:2637 - tradingview.com",
+      "Maersk expands Gemini shuttle strategy to west coast Latin America"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 27 則事件，焦點為三星重工、韓華海洋、中遠海控相關動態：「Shippers unimpressed by container line reliability」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Shippers unimpressed by container line reliability（航運產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "OceanX: Turkey delight – what delight for forwarders?（航運產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

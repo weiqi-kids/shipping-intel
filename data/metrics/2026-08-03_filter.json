@@ -1,0 +1,15 @@
+{
+  "total_raw": 322,
+  "dup_title": 150,
+  "no_date": 0,
+  "too_old": 99,
+  "gate1_fail": 15,
+  "gate2_fail": 4,
+  "passed": 54,
+  "gate2_samples": [
+    "Hanwha Ocean Begins Construction of South Korea's First Domestic Aegis Destroyer - 조선일보",
+    "MS-Taiwan Index Earning Revision (Jul): TSMC, Formosa Chemicals & Fibre, UMC, Evergreen Marine - Sma",
+    "Price to sales forward of Wisdom Marine Lines Co., Limited. – TWSE:2637 - tradingview.com",
+    "Maersk expands Gemini shuttle strategy to west coast Latin America"
+  ]
+}
