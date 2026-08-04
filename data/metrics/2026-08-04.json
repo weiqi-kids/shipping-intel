@@ -1,0 +1,41 @@
+{
+  "date": "2026-08-04",
+  "total_events": 24,
+  "by_company": {
+    "hd_korea": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "samsung_heavy": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "hanwha_ocean": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "industry_general": {
+      "count": 23,
+      "sentiment_avg": 0.07
+    },
+    "shipbuilding_orders": {
+      "count": 3,
+      "sentiment_avg": 0.17
+    },
+    "dry_bulk_rate": {
+      "count": 2,
+      "sentiment_avg": 0.5
+    },
+    "container_freight": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}

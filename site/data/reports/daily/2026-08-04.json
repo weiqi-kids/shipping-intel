@@ -1,0 +1,227 @@
+{
+  "date": "2026-08-04",
+  "generated_at": "2026-08-04T10:44:54.053785Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-08-04-014",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Zodiac Maritime lands record price in first capesize sale of the year",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "dry_bulk_rate",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://splash247.com/zodiac-maritime-lands-record-price-in-first-capesize-sale-of-the-year/"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-08-04-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "HD Hyundai begins US Shipyard export push - cyprusshippingnews.com",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPbHFRbzNYZUp2Mzc3d2pGcC0wS2hLYnNTWnZra0YxeVFGVFJVMWw3MkxsQm8yaFprSy1NQmM5S0dMOU40ZUFtalpUVjBMalRJZVcxOGd3alJRbkdOYkU1clJqYVlUQ2Q3bGxOV09aVVV0Rk41eDFuclMtVTdEaUUtTWtIdkJuY0U0VElaMmhrbw?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "hd_korea-2026-08-04-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Primer: HD Korea Shipbuilding & Offshore Engineering (009540 KS) - Aug 2026 - Smartkarma",
+      "companies": [
+        "hd_korea"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNZmNYbFR1a0FIODRNbm1TWmlJQUhXZ0dJNi12RXZ5VXp4WU1jUWx3U213M091VWhPdHR0TWZYNms5R1l3U04xX2w4MlR2alMyc1ZZcnUtbmlLbzJtMHV5bnlWLW5TNkhWMTk1bkppZUJNSDBDS3MzaTNwbl9GcXBXbTZMWnNUaFlhZF9tNGZGT29fQUEtSEJsWnNxZFpGaGc1eWFabUFvaw?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-08-04-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Samsung Heavy and Mousterian in floating data centre deal - Smart Maritime Network",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPYXdwQlJDbGczUkc4d2pZbmdQaHBGZy0yM0VKT2pKT0k1WHVTRUpfbzZJeFhuM1JXcTF5d1gycHQ5THppX3lRNDFnQVJDYlNmbV9DWXZybWdNRHdfZFAtRTQyZG5MN0FqYkZrZWNVeVpDNGFfZUE5QUlKN2xJcy1kZHM3WW0zdUZMSTNOV1VhbHVLb0QtcVZDYVpqSExXUlBmSXppSA?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "samsung_heavy-2026-08-04-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Samsung Heavy Industries Advances Floating Data Center Engineering for AI Workloads - Indiatimes",
+      "companies": [
+        "samsung_heavy"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxNM2FXQXdwNXcwS1o0QTFMYWNNMmVCNHFuN3pMZmZtSnhoVUR3cGVPYklDZFpmMUtubnllRnNYZjJxTFZtbFVMU1NIWU1QcDVMa2NlWGFlNVJtVkJCc2UxWVhCUFVvdVluNDFJVERsME9tMEdUNjcxdERDVWpvOFI5dWhKeVEwTUdHMFdWdmxWeVJmUGdDSUtjRkMzX0JDUEoyaEcyYUFlTkdjVTZtYk9nN0lYMWtlb0trUnFSblk0Y0w0V2pZZW5Wa1dQem1taHRfR3Y4M0NjZWxsQVVBbmJkcEhjQ1BPR0lOTXlmb0hLUVd5OHpnNUFCM0FJMUNLMWV3TUJGbV9Sd2I?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 23,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.07,
+      "sentiment_7d_avg": null
+    },
+    "shipbuilding_orders": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.17,
+      "sentiment_7d_avg": null
+    },
+    "dry_bulk_rate": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.5,
+      "sentiment_7d_avg": null
+    },
+    "container_freight": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 24,
+    "sentiment_distribution": {
+      "positive": 3,
+      "neutral": 20,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "hd_korea",
+        "count": 1
+      },
+      {
+        "id": "samsung_heavy",
+        "count": 1
+      },
+      {
+        "id": "hanwha_ocean",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 23
+      },
+      {
+        "id": "shipbuilding_orders",
+        "count": 3
+      },
+      {
+        "id": "dry_bulk_rate",
+        "count": 2
+      },
+      {
+        "id": "container_freight",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 332,
+    "dup_title": 158,
+    "too_old": 91,
+    "gate1_blocked": 18,
+    "gate2_blocked": 5,
+    "passed": 60,
+    "pass_rate": "34.5%",
+    "gate2_block_rate": "2.9%",
+    "gate2_samples": [
+      "Hanwha Ocean to build the ROKN’s first KDDX destroyer - Asian Military Review",
+      "Hanwha Ocean deepens US ties and eyes Saudi submarine prospect after Canada setback - Shephard Media",
+      "Hanwha Ocean Begins Construction of South Korea's First Domestic Aegis Destroyer - 조선일보",
+      "MS-Taiwan Index Earning Revision (Jul): TSMC, Formosa Chemicals & Fibre, UMC, Evergreen Marine - Sma",
+      "Price to sales forward of Wisdom Marine Lines Co., Limited. – TWSE:2637 - TradingView"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 24 則事件，焦點為韓國造船海洋、三星重工、韓華海洋相關動態：「Zodiac Maritime lands record price in first capesize sale...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Zodiac Maritime lands record price in first capesize sale of the year（散裝運價、航運產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "HD Hyundai begins US Shipyard export push - cyprusshippingnews.com（航運產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
