@@ -1,0 +1,16 @@
+{
+  "total_raw": 332,
+  "dup_title": 154,
+  "no_date": 0,
+  "too_old": 97,
+  "gate1_fail": 20,
+  "gate2_fail": 6,
+  "passed": 55,
+  "gate2_samples": [
+    "ABS and Samsung Heavy Industries Advance 50 MW and 200 MW Floating Data Center Designs - imarinenews",
+    "Hanwha Ocean to build the ROKN’s first KDDX destroyer - asianmilitaryreview.com",
+    "Hanwha Ocean deepens US ties and eyes Saudi submarine prospect after Canada setback - Shephard Media",
+    "Hanwha Ocean Begins Construction of South Korea's First Domestic Aegis Destroyer - 조선일보",
+    "MS-Taiwan Index Earning Revision (Jul): TSMC, Formosa Chemicals & Fibre, UMC, Evergreen Marine - Sma"
+  ]
+}

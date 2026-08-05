@@ -1,0 +1,188 @@
+{
+  "date": "2026-08-05",
+  "generated_at": "2026-08-05T10:41:19.307501Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-08-05-011",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Global bauxite trade triples in a decade",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://splash247.com/global-bauxite-trade-triples-in-a-decade/"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-08-05-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Samsung Heavy hits commercial vessel target early - cyprusshippingnews.com",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNUkhLX2s5UUdxZlJqcU5OTGRYWHlUdGNhWWhmVjVuSzZzdEpGTWZBZFRfOWFVc3dqcFVsTWJ4MHUxUGs2bEZaSHQ5NmZIWlF3c1RHQVQ0UGdCRUZnSVIzSmNCMEJCN3otdXhuVk12UEVYelY4WkxkUGQ2NkNZZm9WZFcwQUFLa19lNjNLVlVfZXZoTXo5Rnhv?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "wisdom-2026-08-05-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Wisdom Marine Lines Says July Revenue +42.14% Y/Y At $65.14 Mln - TradingView",
+      "companies": [
+        "wisdom"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNUzM0dUNITjc1aFdfQWdwSVR6RGROeVVzS1poZGF5ZG5qS1I1c0ZORDR2Ylp1R285S3dKb1paeF8wd0s3Qmd0UE9kVWJjdkxSeHMxcGV3a1JVcXRJS3pZelNyUHRiOVg1Y1hXeUtWWkpzQVdXa2w5S1ZldGxjV01hU2duS3hRaXNIS3JpczJycWt6U05hYkpYdmZJQ3RYNl85Z2FmMnRQT1ZPVzk3WGo4MEZ6ZEF1aWo2Y0d0OE9TclhyNGpqbzJuQW9B?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-08-05-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Damen Signs Contract with Aegean Tugs Shipping Company for ASD Tug 2811",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://maritime-executive.com/article/damen-signs-contract-with-aegean-tugs-shipping-company-for-asd-tug-2811"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-08-05-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "InterMoor secures long-term Petrobras services contract",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://splash247.com/intermoor-secures-long-term-petrobras-services-contract/"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 21,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.05,
+      "sentiment_7d_avg": null
+    },
+    "shipbuilding_orders": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 22,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 21,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "wisdom",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 21
+      },
+      {
+        "id": "shipbuilding_orders",
+        "count": 2
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 332,
+    "dup_title": 154,
+    "too_old": 97,
+    "gate1_blocked": 20,
+    "gate2_blocked": 6,
+    "passed": 55,
+    "pass_rate": "30.9%",
+    "gate2_block_rate": "3.4%",
+    "gate2_samples": [
+      "ABS and Samsung Heavy Industries Advance 50 MW and 200 MW Floating Data Center Designs - imarinenews",
+      "Hanwha Ocean to build the ROKN’s first KDDX destroyer - asianmilitaryreview.com",
+      "Hanwha Ocean deepens US ties and eyes Saudi submarine prospect after Canada setback - Shephard Media",
+      "Hanwha Ocean Begins Construction of South Korea's First Domestic Aegis Destroyer - 조선일보",
+      "MS-Taiwan Index Earning Revision (Jul): TSMC, Formosa Chemicals & Fibre, UMC, Evergreen Marine - Sma"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 22 則事件，焦點為慧洋海運相關動態：「Global bauxite trade triples in a decade」。整體情緒偏負面，需留意潛在風險。",
+    "signals": [
+      {
+        "text": "Global bauxite trade triples in a decade（航運產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "Samsung Heavy hits commercial vessel target early - cyprusshippingnews.com（航運產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
