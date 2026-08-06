@@ -1,0 +1,151 @@
+{
+  "date": "2026-08-06",
+  "date_range": {
+    "start": "2026-07-31",
+    "end": "2026-08-06"
+  },
+  "generated_at": "2026-08-06T10:44:33.849040Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "maersk-2026-08-03-023",
+      "date": "2026-08-03",
+      "title": "Shippers unimpressed by container line reliability",
+      "importance_score": 0.7
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "industry_general": {
+      "this_week": 125,
+      "last_week": 206,
+      "week_over_week_change": "-39%",
+      "sentiment_this_week": -0.0
+    },
+    "container_freight": {
+      "this_week": 5,
+      "last_week": 10,
+      "week_over_week_change": "-50%",
+      "sentiment_this_week": 0.0
+    },
+    "shipbuilding_orders": {
+      "this_week": 13,
+      "last_week": 12,
+      "week_over_week_change": "+8%",
+      "sentiment_this_week": 0.0
+    },
+    "dry_bulk_rate": {
+      "this_week": 5,
+      "last_week": 1,
+      "week_over_week_change": "+400%",
+      "sentiment_this_week": 0.2
+    }
+  },
+  "company_7d_summary": {
+    "samsung_heavy": {
+      "event_count": 7,
+      "sentiment_avg": 0.07,
+      "rank": 3
+    },
+    "hanwha_ocean": {
+      "event_count": 12,
+      "sentiment_avg": -0.04,
+      "rank": 1
+    },
+    "cosco": {
+      "event_count": 8,
+      "sentiment_avg": 0.0,
+      "rank": 2
+    },
+    "maersk": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 4
+    },
+    "hapag": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 5
+    },
+    "hd_korea": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 6
+    },
+    "wisdom": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 7
+    },
+    "star_bulk": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 8
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 313,
+        "last": 563,
+        "change_pct": -44.4
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-07-31",
+      "event_count": 83,
+      "sentiment_avg": 0.03
+    },
+    {
+      "date": "2026-08-01",
+      "event_count": 17,
+      "sentiment_avg": -0.06
+    },
+    {
+      "date": "2026-08-02",
+      "event_count": 15,
+      "sentiment_avg": -0.07
+    },
+    {
+      "date": "2026-08-03",
+      "event_count": 67,
+      "sentiment_avg": 0.03
+    },
+    {
+      "date": "2026-08-04",
+      "event_count": 50,
+      "sentiment_avg": 0.13
+    },
+    {
+      "date": "2026-08-05",
+      "event_count": 58,
+      "sentiment_avg": 0.0
+    },
+    {
+      "date": "2026-08-06",
+      "event_count": 23,
+      "sentiment_avg": 0.03
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-07-31 ~ 2026-08-06）共 313 則事件，重點為「Shippers unimpressed by container line reliability」。事件量較上週減少，市場進入觀望階段。",
+    "watchlist": [
+      {
+        "company": "三星重工",
+        "reason": "本週出現 7 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "韓華海洋",
+        "reason": "本週出現 12 則相關事件且情緒偏負面，需特別關注。"
+      },
+      {
+        "company": "中遠海控",
+        "reason": "本週出現 8 則相關事件，為高關注企業，動態頻繁。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

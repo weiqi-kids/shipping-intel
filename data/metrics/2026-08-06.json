@@ -1,0 +1,37 @@
+{
+  "date": "2026-08-06",
+  "total_events": 23,
+  "by_company": {
+    "hanwha_ocean": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "cosco": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "star_bulk": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "industry_general": {
+      "count": 22,
+      "sentiment_avg": 0.03
+    },
+    "shipbuilding_orders": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "dry_bulk_rate": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}
