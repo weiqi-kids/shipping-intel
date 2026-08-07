@@ -1,0 +1,202 @@
+{
+  "date": "2026-08-07",
+  "generated_at": "2026-08-07T09:04:55.813734Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-08-07-008",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Sompo moves to close GPS jamming insurance gap",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://splash247.com/sompo-moves-to-close-gps-jamming-insurance-gap/"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-08-07-014",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Wall Street can’t agree on whether Expeditors’ boom is the new baseline",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://theloadstar.com/wall-street-cant-agree-on-whether-expeditors-boom-is-the-new-baseline/"
+    },
+    {
+      "rank": 3,
+      "event_id": "samsung_heavy-2026-08-07-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "TEN announces delivery and naming of the third in a series of twelve DP2 Shuttle Tankers ordered at Samsung Heavy Industries, South Korea - Cyprus Shipping News",
+      "companies": [
+        "samsung_heavy"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxQVW03WHRLbVgxa0hRc0J4MGZTQUpYNGpvVEZlZ2lRRzUwY0xhOE9iSGN3SWsxTm1xbzlMaHRoeXktN2gyTkxHcE9OQXNocVU3MFAzWGktWGtRSFhZQjlKb016aTJuSG5DU3c0QnQtUVRiQUZrSU1sT0lvMzlDQmdtMW5kektmYjlNRGFVMWVvOFhsNXdXVXhpOUNHdnFrckZKc1hfUTRVX0ROak92cXh1NEViX1JsN0VsSDk3LXZSMjJ1ZW16OHc1Y0pTMHJXa0c2X3JSdFFRUTM2ajl4ZVFOSTVfejZuUzJGTDdaSDByTzJyYjREOHhXUE1IVUVLcE1DYlpCMlhpMXNvYnotR3Q4Xw?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-08-07-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Korea partners with US to train shipbuilding workforce amid shortage - Cyprus Shipping News",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNZEpucklaT1F4YnJCeW8yZDdZQms4UlIzdWE5YUtSd2FTVEVyUV9nNXUtRl9uX2JVV0FVTmg0NldQcjZTSFFjU2ItWThiSFJ6TVRtM2lBYnhDbFlnUDZOTlNHbjBMR2dIcTRJWlB6QXdpOXF4X2F1YTMzbXdTVUxTa0pHWF9Cc1hyOTlSRXIySkpZYmp3dDg1LV9WV3QybS1wNUpPSkE2aHNpMXZWZy1TSw?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "cosco-2026-08-07-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "COSCO Shipping deploys methanol-ready grain carrier on South America-China routes - Manifold Times",
+      "companies": [
+        "cosco"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOTW1xc20xTFZuTjJpcGRuZ0xNTnhnOUNVMWhQRC13UjE3Nk1qM3gtbU5ucUVBX2dHcFhHaTJobTRoMzU3LWhMeE9SbV9mZ0pnWUtEVXgwMThuWXNyNHM2bElIdV9xVU15cV9pRmxjUHZ2YzRjbnhLTFJEZXA1UWI4bGtoYXhJUVQ5ZVA5RWRnZnJFYW91NjU0bHN4c1NzTWg3ODhld2hLWFhranB4NVoxY2Y0eVNwcWVV?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 16,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.16,
+      "sentiment_7d_avg": null
+    },
+    "shipbuilding_orders": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.5,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 16,
+    "sentiment_distribution": {
+      "positive": 4,
+      "neutral": 11,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "samsung_heavy",
+        "count": 1
+      },
+      {
+        "id": "cosco",
+        "count": 1
+      },
+      {
+        "id": "star_bulk",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 16
+      },
+      {
+        "id": "shipbuilding_orders",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 332,
+    "dup_title": 152,
+    "too_old": 96,
+    "gate1_blocked": 21,
+    "gate2_blocked": 7,
+    "passed": 56,
+    "pass_rate": "31.1%",
+    "gate2_block_rate": "3.9%",
+    "gate2_samples": [
+      "ABS and Samsung Heavy Industries Advance 50 MW and 200 MW Floating Data Center Designs - gCaptain",
+      "ABS and Samsung Heavy Industries advance floating data center concepts - Offshore Magazine",
+      "Hanwha Ocean to build the ROKN’s first KDDX destroyer - Asian Military Review",
+      "Hanwha Ocean deepens US ties and eyes Saudi submarine prospect after Canada setback - Shephard Media",
+      "Evergreen Marine Corp. (Taiwan) Ltd. Bonds — Corporate Bond Rates - tradingview.com"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 16 則事件，焦點為三星重工、中遠海控、Star Bulk Carriers相關動態：「Sompo moves to close GPS jamming insurance gap」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Sompo moves to close GPS jamming insurance gap（航運產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "Wall Street can’t agree on whether Expeditors’ boom is the new baseline（航運產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
