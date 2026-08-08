@@ -1,0 +1,87 @@
+{
+  "date": "2026-08-08",
+  "generated_at": "2026-08-08T08:48:17.070524Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-08-08-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "MSC boxship sinks deeper off Zhoushan after failed refloating",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://splash247.com/msc-boxship-sinks-deeper-off-zhoushan-after-failed-refloating/"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 1,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 1,
+      "negative": 0
+    },
+    "top_companies": [],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 332,
+    "dup_title": 166,
+    "too_old": 94,
+    "gate1_blocked": 14,
+    "gate2_blocked": 6,
+    "passed": 52,
+    "pass_rate": "31.3%",
+    "gate2_block_rate": "3.6%",
+    "gate2_samples": [
+      "ABS and Samsung Heavy Industries Advance 50 MW and 200 MW Floating Data Center Designs - gCaptain",
+      "ABS and Samsung Heavy Industries advance floating data center concepts - Offshore Magazine",
+      "Hanwha Ocean to build the ROKN’s first KDDX destroyer - asianmilitaryreview.com",
+      "Hanwha Ocean deepens US ties and eyes Saudi submarine prospect after Canada setback - Shephard Media",
+      "Evergreen Marine Corp. (Taiwan) Ltd. Bonds — Corporate Bond Rates - tradingview.com"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 1 則事件，焦點為航運產業通用相關動態：「MSC boxship sinks deeper off Zhoushan after failed refloa...」。主要關注主題為航運產業通用，市場情緒中性。",
+    "signals": [
+      {
+        "text": "MSC boxship sinks deeper off Zhoushan after failed refloating（航運產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "建議持續監控後續發展動態。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

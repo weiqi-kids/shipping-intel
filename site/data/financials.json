@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-07T09:04:52.417932Z",
+  "updated_at": "2026-08-08T08:48:13.476761Z",
   "quarter": "2025-12-31, 2026-03-31",
   "companies": [
     {
@@ -194,17 +194,17 @@
       "name": "慧洋海運",
       "ticker": "2637.TW",
       "currency": "TWD",
-      "ar": 6475599,
-      "ar_prev": 6730703,
-      "ar_qoq": "-4%",
+      "ar": 163104000,
+      "ar_prev": 202515292,
+      "ar_qoq": "-19%",
       "ar_period": "QoQ",
-      "inventory": 4666655,
-      "inv_prev": 5215381,
-      "inv_qoq": "-11%",
+      "inventory": 117398000,
+      "inv_prev": 145943101,
+      "inv_qoq": "-20%",
       "inv_period": "QoQ",
       "inventory_applicable": true,
       "alert": false,
-      "quarter_date": "2025-12-31"
+      "quarter_date": "2026-03-31"
     },
     {
       "id": "yang_ming",

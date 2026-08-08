@@ -1,0 +1,16 @@
+{
+  "total_raw": 332,
+  "dup_title": 166,
+  "no_date": 0,
+  "too_old": 94,
+  "gate1_fail": 14,
+  "gate2_fail": 6,
+  "passed": 52,
+  "gate2_samples": [
+    "ABS and Samsung Heavy Industries Advance 50 MW and 200 MW Floating Data Center Designs - gCaptain",
+    "ABS and Samsung Heavy Industries advance floating data center concepts - Offshore Magazine",
+    "Hanwha Ocean to build the ROKN’s first KDDX destroyer - asianmilitaryreview.com",
+    "Hanwha Ocean deepens US ties and eyes Saudi submarine prospect after Canada setback - Shephard Media",
+    "Evergreen Marine Corp. (Taiwan) Ltd. Bonds — Corporate Bond Rates - tradingview.com"
+  ]
+}
