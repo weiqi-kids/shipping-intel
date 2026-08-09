@@ -1,0 +1,134 @@
+{
+  "date": "2026-08-09",
+  "generated_at": "2026-08-09T08:49:58.079847Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-08-09-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "U.S. Ambassador Hails Korean Shipbuilding Craftsmanship at Samsung Launch - 조선일보",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNUXVwVlFmU0s3WF9zbks4YnhHUmdXNWFnb0M1bzFMWjlVd0dOcGpXdm42Q0tiMGk5Q05OeHpYRUtKdUNtVHFZT052dG1nQmFyNWt3aThmTmhvcWJOM3M4aWQ3dFhjdGhmRHgwYTRMNFhLanBRbHJVZXBZMUZJT2hLMndYVzM?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-08-09-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "U.S. envoy Guilfoyle touts Korea shipbuilding in Samsung yard visit - CHOSUNBIZ - Chosunbiz",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQbGx1M29YQVdFNkdCWWJvOTBZMzNYRjFlZ1U1QXE4aWdmdkRDRV9BeVZucTJ2Ul81T0Y2T3RBclJLX2hOM2RZRlFuZ3dhTmpnS0RzYlQ0X2Fwa1c2NnMtUm42VlZWM0kwQTRmZnNyR1VVSWlMUHFyejI1Vk13SFFOVE1mbFM1NnYy0gGcAUFVX3lxTE5nZGlPNWJITDY0QU53T05UdWlWRzI0ZFhRYi1yTEEtVy1Zd0I1TlF2aU9YZUpiM0NyWk9tUkwwcVY0amozbVBnbW9yaUZ4UXVXY1dtcVM4aGhCUERZRHlpeFVzanZldVJIZjh6MjJ2YkhTTHZpTklkUkZ1cWdEZ0IzZkJTZENwMzRrWDQ2R2I2d2ltQnRkZWpVem40ag?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "star_bulk-2026-08-09-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Star Bulk Carriers (SBLK) Stock Looks Below Fair Value By 40% - simplywall.st",
+      "companies": [
+        "star_bulk"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPbDJuN2VhT2k2SVY5V2ZmZ055RWFRbXY2Nlp0MzFndDZjMzdWWXctX3ZqNnczY2daSGJRN29GMU9DMkxMNEplRGN4NjlPUFRIbjNUbUs3SFdFazBnZXp1TngyUzdJdXdtNk9BX3B2XzdnX1BSZHBidVgta0l0LU1DSDM0UEpBRThoamJEWWJCZmpIUDFCY1VweE5icEEwcnQ0Vlp3Q094ZFFBY3JkNjhsVHpJNGR0SE1vMllYLWZ6UEVjc3ZkZUw4YUJQQkUzRm5Qd2x2NUZtTErSAd4BQVVfeXFMT0lseXpROUxKaGEyM2xUcUFzZEF3c1JDNDNUZ2g1enkzbEFXX1Z3QUpLWXp2NF9iZ0k1ZXp5SnhuX2lobkZEVWhXY2hSc0VjVmgwLWZiaWhyOW5ZQ2pkT3JOVmU3Y0owN3pqaXlQOEtrVFExNmgyWHR0N3B2d0JsTFlRb1p2WnptYnpuSmJ1LVd2UEljOGZYbmQ0Rk1XQ2puZ0FhMTV3T0lDOHRKN2YzSkFJUXpQNzEtOGcwdUFqLTZzQ3dsS3hWZndSdXlaeGxfeko3VUhhMjlTTElwWGNR?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 3,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 3,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "star_bulk",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 3
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 322,
+    "dup_title": 183,
+    "too_old": 98,
+    "gate1_blocked": 13,
+    "gate2_blocked": 6,
+    "passed": 22,
+    "pass_rate": "15.8%",
+    "gate2_block_rate": "4.3%",
+    "gate2_samples": [
+      "ABS and Samsung Heavy Industries Advance 50 MW and 200 MW Floating Data Center Designs - gCaptain",
+      "ABS and Samsung Heavy Industries advance floating data center concepts - offshore-mag.com",
+      "Hanwha Ocean to build the ROKN’s first KDDX destroyer - Asian Military Review",
+      "Hanwha Ocean deepens US ties and eyes Saudi submarine prospect after Canada setback - Shephard Media",
+      "Evergreen Marine Corp. (Taiwan) Ltd. Bonds — Corporate Bond Rates - TradingView"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 3 則事件，焦點為Star Bulk Carriers相關動態：「U.S. Ambassador Hails Korean Shipbuilding Craftsmanship a...」。主要關注主題為航運產業通用，市場情緒中性。",
+    "signals": [
+      {
+        "text": "U.S. Ambassador Hails Korean Shipbuilding Craftsmanship at Samsung Launch - 조선일보（航運產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "U.S. envoy Guilfoyle touts Korea shipbuilding in Samsung yard visit - CHOSUNB...（航運產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

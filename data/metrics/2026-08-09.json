@@ -1,0 +1,21 @@
+{
+  "date": "2026-08-09",
+  "total_events": 3,
+  "by_company": {
+    "star_bulk": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "industry_general": {
+      "count": 3,
+      "sentiment_avg": 0.0
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}
