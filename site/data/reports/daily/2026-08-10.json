@@ -1,0 +1,182 @@
+{
+  "date": "2026-08-10",
+  "generated_at": "2026-08-10T09:27:57.034836Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-08-10-011",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Russian armada pushes east through the Arctic",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://splash247.com/russian-armada-pushes-east-through-the-arctic/"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-08-10-017",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Congestion fear as ‘unnavigable’ Rhine means cargo shift to road and rail",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://theloadstar.com/congestion-fear-as-unnavigable-rhine-means-cargo-shift-to-road-and-rail/"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-08-10-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Korea’s Big Three shipbuilders ride gas, offshore, defense boom with $145 bn in order backlog - KED Global",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFAxcWR3QmtXRkc0Vk9jQzlOS0JjdW9EUk1uejVxNnY3N3FCUW1laWhKQ3dwMjU0MVNxM0RFQTZBLU5sQ3d2bUNQelF2VndhUW1FVzljZ1d1TzBtZVRnQ21lQ1BpN0FlMkVuaUtVbVdWdTVzdHZJY0dYd05oRnM?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-08-10-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Floating Data Centers Emerge as Growth Engine for Shipbuilding Industry - Businesskorea",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE82U1A4LWdRRVFRbXQ3czRJcjlwdHIycWlSMkVXWTRJcm51a2NtOHdkWV84dThMQ2otX1hTeHJ5ZW1UbnpjSlZiM2NicTNQSkxGcU1pTVREcnZNTHlCSUNGS0xMTXNQTk1oTktENURhZ190MlBE?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "cosco-2026-08-10-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "COSCO car carrier evacuated after engine-room fire off Costa Rica - WorldCargo News",
+      "companies": [
+        "cosco"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxONE5FcTRxUDVQekpZSDZ0QVBoeGhiS0F2Rk1tOTBSbkNSNFFwTjRoZmQyS2ZobVZGMHR0MGRUQ0xOZFhua0ZGU3dQbUFUN3U5VXpKMUcxTmt4RzVFNkY3SlRVM18xdldabnllMk8xSGlpYTFUcGkxSDdYbnVGYURoSEIzUkFjSkVGVkx6SWc2dWJTS2F3VDhjMGZ2Vy04bmx2bVE0RmNYZGp2aFlYZWlN?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 19,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.13,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 19,
+    "sentiment_distribution": {
+      "positive": 3,
+      "neutral": 16,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "cosco",
+        "count": 2
+      },
+      {
+        "id": "star_bulk",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 19
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 331,
+    "dup_title": 171,
+    "too_old": 97,
+    "gate1_blocked": 8,
+    "gate2_blocked": 7,
+    "passed": 48,
+    "pass_rate": "30.0%",
+    "gate2_block_rate": "4.4%",
+    "gate2_samples": [
+      "ABS and Samsung Heavy Industries Advance 50 MW and 200 MW Floating Data Center Designs - gCaptain",
+      "ABS and Samsung Heavy Industries advance floating data center concepts - offshore-mag.com",
+      "Hanwha Ocean to build the ROKN’s first KDDX destroyer - Asian Military Review",
+      "Hanwha Ocean deepens US ties and eyes Saudi submarine prospect after Canada setback - Shephard Media",
+      "Evergreen Marine Corp. (Taiwan) Ltd. Bonds — Corporate Bond Rates - TradingView"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 19 則事件，焦點為中遠海控、Star Bulk Carriers相關動態：「Russian armada pushes east through the Arctic」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Russian armada pushes east through the Arctic（航運產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "Congestion fear as ‘unnavigable’ Rhine means cargo shift to road and rail（航運產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
