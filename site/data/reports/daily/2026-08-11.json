@@ -1,0 +1,202 @@
+{
+  "date": "2026-08-11",
+  "generated_at": "2026-08-11T09:03:19.266073Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-08-11-012",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Rhine cut in two as European drought cripples inland shipping",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://splash247.com/rhine-cut-in-two-as-european-drought-cripples-inland-shipping/"
+    },
+    {
+      "rank": 2,
+      "event_id": "samsung_heavy-2026-08-11-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Korea Cast Iron Pipe Industry Signs Large Cast Steel Product Contract with Samsung Heavy Industries... Order Backlog Up 30% - 아시아경제",
+      "companies": [
+        "samsung_heavy"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE95emFyZVotdk5ha19ULVlvdzVGVVJpX0lKdk0tZjV3VEdSRkhYVDNfdWJxa0F6d2NFMWNXZzZublJWRnVJdlJrSUd2S2V0U2hyb3JuZ1oyYmRMMFE1QkRRU1VtdEM?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "cosco-2026-08-11-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Cadeler Orders Two T-Class Offshore Wind Vessels at COSCO SHIPPING (Qidong) Offshore - imarinenews.com",
+      "companies": [
+        "cosco"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE8tZ0thWFktcjJkcEU2VVd4NGFsWDdrYW1TS0U5M0V1dnRZNGtPSUswbExfbnZrU0d4ZlNEM1Z0eTJGazV6V2x3WTRJT0pvdjA?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "cosco-2026-08-11-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "COSCO Shipping's newest 80,000DWT grain carrier floated out - Baird Maritime",
+      "companies": [
+        "cosco"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPZjhBMTJXWXVNZFB2Z3hUenVkUUl2RzZpdXhfQnREMVhCTGpfclk1LTdiaTA3S1ktMUQ4MmVlTXdZSFlVanY2OFN1WHdNRDVNZC1CajBkdVNHbFgzZXVUZy03eVVvdFhaLTJnazFnNUVONGthdUI4eGxZck1mWVd4ZGJGSjcyRjRqc2ppaVV1ZkJXeVFYRGswRnNBSVliYnl1TzR3akFPR2F3SVNKdHA0N1dKQVnSAcIBQVVfeXFMTXhpN3h2OHJRZXlMaFM5azU3M3RWZy13clB0aWtJTUoycGlzTF9rS2ZyN1VldTJtTFV6VU13ZndaU3NCajIyekxhSVNleXVUdXJQQmpIWkZsWVJxbUNLU1BIMmN3Rkdza1R4ZDhLZ3BkbFUySGxkellFSEJwQUt5ejFyaldYa2tCaVJ1dS16ckUtSWxHS3E1d3ZkSndiMzlES3pITGctYkNia3dTaF90NTJ6UUpWZzZMVzY3cFhfRU9xSmc?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "cosco-2026-08-11-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "HK Stock Market Movement | COSCO Shipping Energy (01138) Drops Over 7% in Afternoon Trade as Risk Premium Divergence Across Loading Ports Widens Further - 富途牛牛",
+      "companies": [
+        "cosco"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxObXNqYUpLRGNnQ3RDSDd1RzU3bXU5cHZveElXRDhTV0hPbmRvTktvMkZqckNhX2dnM0pRRTZKeVpaTjJobDRvZkY5bE5oaVN3c0RvTFRyaWhva1ZwNmhxNW96U1hqWUtsR1BzMzhJUV9ITVdmYTFVMWZjaEhSN2dqdEh4M2llSWJRQWN4NVAzVFJ5dTFrazRyZXhPbDhtTGlhLVhPTGxpbw?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 19,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.08,
+      "sentiment_7d_avg": null
+    },
+    "shipbuilding_orders": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 20,
+    "sentiment_distribution": {
+      "positive": 2,
+      "neutral": 18,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "cosco",
+        "count": 3
+      },
+      {
+        "id": "star_bulk",
+        "count": 2
+      },
+      {
+        "id": "samsung_heavy",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 19
+      },
+      {
+        "id": "shipbuilding_orders",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 330,
+    "dup_title": 144,
+    "too_old": 95,
+    "gate1_blocked": 15,
+    "gate2_blocked": 8,
+    "passed": 67,
+    "pass_rate": "36.0%",
+    "gate2_block_rate": "4.3%",
+    "gate2_samples": [
+      "ABS and Samsung Heavy Industries Advance 50 MW and 200 MW Floating Data Center Designs - gCaptain",
+      "ABS and Samsung Heavy Industries advance floating data center concepts - Offshore Magazine",
+      "Hanwha Ocean to build the ROKN’s first KDDX destroyer - asianmilitaryreview.com",
+      "Hanwha Ocean deepens US ties and eyes Saudi submarine prospect after Canada setback - Shephard Media",
+      "Evergreen Marine Corp. (Taiwan) Ltd. Bonds — Corporate Bond Rates - TradingView"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 20 則事件，焦點為中遠海控、Star Bulk Carriers、三星重工相關動態：「Rhine cut in two as European drought cripples inland ship...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Rhine cut in two as European drought cripples inland shipping（航運產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "Korea Cast Iron Pipe Industry Signs Large Cast Steel Product Contract with Sa...",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

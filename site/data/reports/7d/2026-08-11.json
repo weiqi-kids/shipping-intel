@@ -1,0 +1,126 @@
+{
+  "date": "2026-08-11",
+  "date_range": {
+    "start": "2026-08-05",
+    "end": "2026-08-11"
+  },
+  "generated_at": "2026-08-11T09:03:19.379048Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "hapag-2026-08-10-050",
+      "date": "2026-08-10",
+      "title": "Maersk and Hapag-Lloyd Restore Another Gemini Route to Suez",
+      "importance_score": 0.7
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "industry_general": {
+      "this_week": 101,
+      "last_week": 170,
+      "week_over_week_change": "-41%",
+      "sentiment_this_week": 0.06
+    },
+    "shipbuilding_orders": {
+      "this_week": 5,
+      "last_week": 17,
+      "week_over_week_change": "-71%",
+      "sentiment_this_week": 0.1
+    },
+    "dry_bulk_rate": {
+      "this_week": 2,
+      "last_week": 3,
+      "week_over_week_change": "-33%",
+      "sentiment_this_week": 0.0
+    }
+  },
+  "company_7d_summary": {
+    "wisdom": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 4
+    },
+    "hanwha_ocean": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 5
+    },
+    "cosco": {
+      "event_count": 7,
+      "sentiment_avg": 0.0,
+      "rank": 1
+    },
+    "star_bulk": {
+      "event_count": 6,
+      "sentiment_avg": 0.0,
+      "rank": 2
+    },
+    "samsung_heavy": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 3
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 322,
+        "last": 444,
+        "change_pct": -27.5
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-08-05",
+      "event_count": 69,
+      "sentiment_avg": 0.0
+    },
+    {
+      "date": "2026-08-06",
+      "event_count": 67,
+      "sentiment_avg": 0.01
+    },
+    {
+      "date": "2026-08-07",
+      "event_count": 70,
+      "sentiment_avg": 0.03
+    },
+    {
+      "date": "2026-08-08",
+      "event_count": 13,
+      "sentiment_avg": 0.08
+    },
+    {
+      "date": "2026-08-09",
+      "event_count": 20,
+      "sentiment_avg": -0.03
+    },
+    {
+      "date": "2026-08-10",
+      "event_count": 63,
+      "sentiment_avg": 0.08
+    },
+    {
+      "date": "2026-08-11",
+      "event_count": 20,
+      "sentiment_avg": 0.07
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-08-05 ~ 2026-08-11）共 322 則事件，重點為「Maersk and Hapag-Lloyd Restore Another Gemini R...」。航運產業通用、造船訂單、散裝運價為本週焦點話題。",
+    "watchlist": [
+      {
+        "company": "中遠海控",
+        "reason": "本週出現 7 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "Star Bulk Carriers",
+        "reason": "本週出現 6 則相關事件，為高關注企業，動態頻繁。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
