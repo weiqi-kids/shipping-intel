@@ -1,0 +1,16 @@
+{
+  "total_raw": 351,
+  "dup_title": 134,
+  "no_date": 1,
+  "too_old": 95,
+  "gate1_fail": 21,
+  "gate2_fail": 9,
+  "passed": 91,
+  "gate2_samples": [
+    "ABS and Samsung Heavy Industries Advance 50 MW and 200 MW Floating Data Center Designs - gCaptain",
+    "ABS and Samsung Heavy Industries advance floating data center concepts - Offshore Magazine",
+    "Austal (ASB AU): Hanwha Ocean’s Compelling Offer for the US Business - Smartkarma",
+    "Evergreen Marine Corp. (Taiwan) Ltd. Bonds — Corporate Bond Rates - TradingView",
+    "News Cosco returns to Red Sea sailings, despite threats from Houthis - The Loadstar"
+  ]
+}

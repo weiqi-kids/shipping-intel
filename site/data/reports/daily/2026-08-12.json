@@ -1,0 +1,214 @@
+{
+  "date": "2026-08-12",
+  "generated_at": "2026-08-12T09:16:01.045082Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-08-12-009",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Drone strikes put Libya’s Zawiya oil hub at risk",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://splash247.com/drone-strikes-put-libyas-zawiya-oil-hub-at-risk/"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-08-12-010",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "AXSMarine: AI, blockchain and the technologies shipping actually needs",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://splash247.com/axsmarine-ai-blockchain-and-the-technologies-shipping-actually-needs/"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-08-12-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Physical AI, robotics revive lagging U.S. shipbuilding - TechTarget",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQS0pvZm1wREJ5b2tuUTJJeWluZENRTVJpWTY2YktJMl9sY0NaRG5wWF9iVmRmUDNVb1VqbzhYTXF6YlY0MlBpR0tETVJSM0VXXzk4OGloQ1l0aGMxNDZuRDZDRDU5ZnEtb3ZLbHY1SERPVDdmbVZ4N1pyeXFCbjlIOWRhd2t1MFQ3UmJEcXNlSzQzcXM?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-08-12-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Floating Data Centers emerge as growth engine for shipbuilding industry - Cyprus Shipping News",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPNE56WVpNaFA1LWJwUEpKYXh3cWM3ZzQ2WTk4aGwxbDNGWUJySmJ0SmVxallNRk5jak9UQUhBY3BPb2ZVT2NHNDJYT1o3WXkxQmNCMWY4NmxpUHM2R3VPTDRKWFl6blprUE9MQmFNc3JyQW1KOFpMbTBmOUgxdkRBZnk3dzdsWlVBdk1pd01PNnNPbmdKeUZCNHQyX0hIYzFCSDRKMmhIZzZhTGVvMlpsaUR5ZG8?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "yang_ming-2026-08-12-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Yang Ming Marine Transport Says Jan-Jun Net Profit T$7.17 Bln - TradingView",
+      "companies": [
+        "yang_ming"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOX05wazNwOVd0ZFhQRnlIMGE4c3ZtWHRpU3JUSjdITndRZ1hSVFlqdXR6SVFVeWxZbjBmZmNWenFLZE9pRkNPOWtUX3o4bVdFMFhwSFJsT252OEkwWkJsSTlIR3ZZcnFib0JMdzZLMk4xRnhJRzFPYlgxLVhOY2dfNzBYdUdRQUdzWHhpZDA5YzVHYTJpa1QyLVAxT0x3Q05xaFJrUHVIR3JZTU5xUG9YSkFrbURkNGhVM05xbEdQMGNtdlNfelNTQzV3WQ?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 18,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.06,
+      "sentiment_7d_avg": null
+    },
+    "shipbuilding_orders": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "container_freight": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 19,
+    "sentiment_distribution": {
+      "positive": 4,
+      "neutral": 13,
+      "negative": 2
+    },
+    "top_companies": [
+      {
+        "id": "star_bulk",
+        "count": 2
+      },
+      {
+        "id": "yang_ming",
+        "count": 1
+      },
+      {
+        "id": "wan_hai",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 18
+      },
+      {
+        "id": "shipbuilding_orders",
+        "count": 1
+      },
+      {
+        "id": "container_freight",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 351,
+    "dup_title": 134,
+    "too_old": 95,
+    "gate1_blocked": 21,
+    "gate2_blocked": 9,
+    "passed": 91,
+    "pass_rate": "41.9%",
+    "gate2_block_rate": "4.1%",
+    "gate2_samples": [
+      "ABS and Samsung Heavy Industries Advance 50 MW and 200 MW Floating Data Center Designs - gCaptain",
+      "ABS and Samsung Heavy Industries advance floating data center concepts - Offshore Magazine",
+      "Austal (ASB AU): Hanwha Ocean’s Compelling Offer for the US Business - Smartkarma",
+      "Evergreen Marine Corp. (Taiwan) Ltd. Bonds — Corporate Bond Rates - TradingView",
+      "News Cosco returns to Red Sea sailings, despite threats from Houthis - The Loadstar"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 19 則事件，焦點為Star Bulk Carriers、陽明海運、萬海航運相關動態：「Drone strikes put Libya’s Zawiya oil hub at risk」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Drone strikes put Libya’s Zawiya oil hub at risk（航運產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "AXSMarine: AI, blockchain and the technologies shipping actually needs（航運產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
