@@ -1,0 +1,256 @@
+{
+  "date": "2026-08-13",
+  "generated_at": "2026-08-13T09:17:29.512709Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "wan_hai-2026-08-13-013",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "Wan Hai Lines Orders Eight Containerships at CSSC’s Waigaoqiao Shipbuilding - imarinenews.com",
+      "companies": [
+        "wan_hai",
+        "cssc"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1Yak9GMVh2ekNhcjktVXdNZ05ULVV2Q0ozVFdDVFhhY2ExOEJQSFNiZ3U5em41XzN1YVhsdHJPS2xfRFFWXzNRTnVXbjJEc1k?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "wan_hai-2026-08-13-023",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "Wan Hai piles on boxship orders with near-$1bn deal",
+      "companies": [
+        "wan_hai",
+        "cssc"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "shipbuilding_orders",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://splash247.com/wan-hai-piles-on-boxship-orders-with-near-1bn-deal/"
+    },
+    {
+      "rank": 3,
+      "event_id": "samsung_heavy-2026-08-13-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Hankook Steel inks shipbuilding component contract with Samsung Heavy Industries - Yieh Corp.",
+      "companies": [
+        "samsung_heavy"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPdFd4ejVqMGltNDFVMkljQ18wQ0Q2OVJ4ZE4yOG1zckhwajNLbVh1bExHNG1tand2RHhQN3VIV0RkaHh5MUNETUdlZHVWeFlPNEhNdHJGbWw2NEZtNlh5ZTZwWGNPSFUtZWU1MWR4UXZJNmpUWlQ3YjZOb3ZuMEpPaGVuSjhUMWEtYjF2TkRobVVqMW9xdTNPZkpoZzY3VjZWWU9PNFRhZW1zalg1LTk4MkZB?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "samsung_heavy-2026-08-13-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Samsung Heavy Industries and KAIST Elevate 32-Year Partnership with Next-Generation Ship Research Center - finance.biggo.com",
+      "companies": [
+        "samsung_heavy"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5fNFpzcHI5NXE4aFZzRGRTT2o0bEZrRy1NQkdDRGxjSC1VTGFLNC1VNklINWZval9nMERCVS1uT3UzeDNLT2Y3WEhkbXN3YjRHOEF3QkJKSFBfdzVNQVJWbC1SN0g2eDFMNmxqdU1Jcm9pUHQ2NlE?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-08-13-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Samsung Heavy and KAIST open future ship research hub - Splash247",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPOUppNmdScWpfZFp0SU9HcHRZWWdoRHBHekFtUEZCN0FuOXVLMktDZ0VXTmthVE5vbm9sX1N1ZVNaSnhFX0tkZWZoaTRyR2NyZ21rWVF3bHJCV29NeGxIYnF3ZkRjdDA0aDlURXl3b01HaTJHU0l5MTczc002Y0hCSFhR?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 34,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.01,
+      "sentiment_7d_avg": null
+    },
+    "dry_bulk_rate": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "shipbuilding_orders": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "container_freight": {
+      "today": 4,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.12,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [
+    {
+      "from": "cssc",
+      "to": "wan_hai",
+      "relation": "co_mention",
+      "co_mention_count": 2,
+      "topics": [
+        "industry_general",
+        "shipbuilding_orders"
+      ]
+    }
+  ],
+  "stats": {
+    "total_events": 34,
+    "sentiment_distribution": {
+      "positive": 2,
+      "neutral": 31,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "samsung_heavy",
+        "count": 6
+      },
+      {
+        "id": "wan_hai",
+        "count": 3
+      },
+      {
+        "id": "cssc",
+        "count": 2
+      },
+      {
+        "id": "cosco",
+        "count": 1
+      },
+      {
+        "id": "star_bulk",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 34
+      },
+      {
+        "id": "container_freight",
+        "count": 4
+      },
+      {
+        "id": "dry_bulk_rate",
+        "count": 1
+      },
+      {
+        "id": "shipbuilding_orders",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 352,
+    "dup_title": 135,
+    "too_old": 88,
+    "gate1_blocked": 26,
+    "gate2_blocked": 8,
+    "passed": 95,
+    "pass_rate": "43.8%",
+    "gate2_block_rate": "3.7%",
+    "gate2_samples": [
+      "ABS and Samsung Heavy Industries Advance 50 MW and 200 MW Floating Data Center Designs - gCaptain",
+      "Austal (ASB AU): Hanwha Ocean’s Compelling Offer for the US Business - Smartkarma",
+      "Evergreen Marine Corp. (Taiwan) Ltd. Bonds — Corporate Bond Rates - TradingView",
+      "News Cosco returns to Red Sea sailings, despite threats from Houthis - The Loadstar",
+      "K9 stop on Louisiana’s I-12 uncovers 358 kilos of meth in semi-trailer, driver now in ICE custody"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 34 則事件，焦點為三星重工、萬海航運、中國船舶相關動態：「Wan Hai Lines Orders Eight Containerships at CSSC’s Waiga...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Wan Hai Lines Orders Eight Containerships at CSSC’s Waigaoqiao Shipbuilding -...（航運產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "Wan Hai piles on boxship orders with near-$1bn deal（造船訂單、航運產業通用）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
