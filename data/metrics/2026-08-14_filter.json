@@ -1,0 +1,16 @@
+{
+  "total_raw": 352,
+  "dup_title": 150,
+  "no_date": 0,
+  "too_old": 77,
+  "gate1_fail": 28,
+  "gate2_fail": 6,
+  "passed": 91,
+  "gate2_samples": [
+    "Austal (ASB AU): Hanwha Ocean’s Compelling Offer for the US Business - Smartkarma",
+    "Evergreen Marine Corp. (Taiwan) Ltd. Bonds — Corporate Bond Rates - TradingView",
+    "News Cosco returns to Red Sea sailings, despite threats from Houthis - The Loadstar",
+    "Ex Williams-Sonoma exec pleads guilty to $16M warehouse kickback scheme",
+    "K9 stop on Louisiana’s I-12 uncovers 358 kilos of meth in semi-trailer, driver now in ICE custody"
+  ]
+}

@@ -1,0 +1,250 @@
+{
+  "date": "2026-08-14",
+  "generated_at": "2026-08-14T09:12:37.974039Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-08-14-024",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "CNBC: This copper bet has became a real-time gauge of Trump’s next trade war salvo",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://theloadstar.com/cnbc-this-copper-bet-has-became-a-real-time-gauge-of-trumps-next-trade-war-salvo/"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-08-14-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Hanwha stands to benefit from Trump’s decision on foreign shipbuilding rules - KED Global",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE0wSlNCQzY5UDhiV0RTcnpKc21oTFJMWVhBR0pBZ09ISWZzc09IVnpyN19kSVoyeGczME5JWGE5Ym9iV2laV2JENVhvdHlidERXdU5rREt5RXBBSzZYUjJCR0l1MXVhZmpiYjQyeGJQT2JveVR0Ynhz?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "hanwha_ocean-2026-08-14-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Trump Eases Foreign-Built Warship Ban, Opening Door for Hanwha Ocean - chosun.com",
+      "companies": [
+        "hanwha_ocean"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNVDVZMGRnRVN1a2drTHVnWXJncTAxdmNFSkZicEYycVlWbUtmOERoSUNZZUc2NjNhVl85WHhMWTVLSXRFLW5rcEF6WFEwcmN4ZTR5dW5OLS00dlgyLS0xNGdUZXBMZlMzOVJ5V0x6Q3lKZGJjZFNaS2ZoOU5ZWUdpbmQ5eUtvMnV5?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-08-14-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Trump order on foreign-built US ships boosts Hanwha, but strings attached - The Korea Times",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQbGtFXzgwMzRtbXRnaUpfVjlOX1cyN1lTbEFWSnM3TDBsRnRRUElYcWQxSkRvYmpGMnlZQXJUQ193QkQwcjFYZi1nLUlJNGFKX2xlbkNnNkV0MkQwSzNMaWJucTdsTDFKVzJvNEM3YnQ4bVhYeDdhXzczaWdad2lVWFpVYzZfbDhFZ0MxSVd1eU5sem1PTFNxb0tOMk1aX0d2bThybmdVb1B5ckhucVFmak5uNWtoUTJuYnQtSC1IUDdqemxxRU9YYdIBzgFBVV95cUxOeFV3THBWcmxKZ1BtMVBfYnR6dkdDZjNiZ3JOd1FSMWFxaEtjMm0zUi0wYnhKNnhvYjR4NWpfaVpKUTR1Vi12VGY3dDBFNG50TFdtODU0M3VXNWsxc3JiMjZtMmtOY1ZqR1VKX3FvNVJuUzh3R1V2X041MlcyTWowalpSV3hQNTdYMzk2Zm1iU2EwaWJ2QnZqU3RBeVFHbnpkOFpBNUxYTl9saERfX2lGOFhreW8tbnVoMVRqZXpLYXRKdEp1X1Z1VXA2bzBkQQ?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "hanwha_ocean-2026-08-14-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Trump Opens Door for Hanwha Ocean to Build 2 U.S. Warships in Korea - Seoul Economic Daily",
+      "companies": [
+        "hanwha_ocean"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQT0hUTXd5R21nUkYwMGhaUFZnWV9tbW9jQWNiYTg5V0xhaXdyeUlrbGdCNXNvOG94U1VtTlRwaGtzVlNoZmtsc1hWV0FwamZvR1Z2Rl9QSy16a2NJS1hKcEdQMWk2MVpuYWJrbXpKQzdRSlVEaGhINDJMa2JfSEloNURuTkcxdlNjR2hwZ01mVVNJbVRMMF8tM19TXzk4RmYxdVBwRjlDNTVrQ3M?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 27,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.09,
+      "sentiment_7d_avg": null
+    },
+    "shipbuilding_orders": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "dry_bulk_rate": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "container_freight": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.17,
+      "sentiment_7d_avg": null
+    },
+    "port_congestion": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 28,
+    "sentiment_distribution": {
+      "positive": 4,
+      "neutral": 24,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "hanwha_ocean",
+        "count": 3
+      },
+      {
+        "id": "evergreen",
+        "count": 1
+      },
+      {
+        "id": "wan_hai",
+        "count": 1
+      },
+      {
+        "id": "cosco",
+        "count": 1
+      },
+      {
+        "id": "maersk",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 27
+      },
+      {
+        "id": "shipbuilding_orders",
+        "count": 3
+      },
+      {
+        "id": "container_freight",
+        "count": 3
+      },
+      {
+        "id": "dry_bulk_rate",
+        "count": 1
+      },
+      {
+        "id": "port_congestion",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 352,
+    "dup_title": 150,
+    "too_old": 77,
+    "gate1_blocked": 28,
+    "gate2_blocked": 6,
+    "passed": 91,
+    "pass_rate": "45.0%",
+    "gate2_block_rate": "3.0%",
+    "gate2_samples": [
+      "Austal (ASB AU): Hanwha Ocean’s Compelling Offer for the US Business - Smartkarma",
+      "Evergreen Marine Corp. (Taiwan) Ltd. Bonds — Corporate Bond Rates - TradingView",
+      "News Cosco returns to Red Sea sailings, despite threats from Houthis - The Loadstar",
+      "Ex Williams-Sonoma exec pleads guilty to $16M warehouse kickback scheme",
+      "K9 stop on Louisiana’s I-12 uncovers 358 kilos of meth in semi-trailer, driver now in ICE custody"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 28 則事件，焦點為韓華海洋、長榮海運、萬海航運相關動態：「CNBC: This copper bet has became a real-time gauge of Tru...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "CNBC: This copper bet has became a real-time gauge of Trump’s next trade war ...（航運產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "Hanwha stands to benefit from Trump’s decision on foreign shipbuilding rules ...（航運產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
