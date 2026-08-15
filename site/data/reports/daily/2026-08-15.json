@@ -1,0 +1,108 @@
+{
+  "date": "2026-08-15",
+  "generated_at": "2026-08-15T08:34:33.856952Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-08-15-001",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Container Shipping Rates: WCI Up 1%, Transpacific Rates Surge, Asia-Europe Declines - News and Statistics - IndexBox",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNVF9QQlNDRzNpNmVpR21hVU1uN21uUFBVTTdVdUdHS2o5d0I5aGJXZHJ2SVBLc0NRMnotS2J4RjFheGsyWUhRYXVIOS1qSlVmVmVtYUJOVllsVkdyaFdBX2I0bGxxakEtRFlqeWdpR3M0akJpQ1dITHZXMXZOREpMazNFc0ZqbXAx?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-08-15-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "A phone call, a million files: Uber Freight breach exposes logistics’ identity security gap",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://theloadstar.com/a-phone-call-a-million-files-uber-freight-breach-exposes-logistics-identity-security-gap/"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.5,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 2,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 1,
+      "negative": 1
+    },
+    "top_companies": [],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 2
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 351,
+    "dup_title": 182,
+    "too_old": 80,
+    "gate1_blocked": 24,
+    "gate2_blocked": 4,
+    "passed": 61,
+    "pass_rate": "36.1%",
+    "gate2_block_rate": "2.4%",
+    "gate2_samples": [
+      "Austal (ASB AU): Hanwha Ocean’s Compelling Offer for the US Business - Smartkarma",
+      "News Cosco returns to Red Sea sailings, despite threats from Houthis - The Loadstar",
+      "Truck Driver Health: Why so many are dying young",
+      "Four-year-old cape fetches $78m"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 2 則事件，焦點為航運產業通用相關動態：「Container Shipping Rates: WCI Up 1%, Transpacific Rates S...」。整體情緒偏負面，需留意潛在風險。",
+    "signals": [
+      {
+        "text": "Container Shipping Rates: WCI Up 1%, Transpacific Rates Surge, Asia-Europe De...（航運產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "A phone call, a million files: Uber Freight breach exposes logistics’ identit...（航運產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

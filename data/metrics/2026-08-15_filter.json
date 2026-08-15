@@ -1,0 +1,15 @@
+{
+  "total_raw": 351,
+  "dup_title": 182,
+  "no_date": 0,
+  "too_old": 80,
+  "gate1_fail": 24,
+  "gate2_fail": 4,
+  "passed": 61,
+  "gate2_samples": [
+    "Austal (ASB AU): Hanwha Ocean’s Compelling Offer for the US Business - Smartkarma",
+    "News Cosco returns to Red Sea sailings, despite threats from Houthis - The Loadstar",
+    "Truck Driver Health: Why so many are dying young",
+    "Four-year-old cape fetches $78m"
+  ]
+}
