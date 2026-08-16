@@ -1,0 +1,132 @@
+{
+  "date": "2026-08-16",
+  "generated_at": "2026-08-16T08:34:41.898206Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "cosco-2026-08-16-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "'Full of confidence' in South-east Asia: Cosco Shipping eyes investments in Malaysia, Vietnam and Indonesia to power growth - The Business Times",
+      "companies": [
+        "cosco"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQYXdBYXFMSE9TMlEtelhuUWJCSzZqcnZ3bWVxSGMxYVlONGNCOUEzR1lhbVNXb0s1ekxWWXF2TlA0ZjZpMXlGc1VJa29sdDBFZnYxTHFtQklHYVpZN0lEVHZNQmZ6VjlUZ1N6RG9YcEpfM0lBdW1nX2dhMkY1bFE3RkN6Vi1PdnJtZW51WTFPNUJjdlFyX1Y4M2FyNEREQzd1bmljTjhqRmktVVJzdlBTUXRHRFNHenNVME9HMGNtc21yZDl5X1hqR2w3anFVZ0pINVo1eUlNVVBfUWJHNFZWbkh0VWRwdw?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-08-16-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Smart Tugs And Trucks That Don’t Sleep. Automation Rewires US Transport",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://gcaptain.com/smart-tugs-and-trucks-that-dont-sleep-automation-rewires-us-transport/"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-08-16-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Maritime rates back on the rise",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.freightwaves.com/news/maritime-rates-back-on-the-rise"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.17,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 3,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 2,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "cosco",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 3
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 352,
+    "dup_title": 222,
+    "too_old": 86,
+    "gate1_blocked": 21,
+    "gate2_blocked": 3,
+    "passed": 20,
+    "pass_rate": "15.4%",
+    "gate2_block_rate": "2.3%",
+    "gate2_samples": [
+      "News Cosco returns to Red Sea sailings, despite threats from Houthis - The Loadstar",
+      "Truck Driver Health: Why so many are dying young",
+      "Four-year-old cape fetches $78m"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 3 則事件，焦點為中遠海控相關動態：「'Full of confidence' in South-east Asia: Cosco Shipping e...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "'Full of confidence' in South-east Asia: Cosco Shipping eyes investments in M...（航運產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "Smart Tugs And Trucks That Don’t Sleep. Automation Rewires US Transport（航運產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

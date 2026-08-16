@@ -1,0 +1,14 @@
+{
+  "total_raw": 352,
+  "dup_title": 222,
+  "no_date": 0,
+  "too_old": 86,
+  "gate1_fail": 21,
+  "gate2_fail": 3,
+  "passed": 20,
+  "gate2_samples": [
+    "News Cosco returns to Red Sea sailings, despite threats from Houthis - The Loadstar",
+    "Truck Driver Health: Why so many are dying young",
+    "Four-year-old cape fetches $78m"
+  ]
+}
