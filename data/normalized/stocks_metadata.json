@@ -19,38 +19,38 @@
   },
   "cssc": {
     "earliest": "2000-01-03",
-    "latest": "2026-08-14",
-    "count": 6574,
+    "latest": "2026-08-17",
+    "count": 6575,
     "history_complete": true
   },
   "evergreen": {
     "earliest": "2000-01-04",
-    "latest": "2026-08-14",
-    "count": 6618,
+    "latest": "2026-08-17",
+    "count": 6619,
     "history_complete": true
   },
   "yang_ming": {
     "earliest": "2000-01-04",
-    "latest": "2026-08-14",
-    "count": 6618,
+    "latest": "2026-08-17",
+    "count": 6619,
     "history_complete": true
   },
   "wan_hai": {
     "earliest": "2000-01-04",
-    "latest": "2026-08-14",
-    "count": 6618,
+    "latest": "2026-08-17",
+    "count": 6619,
     "history_complete": true
   },
   "maersk": {
     "earliest": "2000-01-03",
-    "latest": "2026-08-14",
-    "count": 6721,
+    "latest": "2026-08-17",
+    "count": 6722,
     "history_complete": true
   },
   "hapag": {
     "earliest": "2015-11-06",
-    "latest": "2026-08-14",
-    "count": 2737,
+    "latest": "2026-08-17",
+    "count": 2738,
     "history_complete": true
   },
   "zim": {
@@ -61,20 +61,20 @@
   },
   "cosco": {
     "earliest": "2005-06-30",
-    "latest": "2026-08-14",
-    "count": 5209,
+    "latest": "2026-08-17",
+    "count": 5210,
     "history_complete": true
   },
   "u_ming": {
     "earliest": "2000-01-04",
-    "latest": "2026-08-14",
-    "count": 6618,
+    "latest": "2026-08-17",
+    "count": 6619,
     "history_complete": true
   },
   "wisdom": {
     "earliest": "2010-12-01",
-    "latest": "2026-08-14",
-    "count": 3835,
+    "latest": "2026-08-17",
+    "count": 3836,
     "history_complete": true
   },
   "star_bulk": {

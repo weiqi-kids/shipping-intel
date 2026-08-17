@@ -1,0 +1,13 @@
+{
+  "total_raw": 351,
+  "dup_title": 210,
+  "no_date": 0,
+  "too_old": 85,
+  "gate1_fail": 24,
+  "gate2_fail": 2,
+  "passed": 30,
+  "gate2_samples": [
+    "News Cosco returns to Red Sea sailings, despite threats from Houthis - The Loadstar",
+    "Truck Driver Health: Why so many are dying young"
+  ]
+}
