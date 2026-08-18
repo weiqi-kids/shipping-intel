@@ -1,0 +1,203 @@
+{
+  "date": "2026-08-18",
+  "generated_at": "2026-08-18T08:42:25.566170Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-08-18-001",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Record rain disrupts work at South Korea's major Geoje shipyards - upi.com",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOZGdiVy0wMnhCOFNzZVNaNEY5c2J2RVpxM0tRWXo5d29GNFJTbG1Gc3MtQjNCZk5udnZJUUJlN2c0dXQzb1FTa2FJWGVnaWMyLU1rZTJkaWRBeUFoSnNGV2dxaGs3MlpqUnh4V3NVUDVsVEY5TGg5TjJwNThIelp6UEx2c052ekI2aTBBai1VczJvUlFiMjZZ0gGcAUFVX3lxTFBUMFBwY0owU3pQajBDTGtJdFZpd082NnFBMktXTDlHR3Y1eTJRcVJqNmFTRnN5bDR3UEhjVG9FZTFYRUZwY3hsdHlLV2k4S3owZEJwVkNXN1NDWjhSV213emZBUG45Wm0zZW55MW1DZUx0N0JhZXVTMjdMYi1rcVNmTUFNZHhZMTNlVTlIa2dvT3FhZWFfckRTZS1kRQ?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "cosco-2026-08-18-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "COSCO SHIPPING Holdings Launches Upgraded A3X East Australia Service - LM - Logistics Manager",
+      "companies": [
+        "cosco"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNNWpBSTV5NU45SjFXU045dHhVYUJ4S3R6dHZIMEdrZDJVUm02bFhRa3FJU2tSbEJMQzNJMG9vUG1HQnNFUHUtRUlwQzA4VV9WYy0tUmZEVUpfMllQNm5wcnBweVpDUHRHRDhCbTlRdXdUTnkzMFVPMENSVXQtVE9rM3QtWms2dGlhMllyaExEVUdXWmh4aFEtaXMtRks3WUQz?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-08-18-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Seafarer killed in latest Hormuz strike",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "dry_bulk_rate",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://splash247.com/seafarer-killed-in-latest-hormuz-strike/"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-08-18-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Splash Singapore: Cetus Maritime’s Tabitha Logan on moving beyond the AI buzzwords",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://splash247.com/splash-singapore-cetus-maritimes-tabitha-logan-on-moving-beyond-the-ai-buzzwords/"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-08-18-005",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Cameroon-flagged ship hijacked off Somalia",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://splash247.com/cameroon-flagged-ship-hijacked-off-somalia/"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 16,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.06,
+      "sentiment_7d_avg": null
+    },
+    "dry_bulk_rate": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "shipbuilding_orders": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 16,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 15,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "cosco",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 16
+      },
+      {
+        "id": "dry_bulk_rate",
+        "count": 2
+      },
+      {
+        "id": "shipbuilding_orders",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 351,
+    "dup_title": 154,
+    "too_old": 91,
+    "gate1_blocked": 25,
+    "gate2_blocked": 3,
+    "passed": 78,
+    "pass_rate": "39.6%",
+    "gate2_block_rate": "1.5%",
+    "gate2_samples": [
+      "News Cosco returns to Red Sea sailings, despite threats from Houthis - theloadstar.com",
+      "Electric Trucking: Is Tesla Semi Ready?",
+      "Panama Canal draught restrictions set to add to congestion chaos"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 16 則事件，焦點為中遠海控相關動態：「Record rain disrupts work at South Korea's major Geoje sh...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Record rain disrupts work at South Korea's major Geoje shipyards - upi.com（航運產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "COSCO SHIPPING Holdings Launches Upgraded A3X East Australia Service - LM - L...（航運產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

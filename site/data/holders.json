@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-17T08:49:45.523027+00:00",
+  "updated_at": "2026-08-18T08:42:24.905532+00:00",
   "companies": {
     "maersk": {
       "name": "A.P. Moller-Maersk",
@@ -10,7 +10,7 @@
           "holder": "Pacer Advisors, Inc.",
           "shares": 21,
           "pct_held": 0.0,
-          "value": 455490
+          "value": 450660
         }
       ]
     },
@@ -21,9 +21,9 @@
       "holders": [
         {
           "holder": "Pacer Advisors, Inc.",
-          "shares": 165,
+          "shares": 189,
           "pct_held": 0.0,
-          "value": 22407
+          "value": 24853
         }
       ]
     },
@@ -36,61 +36,61 @@
           "holder": "Meitav Investment House Ltd.",
           "shares": 5481537,
           "pct_held": 4.55,
-          "value": 154250447
+          "value": 157923078
         },
         {
           "holder": "American Century Companies Inc",
           "shares": 3619301,
           "pct_held": 3.0,
-          "value": 101847127
+          "value": 104272059
         },
         {
           "holder": "Blackrock Inc.",
           "shares": 3571430,
           "pct_held": 2.96,
-          "value": 100500038
+          "value": 102892896
         },
         {
           "holder": "Yelin Lapidot Holdings Management Ltd.",
           "shares": 3308773,
           "pct_held": 2.75,
-          "value": 93108870
+          "value": 95325748
+        },
+        {
+          "holder": "Millennium Management Llc",
+          "shares": 1851020,
+          "pct_held": 1.54,
+          "value": 53327885
         },
         {
           "holder": "Menora Mivtachim Holdings Ltd.",
           "shares": 1656810,
           "pct_held": 1.37,
-          "value": 46622632
+          "value": 47732695
+        },
+        {
+          "holder": "Alliancebernstein L.P.",
+          "shares": 1637352,
+          "pct_held": 1.36,
+          "value": 47172110
         },
         {
           "holder": "Charles Schwab Investment Management, Inc.",
-          "shares": 1600110,
-          "pct_held": 1.33,
-          "value": 45027094
+          "shares": 1579056,
+          "pct_held": 1.31,
+          "value": 45492602
+        },
+        {
+          "holder": "Qube Research & Technologies Ltd",
+          "shares": 1560160,
+          "pct_held": 1.29,
+          "value": 44948208
         },
         {
           "holder": "State Street Corporation",
           "shares": 1485508,
           "pct_held": 1.23,
-          "value": 41802194
-        },
-        {
-          "holder": "Oddo BHF Asset Management SAS",
-          "shares": 1150000,
-          "pct_held": 0.95,
-          "value": 32360999
-        },
-        {
-          "holder": "Allianz Asset Management GmbH",
-          "shares": 1098898,
-          "pct_held": 0.91,
-          "value": 30922989
-        },
-        {
-          "holder": "Qube Research & Technologies Ltd",
-          "shares": 950988,
-          "pct_held": 0.79,
-          "value": 26760801
+          "value": 42797484
         }
       ]
     },
@@ -101,63 +101,63 @@
       "holders": [
         {
           "holder": "Two Sigma Investments, LP",
-          "shares": 3012963,
-          "pct_held": 2.7,
-          "value": 87526572
+          "shares": 3530020,
+          "pct_held": 3.17,
+          "value": 106218302
         },
         {
           "holder": "Blackrock Inc.",
           "shares": 2817294,
           "pct_held": 2.53,
-          "value": 81842388
+          "value": 84772376
         },
         {
           "holder": "Renaissance Technologies, LLC",
           "shares": 2099637,
           "pct_held": 1.88,
-          "value": 60994453
+          "value": 63178077
         },
         {
           "holder": "Victory Capital Management Inc.",
           "shares": 2027422,
           "pct_held": 1.82,
-          "value": 58896607
-        },
-        {
-          "holder": "Philosophy Capital Management Llc",
-          "shares": 1874418,
-          "pct_held": 1.68,
-          "value": 54451841
+          "value": 61005128
         },
         {
           "holder": "Goldman Sachs Group Inc",
-          "shares": 1737933,
-          "pct_held": 1.56,
-          "value": 50486952
+          "shares": 2014371,
+          "pct_held": 1.81,
+          "value": 60612423
+        },
+        {
+          "holder": "Philosophy Capital Management Llc",
+          "shares": 1752666,
+          "pct_held": 1.57,
+          "value": 52737720
         },
         {
           "holder": "Focus Partners Wealth",
           "shares": 1263659,
           "pct_held": 1.13,
-          "value": 36709292
-        },
-        {
-          "holder": "Shaw D.E. & Co., Inc.",
-          "shares": 1173877,
-          "pct_held": 1.05,
-          "value": 34101125
+          "value": 38023499
         },
         {
           "holder": "Qube Research & Technologies Ltd",
-          "shares": 1086842,
-          "pct_held": 0.97,
-          "value": 31572759
+          "shares": 1156624,
+          "pct_held": 1.04,
+          "value": 34802816
         },
         {
           "holder": "Morgan Stanley",
           "shares": 1040248,
           "pct_held": 0.93,
-          "value": 30219203
+          "value": 31301062
+        },
+        {
+          "holder": "Fearnley Asset Management As",
+          "shares": 1004209,
+          "pct_held": 0.9,
+          "value": 30216648
         }
       ]
     }

@@ -1,0 +1,14 @@
+{
+  "total_raw": 351,
+  "dup_title": 154,
+  "no_date": 0,
+  "too_old": 91,
+  "gate1_fail": 25,
+  "gate2_fail": 3,
+  "passed": 78,
+  "gate2_samples": [
+    "News Cosco returns to Red Sea sailings, despite threats from Houthis - theloadstar.com",
+    "Electric Trucking: Is Tesla Semi Ready?",
+    "Panama Canal draught restrictions set to add to congestion chaos"
+  ]
+}
