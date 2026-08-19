@@ -1,0 +1,12 @@
+{
+  "total_raw": 351,
+  "dup_title": 166,
+  "no_date": 0,
+  "too_old": 89,
+  "gate1_fail": 18,
+  "gate2_fail": 1,
+  "passed": 77,
+  "gate2_samples": [
+    "Some Diesel Analysts Are Warning of a Supply Crunch Nobody in Washington Is Talking About. Here Is W"
+  ]
+}

@@ -1,0 +1,167 @@
+{
+  "date": "2026-08-19",
+  "date_range": {
+    "start": "2026-08-13",
+    "end": "2026-08-19"
+  },
+  "generated_at": "2026-08-19T08:43:00.286121Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "wan_hai-2026-08-13-013",
+      "date": "2026-08-13",
+      "title": "Wan Hai Lines Orders Eight Containerships at CSSC’s Waigaoqiao Shipbuilding - imarinenews.com",
+      "importance_score": 0.7
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "industry_general": {
+      "this_week": 116,
+      "last_week": 98,
+      "week_over_week_change": "+18%",
+      "sentiment_this_week": 0.03
+    },
+    "dry_bulk_rate": {
+      "this_week": 4,
+      "last_week": 2,
+      "week_over_week_change": "+100%",
+      "sentiment_this_week": 0.0
+    },
+    "shipbuilding_orders": {
+      "this_week": 8,
+      "last_week": 4,
+      "week_over_week_change": "+100%",
+      "sentiment_this_week": 0.06
+    },
+    "container_freight": {
+      "this_week": 8,
+      "last_week": 1,
+      "week_over_week_change": "+700%",
+      "sentiment_this_week": 0.0
+    },
+    "port_congestion": {
+      "this_week": 2,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.25
+    }
+  },
+  "company_7d_summary": {
+    "samsung_heavy": {
+      "event_count": 7,
+      "sentiment_avg": 0.0,
+      "rank": 1
+    },
+    "wan_hai": {
+      "event_count": 4,
+      "sentiment_avg": 0.0,
+      "rank": 3
+    },
+    "cssc": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 5
+    },
+    "cosco": {
+      "event_count": 6,
+      "sentiment_avg": 0.08,
+      "rank": 2
+    },
+    "star_bulk": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 8
+    },
+    "maersk": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 6
+    },
+    "hanwha_ocean": {
+      "event_count": 4,
+      "sentiment_avg": 0.0,
+      "rank": 4
+    },
+    "evergreen": {
+      "event_count": 2,
+      "sentiment_avg": 0.25,
+      "rank": 7
+    },
+    "hapag": {
+      "event_count": 1,
+      "sentiment_avg": 0.5,
+      "rank": 9
+    },
+    "wisdom": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 10
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 373,
+        "last": 423,
+        "change_pct": -11.8
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-08-13",
+      "event_count": 100,
+      "sentiment_avg": 0.01
+    },
+    {
+      "date": "2026-08-14",
+      "event_count": 85,
+      "sentiment_avg": 0.13
+    },
+    {
+      "date": "2026-08-15",
+      "event_count": 10,
+      "sentiment_avg": -0.3
+    },
+    {
+      "date": "2026-08-16",
+      "event_count": 15,
+      "sentiment_avg": 0.13
+    },
+    {
+      "date": "2026-08-17",
+      "event_count": 74,
+      "sentiment_avg": 0.02
+    },
+    {
+      "date": "2026-08-18",
+      "event_count": 72,
+      "sentiment_avg": 0.08
+    },
+    {
+      "date": "2026-08-19",
+      "event_count": 17,
+      "sentiment_avg": -0.06
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-08-13 ~ 2026-08-19）共 373 則事件，重點為「Wan Hai Lines Orders Eight Containerships at CS...」。長榮海運、赫伯羅特表現正面，整體氣氛穩健。",
+    "watchlist": [
+      {
+        "company": "三星重工",
+        "reason": "本週出現 7 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "萬海航運",
+        "reason": "本週出現 4 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "中遠海控",
+        "reason": "本週出現 6 則相關事件，為高關注企業，動態頻繁。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
