@@ -1,0 +1,165 @@
+{
+  "date": "2026-08-20",
+  "date_range": {
+    "start": "2026-08-14",
+    "end": "2026-08-20"
+  },
+  "generated_at": "2026-08-20T08:44:13.866471Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "maersk-2026-08-14-066",
+      "date": "2026-08-14",
+      "title": "Maersk, Hapag-Lloyd Flag Strong Demand from Asia, but Port Infrastructure is Buckling - WWD",
+      "importance_score": 0.7
+    },
+    {
+      "type": "emerging_relation",
+      "company_a": "hapag",
+      "company_b": "zim",
+      "co_mention_count": 5,
+      "rank": 2
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "industry_general": {
+      "this_week": 96,
+      "last_week": 110,
+      "week_over_week_change": "-13%",
+      "sentiment_this_week": 0.02
+    },
+    "shipbuilding_orders": {
+      "this_week": 9,
+      "last_week": 4,
+      "week_over_week_change": "+125%",
+      "sentiment_this_week": 0.06
+    },
+    "dry_bulk_rate": {
+      "this_week": 3,
+      "last_week": 1,
+      "week_over_week_change": "+200%",
+      "sentiment_this_week": 0.0
+    },
+    "container_freight": {
+      "this_week": 5,
+      "last_week": 5,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.1
+    },
+    "port_congestion": {
+      "this_week": 3,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.17
+    }
+  },
+  "company_7d_summary": {
+    "hanwha_ocean": {
+      "event_count": 5,
+      "sentiment_avg": 0.0,
+      "rank": 1
+    },
+    "evergreen": {
+      "event_count": 2,
+      "sentiment_avg": 0.25,
+      "rank": 3
+    },
+    "wan_hai": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 5
+    },
+    "cosco": {
+      "event_count": 5,
+      "sentiment_avg": 0.1,
+      "rank": 2
+    },
+    "maersk": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 4
+    },
+    "hapag": {
+      "event_count": 1,
+      "sentiment_avg": 0.5,
+      "rank": 6
+    },
+    "samsung_heavy": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 7
+    },
+    "wisdom": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 8
+    },
+    "cssc": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 9
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 341,
+        "last": 456,
+        "change_pct": -25.2
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-08-14",
+      "event_count": 85,
+      "sentiment_avg": 0.13
+    },
+    {
+      "date": "2026-08-15",
+      "event_count": 10,
+      "sentiment_avg": -0.3
+    },
+    {
+      "date": "2026-08-16",
+      "event_count": 16,
+      "sentiment_avg": 0.12
+    },
+    {
+      "date": "2026-08-17",
+      "event_count": 74,
+      "sentiment_avg": 0.02
+    },
+    {
+      "date": "2026-08-18",
+      "event_count": 75,
+      "sentiment_avg": 0.07
+    },
+    {
+      "date": "2026-08-19",
+      "event_count": 67,
+      "sentiment_avg": -0.01
+    },
+    {
+      "date": "2026-08-20",
+      "event_count": 14,
+      "sentiment_avg": -0.07
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-08-14 ~ 2026-08-20）共 341 則事件，重點為「Maersk, Hapag-Lloyd Flag Strong Demand from Asi...」。長榮海運、赫伯羅特表現正面，整體氣氛穩健。",
+    "watchlist": [
+      {
+        "company": "韓華海洋",
+        "reason": "本週出現 5 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "中遠海控",
+        "reason": "本週出現 5 則相關事件，為高關注企業，動態頻繁。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

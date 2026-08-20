@@ -1,0 +1,223 @@
+{
+  "date": "2026-08-20",
+  "generated_at": "2026-08-20T08:44:13.737837Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-08-20-005",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "CK Hutchison piles another $1.5bn claim onto Panama ports battle",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://splash247.com/ck-hutchison-piles-another-1-5bn-claim-onto-panama-ports-battle/"
+    },
+    {
+      "rank": 2,
+      "event_id": "hanwha_ocean-2026-08-20-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Shipyard Pumps Mobilized as Hanwha Ocean Leads Geoje Flood Recovery Efforts - 아시아경제",
+      "companies": [
+        "hanwha_ocean"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE10NFpYYjd3bTk1ZzZRaE8yTDZLcmc2NlgwMDN2Y096UzdKLTFoMG00V2VwNThybnpXQjVGek1tblJJcEV0UnA5R01ST3RfVU44VVYxS2RYYXhLbDhaU0RfUndhVjVaWWtO?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-08-20-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Chinese shipyard delivers 300,000-tonne very large crude carrier - Global Times",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1UZWk2QUtlVlIzUTBsTWI2WEVrMUpVLVg4aHZWNzZ3bjd0YWNfSS1sYm1KUnlwaEREOWd6dVZaM1JIcFJxSjlWS3FfZmRkM1BUUF9BdGtmUTI3OFgxRFdtWmZR?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-08-20-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Axle Logistics Lands a Five-Year Jersey Patch Deal With Tennessee Basketball",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.freightwaves.com/news/axle-logistics-lands-a-five-year-jersey-patch-deal-with-tennessee-basketball"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-08-20-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Black Sea export war intensifies",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://splash247.com/black-sea-export-war-intensifies/"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 14,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.07,
+      "sentiment_7d_avg": null
+    },
+    "shipbuilding_orders": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "container_freight": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "port_congestion": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 14,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 13,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "hanwha_ocean",
+        "count": 1
+      },
+      {
+        "id": "cssc",
+        "count": 1
+      },
+      {
+        "id": "maersk",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 14
+      },
+      {
+        "id": "shipbuilding_orders",
+        "count": 2
+      },
+      {
+        "id": "container_freight",
+        "count": 1
+      },
+      {
+        "id": "port_congestion",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 351,
+    "dup_title": 176,
+    "too_old": 92,
+    "gate1_blocked": 13,
+    "gate2_blocked": 2,
+    "passed": 68,
+    "pass_rate": "38.9%",
+    "gate2_block_rate": "1.1%",
+    "gate2_samples": [
+      "North American Rail Traffic JUMPS 4.9%!",
+      "VLCC market enters ‘stop the press’ territory"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 14 則事件，焦點為韓華海洋、中國船舶、馬士基相關動態：「CK Hutchison piles another $1.5bn claim onto Panama ports...」。整體情緒偏負面，需留意潛在風險。",
+    "signals": [
+      {
+        "text": "CK Hutchison piles another $1.5bn claim onto Panama ports battle（航運產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "Shipyard Pumps Mobilized as Hanwha Ocean Leads Geoje Flood Recovery Efforts -...（航運產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

@@ -1,0 +1,13 @@
+{
+  "total_raw": 351,
+  "dup_title": 176,
+  "no_date": 0,
+  "too_old": 92,
+  "gate1_fail": 13,
+  "gate2_fail": 2,
+  "passed": 68,
+  "gate2_samples": [
+    "North American Rail Traffic JUMPS 4.9%!",
+    "VLCC market enters ‘stop the press’ territory"
+  ]
+}
