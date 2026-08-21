@@ -1,0 +1,14 @@
+{
+  "total_raw": 351,
+  "dup_title": 160,
+  "no_date": 0,
+  "too_old": 98,
+  "gate1_fail": 19,
+  "gate2_fail": 3,
+  "passed": 71,
+  "gate2_samples": [
+    "Evergreen joins AI voyage optimisation trial - Splash247",
+    "Americold’s Secret to Surviving Power Outages",
+    "Hapag-Lloyd to acquire 25% of box terminal at Rotterdam vital to Gemini"
+  ]
+}
