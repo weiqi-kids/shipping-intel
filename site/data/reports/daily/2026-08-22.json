@@ -1,0 +1,85 @@
+{
+  "date": "2026-08-22",
+  "generated_at": "2026-08-22T08:35:19.048779Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-08-22-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Port of Piraeus: A Decade of Transformation into a Global Maritime Hub - Alwihda Info",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOSzdfZkxmelc3RkNlMFFSNDNpeG5PTXB0aEo5XzA2Z2dtWG9uNXd5cE15QVhIWnc4SjFFN21vY29md0lKREsxbWtVVEN2YU9nNW14QjZKQ2Z6ZEJxRklXSUJMXzBCdVAzMXRfVVdiUWNxTlZuYUs3em1sVUZaRVFBaFA4VGwyMlVWNGExaWNPNFd6UWdDcVVlZTVzZkR1clU?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 1,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 1,
+      "negative": 0
+    },
+    "top_companies": [],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 350,
+    "dup_title": 175,
+    "too_old": 97,
+    "gate1_blocked": 14,
+    "gate2_blocked": 3,
+    "passed": 61,
+    "pass_rate": "34.9%",
+    "gate2_block_rate": "1.7%",
+    "gate2_samples": [
+      "Iran Vows ‘Devastating’ Response to US Threat to Cut Off Its Economic Lifelines",
+      "Americold’s Secret to Surviving Power Outages",
+      "CK Hutchison wants $1.5bn in Panama terminals compensation"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 1 則事件，焦點為航運產業通用相關動態：「Port of Piraeus: A Decade of Transformation into a Global...」。主要關注主題為航運產業通用，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Port of Piraeus: A Decade of Transformation into a Global Maritime Hub - Alwi...（航運產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "建議持續監控後續發展動態。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

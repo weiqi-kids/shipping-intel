@@ -1,0 +1,14 @@
+{
+  "total_raw": 350,
+  "dup_title": 175,
+  "no_date": 0,
+  "too_old": 97,
+  "gate1_fail": 14,
+  "gate2_fail": 3,
+  "passed": 61,
+  "gate2_samples": [
+    "Iran Vows ‘Devastating’ Response to US Threat to Cut Off Its Economic Lifelines",
+    "Americold’s Secret to Surviving Power Outages",
+    "CK Hutchison wants $1.5bn in Panama terminals compensation"
+  ]
+}

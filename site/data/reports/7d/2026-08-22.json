@@ -1,0 +1,154 @@
+{
+  "date": "2026-08-22",
+  "date_range": {
+    "start": "2026-08-16",
+    "end": "2026-08-22"
+  },
+  "generated_at": "2026-08-22T08:35:19.176605Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "samsung_heavy-2026-08-17-001",
+      "date": "2026-08-17",
+      "title": "Hanwha Ocean and Samsung Heavy Industries Announce Restricted Commutes After 800 mm of Rain in Geoje - 매일경제",
+      "importance_score": 0.7
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "industry_general": {
+      "this_week": 85,
+      "last_week": 122,
+      "week_over_week_change": "-30%",
+      "sentiment_this_week": 0.01
+    },
+    "port_congestion": {
+      "this_week": 2,
+      "last_week": 1,
+      "week_over_week_change": "+100%",
+      "sentiment_this_week": 0.25
+    },
+    "shipbuilding_orders": {
+      "this_week": 7,
+      "last_week": 6,
+      "week_over_week_change": "+17%",
+      "sentiment_this_week": 0.07
+    },
+    "container_freight": {
+      "this_week": 2,
+      "last_week": 8,
+      "week_over_week_change": "-75%",
+      "sentiment_this_week": 0.0
+    },
+    "dry_bulk_rate": {
+      "this_week": 4,
+      "last_week": 2,
+      "week_over_week_change": "+100%",
+      "sentiment_this_week": 0.0
+    }
+  },
+  "company_7d_summary": {
+    "cosco": {
+      "event_count": 4,
+      "sentiment_avg": 0.12,
+      "rank": 1
+    },
+    "samsung_heavy": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 2
+    },
+    "hanwha_ocean": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 3
+    },
+    "evergreen": {
+      "event_count": 1,
+      "sentiment_avg": 0.5,
+      "rank": 5
+    },
+    "wisdom": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 6
+    },
+    "cssc": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 4
+    },
+    "maersk": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 7
+    },
+    "hd_korea": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 8
+    },
+    "wan_hai": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 9
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 378,
+        "last": 468,
+        "change_pct": -19.2
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-08-16",
+      "event_count": 16,
+      "sentiment_avg": 0.12
+    },
+    {
+      "date": "2026-08-17",
+      "event_count": 75,
+      "sentiment_avg": 0.02
+    },
+    {
+      "date": "2026-08-18",
+      "event_count": 77,
+      "sentiment_avg": 0.07
+    },
+    {
+      "date": "2026-08-19",
+      "event_count": 69,
+      "sentiment_avg": -0.01
+    },
+    {
+      "date": "2026-08-20",
+      "event_count": 66,
+      "sentiment_avg": 0.03
+    },
+    {
+      "date": "2026-08-21",
+      "event_count": 74,
+      "sentiment_avg": 0.04
+    },
+    {
+      "date": "2026-08-22",
+      "event_count": 1,
+      "sentiment_avg": 0.0
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-08-16 ~ 2026-08-22）共 378 則事件，重點為「Hanwha Ocean and Samsung Heavy Industries Annou...」。長榮海運表現正面，整體氣氛穩健。",
+    "watchlist": [
+      {
+        "company": "中遠海控",
+        "reason": "本週出現 4 則相關事件，為高關注企業，動態頻繁。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
