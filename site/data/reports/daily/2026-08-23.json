@@ -1,0 +1,193 @@
+{
+  "date": "2026-08-23",
+  "generated_at": "2026-08-23T08:35:44.128539Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-08-23-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Hanwha Injects ₩415 Billion Into U.S. Defense Subsidiaries — Dual-Track Push on K9 and Shipbuilding - finance.biggo.com",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE00Q3A2ZnU1RTFRQmc2c0hHVmkwN1NTWmxZQXZQRjB4aWZOdE1LM05LblVnTU1pVWRIbnFhRmR2UXh1V1M0MXBxSzIxZFZmcXBuN2NkZ3NVV194bHNQVUk3VVNnWS1lLVJ2VXZqTTdmdmZLbG1GOGc?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "evergreen-2026-08-23-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "TWSE Foreign Holding Weekly (Aug 21st): Unimicron Technology, Nanya Technology, Evergreen Marine - Smartkarma",
+      "companies": [
+        "evergreen"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPZlNHMlV3OUxPT0RfX3o5b0xaNWxfQ3pxYmx3cWlLQ0ptTmtvaTFwM1RKN3FMNk9OMlhENUlIR2hsUDlpcjlYWkZaVXQxNm9TSEcwdnhMUHBuXzVjV1pOS1pYMk1OanVJTlpjQXJZVVg5Wk9pd09rcTBpd0hHLWUyb1Q3VEhIT0s5anFaYlRDSU5UYWY3NDI4c3VlWlpkdkN6V0V1QXg3aXVWWlFQZVhnbjl5Si1RNVNVaUt4RHUxUjFTQm03YWc?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "cosco-2026-08-23-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "A-Share Margin Trading Weekly (Aug 21st): COSCO SHIPPING, EAST MONEY INFORMATION, Mindray, CNOOC - Smartkarma",
+      "companies": [
+        "cosco"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNX0xtOE1kdEVqQ0RRZmNidFFMVlh4aDEweHNkd1hwU2Y3ZjNwTzVveHRvMFdNTEVfTDlabzVXTmlSTEpWd3RqbFhha3dyTW5MVzNkbjRmWXhNemFzbmp3SDZCSEtLbUNuWGVLOW0yNUIxTFR0d2FQWUJvdFpVSkl2OHBpUlNETkc4dXp0cDBVS2lvT2VNVlM1cGdiYTZnamp2a2ktYjBCcWlDdzNZd3Q3ZG54cldfMEtURUNscVU1QnFPOHZ2?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-08-23-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Russia Considers Grain Purchases To Offset Export Disruptions",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://gcaptain.com/russia-considers-grain-purchases-to-offset-export-disruptions/"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-08-23-005",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Bulk carrier sinks off India with 22 crew missing",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "dry_bulk_rate",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://splash247.com/bulk-carrier-sinks-off-india-with-22-crew-missing/"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 4,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "dry_bulk_rate": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 5,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 5,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "evergreen",
+        "count": 1
+      },
+      {
+        "id": "cosco",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 4
+      },
+      {
+        "id": "dry_bulk_rate",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 349,
+    "dup_title": 218,
+    "too_old": 99,
+    "gate1_blocked": 15,
+    "gate2_blocked": 5,
+    "passed": 12,
+    "pass_rate": "9.2%",
+    "gate2_block_rate": "3.8%",
+    "gate2_samples": [
+      "TWSE Short Interest Weekly (Aug 21st): Shin Kong Financial, MediaTek, Evergreen Marine - Smartkarma",
+      "Iran Vows ‘Devastating’ Response to US Threat to Cut Off Its Economic Lifelines",
+      "GM targets development costs with commercial vehicle ECM",
+      "Americold’s Secret to Surviving Power Outages",
+      "CK Hutchison wants $1.5bn in Panama terminals compensation"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 5 則事件，焦點為長榮海運、中遠海控相關動態：「Hanwha Injects ₩415 Billion Into U.S. Defense Subsidiarie...」。主要關注主題為航運產業通用、散裝運價，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Hanwha Injects ₩415 Billion Into U.S. Defense Subsidiaries — Dual-Track Push ...（航運產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "TWSE Foreign Holding Weekly (Aug 21st): Unimicron Technology, Nanya Technolog...",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
