@@ -1,0 +1,16 @@
+{
+  "total_raw": 351,
+  "dup_title": 193,
+  "no_date": 0,
+  "too_old": 96,
+  "gate1_fail": 22,
+  "gate2_fail": 5,
+  "passed": 35,
+  "gate2_samples": [
+    "TWSE Short Interest Weekly (Aug 21st): Shin Kong Financial, MediaTek, Evergreen Marine - Smartkarma",
+    "Iran Vows ‘Devastating’ Response to US Threat to Cut Off Its Economic Lifelines",
+    "GM targets development costs with commercial vehicle ECM",
+    "Americold’s Secret to Surviving Power Outages",
+    "CK Hutchison wants $1.5bn in Panama terminals compensation"
+  ]
+}

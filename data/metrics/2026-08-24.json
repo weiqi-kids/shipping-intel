@@ -1,0 +1,25 @@
+{
+  "date": "2026-08-24",
+  "total_events": 14,
+  "by_company": {
+    "hd_korea": {
+      "count": 5,
+      "sentiment_avg": 0.0
+    },
+    "cssc": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "industry_general": {
+      "count": 14,
+      "sentiment_avg": 0.07
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}

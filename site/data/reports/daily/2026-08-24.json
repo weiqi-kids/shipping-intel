@@ -1,0 +1,186 @@
+{
+  "date": "2026-08-24",
+  "generated_at": "2026-08-24T08:53:37.211722Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "hd_korea-2026-08-24-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "HD Korea Shipbuilding Wins 4 LPG Carrier Order - Businesskorea",
+      "companies": [
+        "hd_korea"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5fV0pYT2VIckdxUWNPOV9KZTBOdkl2UDR3bTM0YV9uMkVZazhVRXJmUVBJcDZ4MWR3NWlwYmQ1dEJDcGZBcFVXdXFDY0MyZS1EVGtpdVR1ZlVIeTRza2REM2Rnd0ZrX3JkM05XZmdZSlRFT0lW?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "hd_korea-2026-08-24-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "HD Korea Shipbuilding Wins ₩515.4 Billion Order for 4 LPG Carriers from Oceania - finance.biggo.com",
+      "companies": [
+        "hd_korea"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE85N3FqTl9VNnRkS1hqdHJnUjd3cDZuS0VMRkhCRlEyaGZtYldZMndXTE9VVnJ1Y2RvNUVxQVZWc1F2dE43TEg1em1JQ0tSV295WUowZ3FqTWExZ1ZRMzN5emoyaFBHQzBWLXJUYzhTR01QSHlIRHc?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "hd_korea-2026-08-24-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "HD Korea Shipbuilding Ends JV Review with Cochin Shipyard, Continues Technical Collaboration - News and Statistics - IndexBox",
+      "companies": [
+        "hd_korea"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPNS01dVhqa1ZiZ04zTE8ycUFuUDMtM1FBVmtRQmgyMjZfQ1pJa19LVm5IVEhPSG9JeU5uU2psOWVacDVMeV9jc0s2dXAyWkpvaG5oMnA2d1YxeFhNQXBST1pOdmhpWVRTblZqN2x3QklOVTRweGhrVC13Ni1uMjBOdEJjM2QtZWUw?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "hd_korea-2026-08-24-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "HD Korea Shipbuilding & Offshore Engineering Wins Order for Four LPG Carriers Worth 515.4 Billion Won, Reaches 77.6% of Annual Target - 매일경제",
+      "companies": [
+        "hd_korea"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1rcmlhQURVeldROWNPNXo5MVFhVnIxOGRIN1pJeTFxZkxLS1VjbnlXVTZzQlhyX1k3UHE3eTh2UzlTSFMzczlWMW1XX1FIX3lyelNZ?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "hd_korea-2026-08-24-005",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "HD Korea Shipbuilding & Offshore Engineering Wins Order for Four LPG Carriers Worth 515.4 Billion Won - 아시아경제",
+      "companies": [
+        "hd_korea"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBVYzlPdnlxSHQyQnlBaUpmc2NkSzBRejE2NTh2TDM5SlZyODl5Z2NoaVpNN0VOX3BTUnRCU0VVdGRRMl8xazg1X3hrdnBkaG9JZUl5UXlEMkYzS2NGbEpONFdXRVA?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 14,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.07,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 14,
+    "sentiment_distribution": {
+      "positive": 2,
+      "neutral": 12,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "hd_korea",
+        "count": 5
+      },
+      {
+        "id": "cssc",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 14
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 351,
+    "dup_title": 193,
+    "too_old": 96,
+    "gate1_blocked": 22,
+    "gate2_blocked": 5,
+    "passed": 35,
+    "pass_rate": "22.2%",
+    "gate2_block_rate": "3.2%",
+    "gate2_samples": [
+      "TWSE Short Interest Weekly (Aug 21st): Shin Kong Financial, MediaTek, Evergreen Marine - Smartkarma",
+      "Iran Vows ‘Devastating’ Response to US Threat to Cut Off Its Economic Lifelines",
+      "GM targets development costs with commercial vehicle ECM",
+      "Americold’s Secret to Surviving Power Outages",
+      "CK Hutchison wants $1.5bn in Panama terminals compensation"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 14 則事件，焦點為韓國造船海洋、中國船舶相關動態：「HD Korea Shipbuilding Wins 4 LPG Carrier Order - Business...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "HD Korea Shipbuilding Wins 4 LPG Carrier Order - Businesskorea（航運產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "HD Korea Shipbuilding Wins ₩515.4 Billion Order for 4 LPG Carriers from Ocean...（航運產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
