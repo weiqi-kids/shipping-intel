@@ -1,0 +1,16 @@
+{
+  "total_raw": 352,
+  "dup_title": 154,
+  "no_date": 0,
+  "too_old": 97,
+  "gate1_fail": 20,
+  "gate2_fail": 7,
+  "passed": 74,
+  "gate2_samples": [
+    "Hanwha Ocean Wins Class Approvals for Low-Carbon FPSO Design - thelec.net",
+    "Hanwha Ocean Wins Class Approvals for Low-Carbon FPSO Design - Seoul Economic Daily",
+    "Hanwha Ocean wins global classification approvals for low-carbon standard FPSO design - 헤럴드경제",
+    "Hanwha Ocean Secures Global Classification Approvals for Low-Carbon FPSO Design - finance.biggo.com",
+    "Hanwha Ocean wins global approvals for low-carbon FPSO design frameworks - CHOSUNBIZ - Chosunbiz"
+  ]
+}

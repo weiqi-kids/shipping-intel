@@ -1,0 +1,189 @@
+{
+  "date": "2026-08-25",
+  "generated_at": "2026-08-25T08:49:10.328736Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-08-25-005",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Container port congestion smashes covid-era record",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "port_congestion",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://splash247.com/container-port-congestion-smashes-covid-era-record/"
+    },
+    {
+      "rank": 2,
+      "event_id": "hanwha_ocean-2026-08-25-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Hanwha Ocean takes on 4 trillion won Namibia floating oil facility project with green strategy - 매일경제",
+      "companies": [
+        "hanwha_ocean"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5aUXpBX3VodjBPakR4cjVXREZBd2t1TTZJUklBd0QyajVRMUdRZUlDMkZOOXF2cWRvSjJrYVlqeEEzbGg2OEU2X3F3cjJMbkdEOEJ3?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "hanwha_ocean-2026-08-25-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Hanwha Ocean leads the development of low-carbon standard marine plants - starnewskorea.com",
+      "companies": [
+        "hanwha_ocean"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPcUdnUk9wdkd5WVBlUXdxenZmV3BWOFBTSjR5T01UVERLMHpGUUNIM0FOVWt1bDRaN1Z0eDZwNzJSM01uTjIwR09vWjJ0Q3FvMExkM2VjY1FJbW0yWm5tcTFSNHZGR1NFdXlCam1FWHRaQTMyU0tSWFUtaG5aQWgwbm00QQ?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-08-25-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Houthi strike hits Saudi VLCC off Yanbu",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://splash247.com/houthi-strike-hits-saudi-vlcc-off-yanbu/"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-08-25-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Hormuz compliance clash traps owners between Tehran and Washington",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://splash247.com/hormuz-compliance-clash-traps-owners-between-tehran-and-washington/"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 11,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.09,
+      "sentiment_7d_avg": null
+    },
+    "port_congestion": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 1.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 13,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 12,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "hanwha_ocean",
+        "count": 2
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 11
+      },
+      {
+        "id": "port_congestion",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 352,
+    "dup_title": 154,
+    "too_old": 97,
+    "gate1_blocked": 20,
+    "gate2_blocked": 7,
+    "passed": 74,
+    "pass_rate": "37.4%",
+    "gate2_block_rate": "3.5%",
+    "gate2_samples": [
+      "Hanwha Ocean Wins Class Approvals for Low-Carbon FPSO Design - thelec.net",
+      "Hanwha Ocean Wins Class Approvals for Low-Carbon FPSO Design - Seoul Economic Daily",
+      "Hanwha Ocean wins global classification approvals for low-carbon standard FPSO design - 헤럴드경제",
+      "Hanwha Ocean Secures Global Classification Approvals for Low-Carbon FPSO Design - finance.biggo.com",
+      "Hanwha Ocean wins global approvals for low-carbon FPSO design frameworks - CHOSUNBIZ - Chosunbiz"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 13 則事件，焦點為韓華海洋相關動態：「Container port congestion smashes covid-era record」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Container port congestion smashes covid-era record（港口壅塞、航運產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "Hanwha Ocean takes on 4 trillion won Namibia floating oil facility project wi...",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
