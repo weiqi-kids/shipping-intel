@@ -1,0 +1,16 @@
+{
+  "total_raw": 352,
+  "dup_title": 155,
+  "no_date": 0,
+  "too_old": 98,
+  "gate1_fail": 16,
+  "gate2_fail": 12,
+  "passed": 71,
+  "gate2_samples": [
+    "Hanwha Ocean incorporates low-carbon offering in standard FPSO - Upstream Online",
+    "Hanwha Ocean Wins Class Approvals for Low-Carbon FPSO Design - thelec.net",
+    "Hanwha Ocean standardizes ‘low-carbon FPSO’ design…validated through global class society certificat",
+    "Hanwha Ocean wins global classification approvals for low-carbon standard FPSO design - 헤럴드경제",
+    "Hanwha Ocean Secures Global Classification Approvals for Low-Carbon FPSO Design - finance.biggo.com"
+  ]
+}

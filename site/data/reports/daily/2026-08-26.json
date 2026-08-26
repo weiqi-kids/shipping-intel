@@ -1,0 +1,202 @@
+{
+  "date": "2026-08-26",
+  "generated_at": "2026-08-26T08:50:39.785010Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-08-26-015",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Ningbo-Zhoushan overtakes Singapore as world's 2nd largest container port",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://www.seatrade-maritime.com/ports-logistics/ningbo-zhoushan-overtakes-singapore-as-second-largest-container-port"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-08-26-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "HD Hyundai pursues U.S. Shipyard Acquisition - Cyprus Shipping News",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPTlctbGNoVVd0QUMyazZrT2swRmY1ZGNsQVEyQXpaUnRUMzRHYjV1YkVIUk1ZaVlGanFoR0ZtcXdkSW14QUliVWN1U21ZRVZCeFBEemhOdGZUWjRNTkxnc1piV3Fhek4tUElCeHg4dXBtQ29jeFhNNHJOVUt0Um1GaTZ1R0NIYVFna014MTJFOA?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "hanwha_ocean-2026-08-26-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Hanwha Ocean Expands MRO Base to Jeju, Signs Eco-Friendly Marine Maintenance Pact with JNU - 매일경제",
+      "companies": [
+        "hanwha_ocean"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE54TnJjVk9mMTd6bGpwNzR5SDlMd1N4V1RDREJZOElmYk0wU08wbnJ0TTROSnRJTmZ1Sl9DS3N1OGpQREppTjZDUmxPZmNrNmZBWm5J?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-08-26-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Diana trims Genco stake",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://splash247.com/diana-trims-genco-stake/"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-08-26-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Hormuz shock sends Jebel Ali tumbling out of global top 30",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://splash247.com/hormuz-shock-sends-jebel-ali-tumbling-out-of-global-top-30/"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 14,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.05,
+      "sentiment_7d_avg": null
+    },
+    "shipbuilding_orders": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "container_freight": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.25,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 15,
+    "sentiment_distribution": {
+      "positive": 3,
+      "neutral": 10,
+      "negative": 2
+    },
+    "top_companies": [
+      {
+        "id": "hanwha_ocean",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 14
+      },
+      {
+        "id": "shipbuilding_orders",
+        "count": 2
+      },
+      {
+        "id": "container_freight",
+        "count": 2
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 352,
+    "dup_title": 155,
+    "too_old": 98,
+    "gate1_blocked": 16,
+    "gate2_blocked": 12,
+    "passed": 71,
+    "pass_rate": "36.0%",
+    "gate2_block_rate": "6.1%",
+    "gate2_samples": [
+      "Hanwha Ocean incorporates low-carbon offering in standard FPSO - Upstream Online",
+      "Hanwha Ocean Wins Class Approvals for Low-Carbon FPSO Design - thelec.net",
+      "Hanwha Ocean standardizes ‘low-carbon FPSO’ design…validated through global class society certificat",
+      "Hanwha Ocean wins global classification approvals for low-carbon standard FPSO design - 헤럴드경제",
+      "Hanwha Ocean Secures Global Classification Approvals for Low-Carbon FPSO Design - finance.biggo.com"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 15 則事件，焦點為韓華海洋相關動態：「Ningbo-Zhoushan overtakes Singapore as world's 2nd larges...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Ningbo-Zhoushan overtakes Singapore as world's 2nd largest container port（航運產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "HD Hyundai pursues U.S. Shipyard Acquisition - Cyprus Shipping News（航運產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

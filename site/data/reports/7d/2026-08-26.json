@@ -1,0 +1,157 @@
+{
+  "date": "2026-08-26",
+  "date_range": {
+    "start": "2026-08-20",
+    "end": "2026-08-26"
+  },
+  "generated_at": "2026-08-26T08:50:39.921946Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "hapag-2026-08-20-046",
+      "date": "2026-08-20",
+      "title": "Zim profit rises on Q2 revenue of $1.78 billion",
+      "importance_score": 0.7
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "industry_general": {
+      "this_week": 75,
+      "last_week": 116,
+      "week_over_week_change": "-35%",
+      "sentiment_this_week": 0.0
+    },
+    "shipbuilding_orders": {
+      "this_week": 5,
+      "last_week": 8,
+      "week_over_week_change": "-38%",
+      "sentiment_this_week": 0.0
+    },
+    "container_freight": {
+      "this_week": 3,
+      "last_week": 8,
+      "week_over_week_change": "-62%",
+      "sentiment_this_week": 0.17
+    },
+    "port_congestion": {
+      "this_week": 2,
+      "last_week": 2,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.5
+    },
+    "dry_bulk_rate": {
+      "this_week": 3,
+      "last_week": 4,
+      "week_over_week_change": "-25%",
+      "sentiment_this_week": 0.0
+    }
+  },
+  "company_7d_summary": {
+    "hanwha_ocean": {
+      "event_count": 4,
+      "sentiment_avg": 0.12,
+      "rank": 2
+    },
+    "cssc": {
+      "event_count": 3,
+      "sentiment_avg": 0.0,
+      "rank": 3
+    },
+    "maersk": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 4
+    },
+    "hd_korea": {
+      "event_count": 6,
+      "sentiment_avg": 0.0,
+      "rank": 1
+    },
+    "samsung_heavy": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 5
+    },
+    "wan_hai": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 6
+    },
+    "evergreen": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 7
+    },
+    "cosco": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 8
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 333,
+        "last": 432,
+        "change_pct": -22.9
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-08-20",
+      "event_count": 68,
+      "sentiment_avg": 0.03
+    },
+    {
+      "date": "2026-08-21",
+      "event_count": 75,
+      "sentiment_avg": 0.04
+    },
+    {
+      "date": "2026-08-22",
+      "event_count": 9,
+      "sentiment_avg": 0.0
+    },
+    {
+      "date": "2026-08-23",
+      "event_count": 25,
+      "sentiment_avg": 0.0
+    },
+    {
+      "date": "2026-08-24",
+      "event_count": 77,
+      "sentiment_avg": 0.0
+    },
+    {
+      "date": "2026-08-25",
+      "event_count": 64,
+      "sentiment_avg": 0.08
+    },
+    {
+      "date": "2026-08-26",
+      "event_count": 15,
+      "sentiment_avg": -0.02
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-08-20 ~ 2026-08-26）共 333 則事件，重點為「Zim profit rises on Q2 revenue of $1.78 billion」。航運產業通用、造船訂單、貨櫃運價為本週焦點話題。",
+    "watchlist": [
+      {
+        "company": "韓華海洋",
+        "reason": "本週出現 4 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "中國船舶",
+        "reason": "本週出現 3 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "韓國造船海洋",
+        "reason": "本週出現 6 則相關事件，為高關注企業，動態頻繁。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
