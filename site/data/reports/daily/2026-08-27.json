@@ -1,0 +1,214 @@
+{
+  "date": "2026-08-27",
+  "generated_at": "2026-08-27T18:59:54.437899Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-08-27-013",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Drewry index edges lower on decline in trans-Pacific rates",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "container_freight",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://www.freightwaves.com/news/drewry-index-edges-lower-on-decline-in-trans-pacific-rates"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-08-27-029",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Drewry index edges lower on decline in trans-Pacific rates - FreightWaves",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPcnFmbzNtYjRJekg1NDYyUmNmTmdsOVBrdlZjVDQ0Z1lYYmVGTGp4N2F0V08zR2wxSUs2ZE9oTDZ4OG81YUZSM2NNaTBpX3J4ZEt1OWZmTm9CV1hfRGR4Q0tXY0Y2akljYktyd0pXVlZ6WF9FcFBFYXhpd3JIZlZSa3MxQWdvVEZ4aTRtNm1iZ2sxbnBUUmdJ?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-08-27-035",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Yard shutdown threat at Mundra follows ban on using off-dock container yards",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://theloadstar.com/yard-shutdown-threat-at-mundra-follows-ban-on-using-off-dock-container-yards/"
+    },
+    {
+      "rank": 4,
+      "event_id": "hd_korea-2026-08-27-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "HD Korea Shipbuilding & Offshore Engineering Orders Up 190% in July - marketscreener.com",
+      "companies": [
+        "hd_korea"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxORGlSd21oaXhBSnR5S01LeGNxa2JxMHNiZGJ5elZhRG9mYkNUX3d3VjQxMksyQ3ozUFVPVnFXVXBMYUk2VUZCNi11T01PSG1HVncwSDJtczRjS0pudTdmWmQyMWV2ZklvaDFmenNWc3EwQkFOUEVKUXZHS1lhNldnejlMdjFmdWVwZTE1WDNXZGVMN2xzNi1aWGw0TkRqcklpazVqREV0ZlNjRVZmUjhKZkl1XzVtRmRB?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-08-27-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "South Korean shipowner Hanwha Shipping names first vessel in its fleet - Portnews",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "container_freight",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBXTlBfWE90dmo1S09JTHM1aVBVLTlFc3lrZ2dDWWN2R3RqcXFsTW1oNDNyOW44a29pTGNWS3BseU5kOW4wQThVTXV2Zw?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 42,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.02,
+      "sentiment_7d_avg": null
+    },
+    "container_freight": {
+      "today": 4,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.25,
+      "sentiment_7d_avg": null
+    },
+    "shipbuilding_orders": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 42,
+    "sentiment_distribution": {
+      "positive": 3,
+      "neutral": 35,
+      "negative": 4
+    },
+    "top_companies": [
+      {
+        "id": "cosco",
+        "count": 3
+      },
+      {
+        "id": "hd_korea",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 42
+      },
+      {
+        "id": "container_freight",
+        "count": 4
+      },
+      {
+        "id": "shipbuilding_orders",
+        "count": 3
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 352,
+    "dup_title": 133,
+    "too_old": 95,
+    "gate1_blocked": 27,
+    "gate2_blocked": 12,
+    "passed": 85,
+    "pass_rate": "38.8%",
+    "gate2_block_rate": "5.5%",
+    "gate2_samples": [
+      "Hanwha Ocean Wins Class Approvals for Low-Carbon FPSO Design - thelec.net",
+      "Hanwha Ocean bids for $3bn Namibia FPSO with low-carbon design - 매일경제",
+      "Hanwha Ocean incorporates low-carbon offering in standard FPSO - Upstream Online",
+      "Hanwha Ocean wins global classification approvals for low-carbon standard FPSO design - 헤럴드경제",
+      "Hanwha Ocean Secures Global Classification Approvals for Low-Carbon FPSO Design - finance.biggo.com"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 42 則事件，焦點為中遠海控、韓國造船海洋相關動態：「Drewry index edges lower on decline in trans-Pacific rates」。整體情緒偏負面，需留意潛在風險。",
+    "signals": [
+      {
+        "text": "Drewry index edges lower on decline in trans-Pacific rates（貨櫃運價、航運產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "Drewry index edges lower on decline in trans-Pacific rates - FreightWaves（航運產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

@@ -1,0 +1,152 @@
+{
+  "date": "2026-08-27",
+  "date_range": {
+    "start": "2026-08-21",
+    "end": "2026-08-27"
+  },
+  "generated_at": "2026-08-27T18:59:54.558048Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "samsung_heavy-2026-08-21-024",
+      "date": "2026-08-21",
+      "title": "ClassNK joins AI voyage optimisation project with Evergreen and Samsung Heavy Industries - Container News",
+      "importance_score": 0.7
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "industry_general": {
+      "this_week": 103,
+      "last_week": 96,
+      "week_over_week_change": "+7%",
+      "sentiment_this_week": 0.0
+    },
+    "dry_bulk_rate": {
+      "this_week": 3,
+      "last_week": 3,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    },
+    "shipbuilding_orders": {
+      "this_week": 6,
+      "last_week": 9,
+      "week_over_week_change": "-33%",
+      "sentiment_this_week": 0.0
+    },
+    "port_congestion": {
+      "this_week": 1,
+      "last_week": 3,
+      "week_over_week_change": "-67%",
+      "sentiment_this_week": 1.0
+    },
+    "container_freight": {
+      "this_week": 6,
+      "last_week": 5,
+      "week_over_week_change": "+20%",
+      "sentiment_this_week": -0.08
+    }
+  },
+  "company_7d_summary": {
+    "hd_korea": {
+      "event_count": 7,
+      "sentiment_avg": 0.0,
+      "rank": 1
+    },
+    "samsung_heavy": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 5
+    },
+    "wan_hai": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 6
+    },
+    "cssc": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 4
+    },
+    "evergreen": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 7
+    },
+    "cosco": {
+      "event_count": 4,
+      "sentiment_avg": 0.0,
+      "rank": 2
+    },
+    "hanwha_ocean": {
+      "event_count": 3,
+      "sentiment_avg": 0.17,
+      "rank": 3
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 350,
+        "last": 400,
+        "change_pct": -12.5
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-08-21",
+      "event_count": 75,
+      "sentiment_avg": 0.04
+    },
+    {
+      "date": "2026-08-22",
+      "event_count": 9,
+      "sentiment_avg": 0.0
+    },
+    {
+      "date": "2026-08-23",
+      "event_count": 25,
+      "sentiment_avg": 0.0
+    },
+    {
+      "date": "2026-08-24",
+      "event_count": 77,
+      "sentiment_avg": 0.0
+    },
+    {
+      "date": "2026-08-25",
+      "event_count": 66,
+      "sentiment_avg": 0.09
+    },
+    {
+      "date": "2026-08-26",
+      "event_count": 56,
+      "sentiment_avg": 0.01
+    },
+    {
+      "date": "2026-08-27",
+      "event_count": 42,
+      "sentiment_avg": -0.02
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-08-21 ~ 2026-08-27）共 350 則事件，重點為「ClassNK joins AI voyage optimisation project wi...」。航運產業通用、造船訂單、貨櫃運價為本週焦點話題。",
+    "watchlist": [
+      {
+        "company": "韓國造船海洋",
+        "reason": "本週出現 7 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "中遠海控",
+        "reason": "本週出現 4 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "韓華海洋",
+        "reason": "本週出現 3 則相關事件，為高關注企業，動態頻繁。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
