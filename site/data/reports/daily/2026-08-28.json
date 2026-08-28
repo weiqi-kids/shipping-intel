@@ -1,0 +1,248 @@
+{
+  "date": "2026-08-28",
+  "generated_at": "2026-08-28T20:06:50.799201Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-08-28-027",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Rhine Water Stable After Rain, More Wet Weather Expected to Help",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://gcaptain.com/rhine-water-stable-after-rain-more-wet-weather-expected-to-help/"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-08-28-041",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "China gains as geopolitics redraws new global container port rankings",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://www.freightwaves.com/news/china-gains-as-geopolitics-redraws-new-global-container-port-rankings"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-08-28-044",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Reported cargo theft rises 5% in Q2 as Southern California remains a hot spot",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://www.freightwaves.com/news/reported-cargo-theft-rises-5-in-q2-as-southern-california-remains-a-hot-spot"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-08-28-067",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Record profits for Frontline as tanker fundamentals take a back seat",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://www.seatrade-maritime.com/tankers/record-profits-for-frontline-as-tanker-fundamentals-take-a-back-seat"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-08-28-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "HD Hyundai workers approve strike, threatening to spread profit-sharing demands to Korean shipbuilders - KED Global",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1HWVo5VklWUTRKcl80NFR4cE9FM0RiVkpyVFlRWG1EelFaT1IwazNLQ2dDeW5lZ1hMdXVOeFJWUW9FWDVzdThlQUhwM3h5a3NqdW9rVWxTRVZ3OFlsZXduYWZRTHN3M18xQ0d0eGxocw?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 68,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.05,
+      "sentiment_7d_avg": null
+    },
+    "dry_bulk_rate": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "shipbuilding_orders": {
+      "today": 4,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.12,
+      "sentiment_7d_avg": null
+    },
+    "container_freight": {
+      "today": 4,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "port_congestion": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 70,
+    "sentiment_distribution": {
+      "positive": 9,
+      "neutral": 55,
+      "negative": 6
+    },
+    "top_companies": [
+      {
+        "id": "cosco",
+        "count": 16
+      },
+      {
+        "id": "samsung_heavy",
+        "count": 1
+      },
+      {
+        "id": "hanwha_ocean",
+        "count": 1
+      },
+      {
+        "id": "star_bulk",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 68
+      },
+      {
+        "id": "shipbuilding_orders",
+        "count": 4
+      },
+      {
+        "id": "container_freight",
+        "count": 4
+      },
+      {
+        "id": "dry_bulk_rate",
+        "count": 1
+      },
+      {
+        "id": "port_congestion",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 352,
+    "dup_title": 146,
+    "too_old": 95,
+    "gate1_blocked": 15,
+    "gate2_blocked": 9,
+    "passed": 87,
+    "pass_rate": "42.2%",
+    "gate2_block_rate": "4.4%",
+    "gate2_samples": [
+      "Hanwha Ocean Wins Class Approvals for Low-Carbon FPSO Design - thelec.net",
+      "Navy Awards Hanwha Ocean First Private Overhaul of Aegis Destroyer - Seoul Economic Daily",
+      "Hanwha Ocean bids for $3bn Namibia FPSO with low-carbon design - 매일경제",
+      "Hanwha Ocean incorporates low-carbon offering in standard FPSO - Upstream Online",
+      "TWSE Short Interest Weekly (Aug 21st): Shin Kong Financial, MediaTek, Evergreen Marine - Smartkarma"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 70 則事件，焦點為中遠海控、三星重工、韓華海洋相關動態：「Rhine Water Stable After Rain, More Wet Weather Expected ...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Rhine Water Stable After Rain, More Wet Weather Expected to Help（航運產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "China gains as geopolitics redraws new global container port rankings（航運產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
