@@ -1,0 +1,186 @@
+{
+  "date": "2026-08-29",
+  "generated_at": "2026-08-29T13:44:08.706512Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "cosco-2026-08-29-004",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "CSSC Waigaoqiao Shipbuilding Secures $2.688 Billion Order from COSCO Asset for 12 x 21,700-TEU LNG Dual-Fuel Boxships - imarinenews.com",
+      "companies": [
+        "cosco",
+        "cssc"
+      ],
+      "related": {
+        "customers": [
+          "cosco"
+        ],
+        "suppliers": [
+          "cssc"
+        ]
+      },
+      "topics": [
+        "container_freight",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBXY1VRQkRYZUxPcFlUczRFanh5Rmd3NUw2c25aak44UFl3bERLOUNsenpQYmNTRUpaZDU0dGxXTGEzZzVWRHNtNGFNdi1BR28?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "cosco-2026-08-29-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "COSCO Shipping Invests $3 Billion in LNG Dual-Fuel Boxships as Part of 2026–2030 Fleet Modernization Plan - imarinenews.com",
+      "companies": [
+        "cosco"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBvVlQ3UVNzdDNtZ3VGSmFRTzVEYl9xZkQyXzdMRGV5cFh5WG1YWng4Vk5FQk5Ca3dqLVVMM1VPdVM2Q0lubDZmN0w3bkRqVzg?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "cosco-2026-08-29-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "COSCO SHIPPING Development Announces 2026 Interim Dividend and Tax Arrangements - The Globe and Mail",
+      "companies": [
+        "cosco"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQMjVNVXhlYkNDOWJNbnluX0hCcW45c3hFOHhvYUdmVjU2VnVJR0hDQ1JWTTk5alpZMXNCTTBEMWt6aHVlQk1DNWo5ODFwZ0JsdDhIVUZXWmxpcnZiOHdVS0xSSlFCLVpfei03NTQtZC1FWEZlSDNkOXc2MVZ4c2VQZE5wX1ljNkQ0eGFnS2hiRURLa2s2THZLMzZjT2F6eUZrNWw5WTdralNLOG1XRjBNUzI2d3U5R2g3S3NQd3oxZUlZWjAwdE1aNWxzTzFNZXlQczZPdjBjS2RDa2ZNNF9NMmdqTHpfZzRMeUJIS1NpTjJuQQ?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "cosco-2026-08-29-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "News Content Hub - COSCO splashes US$3Bn on 18 ultra-large and mid-sized box ships - rivieramm.com",
+      "companies": [
+        "cosco"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOZmx4RkxJQk5PNjg1Q1VqQkdmcjJ1dVoxYnV5dklsTmFnVkJfOXBDMU0xejdlVXU3eW45Wl95NTNGczhJY252Zjg2eG9jaHBqQlkydER5TkxBdTJKX3Qya1A1SnJFcEdkRUI2YnB2aXV6ME1BaGFyTW5jdVJyWklpR3NIYTZrRFY2Z19sSzJ0TGJ4RW9weTdBS016UWRNa2xmTlVGNnNrUkNTLTlZSGhz?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 4,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "container_freight": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 4,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 4,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "cosco",
+        "count": 4
+      },
+      {
+        "id": "cssc",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 4
+      },
+      {
+        "id": "container_freight",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 352,
+    "dup_title": 212,
+    "too_old": 96,
+    "gate1_blocked": 16,
+    "gate2_blocked": 8,
+    "passed": 20,
+    "pass_rate": "14.3%",
+    "gate2_block_rate": "5.7%",
+    "gate2_samples": [
+      "Hanwha Ocean incorporates low-carbon offering in standard FPSO - Upstream Online",
+      "Navy Awards Hanwha Ocean First Private Overhaul of Aegis Destroyer - Seoul Economic Daily",
+      "Hanwha Ocean bids for $3bn Namibia FPSO with low-carbon design - 매일경제",
+      "TWSE Short Interest Weekly (Aug 21st): Shin Kong Financial, MediaTek, Evergreen Marine - Smartkarma",
+      "Motive and Highway Restore ELD Data Access After Integration Dispute"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 4 則事件，焦點為中遠海控、中國船舶相關動態：「CSSC Waigaoqiao Shipbuilding Secures $2.688 Billion Order...」。主要關注主題為航運產業通用、貨櫃運價，市場情緒中性。",
+    "signals": [
+      {
+        "text": "CSSC Waigaoqiao Shipbuilding Secures $2.688 Billion Order from COSCO Asset fo...（貨櫃運價、航運產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "COSCO Shipping Invests $3 Billion in LNG Dual-Fuel Boxships as Part of 2026–2...（航運產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

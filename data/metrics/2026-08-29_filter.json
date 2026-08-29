@@ -1,0 +1,16 @@
+{
+  "total_raw": 352,
+  "dup_title": 212,
+  "no_date": 0,
+  "too_old": 96,
+  "gate1_fail": 16,
+  "gate2_fail": 8,
+  "passed": 20,
+  "gate2_samples": [
+    "Hanwha Ocean incorporates low-carbon offering in standard FPSO - Upstream Online",
+    "Navy Awards Hanwha Ocean First Private Overhaul of Aegis Destroyer - Seoul Economic Daily",
+    "Hanwha Ocean bids for $3bn Namibia FPSO with low-carbon design - 매일경제",
+    "TWSE Short Interest Weekly (Aug 21st): Shin Kong Financial, MediaTek, Evergreen Marine - Smartkarma",
+    "Motive and Highway Restore ELD Data Access After Integration Dispute"
+  ]
+}
