@@ -1,0 +1,16 @@
+{
+  "total_raw": 341,
+  "dup_title": 206,
+  "no_date": 0,
+  "too_old": 95,
+  "gate1_fail": 17,
+  "gate2_fail": 6,
+  "passed": 17,
+  "gate2_samples": [
+    "Hanwha Ocean Wins Class Approvals for Low-Carbon FPSO Design - thelec.net",
+    "Hanwha Ocean incorporates low-carbon offering in standard FPSO - Upstream Online",
+    "Motive and Highway Restore ELD Data Access After Integration Dispute",
+    "Trump administration moves to unwind Obama-era truck engine efficiency rules",
+    "Bot Auto commits to U.S.-based remote assistance operators"
+  ]
+}

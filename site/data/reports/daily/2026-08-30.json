@@ -1,0 +1,182 @@
+{
+  "date": "2026-08-30",
+  "generated_at": "2026-08-30T13:43:08.309691Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-08-30-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Korea’s decades-old shipbuilding rivalry crosses the Pacific - theinvestor.co.kr",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBQaV96ZlN1ZndOS2RoR2hZWEZnU3JGTWpjMzVKeE5OcklCZkRrMHFHSmYxV1RidGRjZ3BxdHp4Yk5fbS1fS3FEVUZqczZidzJQVlRkbC1ONW1aQQ?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "hanwha_ocean-2026-08-30-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Hanwha Ocean Secures Low-Carbon FPSO Design Certification as It Vies for $3 Billion Venus Project - imarinenews.com",
+      "companies": [
+        "hanwha_ocean"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBZZnl2ZGRyNjViM2R0bWNDV0VLT0FjRTAzeXozLUcwd3JhOVZMOVhqTE05d1ZXTXI5cVhMZ3RYS0lUSU1NNkgxUmlEYkxUbzQ?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "cosco-2026-08-30-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "COSCO SHIPPING Development (SEHK:2866) Stock Faces Margin Doubts After Profit Lift - simplywall.st",
+      "companies": [
+        "cosco"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPY1hUUlVzc2F3ZUhSUGt1OFExbU1ndEQ3X01waTE1MG9EVzUzOHN3b3NBam5UNW0yX2JZSThlR1ZsQWxmbjAwUHRmdlZDNDEyVmRHY2FxREFNbUQ0TlB3WWRGVHkyYTZ4QUx3MTRYcFNnVkZUNjk5YUwxYmdsQ0gyVUVmTnRMSW45bDVtVWNSbGd0ZmpfNDM0OEswZ3BJS0hRM3VpVmQ5bi1fTW0zaGpBTjBNR3lDLUhsSHE5OWpTWUlCdjBaeEdvSFJFUkU4cGpjWmxQaTFESkYwcFJ0UXNGOEd6dENsQW9nYWfSAe8BQVVfeXFMT3ktLTdXSXlLVi05Z1JRWE5SVFNSZ3VDT0ZhSkRDNEtRTnZVMVBsOWhYeW53amlBai16SWNBS3EzNzdGMVYyNkpsZVJqTjloM3pPTVV6MFpoS1VoWVlSU2g1Y3lJMTdzcVY3TWFDcmEwV082UVlaZkc2N0hsZHBzU2NETWFfbmFtX2hLUEdEU0prWjhtVGE2b0doWm1aSDFJYkh3SEpkS3FHWHNpeXdnYnUxS3RSVUI4c0ZNNGkzLWpUVUoycmVxY0FhZlhXWXU4SWdZVERUN3FORnJhdnZZWEpZVjd6QUstd2xvNmREdjA?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "cosco-2026-08-30-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "COSCO Shipping Ports tops 80m teu in first half - Splash247",
+      "companies": [
+        "cosco"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9QTmV3NnVJRFRaZ3NQWWRtbUVIX0lKNTVja1E4YnZrajFyaE1JcW1oNGZ3VWFaTW1JMW5lVUNRcWxJNjJaOHFXQ1JnS1FiSWRaTTBlM3QtQjRneFU1NzJoQVRwNVlQWFVMSkhhZ3RHUk9xOElpUkJUcHh3?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "cosco-2026-08-30-005",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "COSCO SHIPPING Ports (SEHK:1199) Stock Sees Profit Surge Despite Margin Drift - simplywall.st",
+      "companies": [
+        "cosco"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPZ0N2dW5oMU5hS2hUYkpjWHM5aFFKMDM1bHBoSUxUNlAzdFYyTWRIcUtxRmpTNEQ2WlNXRENGNVNQODM5NUF3NF9DYnFpU0x6SDloZFR6dV8xS0pJU0oxMXlyMk5GUWpUX1BGUnpXVkZralVybm40MFFxenp0OWVyY0liVmIyV2hxVVAyUGFQTVlYTzAtN1pYTFB6VTctNzUwQmo4NldzbFhHVXk1THo4QjhyMm9jMV9WQk94cERQdm02Q0hSM3dMYU1wdXExdGFUVkkyZXl0STRoNzU1WTZrdVFqMNIB6AFBVV95cUxNVkoyOFBsUXRvWHV0ZkhOaTNFNXFRTEFuSGw2eXppblM2cTlNR1pJaDRmbGRXbUJ0TjI1ZDNhMjItT1NRTlhIMktQdk5JQ3F6QXAtakNsUG5LU3RnTUlfU05sNzl2UHN1Y1dDNFo0ZlFxTlZKc3oyOGZqM1o5Uk1nVnJkMUVvOFg5UFZuak9OZVBoWnhwN0UtQ0ZHblVaTlBIN1Z5NGFZTmdRSFZ6SWxidGcwdkZsY3k3S2lvSm14OVNLbGQ3ZUV1Y3NVdjVoNjFlOEdZNTltamozd3VYZHVxXzNSaVlNZGk1?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 7,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 8,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 8,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "cosco",
+        "count": 3
+      },
+      {
+        "id": "hanwha_ocean",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 7
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 341,
+    "dup_title": 206,
+    "too_old": 95,
+    "gate1_blocked": 17,
+    "gate2_blocked": 6,
+    "passed": 17,
+    "pass_rate": "12.6%",
+    "gate2_block_rate": "4.4%",
+    "gate2_samples": [
+      "Hanwha Ocean Wins Class Approvals for Low-Carbon FPSO Design - thelec.net",
+      "Hanwha Ocean incorporates low-carbon offering in standard FPSO - Upstream Online",
+      "Motive and Highway Restore ELD Data Access After Integration Dispute",
+      "Trump administration moves to unwind Obama-era truck engine efficiency rules",
+      "Bot Auto commits to U.S.-based remote assistance operators"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 8 則事件，焦點為中遠海控、韓華海洋相關動態：「Korea’s decades-old shipbuilding rivalry crosses the Paci...」。主要關注主題為航運產業通用，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Korea’s decades-old shipbuilding rivalry crosses the Pacific - theinvestor.co.kr（航運產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "Hanwha Ocean Secures Low-Carbon FPSO Design Certification as It Vies for $3 B...",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
