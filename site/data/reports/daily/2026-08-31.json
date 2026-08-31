@@ -1,0 +1,253 @@
+{
+  "date": "2026-08-31",
+  "generated_at": "2026-08-31T16:00:40.336248Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "samsung_heavy-2026-08-31-003",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Samsung Heavy Industries secures new order after surpassing annual target - Aju Press",
+      "companies": [
+        "samsung_heavy"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBJeFdBaUVxTlVDdU1fX1lTa0ItWVk4enBVTTFWRVhqZFhxU0psQ19ZTFdYamlaT0E3WW5sVlpfdTB2YzhpN0lBdElZZ0NqeXNOZkIwblhRZ9IBV0FVX3lxTFBJeFdBaUVxTlVDdU1fX1lTa0ItWVk4enBVTTFWRVhqZFhxU0psQ19ZTFdYamlaT0E3WW5sVlpfdTB2YzhpN0lBdElZZ0NqeXNOZkIwblhRZw?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "cosco-2026-08-31-015",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "COSCO Shipping's H1 Profit Declines; Revenue Jumps - marketscreener.com",
+      "companies": [
+        "cosco"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQNFdJLXB1TWdJalVXNkUtcjRfZWppaEFLb0taMlRjYjFnSHU5dkN3QTVZMU4wNk13NVRtUi1vWC1IN19VaVhJdzhmQ1BDamVELURPZHhVRHpVVk1uMDBDV0llVGw2ZkhrQVkwdUR3T21kcFpYcWQwNGxVQ1FPdHFGSTZiOXpqUTB0d3VFNVpIZzRzMHkyRUx2akdKVEVIMjB3SmpJdg?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "cosco-2026-08-31-019",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "COSCO Shipping's H1 Profit Declines; Revenue Jumps - Moomoo",
+      "companies": [
+        "cosco"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQT3RXS0Z4SU83cGpUZEdCWVpDWE43NUZtQ0tOeWtvaEI2eWhBUUU0WjhpWnc4dGpJcE5HRUYyN2V3ZVJJb3ZXSW1RNDZ5LVFhU3FfdnJNZVp3c2xsaGpzZnVkOGIzaWNJbkNOWTZhZ2RfWk1wenA5dERyZHFHM3RDNG9UeVdPYW05YmxoZ3pPd1dmY3JHNGc?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-08-31-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Korea’s decades-old shipbuilding rivalry crosses the Pacific - DredgeWire",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNM2VVR1Z4SlF3RGZWajVXRzlkTnNlbDBkS1ZOZHRuQXhwdXR2SS03dEd3VUY5T3dha3lFd1ptbjFWeTdrYWNkemlxZHdlRU1LaWdyS2w5T0hBLVZFNlQ4NUY0OXRZWXpJczU0aC1lU0JRS2lJLS0zdDhTVlZrRHJfU3JqNkFoWXBfcS1N?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "samsung_heavy-2026-08-31-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Samsung Heavy Industries Secures $320M Container Ship Order - imarinenews.com",
+      "companies": [
+        "samsung_heavy"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "shipbuilding_orders",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5KN0ttWC0wWC1WODFtVWpzNkVITFJiMkdDbk9YWTNway1MUnhMd3VPbHdFM3BPT19EU2w2Yzk2UzF4eXhhdlgxUUNyM1ZTbGM?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 43,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.03,
+      "sentiment_7d_avg": null
+    },
+    "shipbuilding_orders": {
+      "today": 6,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "container_freight": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "port_congestion": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.5,
+      "sentiment_7d_avg": null
+    },
+    "dry_bulk_rate": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.5,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 45,
+    "sentiment_distribution": {
+      "positive": 4,
+      "neutral": 37,
+      "negative": 4
+    },
+    "top_companies": [
+      {
+        "id": "cosco",
+        "count": 10
+      },
+      {
+        "id": "samsung_heavy",
+        "count": 7
+      },
+      {
+        "id": "star_bulk",
+        "count": 1
+      },
+      {
+        "id": "cssc",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 43
+      },
+      {
+        "id": "shipbuilding_orders",
+        "count": 6
+      },
+      {
+        "id": "container_freight",
+        "count": 2
+      },
+      {
+        "id": "port_congestion",
+        "count": 1
+      },
+      {
+        "id": "dry_bulk_rate",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 352,
+    "dup_title": 172,
+    "too_old": 88,
+    "gate1_blocked": 24,
+    "gate2_blocked": 7,
+    "passed": 61,
+    "pass_rate": "33.9%",
+    "gate2_block_rate": "3.9%",
+    "gate2_samples": [
+      "Hanwha Ocean Wins Class Approvals for Low-Carbon FPSO Design - thelec.net",
+      "Hanwha Ocean incorporates low-carbon offering in standard FPSO - Upstream Online",
+      "Motive and Highway Restore ELD Data Access After Integration Dispute",
+      "Trump administration moves to unwind Obama-era truck engine efficiency rules",
+      "Bot Auto commits to U.S.-based remote assistance operators"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 45 則事件，焦點為中遠海控、三星重工、Star Bulk Carriers相關動態：「Samsung Heavy Industries secures new order after surpassi...」。主要關注主題為航運產業通用、造船訂單、貨櫃運價，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Samsung Heavy Industries secures new order after surpassing annual target - A...",
+        "level": "green"
+      },
+      {
+        "text": "COSCO Shipping's H1 Profit Declines; Revenue Jumps - marketscreener.com（航運產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
