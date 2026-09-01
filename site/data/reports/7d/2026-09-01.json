@@ -1,0 +1,167 @@
+{
+  "date": "2026-09-01",
+  "date_range": {
+    "start": "2026-08-26",
+    "end": "2026-09-01"
+  },
+  "generated_at": "2026-09-01T13:19:14.163545Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "cosco-2026-08-29-004",
+      "date": "2026-08-29",
+      "title": "CSSC Waigaoqiao Shipbuilding Secures $2.688 Billion Order from COSCO Asset for 12 x 21,700-TEU LNG Dual-Fuel Boxships - imarinenews.com",
+      "importance_score": 0.7
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "industry_general": {
+      "this_week": 215,
+      "last_week": 77,
+      "week_over_week_change": "+179%",
+      "sentiment_this_week": 0.02
+    },
+    "shipbuilding_orders": {
+      "this_week": 17,
+      "last_week": 5,
+      "week_over_week_change": "+240%",
+      "sentiment_this_week": 0.03
+    },
+    "container_freight": {
+      "this_week": 16,
+      "last_week": 1,
+      "week_over_week_change": "+1500%",
+      "sentiment_this_week": -0.03
+    },
+    "dry_bulk_rate": {
+      "this_week": 2,
+      "last_week": 3,
+      "week_over_week_change": "-33%",
+      "sentiment_this_week": -0.25
+    },
+    "port_congestion": {
+      "this_week": 3,
+      "last_week": 2,
+      "week_over_week_change": "+50%",
+      "sentiment_this_week": -0.33
+    }
+  },
+  "company_7d_summary": {
+    "hanwha_ocean": {
+      "event_count": 10,
+      "sentiment_avg": 0.05,
+      "rank": 2
+    },
+    "hd_korea": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 7
+    },
+    "cosco": {
+      "event_count": 41,
+      "sentiment_avg": 0.01,
+      "rank": 1
+    },
+    "samsung_heavy": {
+      "event_count": 8,
+      "sentiment_avg": 0.12,
+      "rank": 3
+    },
+    "star_bulk": {
+      "event_count": 3,
+      "sentiment_avg": 0.0,
+      "rank": 5
+    },
+    "cssc": {
+      "event_count": 4,
+      "sentiment_avg": 0.12,
+      "rank": 4
+    },
+    "evergreen": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 8
+    },
+    "wan_hai": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 9
+    },
+    "maersk": {
+      "event_count": 3,
+      "sentiment_avg": 0.33,
+      "rank": 6
+    },
+    "hapag": {
+      "event_count": 1,
+      "sentiment_avg": 0.5,
+      "rank": 10
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 358,
+        "last": 390,
+        "change_pct": -8.2
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-08-26",
+      "event_count": 57,
+      "sentiment_avg": 0.01
+    },
+    {
+      "date": "2026-08-27",
+      "event_count": 63,
+      "sentiment_avg": -0.03
+    },
+    {
+      "date": "2026-08-28",
+      "event_count": 84,
+      "sentiment_avg": 0.04
+    },
+    {
+      "date": "2026-08-29",
+      "event_count": 11,
+      "sentiment_avg": 0.05
+    },
+    {
+      "date": "2026-08-30",
+      "event_count": 23,
+      "sentiment_avg": 0.0
+    },
+    {
+      "date": "2026-08-31",
+      "event_count": 76,
+      "sentiment_avg": 0.03
+    },
+    {
+      "date": "2026-09-01",
+      "event_count": 44,
+      "sentiment_avg": 0.07
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-08-26 ~ 2026-09-01）共 358 則事件，重點為「CSSC Waigaoqiao Shipbuilding Secures $2.688 Bil...」。馬士基、赫伯羅特表現正面，整體氣氛穩健。",
+    "watchlist": [
+      {
+        "company": "韓華海洋",
+        "reason": "本週出現 10 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "中遠海控",
+        "reason": "本週出現 41 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "三星重工",
+        "reason": "本週出現 8 則相關事件，為高關注企業，動態頻繁。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

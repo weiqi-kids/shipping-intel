@@ -1,0 +1,262 @@
+{
+  "date": "2026-09-01",
+  "generated_at": "2026-09-01T13:19:14.024498Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "cosco-2026-09-01-026",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "Maersk tipped to slide off liner podium",
+      "companies": [
+        "cosco",
+        "maersk"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://splash247.com/maersk-tipped-to-slide-off-liner-podium/"
+    },
+    {
+      "rank": 2,
+      "event_id": "cosco-2026-09-01-032",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "Ambitious Cosco’s spending spree takes box ship orderbook to new high",
+      "companies": [
+        "cosco",
+        "cssc",
+        "maersk"
+      ],
+      "related": {
+        "customers": [
+          "cosco"
+        ],
+        "suppliers": [
+          "cssc"
+        ]
+      },
+      "topics": [
+        "shipbuilding_orders",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://theloadstar.com/ambitious-coscos-spending-spree-takes-box-ship-orderbook-to-new-high/"
+    },
+    {
+      "rank": 3,
+      "event_id": "hapag-2026-09-01-036",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "Full Asia-Europe return to Suez would reverse head-haul demand growth",
+      "companies": [
+        "hapag",
+        "maersk"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://theloadstar.com/full-asia-europe-return-to-suez-would-reverse-head-haul-demand-growth/"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-09-01-035",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "More disruption at Mundra Port as operators refuse to move boxes",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://theloadstar.com/more-disruption-at-mundra-port-as-operators-refuse-to-move-boxes/"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-09-01-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "US Navy's Top Shipbuilding Adviser Visits South Korea to Inspect K-Shipyards Ahead of Imminent MASGA Orders - finance.biggo.com",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "container_freight",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBMdFJWLVduUGN1UlhMWlNsY3RGTzI3alQ5SmwtUVdMbHFlV1VrOVRKZkpCdkhicFlyOUs4TzdYeHhCZEN3eFFxanFXcEpWVVdnNXNEaUZSeXFHdFBScFI2MDQ5QklSaGlGRWIxN1NCa2lmdlNHSkE?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "container_freight": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 37,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.09,
+      "sentiment_7d_avg": null
+    },
+    "shipbuilding_orders": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "port_congestion": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.5,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [
+    {
+      "from": "cosco",
+      "to": "maersk",
+      "relation": "supplier_customer",
+      "co_mention_count": 2,
+      "topics": [
+        "industry_general",
+        "shipbuilding_orders"
+      ]
+    }
+  ],
+  "stats": {
+    "total_events": 44,
+    "sentiment_distribution": {
+      "positive": 9,
+      "neutral": 32,
+      "negative": 3
+    },
+    "top_companies": [
+      {
+        "id": "hanwha_ocean",
+        "count": 7
+      },
+      {
+        "id": "cosco",
+        "count": 5
+      },
+      {
+        "id": "maersk",
+        "count": 3
+      },
+      {
+        "id": "cssc",
+        "count": 2
+      },
+      {
+        "id": "evergreen",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 37
+      },
+      {
+        "id": "container_freight",
+        "count": 3
+      },
+      {
+        "id": "shipbuilding_orders",
+        "count": 2
+      },
+      {
+        "id": "port_congestion",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 352,
+    "dup_title": 164,
+    "too_old": 88,
+    "gate1_blocked": 22,
+    "gate2_blocked": 2,
+    "passed": 76,
+    "pass_rate": "40.4%",
+    "gate2_block_rate": "1.1%",
+    "gate2_samples": [
+      "S.Korea: After another worker death, Samsung Heavy Industries criticised over repeated fatal inciden",
+      "Austal USA Swings to Deficit Amid Hanwha Ocean Bid - Businesskorea"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 44 則事件，焦點為韓華海洋、中遠海控、馬士基相關動態：「Maersk tipped to slide off liner podium」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Maersk tipped to slide off liner podium（航運產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "Ambitious Cosco’s spending spree takes box ship orderbook to new high（造船訂單、航運產業通用）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

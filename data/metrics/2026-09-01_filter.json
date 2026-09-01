@@ -1,0 +1,13 @@
+{
+  "total_raw": 352,
+  "dup_title": 164,
+  "no_date": 0,
+  "too_old": 88,
+  "gate1_fail": 22,
+  "gate2_fail": 2,
+  "passed": 76,
+  "gate2_samples": [
+    "S.Korea: After another worker death, Samsung Heavy Industries criticised over repeated fatal inciden",
+    "Austal USA Swings to Deficit Amid Hanwha Ocean Bid - Businesskorea"
+  ]
+}
