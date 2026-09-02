@@ -1,0 +1,224 @@
+{
+  "date": "2026-09-02",
+  "generated_at": "2026-09-02T12:40:15.317246Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-09-02-003",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "CSP Abu Dhabi volumes plunge 44% as Hormuz crisis bites - worldcargonews.com",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQV0kxY1ZJSWlOM01GR19iMFJLWXRWSkxobG1VOTJfZ2J5eWhnb0lLQ2I2aUFhMDhpMnNTTThxV3I0YlJ5WVk3RlNzdEJYZ3oza2lQZmpHeTlmLV9lcGhnMFVneExqcE82eWJ0NklGb1Rvc1hNM1hqTDZLcnBYc3lvd21XWWxoT0s2MVl1Ym1MTnoyM2JpeXFEU2xJSGYxVUlq?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-09-02-006",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Motive targets fleet repair costs with AI maintenance",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://www.freightwaves.com/news/fleet-repair-costs-ai-maintenance"
+    },
+    {
+      "rank": 3,
+      "event_id": "maersk-2026-09-02-024",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Maersk in breakthrough rotor sail on a container ship",
+      "companies": [
+        "maersk"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://www.seatrade-maritime.com/sustainability/maersk-in-breakthrough-rotor-sail-on-a-container-ship"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-09-02-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Geoje Mayor Demands Review of Shipyards' Busan Expansion - 조선일보",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNR1ZpQ0pjeEdMTEoySWt6OG1EbnUxaFY4MzRzRXItd2ppanJEeTl2bGEtNGNPR3ZxYjNtWTE0bGJHSnhuSTNGR0VmdW94bzUtbl9rcm92YkNQRURjT0xUQnE0b3NGS0lWMXpiSXZ0SHdOQmQ1VDlvVVRtMXVRdWZsSHJiS3o5OG1f?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-09-02-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Chinese Industry Close-up: What fuels China’s shipbuilding boom as order bookings stretch well into 2030? - Cyprus Shipping News",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNMnY2ZE5FV2R1UTF3SFo0YWk4MVFmSWpzM1A4V05PSk94RTlNLW5KdldTajlST1pvOWpyUjhIYUdST0kyRDQ2N2hKak5nODJ6VFM4cGxDcGUwNlJqd3pxRmdVelFWeGltSlVrbF90bzNGTGhoQ2lEVmpXLUtJekNIVkdaLUxMc1gyMThraWJFUmppdVFrQUI1b1Fkb1U0UTA1NVM3am13aThuTmZtZUs0M2hoUUJFTmJJTzByUlpyU0N4SkFGMTdhTE90NEt1dWtxQ2F5TXVReExmdXQ4ZWc?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 26,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "shipbuilding_orders": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.17,
+      "sentiment_7d_avg": null
+    },
+    "port_congestion": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 26,
+    "sentiment_distribution": {
+      "positive": 3,
+      "neutral": 21,
+      "negative": 2
+    },
+    "top_companies": [
+      {
+        "id": "maersk",
+        "count": 2
+      },
+      {
+        "id": "cosco",
+        "count": 2
+      },
+      {
+        "id": "cssc",
+        "count": 1
+      },
+      {
+        "id": "hanwha_ocean",
+        "count": 1
+      },
+      {
+        "id": "hapag",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 26
+      },
+      {
+        "id": "shipbuilding_orders",
+        "count": 3
+      },
+      {
+        "id": "port_congestion",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 351,
+    "dup_title": 169,
+    "too_old": 86,
+    "gate1_blocked": 18,
+    "gate2_blocked": 10,
+    "passed": 68,
+    "pass_rate": "37.4%",
+    "gate2_block_rate": "5.5%",
+    "gate2_samples": [
+      "S.Korea: After another worker death, Samsung Heavy Industries criticised over repeated fatal inciden",
+      "Geoje Mayor Byun Kwang-yong has put the brakes on Samsung Heavy Industries and Hanwha Ocean's plan t",
+      "Austal USA Swings to Deficit Amid Hanwha Ocean Bid - Businesskorea",
+      "Evergreen Marine stock steadies as digital bills of lading push logistics upgrade - AD HOC NEWS",
+      "Premium Comment Analysis: Time to think 'constructively' about Cosco - The Loadstar"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 26 則事件，焦點為馬士基、中遠海控、中國船舶相關動態：「CSP Abu Dhabi volumes plunge 44% as Hormuz crisis bites -...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "CSP Abu Dhabi volumes plunge 44% as Hormuz crisis bites - worldcargonews.com（航運產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "Motive targets fleet repair costs with AI maintenance（航運產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

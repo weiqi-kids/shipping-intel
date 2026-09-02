@@ -1,0 +1,16 @@
+{
+  "total_raw": 351,
+  "dup_title": 169,
+  "no_date": 0,
+  "too_old": 86,
+  "gate1_fail": 18,
+  "gate2_fail": 10,
+  "passed": 68,
+  "gate2_samples": [
+    "S.Korea: After another worker death, Samsung Heavy Industries criticised over repeated fatal inciden",
+    "Geoje Mayor Byun Kwang-yong has put the brakes on Samsung Heavy Industries and Hanwha Ocean's plan t",
+    "Austal USA Swings to Deficit Amid Hanwha Ocean Bid - Businesskorea",
+    "Evergreen Marine stock steadies as digital bills of lading push logistics upgrade - AD HOC NEWS",
+    "Premium Comment Analysis: Time to think 'constructively' about Cosco - The Loadstar"
+  ]
+}
