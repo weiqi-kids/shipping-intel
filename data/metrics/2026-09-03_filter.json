@@ -1,0 +1,15 @@
+{
+  "total_raw": 187,
+  "dup_title": 60,
+  "no_date": 0,
+  "too_old": 34,
+  "gate1_fail": 8,
+  "gate2_fail": 4,
+  "passed": 81,
+  "gate2_samples": [
+    "Austal USA Swings to Deficit Amid Hanwha Ocean Bid - Businesskorea",
+    "Diesel at 5-Year Highs: Why This Surge Isn’t a Blip",
+    "Agentic AI in Logistics: Why 55% Accuracy Fails",
+    "Seasonal ag truckers from Mexico face same English-language rules, DOL says"
+  ]
+}

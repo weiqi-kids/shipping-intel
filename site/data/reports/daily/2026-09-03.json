@@ -1,0 +1,212 @@
+{
+  "date": "2026-09-03",
+  "generated_at": "2026-09-03T12:43:28.237300Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-09-03-024",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Future for South Korea’s Jeju Island box shipping service looks grim",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://theloadstar.com/future-for-south-koreas-jeju-island-box-shipping-service-looks-grim/"
+    },
+    {
+      "rank": 2,
+      "event_id": "hanwha_ocean-2026-09-03-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Hanwha Ocean seals $1.5 bn in ship orders, boosting shipbuilding shares - KED Global",
+      "companies": [
+        "hanwha_ocean"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "shipbuilding_orders",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE02bEJWSndtamNsWE5VU2taeHU1MXdKZmtFY1pYME9qRUpLZG9xNWdicmNnUmhQNzk1cVVDNllDY0M4T1hvWlNtZlktVGQyR0xKZzNtMzhvSlJ0ZERGbEJqVkhPcVNpcUFpQmI1LXpUaEtONHRzZnNESlVZUWo?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "hanwha_ocean-2026-09-03-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Hanwha Ocean Secures 6 LNG Dual-Fuel Ships - 조선일보",
+      "companies": [
+        "hanwha_ocean"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOVlhHOUxKY1U1ZHVOUFNxVlJFMHZhdWVPQmtXakp3N3JUTFFlNzdWak1SS2ZMOFhhUHZrZXRNOWZ1dmtfMDlwS0NPanVMelFmSWdqWE5PM0FSdFF1cTc2YkNrbHYtSVpFWDBkMFVaREpEV1U3UXRJVG15TjVaaFZibEpaV1g4RkYz?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "hanwha_ocean-2026-09-03-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Hanwha Ocean Wins 1.55 Trillion-Won Order From Yang Ming - Businesskorea",
+      "companies": [
+        "hanwha_ocean"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1xSXlJY0NtZXdwdHVHa0VZMjZUV3NDcDBEaDMtTFdtSWF6NzN6d0RoUkVLUGQweGhSVEYwbVkxa3ZJRllQdzBlRGN2RnJ5cWFJY3h5ZUpLVGd4VXltemhpWHNOS0NYRWJzdUh6R3ctaVI0OXJx?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "hanwha_ocean-2026-09-03-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Yang Ming and Hanwha Ocean Ink Deal for Six 13,000 TEU LNG Dual-Fuel Vessels - imarinenews.com",
+      "companies": [
+        "hanwha_ocean"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9aOGYwbWxrYXNyQTVKcW1sMFBOeGdNNldmS215NGw2NU5SemIyaHN0RHVHTUpkSGJpWGJkbFl3NXotYkpDOFZhSmp5VVhkUHc?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "shipbuilding_orders": {
+      "today": 5,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.1,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 35,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.01,
+      "sentiment_7d_avg": null
+    },
+    "dry_bulk_rate": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 36,
+    "sentiment_distribution": {
+      "positive": 4,
+      "neutral": 28,
+      "negative": 4
+    },
+    "top_companies": [
+      {
+        "id": "hanwha_ocean",
+        "count": 9
+      },
+      {
+        "id": "maersk",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 35
+      },
+      {
+        "id": "shipbuilding_orders",
+        "count": 5
+      },
+      {
+        "id": "dry_bulk_rate",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 187,
+    "dup_title": 60,
+    "too_old": 34,
+    "gate1_blocked": 8,
+    "gate2_blocked": 4,
+    "passed": 81,
+    "pass_rate": "63.8%",
+    "gate2_block_rate": "3.1%",
+    "gate2_samples": [
+      "Austal USA Swings to Deficit Amid Hanwha Ocean Bid - Businesskorea",
+      "Diesel at 5-Year Highs: Why This Surge Isn’t a Blip",
+      "Agentic AI in Logistics: Why 55% Accuracy Fails",
+      "Seasonal ag truckers from Mexico face same English-language rules, DOL says"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 36 則事件，焦點為韓華海洋、馬士基相關動態：「Future for South Korea’s Jeju Island box shipping service...」。主要關注主題為航運產業通用、造船訂單、散裝運價，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Future for South Korea’s Jeju Island box shipping service looks grim（航運產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "Hanwha Ocean seals $1.5 bn in ship orders, boosting shipbuilding shares - KED...（造船訂單、航運產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
