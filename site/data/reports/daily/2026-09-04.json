@@ -1,0 +1,217 @@
+{
+  "date": "2026-09-04",
+  "generated_at": "2026-09-04T12:37:14.168377Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-09-04-020",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "WINTEGRATE Launched to Accelerate Wind-Powered Shipping",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://maritime-executive.com/article/wintegrate-launched-to-accelerate-wind-powered-shipping"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-09-04-041",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "CargoWise is becoming the AI that runs freight – so what happens to the TMS?",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://theloadstar.com/cargowise-is-becoming-the-ai-that-runs-freight-so-what-happens-to-the-tms/"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-09-04-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Shipbuilding Stocks Lag KOSPI Rally, Show Signs of Bottoming Out - Seoul Economic Daily",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOb2c2M0tjUXc2Qjl3QUZXTEx0V3k3ejVfOXF6OG1NajN3REM0OXozcEx2amhDVUlMdGJoWHcwSXFXbngxQ1FhMVludWlVOUJuTjk1cE1ERDR4QVJsRk1DOVgwSkJRU1ZVSU0zVHNoRWhGT3E1akQxNkx6Q0kzRGhkQWw0LUZLelRxeXJPUTlheDBLS0VWQ1FqQTZsM3B6a0JPdUpV?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-09-04-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "ABS Awards AIP to Samsung, Conrad Shipyard for US-Built LNG Bunkering ATB - The Maritime Executive",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQYnRlRUcwaFgzd19adS1JTjRTRDV1S1NjcE9FeTRsZU9RM1J3UnRxN1VvLTBITkZwX253QVpqeHFVNWtBT1dBRzRTU3lUZGJqbDJnWUd5enVmQWsybHFvWnhEQjRLMmFoQlRNVFNFZEttOTRNdUFjZFBzSUtuSkNIbDQwSmFobzRHLXVibHoxc202NERKenJoREluWnhRcTlacFQtNUE0QVh0VWJWUHB6ckFfRFRtM2s3TkwwNVZjcVJrS19LcXdmaW9BZ3lFYUhEVHdQOGVwUklBZUhHTl9GTW9hZ0MxNkJhTFBv?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-09-04-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "South Korea's ship order share falls to 7% in August as China captures 85% - 헤럴드경제",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "shipbuilding_orders",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBVQU1fc1BOT2tNb3ZJb0lxY292ZnY4elRqZ0tBYndPQm1pUVBGYlA5VGhvZmo3TlVTUXE3bU1UUXhJWWIzdWZxVDY3YjlVcGxGVGlHSGhxMA?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 50,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "shipbuilding_orders": {
+      "today": 4,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "container_freight": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 52,
+    "sentiment_distribution": {
+      "positive": 4,
+      "neutral": 44,
+      "negative": 4
+    },
+    "top_companies": [
+      {
+        "id": "cosco",
+        "count": 7
+      },
+      {
+        "id": "hanwha_ocean",
+        "count": 3
+      },
+      {
+        "id": "cssc",
+        "count": 1
+      },
+      {
+        "id": "star_bulk",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 50
+      },
+      {
+        "id": "shipbuilding_orders",
+        "count": 4
+      },
+      {
+        "id": "container_freight",
+        "count": 2
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 332,
+    "dup_title": 114,
+    "too_old": 85,
+    "gate1_blocked": 6,
+    "gate2_blocked": 7,
+    "passed": 120,
+    "pass_rate": "55.0%",
+    "gate2_block_rate": "3.2%",
+    "gate2_samples": [
+      "Austal USA Swings to Deficit Amid Hanwha Ocean Bid - Businesskorea",
+      "COSCO says ‘intelligence collection’ allegation totally unfounded, reserves all legal rights to prot",
+      "Cosco rejects US espionage allegations as ‘totally unfounded’ - Lloyd's List",
+      "Premium Comment Analysis: Time to think 'constructively' about Cosco - The Loadstar",
+      "REGENT Seaglider Takes First Crewed Flight in Major Step Toward Commercial Service"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 52 則事件，焦點為中遠海控、韓華海洋、中國船舶相關動態：「WINTEGRATE Launched to Accelerate Wind-Powered Shipping」。主要關注主題為航運產業通用、造船訂單、貨櫃運價，市場情緒中性。",
+    "signals": [
+      {
+        "text": "WINTEGRATE Launched to Accelerate Wind-Powered Shipping（航運產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "CargoWise is becoming the AI that runs freight – so what happens to the TMS?（航運產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

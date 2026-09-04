@@ -1,0 +1,16 @@
+{
+  "total_raw": 332,
+  "dup_title": 114,
+  "no_date": 0,
+  "too_old": 85,
+  "gate1_fail": 6,
+  "gate2_fail": 7,
+  "passed": 120,
+  "gate2_samples": [
+    "Austal USA Swings to Deficit Amid Hanwha Ocean Bid - Businesskorea",
+    "COSCO says ‘intelligence collection’ allegation totally unfounded, reserves all legal rights to prot",
+    "Cosco rejects US espionage allegations as ‘totally unfounded’ - Lloyd's List",
+    "Premium Comment Analysis: Time to think 'constructively' about Cosco - The Loadstar",
+    "REGENT Seaglider Takes First Crewed Flight in Major Step Toward Commercial Service"
+  ]
+}
