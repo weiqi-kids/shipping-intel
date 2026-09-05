@@ -1,0 +1,193 @@
+{
+  "date": "2026-09-05",
+  "generated_at": "2026-09-05T11:45:49.191156Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "hanwha_ocean-2026-09-05-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Hanwha Ocean stock trades at KRW 86,800 after new order talk - ad-hoc-news.de",
+      "companies": [
+        "hanwha_ocean"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPMUlmYXV1Z2x3SThLeXZleF8zX0hpZnBZTkFRUUkyUEhZdzh2UTBucUtodmNDbUNfSU1PM2pGTXJXRndmaFpMVHBCb0pwbHptYk8wODFFYUtkRWprcnlPOWJtR1BpT0hhY195MlVPcjNqSFN4YzdKRXdRNF94WllNdzhMS3o0SWk4UXRTa1ZGTnExdUk3cHI1NmdvVF82dktnd3FIeGFESTZfOENwR0wtTEJ3M0gtMVdtbDZj?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "evergreen-2026-09-05-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Taiwan’s Evergreen Marine introduces smart containers | Taiwan News | Sep. 5, 2026 14:08 - Taiwan News",
+      "companies": [
+        "evergreen"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFB3cG5NTVBLRzEyRWlXTHRVdnV5M19Ud2k5M1VwcmNwOVFLbmd2LU43VWV4bUNxWFQ0c2FSUkllbzVia1JSWEZ0c1praWVhMXprTTZ5NA?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-09-05-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Panama Canal Scraps Planned October Draft Cut—for Now",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "dry_bulk_rate",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://gcaptain.com/panama-canal-scraps-planned-october-draft-cut-for-now/"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-09-05-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Smuggling-Boat Skipper Gets Five Years for Fatal Capsizing off San Diego",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://maritime-executive.com/article/smuggling-boat-skipper-gets-five-years-for-fatal-capsizing-off-san-diego"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-09-05-005",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "$277K Guinness heist: Thieves hit same UK depot twice in 2 hours",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.freightwaves.com/news/277k-guinness-heist-thieves-hit-same-uk-depot-twice-in-2-hours"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 4,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "dry_bulk_rate": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 5,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 5,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "hanwha_ocean",
+        "count": 1
+      },
+      {
+        "id": "evergreen",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 4
+      },
+      {
+        "id": "dry_bulk_rate",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 344,
+    "dup_title": 178,
+    "too_old": 85,
+    "gate1_blocked": 8,
+    "gate2_blocked": 6,
+    "passed": 67,
+    "pass_rate": "40.4%",
+    "gate2_block_rate": "3.6%",
+    "gate2_samples": [
+      "Austal USA Swings to Deficit Amid Hanwha Ocean Bid - Businesskorea",
+      "Premium Comment Analysis: Time to think 'constructively' about Cosco - The Loadstar",
+      "COSCO says ‘intelligence collection’ allegation totally unfounded, reserves all legal rights to prot",
+      "Cosco rejects US espionage allegations as ‘totally unfounded’ - Lloyd's List",
+      "Retail diesel has never been this expensive"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 5 則事件，焦點為韓華海洋、長榮海運相關動態：「Hanwha Ocean stock trades at KRW 86,800 after new order t...」。主要關注主題為航運產業通用、散裝運價，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Hanwha Ocean stock trades at KRW 86,800 after new order talk - ad-hoc-news.de",
+        "level": "green"
+      },
+      {
+        "text": "Taiwan’s Evergreen Marine introduces smart containers | Taiwan News | Sep. 5,...（航運產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
