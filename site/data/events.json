@@ -1,5 +1,23 @@
 [
   {
+    "id": "unknown-2026-09-06-001",
+    "date": "2026-09-06",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Borderlands Mexico: Trucker protest raises stakes in Mexico-US B-1 visa dispute",
+    "summary": "<p>This week in Borderlands Mexico: Trucker protest raises stakes in Mexico-US B-1 visa dispute; CBP announces extended-hours program at Laredo bridge; and Imperative Logistics expands El Paso footpri",
+    "sources": [
+      {
+        "name": "freightwaves",
+        "url": "https://www.freightwaves.com/news/borderlands-mexico-trucker-protest-raises-stakes-in-mexico-us-b-1-visa-dispute",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "hanwha_ocean-2026-09-05-001",
     "date": "2026-09-05",
     "companies": [
@@ -88,6 +106,188 @@
       {
         "name": "freightwaves",
         "url": "https://www.freightwaves.com/news/277k-guinness-heist-thieves-hit-same-uk-depot-twice-in-2-hours",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "star_bulk-2026-09-05-006",
+    "date": "2026-09-05",
+    "companies": [
+      "star_bulk"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Does Star Bulk Carriers’ (SBLK) Athens Listing Reveal a New Capital Strategy or Just Added Optionality? - simplywall.st",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2wFBVV95cUxOZE4ySHI1Y3RZcGp5OFA5M1ZkS0pHaUF6al82RERtSmJ3TnhwZ2JCTzAzV3hDdTNYbEdISlZNY0FzWlRUUVNLZEFzU0xMRWVhRVZaZk42dVRDV1VHQmMtNWxVXzFsV0hmQTlPcGlYYz",
+    "sources": [
+      {
+        "name": "star_bulk",
+        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOZE4ySHI1Y3RZcGp5OFA5M1ZkS0pHaUF6al82RERtSmJ3TnhwZ2JCTzAzV3hDdTNYbEdISlZNY0FzWlRUUVNLZEFzU0xMRWVhRVZaZk42dVRDV1VHQmMtNWxVXzFsV0hmQTlPcGlYYzBYWHd3bW1BUS00THNmdlBJQkNQcW10b3dqYXdTWTZibXcwbHEtZDM3cTlEenBlUVY1cldnR0NPdGM2RXg4SnBjaFMxOHJTRWgyWmkycmhNN3dHRUJLWGlBMEZVSFZTZXpac1NsWnlGTlRMQzTSAeABQVVfeXFMUGpQTmdKb00wbnZKUDRPWDgwZ2lhOEk0TS05bnI2eGRCTWJLb2NwR3gzMWtQSEE5YmtHU0RRNzV1ZjBER1NiM0txUll2M3BkeHBXdHVaSFZRVWREZHhEVzU4YzgtLTJPaTBZc0RRNXlNTWxrVW5FNERzSk5wMnFodlJ6aGVRclR1LU5yaGIza2hLRE1JWmFWZzliazVja2FBYkRIYi03UDRHTUZoRlA1MjA3aTEyR0pEYlY1VTFDMlhobDBkZnRZcmlsWWU5RmYtQTZGOTdHT0lJeW8yNzNoUlQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-05-007",
+    "date": "2026-09-05",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Norway To Help Russians Stranded In Arctic After ship Seizure",
+    "summary": "OSLO, Sept 4 (Reuters)&#160;&#8211;&#160;Norway will provide necessary assistance to Russians in the Arctic Svalbard islands following the arrest of a ship transporting passengers and supplies to the ",
+    "sources": [
+      {
+        "name": "gcaptain",
+        "url": "https://gcaptain.com/norway-to-help-russians-stranded-in-arctic-after-ship-seizure/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-05-008",
+    "date": "2026-09-05",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Ecuador Says US Sinkings Of Vessels Were Part Of Joint Anti-Drug Probe",
+    "summary": "By Alexandra Valencia and Yury Garcia QUITO, Sept 4 (Reuters) &#8211; Ecuador defended on Friday U.S. operations that intercepted and sank three Ecuadorean vessels this week, while relatives of some c",
+    "sources": [
+      {
+        "name": "gcaptain",
+        "url": "https://gcaptain.com/ecuador-says-us-sinkings-of-vessels-were-part-of-joint-anti-drug-probe/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-05-009",
+    "date": "2026-09-05",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "U.S. Destroys Iranian Tanker, Disables Two Others After Missile Attacks on Navy Warships",
+    "summary": "U.S. forces struck three Iranian oil tankers on Saturday after Iran’s Islamic Revolutionary Guard Corps launched ballistic missiles at two U.S. Navy warships, marking another sharp escalation in the m",
+    "sources": [
+      {
+        "name": "gcaptain",
+        "url": "https://gcaptain.com/u-s-destroys-iranian-tanker-disables-two-others-after-missile-attacks-on-navy-warships/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-05-010",
+    "date": "2026-09-05",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "ROV Inspection Confirms Wreck Site of Lost Turkish Freighter",
+    "summary": "\n                Turkey's navy has found the wreck of the Tugberk Imamoglu, a coastal freighter that sank last week after a collision with a product tanker in the Sea...\n            ",
+    "sources": [
+      {
+        "name": "maritime_executive",
+        "url": "https://maritime-executive.com/article/rov-inspection-confirms-wreck-site-of-lost-turkish-freighter",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-05-011",
+    "date": "2026-09-05",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "negative",
+    "title": "Panama Canal Pushes Back Planned Draft Cut for Big Ships",
+    "summary": "\n                For the second time in a matter of weeks, the Panama Canal Authority is delaying a planned reduction in the maximum draft for the largest vessel, whic...\n            ",
+    "sources": [
+      {
+        "name": "maritime_executive",
+        "url": "https://maritime-executive.com/article/panama-canal-pushes-back-planned-draft-cut-for-big-ships",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-05-012",
+    "date": "2026-09-05",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "U.S. Forces Destroy One Iranian Tanker and Damage Two More",
+    "summary": "\n                On Saturday, U.S. Central Command reported that Iranian forces attempted to hit a U.S. Navy aircraft carrier with ballistic missiles, prompting a seve...\n            ",
+    "sources": [
+      {
+        "name": "maritime_executive",
+        "url": "https://maritime-executive.com/article/u-s-forces-destroy-one-iranian-tanker-and-damage-two-more",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-05-013",
+    "date": "2026-09-05",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "When Experience Becomes a Blind Spot",
+    "summary": "\n                Experience is one of the most valuable assets on a ship. It helps a master recognize a developing situation before it becomes obvious, allows an exper...\n            ",
+    "sources": [
+      {
+        "name": "maritime_executive",
+        "url": "https://maritime-executive.com/article/when-experience-becomes-a-blind-spot",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-05-014",
+    "date": "2026-09-05",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Newly-Rebuilt Rescue Boat for New South Wales Suffers Damage in Collision",
+    "summary": "\n                A newly refurbished vessel that was awaiting deployment for search and rescue operations off New South Wales will not enter service on time, and perha...\n            ",
+    "sources": [
+      {
+        "name": "maritime_executive",
+        "url": "https://maritime-executive.com/article/newly-rebuilt-rescue-boat-for-new-south-wales-suffers-damage-in-collision",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-05-015",
+    "date": "2026-09-05",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "US 'destroys' three Iranian tankers after attack on US warships",
+    "summary": "Centcom said it disabled two NITC tankers and destroyed a third after Iran’s IRGC launched ballistic missiles towards two US Navy vessels.",
+    "sources": [
+      {
+        "name": "seatrade_maritime",
+        "url": "https://www.seatrade-maritime.com/security/us-destroys-three-iranian-tankers-in-retaliatory-strikes",
         "type": "rss"
       }
     ]
@@ -1835,6 +2035,100 @@
       {
         "name": "loadstar",
         "url": "https://theloadstar.com/capacity-fears-as-us-drayage-rates-are-buoyed-by-converging-trends/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "hanwha_ocean-2026-09-04-095",
+    "date": "2026-09-04",
+    "companies": [
+      "hanwha_ocean"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Hanwha Ocean wins over $1.5bn worth of orders this week - 매일경제",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTFBrXzQwQjZnZWlLVXpLbzFmNHVsQndQckxUYU9fZExJQXBqUm8xY0xTT1p1UDRTNDU5Zk9faVNSam1hQkN6NEthYWh5c0VxM3ZVOGZvcVhWdw?oc=5\" target=\"_blank\">Hanwha Oc",
+    "sources": [
+      {
+        "name": "hanwha_ocean",
+        "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBrXzQwQjZnZWlLVXpLbzFmNHVsQndQckxUYU9fZExJQXBqUm8xY0xTT1p1UDRTNDU5Zk9faVNSam1hQkN6NEthYWh5c0VxM3ZVOGZvcVhWdw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "cosco-2026-09-04-096",
+    "date": "2026-09-04",
+    "companies": [
+      "cosco"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "COSCO Calls Allegations of “Intelligence Collection” False and Unfounded - The Maritime Executive",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxPUkpCQzNIcE9IOXdZSGFUS0s4OXM2V2h5czFEQURwdTFneHNjbDNxQTV5Y2NmRXhEWmp6SmhCSGNfUTlXT29SXzhqZ1ZQb1JvSlplYkZFUktPTW45TWtwRkZRUXdnNWFoSkFVMGc2Nn",
+    "sources": [
+      {
+        "name": "cosco",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPUkpCQzNIcE9IOXdZSGFUS0s4OXM2V2h5czFEQURwdTFneHNjbDNxQTV5Y2NmRXhEWmp6SmhCSGNfUTlXT29SXzhqZ1ZQb1JvSlplYkZFUktPTW45TWtwRkZRUXdnNWFoSkFVMGc2NnQ0eHV4aWtaMTlMQ3Q0MVVMZVMwSUFEMllsVk9SNEhLZ2xiejNLQWFZQnhQcmZ0RGtSZHVjWVdmRV9UX2ZQMkE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "cosco-2026-09-04-097",
+    "date": "2026-09-04",
+    "companies": [
+      "cosco"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "COSCO calls US espionage allegations 'groundless' - global.chinadaily.com.cn",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxQbHVuQjctdXhlTUhkaG5oM0MyaHVvcjlveEp3TU10TmJvQXUyeU1vek1YRmUzQ0lMWUpFOU9DY1Ntbm8tVDJzZVpzdlFnZVdVaDBXanBta0FxUVg2emhTM2tZSmctY2oza1BNMi1OaV",
+    "sources": [
+      {
+        "name": "cosco",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQbHVuQjctdXhlTUhkaG5oM0MyaHVvcjlveEp3TU10TmJvQXUyeU1vek1YRmUzQ0lMWUpFOU9DY1Ntbm8tVDJzZVpzdlFnZVdVaDBXanBta0FxUVg2emhTM2tZSmctY2oza1BNMi1OaVV5QVQtQW1lSzhfUmdSZjJrSEVR?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "cosco-2026-09-04-098",
+    "date": "2026-09-04",
+    "companies": [
+      "cosco"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "CICC Reaffirms Their Buy Rating on COSCO SHIPPING Ports (CSPKF) - The Globe and Mail",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4AFBVV95cUxNd1NkMEM4OHdYbExHRjFYY0tkU1dXeXpLcTgzZHYzX0xmaUVTWUJja3djamVacFlQWkFpelRaR25sRnZBNlpjaU45Z2ZXU25TaUoxdDdEOFAzQ3A2NXZTRmI0NHpnRlhOT1BtRWlSY2",
+    "sources": [
+      {
+        "name": "cosco",
+        "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNd1NkMEM4OHdYbExHRjFYY0tkU1dXeXpLcTgzZHYzX0xmaUVTWUJja3djamVacFlQWkFpelRaR25sRnZBNlpjaU45Z2ZXU25TaUoxdDdEOFAzQ3A2NXZTRmI0NHpnRlhOT1BtRWlSY25ZWVJEVk9BS1g3X3d3UVlBWkt6VmhfME5EOWtwT1ZVdVM0UmdiUHd0ak4wNEFmaHpNOXVOMUpITDZnQko0UW1VSmtYME5vSW1uUmJqeFYwaEtWOU9aZW9xUkp6Z3pQMVlaRWpjdTNGM3owMGNYNDlJYQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-04-099",
+    "date": "2026-09-04",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Star Bulk starts life as Athens-listed company with Greek share sale - TradeWinds News",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxPa3htXzM1d2F1bmpGMXNmYzJsZF9qaUJ6MTJGemZDTE1BODZHcEFuTzlCUG9GVjVEb04xakp4VTFrZ0YxNllXd2dUeU1WdjNubjcxczJxek9BR2ItVm1sal9EM3dWRWFpQWJXdWVERV",
+    "sources": [
+      {
+        "name": "star_bulk",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPa3htXzM1d2F1bmpGMXNmYzJsZF9qaUJ6MTJGemZDTE1BODZHcEFuTzlCUG9GVjVEb04xakp4VTFrZ0YxNllXd2dUeU1WdjNubjcxczJxek9BR2ItVm1sal9EM3dWRWFpQWJXdWVERVE0dnZVU0tEOFlNa1BjMnpMeWVuWWhKcG14dS0yQjRxZUZRM25UQmxHeFFzS0RrbnhsaGN5ZklXeWlNYkNtV0llVUNmVDgtNWhOeWtB?oc=5",
         "type": "rss"
       }
     ]
@@ -3693,6 +3987,160 @@
     ]
   },
   {
+    "id": "samsung_heavy-2026-09-03-100",
+    "date": "2026-09-03",
+    "companies": [
+      "samsung_heavy"
+    ],
+    "topics": [],
+    "impact": "positive",
+    "title": "Busan, Samsung Heavy Industries sign MOU to expand R&D center - 헤럴드경제",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTE5aNlNuZ2M4SFA4M2YwTDBvZXhTbnUzT21jV1NidWM1dGxNdEZhUFctNlVDY3BBSkxnak56bnZfSXVuVXlxcFptUmxuYkRVdTB6SEVKWjd2dw?oc=5\" target=\"_blank\">Busan, Sa",
+    "sources": [
+      {
+        "name": "samsung_heavy",
+        "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5aNlNuZ2M4SFA4M2YwTDBvZXhTbnUzT21jV1NidWM1dGxNdEZhUFctNlVDY3BBSkxnak56bnZfSXVuVXlxcFptUmxuYkRVdTB6SEVKWjd2dw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "samsung_heavy-2026-09-03-101",
+    "date": "2026-09-03",
+    "companies": [
+      "samsung_heavy"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Samsung Heavy Industries Partners with Seoul National University to Open Global Cooperation Center for Future Ship Technology - 매일경제",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiU0FVX3lxTE4yQXhMUnJQTG9MOFRuYVh0RkhBOVc1aXQyT0N5QUI1VUJkRWFyY2RaWGMweV93eUhBXzJmWUo3ZWhPcU51UGxZZHoxVkxNWjZDX0JJ?oc=5\" target=\"_blank\">Samsung Heavy I",
+    "sources": [
+      {
+        "name": "samsung_heavy",
+        "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE4yQXhMUnJQTG9MOFRuYVh0RkhBOVc1aXQyT0N5QUI1VUJkRWFyY2RaWGMweV93eUhBXzJmWUo3ZWhPcU51UGxZZHoxVkxNWjZDX0JJ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "samsung_heavy-2026-09-03-102",
+    "date": "2026-09-03",
+    "companies": [
+      "samsung_heavy"
+    ],
+    "topics": [],
+    "impact": "positive",
+    "title": "Samsung Heavy Industries will expand and relocate its R&D center in Busan within the region. It - 매일경제",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiUkFVX3lxTE5YTkNLaFVHM0R0V0paN2FEYjZrM2NJWUpyOUp4eGVaOTBSTFU5OHBsclFZcExIQmlsUUE3UDZLTU1uUmlnRkZLRldSVGY1MTJUckE?oc=5\" target=\"_blank\">Samsung Heavy In",
+    "sources": [
+      {
+        "name": "samsung_heavy",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5YTkNLaFVHM0R0V0paN2FEYjZrM2NJWUpyOUp4eGVaOTBSTFU5OHBsclFZcExIQmlsUUE3UDZLTU1uUmlnRkZLRldSVGY1MTJUckE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "hanwha_ocean-2026-09-03-103",
+    "date": "2026-09-03",
+    "companies": [
+      "hanwha_ocean"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Hanwha Ocean Production Worker Competition Hits Record 82-to-1 as Shipbuilding Boom Draws Talent - finance.biggo.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTFBWMW9Vb21UbEM3dk12TE95RzhXMEpfR1lJTG5HUE8yX3dtV2RlaV8tcW15VDYwZlI0aUVrQ05aX0lqNHFiVFhFcHNZVzZRN3ljbTlDbEZ5YVZ0eVdIWWVZd28zWDk4cjhlY05ZQ193Zk",
+    "sources": [
+      {
+        "name": "hanwha_ocean",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBWMW9Vb21UbEM3dk12TE95RzhXMEpfR1lJTG5HUE8yX3dtV2RlaV8tcW15VDYwZlI0aUVrQ05aX0lqNHFiVFhFcHNZVzZRN3ljbTlDbEZ5YVZ0eVdIWWVZd28zWDk4cjhlY05ZQ193Zkk3bFhFQXc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "hanwha_ocean-2026-09-03-104",
+    "date": "2026-09-03",
+    "companies": [
+      "hanwha_ocean"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Hanwha Ocean Secures 6 LNG Container Ships - 조선일보",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxOZWtsZlBjWExBVkpfRTVpUWR0a0JPXy1qZzJENjFzSU5haFRRNWQxdjVoaHMxVVJGRjA4cGFUcl9fanNJZ0h4czhXLWVIRG9hblphamw5cDFXTlZObHNFN2FqTlZmcHVGY1JhMVJmZy",
+    "sources": [
+      {
+        "name": "hanwha_ocean",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOZWtsZlBjWExBVkpfRTVpUWR0a0JPXy1qZzJENjFzSU5haFRRNWQxdjVoaHMxVVJGRjA4cGFUcl9fanNJZ0h4czhXLWVIRG9hblphamw5cDFXTlZObHNFN2FqTlZmcHVGY1JhMVJmZy1mVkpTVXFJbjU0QXltSlVvdGdRdy1uS3hu?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "hanwha_ocean-2026-09-03-105",
+    "date": "2026-09-03",
+    "companies": [
+      "hanwha_ocean"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Yang Ming orders six LNG dual-fuel boxships at Hanwha Ocean - Shipping Telegraph",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxOQlJvRWlncGhpT3VBZ3RRRFU3VVpNdnFSUnpScm43bXZ1b3pQeXNSb2NfV0xNZXpfMzFOTzRYakdmMTR5LVpPYklkUVBwS1BkdDVfdks0dzNtaGF5X1JBaEl1ZGdLQWx1MEVzbVVYcm",
+    "sources": [
+      {
+        "name": "yang_ming",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOQlJvRWlncGhpT3VBZ3RRRFU3VVpNdnFSUnpScm43bXZ1b3pQeXNSb2NfV0xNZXpfMzFOTzRYakdmMTR5LVpPYklkUVBwS1BkdDVfdks0dzNtaGF5X1JBaEl1ZGdLQWx1MEVzbVVYcmtLMWloN2NuYTdIVDFqNU80eVcyMng4dUVOTEI4YlRlRURURDJ6NmhTQ1RJMW12U2ZFX0RfaFFfZXk?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-03-106",
+    "date": "2026-09-03",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Kongsberg Maritime to Supply Technology Package for Two Cadeler WTIVs - Marine Link",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxPLUFwUXc3cmwzSUZ4ZnZNemthX00tU25nc3ZBREMxczFNZndNM3R5c2ZpckVNWkpwdlNMTVI1XzRxWmo3azdmazludGIybi1aTy04UTF1NFNsTEdNQWhocmRUMk5rMDhqSDlGU3F3ZW",
+    "sources": [
+      {
+        "name": "cosco",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPLUFwUXc3cmwzSUZ4ZnZNemthX00tU25nc3ZBREMxczFNZndNM3R5c2ZpckVNWkpwdlNMTVI1XzRxWmo3azdmazludGIybi1aTy04UTF1NFNsTEdNQWhocmRUMk5rMDhqSDlGU3F3ZWZaSlVzWXN2cGttWVAwUjRqWQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "cosco-2026-09-03-107",
+    "date": "2026-09-03",
+    "companies": [
+      "cosco"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "U.S. Officials Say China’s COSCO Cargo Ships Are Spying With Hidden Equipment - SOFX",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxPRzZvTXdRUHRWZ0x1dUZQT3h0YVNzNmVBNU1JTGdadmVfbUVJRVpRYVhfbDcyb21RUjlnMHRBbEhvLWMzNzhpbk5NU3dyS0NyNlBXQ2RtZTFneUhLbXJUcW51RnZjUmVtdnNVQkRxZk",
+    "sources": [
+      {
+        "name": "cosco",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPRzZvTXdRUHRWZ0x1dUZQT3h0YVNzNmVBNU1JTGdadmVfbUVJRVpRYVhfbDcyb21RUjlnMHRBbEhvLWMzNzhpbk5NU3dyS0NyNlBXQ2RtZTFneUhLbXJUcW51RnZjUmVtdnNVQkRxZkhwRHkwN2EzLWYwYTRYLUJYc2paekhleDI4b1VpN183WFZJUDB2UUJ2LVFpVDVFUQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "unknown-2026-09-02-001",
     "date": "2026-09-02",
     "companies": [],
@@ -5194,6 +5642,88 @@
       {
         "name": "cosco",
         "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPLUhteWJXMExVeEFvcUhQZVhBVGNRVkhJLWtZNHlEU3llNmJoU0dyMnE5TVRrOU14clBvYzg2UWpjV0lfeFY0WE5vSVVtOWhTZm1xZDdoMmFXR0tjdFJ1MFdJNEJicE5MOU5ERG0xWWFQNGkzYWdEN3FSSDFHcnF6aVlPd2ZZeFlSSGFGUGQxTDZNdzUwTm4xTVdjTmdLZTlvRzFuM0VldkdzUnpHQ3lKNU5pNDRPOG9PbnE3YVhCONIBzAFBVV95cUxNZEFCRDZ1N0VhMDUxZmxSUGtlZnJWZDVOR1d6Yldhel90NndHWm03UDRtRjBKNGZkNl9vQk1naU8wUU9iYVZVS21xZnBrclRTcW5DQlExMDdfZTFreUg2YzczaVJjV0wwck5YSFlpZ2tJWC1yd3F3R3NpVDZHWWxsNjIxV0lCNDc4UU1tVVE3dGx0Y3JZeWZCUXllX1BwTmNkREpxc3RoSFdpVFFnZEcxcUNhSEYxc3pBbFVKc1BSLU1HOW9qeld6NEptOEg?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "samsung_heavy-2026-09-02-082",
+    "date": "2026-09-02",
+    "companies": [
+      "samsung_heavy"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Samsung Heavy Industries plans robotic shipbuilding - motorship.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxQS1hNcDFKUWRoWGxHLTJIelVMMFFGM3NKMW9PcXlpZW1zWnEyMFJDd2ZrWmlxbmhaNVl5VDZCY0JYNTRwb3BxTm1Mb0ZncnVDRXlKNF93M2JZc2dvOFVpMUFtM3JhYjU5NHhMRmhKYX",
+    "sources": [
+      {
+        "name": "samsung_heavy",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQS1hNcDFKUWRoWGxHLTJIelVMMFFGM3NKMW9PcXlpZW1zWnEyMFJDd2ZrWmlxbmhaNVl5VDZCY0JYNTRwb3BxTm1Mb0ZncnVDRXlKNF93M2JZc2dvOFVpMUFtM3JhYjU5NHhMRmhKYXd1UmJQZjA1QnJQaUFhMWR1OHMxNDhrQnl3R0IwQllKekctV216dGpISEEweHg5WGd1dm1j?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "samsung_heavy-2026-09-02-083",
+    "date": "2026-09-02",
+    "companies": [
+      "samsung_heavy"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Samsung Heavy Industries to Open 'Future Ship Technology Global Cooperation Center' at Seoul National University - 아시아경제",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE00OUU2WnpoRWxIMjB1SEhuWWdlejdFaGNhMjVrUWFkU0lXM2VhXzhlTkZDVGtUWnR3STluWFRyN3N3Umh4RkJFQUZ5MDhjanFVT3FOeHZRTVM3dFhaeHZlMUpwYUg?oc=5\" target=\"",
+    "sources": [
+      {
+        "name": "samsung_heavy",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE00OUU2WnpoRWxIMjB1SEhuWWdlejdFaGNhMjVrUWFkU0lXM2VhXzhlTkZDVGtUWnR3STluWFRyN3N3Umh4RkJFQUZ5MDhjanFVT3FOeHZRTVM3dFhaeHZlMUpwYUg?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "hanwha_ocean-2026-09-02-084",
+    "date": "2026-09-02",
+    "companies": [
+      "hanwha_ocean",
+      "yang_ming"
+    ],
+    "topics": [
+      "shipbuilding_orders",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Hanwha Ocean wins $1.13b container ship order from Taiwan's Yang Ming Marine - 헤럴드경제",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTFBRTDVncFgtQ1lpSFlDd0dEbW9KZ0FrSzNQYkdaNUd5TUpVTzJCNnVxSzlCVG1Gck5YSmZ2NHRWLWdUbHVJSXl3ckNGWjBjRUxpWUVYVjQwQQ?oc=5\" target=\"_blank\">Hanwha Oc",
+    "sources": [
+      {
+        "name": "yang_ming",
+        "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBRTDVncFgtQ1lpSFlDd0dEbW9KZ0FrSzNQYkdaNUd5TUpVTzJCNnVxSzlCVG1Gck5YSmZ2NHRWLWdUbHVJSXl3ckNGWjBjRUxpWUVYVjQwQQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-02-085",
+    "date": "2026-09-02",
+    "companies": [],
+    "topics": [
+      "container_freight",
+      "port_congestion",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Trans-Pacific spot rates reach new highs on resilient demand, port congestion - freightwaves.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxPTURoZnVvM09vM3pfM19KQ3VTNy1EOFNsN3cxREQzSGJuVGFldmU5aXdia3NsVTVkam9pdFJhYTlZNG1ZN2VwMnZ5aDZvLUh6cjNDV0QwT1hzcUNSTUFHeXhFYlpiTmtyVkxscjV5cT",
+    "sources": [
+      {
+        "name": "google_container_shipping",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPTURoZnVvM09vM3pfM19KQ3VTNy1EOFNsN3cxREQzSGJuVGFldmU5aXdia3NsVTVkam9pdFJhYTlZNG1ZN2VwMnZ5aDZvLUh6cjNDV0QwT1hzcUNSTUFHeXhFYlpiTmtyVkxscjV5cTVzN29pcFZVWktjckptcXY0Sy1TaU5nVFZRU0Q1a3BmZmszNlVmclNSOUtjUnVHU1F1V3RzU3lOMGlicU9fVEsw?oc=5",
         "type": "rss"
       }
     ]
@@ -8865,6 +9395,24 @@
       {
         "name": "loadstar",
         "url": "https://theloadstar.com/sme-freight-forwarders-challenges-opportunities-and-advice/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-30-024",
+    "date": "2026-08-30",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Korea’s decades-old shipbuilding rivalry crosses the Pacific - The Korea Herald",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTFBkR0FSVVpqcDFZWGM4S3JCNW8yNlk1MzZtZElyUWFkbTBLZWJZZV9abnM3NXdIdGRBM0VPRTBUVkhnVG9rNXk4aEZIR0k4SEZHd2doRWt2Zw?oc=5\" target=\"_blank\">Korea’s d",
+    "sources": [
+      {
+        "name": "hd_korea",
+        "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBkR0FSVVpqcDFZWGM4S3JCNW8yNlk1MzZtZElyUWFkbTBLZWJZZV9abnM3NXdIdGRBM0VPRTBUVkhnVG9rNXk4aEZIR0k4SEZHd2doRWt2Zw?oc=5",
         "type": "rss"
       }
     ]

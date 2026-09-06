@@ -1,0 +1,87 @@
+{
+  "date": "2026-09-06",
+  "generated_at": "2026-09-06T12:03:25.418136Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-09-06-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Borderlands Mexico: Trucker protest raises stakes in Mexico-US B-1 visa dispute",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://www.freightwaves.com/news/borderlands-mexico-trucker-protest-raises-stakes-in-mexico-us-b-1-visa-dispute"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.5,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 1,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 0,
+      "negative": 0
+    },
+    "top_companies": [],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 345,
+    "dup_title": 223,
+    "too_old": 78,
+    "gate1_blocked": 9,
+    "gate2_blocked": 6,
+    "passed": 29,
+    "pass_rate": "23.8%",
+    "gate2_block_rate": "4.9%",
+    "gate2_samples": [
+      "Austal USA Swings to Deficit Amid Hanwha Ocean Bid - Businesskorea",
+      "Premium Comment Analysis: Time to think 'constructively' about Cosco - The Loadstar",
+      "COSCO says ‘intelligence collection’ allegation totally unfounded, reserves all legal rights to prot",
+      "Cosco rejects US espionage allegations as ‘totally unfounded’ - Lloyd's List",
+      "Retail diesel has never been this expensive"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 1 則事件，焦點為航運產業通用相關動態：「Borderlands Mexico: Trucker protest raises stakes in Mexi...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Borderlands Mexico: Trucker protest raises stakes in Mexico-US B-1 visa dispute（航運產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "建議持續監控後續發展動態。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

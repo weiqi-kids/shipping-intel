@@ -1,0 +1,16 @@
+{
+  "total_raw": 345,
+  "dup_title": 223,
+  "no_date": 0,
+  "too_old": 78,
+  "gate1_fail": 9,
+  "gate2_fail": 6,
+  "passed": 29,
+  "gate2_samples": [
+    "Austal USA Swings to Deficit Amid Hanwha Ocean Bid - Businesskorea",
+    "Premium Comment Analysis: Time to think 'constructively' about Cosco - The Loadstar",
+    "COSCO says ‘intelligence collection’ allegation totally unfounded, reserves all legal rights to prot",
+    "Cosco rejects US espionage allegations as ‘totally unfounded’ - Lloyd's List",
+    "Retail diesel has never been this expensive"
+  ]
+}
