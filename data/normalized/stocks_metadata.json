@@ -1,56 +1,56 @@
 {
   "hd_korea": {
     "earliest": "2000-01-04",
-    "latest": "2026-09-04",
-    "count": 6668,
+    "latest": "2026-09-07",
+    "count": 6669,
     "history_complete": true
   },
   "samsung_heavy": {
     "earliest": "2000-01-04",
-    "latest": "2026-09-04",
-    "count": 6668,
+    "latest": "2026-09-07",
+    "count": 6669,
     "history_complete": true
   },
   "hanwha_ocean": {
     "earliest": "2001-02-05",
-    "latest": "2026-09-04",
-    "count": 6384,
+    "latest": "2026-09-07",
+    "count": 6385,
     "history_complete": true
   },
   "cssc": {
     "earliest": "2000-01-03",
-    "latest": "2026-09-04",
-    "count": 6589,
+    "latest": "2026-09-07",
+    "count": 6590,
     "history_complete": true
   },
   "evergreen": {
     "earliest": "2000-01-04",
-    "latest": "2026-09-04",
-    "count": 6633,
+    "latest": "2026-09-07",
+    "count": 6634,
     "history_complete": true
   },
   "yang_ming": {
     "earliest": "2000-01-04",
-    "latest": "2026-09-04",
-    "count": 6633,
+    "latest": "2026-09-07",
+    "count": 6634,
     "history_complete": true
   },
   "wan_hai": {
     "earliest": "2000-01-04",
-    "latest": "2026-09-04",
-    "count": 6633,
+    "latest": "2026-09-07",
+    "count": 6634,
     "history_complete": true
   },
   "maersk": {
     "earliest": "2000-01-03",
-    "latest": "2026-09-04",
-    "count": 6736,
+    "latest": "2026-09-07",
+    "count": 6737,
     "history_complete": true
   },
   "hapag": {
     "earliest": "2015-11-06",
-    "latest": "2026-09-04",
-    "count": 2752,
+    "latest": "2026-09-07",
+    "count": 2753,
     "history_complete": true
   },
   "zim": {
@@ -61,20 +61,20 @@
   },
   "cosco": {
     "earliest": "2005-06-30",
-    "latest": "2026-09-04",
-    "count": 5224,
+    "latest": "2026-09-07",
+    "count": 5225,
     "history_complete": true
   },
   "u_ming": {
     "earliest": "2000-01-04",
-    "latest": "2026-09-04",
-    "count": 6633,
+    "latest": "2026-09-07",
+    "count": 6634,
     "history_complete": true
   },
   "wisdom": {
     "earliest": "2010-12-01",
-    "latest": "2026-09-04",
-    "count": 3850,
+    "latest": "2026-09-07",
+    "count": 3851,
     "history_complete": true
   },
   "star_bulk": {

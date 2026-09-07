@@ -1,0 +1,16 @@
+{
+  "total_raw": 347,
+  "dup_title": 180,
+  "no_date": 0,
+  "too_old": 82,
+  "gate1_fail": 12,
+  "gate2_fail": 6,
+  "passed": 67,
+  "gate2_samples": [
+    "At ₩86,800, Is Hanwha Ocean Co., Ltd. (KRX:042660) Worth Looking At Closely? - simplywall.st",
+    "Premium Comment Analysis: Time to think 'constructively' about Cosco - theloadstar.com",
+    "COSCO says ‘intelligence collection’ allegation totally unfounded, reserves all legal rights to prot",
+    "Cosco rejects US espionage allegations as ‘totally unfounded’ - Lloyd's List",
+    "Retail diesel has never been this expensive"
+  ]
+}
