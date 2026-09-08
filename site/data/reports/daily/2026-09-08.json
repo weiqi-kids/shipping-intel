@@ -1,0 +1,218 @@
+{
+  "date": "2026-09-08",
+  "generated_at": "2026-09-08T12:44:39.264387Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-09-08-029",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Record July shows the ‘underlying strength of global container trade’",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://theloadstar.com/record-july-shows-the-underlying-strength-of-global-container-trade/"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-09-08-031",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "AI boom drives two-speed Asian air cargo export market ahead of peak",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://theloadstar.com/ai-boom-drives-two-speed-asian-air-cargo-export-market-ahead-of-peak/"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-09-08-033",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Volcanic ash disrupts operations at Indonesian airports",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.75
+      },
+      "source_url": "https://theloadstar.com/volcanic-ash-disrupts-operations-at-indonesian-airports/"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-09-08-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "HD Hyundai works to expand AI use across shipbuilding - Smart Maritime Network",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQaVB0WnFSYXp2N05BMDVEZnoyOWhSQmRYRzczREpQb3FQeEQtTFZvWVVicklBdWt4NHNsMklDVy1BcWkwcjJYMHNBWnFnQnhFRkJVXzZRS0dBMDBxMWRjb2QtbDlyZGU2Q3RUU05rOUVIMWxBcDMzRHJ1STdSUmVVV3JMUkM2d3I5ZEVIVjNmV3d0MG9iX29OckVmQ0dRTkE?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-09-08-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Korean shipbuilders to showcase future technologies at Gastech - 매일경제",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5MQXBacllBLVpIOHJpbnpVSXFkWUJnN2hfNkdKRE9HLUZ6UVlfU29zVGNDdVc1S2tUdTRVZ1pocGx1bzQ5R1VLenJ2UFJWaTZlalZrSQ?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 33,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.08,
+      "sentiment_7d_avg": null
+    },
+    "shipbuilding_orders": {
+      "today": 4,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.12,
+      "sentiment_7d_avg": null
+    },
+    "container_freight": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.25,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 39,
+    "sentiment_distribution": {
+      "positive": 5,
+      "neutral": 32,
+      "negative": 2
+    },
+    "top_companies": [
+      {
+        "id": "hanwha_ocean",
+        "count": 6
+      },
+      {
+        "id": "evergreen",
+        "count": 2
+      },
+      {
+        "id": "wan_hai",
+        "count": 1
+      },
+      {
+        "id": "cosco",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 33
+      },
+      {
+        "id": "shipbuilding_orders",
+        "count": 4
+      },
+      {
+        "id": "container_freight",
+        "count": 2
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 352,
+    "dup_title": 172,
+    "too_old": 83,
+    "gate1_blocked": 19,
+    "gate2_blocked": 9,
+    "passed": 69,
+    "pass_rate": "38.3%",
+    "gate2_block_rate": "5.0%",
+    "gate2_samples": [
+      "Hanwha Ocean clinches $505 mil. frigate project from Thai Navy - The Korea Times",
+      "Thai Navy selects Hanwha Ocean for THB16.73bn frigate project - Nation Thailand",
+      "At ₩86,800, Is Hanwha Ocean Co., Ltd. (KRX:042660) Worth Looking At Closely? - simplywall.st",
+      "Premium Comment Analysis: Time to think 'constructively' about Cosco - The Loadstar",
+      "COSCO says ‘intelligence collection’ allegation totally unfounded, reserves all legal rights to prot"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 39 則事件，焦點為韓華海洋、長榮海運、萬海航運相關動態：「Record July shows the ‘underlying strength of global cont...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Record July shows the ‘underlying strength of global container trade’（航運產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "AI boom drives two-speed Asian air cargo export market ahead of peak（航運產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

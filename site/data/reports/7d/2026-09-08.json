@@ -1,0 +1,164 @@
+{
+  "date": "2026-09-08",
+  "date_range": {
+    "start": "2026-09-02",
+    "end": "2026-09-08"
+  },
+  "generated_at": "2026-09-08T12:44:39.379907Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "hanwha_ocean-2026-09-02-079",
+      "date": "2026-09-02",
+      "title": "Hanwha Ocean wins $1.13b container ship order from Taiwan's Yang Ming Marine - mbiz.heraldcorp.com",
+      "importance_score": 0.7
+    },
+    {
+      "type": "emerging_relation",
+      "company_a": "hanwha_ocean",
+      "company_b": "yang_ming",
+      "co_mention_count": 5,
+      "rank": 2
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "industry_general": {
+      "this_week": 188,
+      "last_week": 215,
+      "week_over_week_change": "-13%",
+      "sentiment_this_week": 0.01
+    },
+    "shipbuilding_orders": {
+      "this_week": 17,
+      "last_week": 17,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.03
+    },
+    "port_congestion": {
+      "this_week": 2,
+      "last_week": 3,
+      "week_over_week_change": "-33%",
+      "sentiment_this_week": 0.0
+    },
+    "dry_bulk_rate": {
+      "this_week": 4,
+      "last_week": 2,
+      "week_over_week_change": "+100%",
+      "sentiment_this_week": 0.0
+    },
+    "container_freight": {
+      "this_week": 5,
+      "last_week": 16,
+      "week_over_week_change": "-69%",
+      "sentiment_this_week": -0.1
+    }
+  },
+  "company_7d_summary": {
+    "cssc": {
+      "event_count": 3,
+      "sentiment_avg": 0.17,
+      "rank": 4
+    },
+    "hanwha_ocean": {
+      "event_count": 26,
+      "sentiment_avg": 0.0,
+      "rank": 1
+    },
+    "maersk": {
+      "event_count": 4,
+      "sentiment_avg": 0.38,
+      "rank": 3
+    },
+    "cosco": {
+      "event_count": 11,
+      "sentiment_avg": 0.0,
+      "rank": 2
+    },
+    "hapag": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 6
+    },
+    "star_bulk": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 7
+    },
+    "evergreen": {
+      "event_count": 3,
+      "sentiment_avg": 0.0,
+      "rank": 5
+    },
+    "wan_hai": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 8
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 442,
+        "last": 417,
+        "change_pct": 6.0
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-09-02",
+      "event_count": 89,
+      "sentiment_avg": -0.01
+    },
+    {
+      "date": "2026-09-03",
+      "event_count": 113,
+      "sentiment_avg": 0.05
+    },
+    {
+      "date": "2026-09-04",
+      "event_count": 107,
+      "sentiment_avg": 0.02
+    },
+    {
+      "date": "2026-09-05",
+      "event_count": 17,
+      "sentiment_avg": -0.03
+    },
+    {
+      "date": "2026-09-06",
+      "event_count": 15,
+      "sentiment_avg": -0.03
+    },
+    {
+      "date": "2026-09-07",
+      "event_count": 62,
+      "sentiment_avg": -0.01
+    },
+    {
+      "date": "2026-09-08",
+      "event_count": 39,
+      "sentiment_avg": 0.07
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-09-02 ~ 2026-09-08）共 442 則事件，重點為「Hanwha Ocean wins $1.13b container ship order f...」。馬士基表現正面，整體氣氛穩健。",
+    "watchlist": [
+      {
+        "company": "中國船舶",
+        "reason": "本週出現 3 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "韓華海洋",
+        "reason": "本週出現 26 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "馬士基",
+        "reason": "本週出現 4 則相關事件，為高關注企業，動態頻繁。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
