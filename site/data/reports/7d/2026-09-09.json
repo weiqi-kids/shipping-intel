@@ -1,0 +1,157 @@
+{
+  "date": "2026-09-09",
+  "date_range": {
+    "start": "2026-09-03",
+    "end": "2026-09-09"
+  },
+  "generated_at": "2026-09-09T12:51:02.931499Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "yang_ming-2026-09-03-044",
+      "date": "2026-09-03",
+      "title": "Hanwha Ocean clinches $1.14 billion order from Taiwan's Yang Ming Marine Transport - Korea JoongAng Daily",
+      "importance_score": 0.7
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "shipbuilding_orders": {
+      "this_week": 15,
+      "last_week": 18,
+      "week_over_week_change": "-17%",
+      "sentiment_this_week": 0.0
+    },
+    "industry_general": {
+      "this_week": 193,
+      "last_week": 227,
+      "week_over_week_change": "-15%",
+      "sentiment_this_week": 0.03
+    },
+    "dry_bulk_rate": {
+      "this_week": 4,
+      "last_week": 2,
+      "week_over_week_change": "+100%",
+      "sentiment_this_week": 0.0
+    },
+    "container_freight": {
+      "this_week": 6,
+      "last_week": 14,
+      "week_over_week_change": "-57%",
+      "sentiment_this_week": -0.08
+    },
+    "port_congestion": {
+      "this_week": 1,
+      "last_week": 4,
+      "week_over_week_change": "-75%",
+      "sentiment_this_week": 0.0
+    }
+  },
+  "company_7d_summary": {
+    "hanwha_ocean": {
+      "event_count": 32,
+      "sentiment_avg": 0.0,
+      "rank": 1
+    },
+    "maersk": {
+      "event_count": 3,
+      "sentiment_avg": 0.17,
+      "rank": 3
+    },
+    "cssc": {
+      "event_count": 3,
+      "sentiment_avg": 0.0,
+      "rank": 4
+    },
+    "cosco": {
+      "event_count": 10,
+      "sentiment_avg": 0.0,
+      "rank": 2
+    },
+    "star_bulk": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 6
+    },
+    "evergreen": {
+      "event_count": 3,
+      "sentiment_avg": 0.0,
+      "rank": 5
+    },
+    "wan_hai": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 7
+    },
+    "samsung_heavy": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 8
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 443,
+        "last": 450,
+        "change_pct": -1.6
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-09-03",
+      "event_count": 113,
+      "sentiment_avg": 0.05
+    },
+    {
+      "date": "2026-09-04",
+      "event_count": 109,
+      "sentiment_avg": 0.02
+    },
+    {
+      "date": "2026-09-05",
+      "event_count": 18,
+      "sentiment_avg": -0.03
+    },
+    {
+      "date": "2026-09-06",
+      "event_count": 17,
+      "sentiment_avg": -0.03
+    },
+    {
+      "date": "2026-09-07",
+      "event_count": 64,
+      "sentiment_avg": -0.01
+    },
+    {
+      "date": "2026-09-08",
+      "event_count": 87,
+      "sentiment_avg": 0.05
+    },
+    {
+      "date": "2026-09-09",
+      "event_count": 35,
+      "sentiment_avg": 0.11
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-09-03 ~ 2026-09-09）共 443 則事件，重點為「Hanwha Ocean clinches $1.14 billion order from ...」。航運產業通用、造船訂單、貨櫃運價為本週焦點話題。",
+    "watchlist": [
+      {
+        "company": "韓華海洋",
+        "reason": "本週出現 32 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "馬士基",
+        "reason": "本週出現 3 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "中國船舶",
+        "reason": "本週出現 3 則相關事件，為高關注企業，動態頻繁。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

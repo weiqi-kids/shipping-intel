@@ -1,0 +1,226 @@
+{
+  "date": "2026-09-09",
+  "generated_at": "2026-09-09T12:51:02.788396Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-09-09-011",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Svitzer Signs with Cheoy Lee for Six More 29-Metre TRAnsverse Tugs",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://maritime-executive.com/article/svitzer-signs-contract-with-cheoy-lee-shipyards-for-six-more-29-metre-transverse-tugs"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-09-09-026",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "APMT takes another look at Nigeria’s Badagry port development",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://theloadstar.com/apmt-takes-another-look-at-nigerias-badagry-port-development/"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-09-09-034",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Container trade volumes hit record high in July",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.75
+      },
+      "source_url": "https://www.seatrade-maritime.com/containers/container-trade-volumes-hit-record-high-in-july"
+    },
+    {
+      "rank": 4,
+      "event_id": "samsung_heavy-2026-09-09-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Babcock LGE to Supply Cargo Systems for Four Samsung Heavy Industries VLGCs - dataportuaria.com",
+      "companies": [
+        "samsung_heavy"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNTmRENms2SE8wVl82U25mX0JZemN0MFhZTUVpVEVYVWZzaWFLVUdIUVJjV2l0YWxVNzRrRHZTNDJ5U2lQSXp1d01aMjZNek1kQVp3OU8yV3FhcnVBemRGMk5VVHRSSkNfQlQ2ajg5WUxXOXNFTDNvcmFlLUNDbkM0cXFvNzBQQWpIYzhjNTY3QUtVb2ZvLVFGSnE5TWhvM3NNVjdLcUZVSUFNWHJhSFhDYm93NzhkMVU?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "hanwha_ocean-2026-09-09-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Hanwha Ocean Selected as Preferred Bidder for Thailand’s Next-Generation Frigate Program - navalnews.com",
+      "companies": [
+        "hanwha_ocean"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxONUhzY0g4aVJBVDVuVlF6dEZldUJpRGxqRllQLTM2WE40ZXQwU2p4aWROV3duQ0VhSDNiblYtVVlrdDliZjJGNkw3OGFCcVhsUndaYWRDTTR3WldzcGVVVEc4Ui1FQ19XWVRwSWF5SnJfZWk1alJpNUl3SWhYbmVwVVdTLThfNEhGYTRCYUYxQmpwdzJEV1htNHJYU3F0a3pYZ1c4UDYwcVBIYjhhY0RlS1dCTmU1aWxiX2E0ZFMyYmw2dXI4cjJhUnRwdU1IZw?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 31,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.12,
+      "sentiment_7d_avg": null
+    },
+    "container_freight": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "shipbuilding_orders": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 35,
+    "sentiment_distribution": {
+      "positive": 6,
+      "neutral": 28,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "hanwha_ocean",
+        "count": 7
+      },
+      {
+        "id": "samsung_heavy",
+        "count": 1
+      },
+      {
+        "id": "cosco",
+        "count": 1
+      },
+      {
+        "id": "cssc",
+        "count": 1
+      },
+      {
+        "id": "maersk",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 31
+      },
+      {
+        "id": "container_freight",
+        "count": 1
+      },
+      {
+        "id": "shipbuilding_orders",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 352,
+    "dup_title": 150,
+    "too_old": 84,
+    "gate1_blocked": 15,
+    "gate2_blocked": 12,
+    "passed": 91,
+    "pass_rate": "45.0%",
+    "gate2_block_rate": "5.9%",
+    "gate2_samples": [
+      "Hanwha Ocean Selected as Preferred Bidder for Thai Navy Frigate - Businesskorea",
+      "ABS Certifies Hanwha Ocean's Standardized FPSO Design for Deepwater Markets - News and Statistics - ",
+      "ABS Backs Hanwha Ocean’s Standardized FPSO Design - Offshore Engineer Magazine",
+      "Thai Navy selects Hanwha Ocean to build $508 million frigate — Anadolu Agency - UA.NEWS",
+      "South Korea’s Hanwha Ocean wins Thai Navy frigate bid - Thai PBS World"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 35 則事件，焦點為韓華海洋、三星重工、中遠海控相關動態：「Svitzer Signs with Cheoy Lee for Six More 29-Metre TRAnsv...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Svitzer Signs with Cheoy Lee for Six More 29-Metre TRAnsverse Tugs（航運產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "APMT takes another look at Nigeria’s Badagry port development（航運產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
