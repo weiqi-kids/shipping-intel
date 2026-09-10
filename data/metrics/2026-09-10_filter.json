@@ -1,0 +1,16 @@
+{
+  "total_raw": 352,
+  "dup_title": 151,
+  "no_date": 0,
+  "too_old": 83,
+  "gate1_fail": 16,
+  "gate2_fail": 5,
+  "passed": 97,
+  "gate2_samples": [
+    "Thai Navy selects Hanwha Ocean for THB16.73bn frigate project - Nation Thailand",
+    "Hanwha Ocean picked as preferred bidder for Thai frigate - upi.com",
+    "Hanwha Ocean Selected as Preferred Bidder for Thai Navy Frigate - Businesskorea",
+    "COSCO names China's first 88,000cbm ammonia-capable VLGC - Quantum Commodity Intelligence",
+    "FMCSA suspends USDOT deactivations for missed biennial updates during MOTUS rollout"
+  ]
+}
