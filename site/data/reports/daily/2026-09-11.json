@@ -1,0 +1,216 @@
+{
+  "date": "2026-09-11",
+  "generated_at": "2026-09-11T12:44:31.476785Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-09-11-021",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "EXCLUSIVE: Ecommerce chaos pushes Schiphol to its limits, warns ACN",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -0.75
+      },
+      "source_url": "https://theloadstar.com/exclusive-ecommerce-chaos-pushes-schiphol-to-its-limits-warns-acn/"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-09-11-022",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Flexport’s 9/11 post: Rage bait becomes the business model",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://theloadstar.com/flexports-9-11-post-rage-bait-becomes-the-business-model/"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-09-11-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Korea team holds site survey for USD four billion TN shipyard - The New Indian Express",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPckc5YkczMVh3MXZMeXozSW9mT3lqT0dBdzQ4TDAyMTg5el9xZ3pwXzBtRVc0NEp3OXptNDUwS1dtLU0yQWlZVUhGczVGTGNVdEc2WnlBTi1Zb0Q1ODJ2YmllMFA1bGRWSlEwdnFTcmFSbElBbWVMSl9YUkFuSGZVLVdNRmJsN3A5cDBoNk40cjVNTzZfdEZ5Z2p2U1FVb21VUGhOb1ZzeDJiWGltSUw5NFhkZ0xUWnV4RVNzRFJ0dWpvZ9IBzwFBVV95cUxPX0kySmZtd2JmNzFpVy0xa1IzM1M4Rl9pdXhMZ0Y5T2hNTzVJZXRRYnVsMkhBc0hBc2xTa0RDZUNUcGQzdnM4dm5lSVRDdHpIcW9IRHhFRXp3ZnBGc0ZSdzdWZDVheEhILXNMRVVoNGFFdGFuSF8wM3VsQm1iWFNHMUVzTWNMYVZxREtQVmF1dDlmWTVaVUNVMjVCQm9TYVdmWldXOU1SZm9YQk81TTVCSWJpOXVKX01fWm5FTHE5NUU0a29DSDVBWElzdFdQa2c?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "hanwha_ocean-2026-09-11-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "ABS issues certification to Hanwha Ocean for standardized FPSO design - Offshore Magazine",
+      "companies": [
+        "hanwha_ocean"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOcXJYT0dKNDQyZXpYUGllbGM3a2NQMHpDQ2Q0QjVlaUVJcTZMeVg0QVVyTWxCWTdtSF80bDYwcWJpNjhOdVB5WU9SWms0TzNMNEZDMDFpbExvRzRiVW9QTk9RdTA2RUIyN3gwRElsaENsUlRwaTJpTXQ0QzhzcEV4SFEyZTA5dEFlV0JvNUZKTEVqN1RENVJwaFAxTTQyUURuYzI5RmRSdFBZZzRsZzNfcFhSZ1JOTXVDTVFEOA?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "hanwha_ocean-2026-09-11-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Hanwha Ocean claims world first with maiden supersized FSRU for Singapore - TradeWinds News",
+      "companies": [
+        "hanwha_ocean"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNU0xUYXltZ1BRQ1I5MmdiTl90UUFmZW9sMnVPVHZoVkE0cmEyNUpORWUtWjZvdkFvRnhQRzJROXJ3dnpMcFpIZVJFeWpFOWZ2TEJQY2Z4RHFhVlBCdGM5c28yUUZGN3NtUktrOF9iUlg5SGkwSl94cWtVNWNwRGQ5Yi1VNDFwb2pVYkhrUDVpYTBFMzJPT3lvXzB3NzhsSWg2a1MwTEhrVXcxR0ZKb2luWTJHUE1kck9p?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 28,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.01,
+      "sentiment_7d_avg": null
+    },
+    "shipbuilding_orders": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "container_freight": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.12,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 30,
+    "sentiment_distribution": {
+      "positive": 2,
+      "neutral": 25,
+      "negative": 3
+    },
+    "top_companies": [
+      {
+        "id": "hanwha_ocean",
+        "count": 2
+      },
+      {
+        "id": "cosco",
+        "count": 2
+      },
+      {
+        "id": "maersk",
+        "count": 2
+      },
+      {
+        "id": "cssc",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 28
+      },
+      {
+        "id": "shipbuilding_orders",
+        "count": 2
+      },
+      {
+        "id": "container_freight",
+        "count": 2
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 352,
+    "dup_title": 156,
+    "too_old": 81,
+    "gate1_blocked": 13,
+    "gate2_blocked": 10,
+    "passed": 92,
+    "pass_rate": "46.9%",
+    "gate2_block_rate": "5.1%",
+    "gate2_samples": [
+      "Hanwha Ocean adds MaumAI to welding automation push - Splash247",
+      "Hanwha Ocean Selected as Preferred Bidder for Thai Navy Frigate - Businesskorea",
+      "ABS certifies Hanwha Ocean’s deepwater FPSO design - Inspenet",
+      "Hanwha Ocean picked as preferred bidder for Thai frigate - upi.com",
+      "Hanwha Ocean Wins Thai Frigate Bid, Eyes 3 Trillion Won Projects - 조선일보"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 30 則事件，焦點為韓華海洋、中遠海控、馬士基相關動態：「EXCLUSIVE: Ecommerce chaos pushes Schiphol to its limits,...」。整體情緒偏負面，需留意潛在風險。",
+    "signals": [
+      {
+        "text": "EXCLUSIVE: Ecommerce chaos pushes Schiphol to its limits, warns ACN（航運產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "Flexport’s 9/11 post: Rage bait becomes the business model（航運產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

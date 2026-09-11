@@ -1,0 +1,16 @@
+{
+  "total_raw": 352,
+  "dup_title": 156,
+  "no_date": 0,
+  "too_old": 81,
+  "gate1_fail": 13,
+  "gate2_fail": 10,
+  "passed": 92,
+  "gate2_samples": [
+    "Hanwha Ocean adds MaumAI to welding automation push - Splash247",
+    "Hanwha Ocean Selected as Preferred Bidder for Thai Navy Frigate - Businesskorea",
+    "ABS certifies Hanwha Ocean’s deepwater FPSO design - Inspenet",
+    "Hanwha Ocean picked as preferred bidder for Thai frigate - upi.com",
+    "Hanwha Ocean Wins Thai Frigate Bid, Eyes 3 Trillion Won Projects - 조선일보"
+  ]
+}
