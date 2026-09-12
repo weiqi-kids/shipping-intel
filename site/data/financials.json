@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-11T12:44:27.588317Z",
-  "quarter": "2025-12-31, 2026-03-31, 2026-06-30",
+  "updated_at": "2026-09-12T12:04:28.922692Z",
+  "quarter": "2025-12-31, 2026-06-30",
   "companies": [
     {
       "id": "cosco",
@@ -194,17 +194,17 @@
       "name": "慧洋海運",
       "ticker": "2637.TW",
       "currency": "TWD",
-      "ar": 163104000,
-      "ar_prev": 202515292,
-      "ar_qoq": "-19%",
+      "ar": 165350000,
+      "ar_prev": 163104000,
+      "ar_qoq": "+1%",
       "ar_period": "QoQ",
-      "inventory": 117398000,
-      "inv_prev": 145943101,
-      "inv_qoq": "-20%",
+      "inventory": 68848000,
+      "inv_prev": 117398000,
+      "inv_qoq": "-41%",
       "inv_period": "QoQ",
       "inventory_applicable": true,
-      "alert": false,
-      "quarter_date": "2026-03-31"
+      "alert": true,
+      "quarter_date": "2026-06-30"
     },
     {
       "id": "yang_ming",

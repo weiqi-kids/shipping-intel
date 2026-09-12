@@ -1,0 +1,142 @@
+{
+  "date": "2026-09-12",
+  "generated_at": "2026-09-12T12:04:31.231211Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "wan_hai-2026-09-12-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Wan Hai Lines Finalizes Order for Six 11,000-TEU Dual-Fuel-Ready Container Ships at Waigaoqiao Shipbuilding - imarinenews.com",
+      "companies": [
+        "wan_hai"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE0xYnd4NjlMWjRVWGxUTDVTYk85bmtfMThHRzVZTmo3dV94YVNlYjVtYlYzazZFcjRXVGFQYlBlam50SGdEYUQ0UERwLVMybzQ?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "star_bulk-2026-09-12-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Engineers Gate Manager LP Cuts Position in Star Bulk Carriers Corp. $SBLK - MarketBeat",
+      "companies": [
+        "star_bulk"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNOEVWakZOaUlHNDE5Wmo0Zmx4bHE4NjBqQnlkdlJDb0hHanpOUDlSY2NSODExdHBNQWhtVnZsamF4RmhuaEhXWHFUaDJEaVh0RXJUVF9zdGN0TGJXWWZPU0FkeXdxdWZMUWdSbXYzajIxR2ZmdkNuUlBnNl9pZTAxVVZvNnZZaHlRWmY0ZHNZdHFiMkt4ZlUyYmVacUtYclpVMFZqYnlXM1RrS2I4SEQ1NnpWT2FQb1lBdzlwYnFiVkJlM1pwR3lJaVVidE4?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "star_bulk-2026-09-12-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Star Bulk Carriers (SBLK) Stock Could Be Undervalued On Its Athens Listing - simplywall.st",
+      "companies": [
+        "star_bulk"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOcGIyNUJhaFBMbTFQRmNkSEMya0xTM3hPdE5YSThBZ0VYX0N0NXNGU2xmSHM4NFYzMVVHQUJRcGlsZmprNFJTaHR2R21kUWg2WkVXY2Q4OFlvTm95VGp0R1dkQ3NhS0NiaklpR2Mtc1BPZkpTcV8xaWN3SndEbDQ2ekd0YzJwYnp4VGZGbVdwYXEtakNIeHZNS1hiMXBKUWxLR1U1aDRmckJWS3dqenhYZHpBX3dSVWNNMkFIZFlYNUFlcmdKLUM5X0FFYXVhOHRhYUxTYUsxamdRcnlRei1rctIB4AFBVV95cUxOcGIyNUJhaFBMbTFQRmNkSEMya0xTM3hPdE5YSThBZ0VYX0N0NXNGU2xmSHM4NFYzMVVHQUJRcGlsZmprNFJTaHR2R21kUWg2WkVXY2Q4OFlvTm95VGp0R1dkQ3NhS0NiaklpR2Mtc1BPZkpTcV8xaWN3SndEbDQ2ekd0YzJwYnp4VGZGbVdwYXEtakNIeHZNS1hiMXBKUWxLR1U1aDRmckJWS3dqenhYZHpBX3dSVWNNMkFIZFlYNUFlcmdKLUM5X0FFYXVhOHRhYUxTYUsxamdRcnlRei1rcg?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 3,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 3,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "star_bulk",
+        "count": 2
+      },
+      {
+        "id": "wan_hai",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 3
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 352,
+    "dup_title": 199,
+    "too_old": 80,
+    "gate1_blocked": 14,
+    "gate2_blocked": 12,
+    "passed": 47,
+    "pass_rate": "30.7%",
+    "gate2_block_rate": "7.8%",
+    "gate2_samples": [
+      "Hanwha Ocean Selected as Preferred Bidder for Thai Navy Frigate - businesskorea.co.kr",
+      "Hanwha Ocean picked as preferred bidder for Thai frigate - upi.com",
+      "Thai Navy selects Hanwha Ocean for THB16.73bn frigate project - Nation Thailand",
+      "ABS Certifies Hanwha Ocean's Standardized FPSO Design for Deepwater Markets - News and Statistics - ",
+      "ABS Backs Hanwha Ocean’s Standardized FPSO Design - Offshore Engineer Magazine"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 3 則事件，焦點為Star Bulk Carriers、萬海航運相關動態：「Wan Hai Lines Finalizes Order for Six 11,000-TEU Dual-Fue...」。主要關注主題為航運產業通用，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Wan Hai Lines Finalizes Order for Six 11,000-TEU Dual-Fuel-Ready Container Sh...（航運產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "Engineers Gate Manager LP Cuts Position in Star Bulk Carriers Corp. $SBLK - M...（航運產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

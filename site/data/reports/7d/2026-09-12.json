@@ -1,0 +1,157 @@
+{
+  "date": "2026-09-12",
+  "date_range": {
+    "start": "2026-09-06",
+    "end": "2026-09-12"
+  },
+  "generated_at": "2026-09-12T12:04:31.320704Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "zim-2026-09-07-056",
+      "date": "2026-09-07",
+      "title": "Hapag-Lloyd Gets Extension to Address Concerns and Rework Bid for Zim",
+      "importance_score": 0.7
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "industry_general": {
+      "this_week": 175,
+      "last_week": 202,
+      "week_over_week_change": "-13%",
+      "sentiment_this_week": 0.05
+    },
+    "dry_bulk_rate": {
+      "this_week": 2,
+      "last_week": 3,
+      "week_over_week_change": "-33%",
+      "sentiment_this_week": 0.0
+    },
+    "shipbuilding_orders": {
+      "this_week": 11,
+      "last_week": 20,
+      "week_over_week_change": "-45%",
+      "sentiment_this_week": -0.04
+    },
+    "container_freight": {
+      "this_week": 8,
+      "last_week": 7,
+      "week_over_week_change": "+14%",
+      "sentiment_this_week": -0.09
+    },
+    "port_congestion": {
+      "this_week": 2,
+      "last_week": 3,
+      "week_over_week_change": "-33%",
+      "sentiment_this_week": 0.0
+    }
+  },
+  "company_7d_summary": {
+    "hanwha_ocean": {
+      "event_count": 21,
+      "sentiment_avg": 0.0,
+      "rank": 1
+    },
+    "cssc": {
+      "event_count": 3,
+      "sentiment_avg": 0.0,
+      "rank": 5
+    },
+    "cosco": {
+      "event_count": 7,
+      "sentiment_avg": 0.0,
+      "rank": 2
+    },
+    "maersk": {
+      "event_count": 4,
+      "sentiment_avg": 0.12,
+      "rank": 3
+    },
+    "evergreen": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 6
+    },
+    "wan_hai": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 7
+    },
+    "samsung_heavy": {
+      "event_count": 4,
+      "sentiment_avg": 0.0,
+      "rank": 4
+    },
+    "star_bulk": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 8
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 437,
+        "last": 531,
+        "change_pct": -17.7
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-09-06",
+      "event_count": 17,
+      "sentiment_avg": -0.03
+    },
+    {
+      "date": "2026-09-07",
+      "event_count": 68,
+      "sentiment_avg": -0.01
+    },
+    {
+      "date": "2026-09-08",
+      "event_count": 92,
+      "sentiment_avg": 0.05
+    },
+    {
+      "date": "2026-09-09",
+      "event_count": 86,
+      "sentiment_avg": 0.09
+    },
+    {
+      "date": "2026-09-10",
+      "event_count": 108,
+      "sentiment_avg": 0.04
+    },
+    {
+      "date": "2026-09-11",
+      "event_count": 63,
+      "sentiment_avg": 0.04
+    },
+    {
+      "date": "2026-09-12",
+      "event_count": 3,
+      "sentiment_avg": 0.0
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-09-06 ~ 2026-09-12）共 437 則事件，重點為「Hapag-Lloyd Gets Extension to Address Concerns ...」。航運產業通用、造船訂單、貨櫃運價為本週焦點話題。",
+    "watchlist": [
+      {
+        "company": "韓華海洋",
+        "reason": "本週出現 21 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "中國船舶",
+        "reason": "本週出現 3 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "中遠海控",
+        "reason": "本週出現 7 則相關事件，為高關注企業，動態頻繁。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

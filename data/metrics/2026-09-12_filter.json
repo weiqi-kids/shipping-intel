@@ -1,0 +1,16 @@
+{
+  "total_raw": 352,
+  "dup_title": 199,
+  "no_date": 0,
+  "too_old": 80,
+  "gate1_fail": 14,
+  "gate2_fail": 12,
+  "passed": 47,
+  "gate2_samples": [
+    "Hanwha Ocean Selected as Preferred Bidder for Thai Navy Frigate - businesskorea.co.kr",
+    "Hanwha Ocean picked as preferred bidder for Thai frigate - upi.com",
+    "Thai Navy selects Hanwha Ocean for THB16.73bn frigate project - Nation Thailand",
+    "ABS Certifies Hanwha Ocean's Standardized FPSO Design for Deepwater Markets - News and Statistics - ",
+    "ABS Backs Hanwha Ocean’s Standardized FPSO Design - Offshore Engineer Magazine"
+  ]
+}
