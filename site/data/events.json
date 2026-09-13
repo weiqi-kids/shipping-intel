@@ -1,5 +1,241 @@
 [
   {
+    "id": "unknown-2026-09-13-001",
+    "date": "2026-09-13",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "HD Hyundai advances shipbuilding initiatives at Gastech 2026 - The Korea Herald",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTE9Fc01NZElVM1h2MzN5b2NYNVNaQ1ZLdzNwbHRPLUU5aDFidEEwQW10YkcxajVRUUVicmw2ZU02ZWloWktRS0lJVllFcGlNYmF1NGxrYUVZTQ?oc=5\" target=\"_blank\">HD Hyunda",
+    "sources": [
+      {
+        "name": "hd_korea",
+        "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9Fc01NZElVM1h2MzN5b2NYNVNaQ1ZLdzNwbHRPLUU5aDFidEEwQW10YkcxajVRUUVicmw2ZU02ZWloWktRS0lJVllFcGlNYmF1NGxrYUVZTQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "hanwha_ocean-2026-09-13-002",
+    "date": "2026-09-13",
+    "companies": [
+      "hanwha_ocean"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "HD Hyundai, Hanwha Ocean to showcase next-gen gas tech in Bangkok - The Korea Times",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxPQ1phY0ZBcm1YM29qV2VJRy1Nd1VrQlRnR3VVZ2twTVFiUHJnMlZfNjNjMEIwWEtKcmRRWWY3MzRPOTJXb3FZbm1fUXV0ZFJzWEZYTTBjUnlkeDJ3WkJJdXZGNFItaFV4WjVlTTY0Z0",
+    "sources": [
+      {
+        "name": "hd_korea",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPQ1phY0ZBcm1YM29qV2VJRy1Nd1VrQlRnR3VVZ2twTVFiUHJnMlZfNjNjMEIwWEtKcmRRWWY3MzRPOTJXb3FZbm1fUXV0ZFJzWEZYTTBjUnlkeDJ3WkJJdXZGNFItaFV4WjVlTTY0Z05SNXhqWi1ZUk5xemEwakpZSHBST1pzYTc0Tmp2Q3A0ZU9GdDh5NFlxeUNiczRZNkhJOTRTeTdHdVdIbnJxOC1ZOGdjdklDajlvVC1TMHM5N3JLZmfSAcMBQVVfeXFMT0NaYWNGQXJtWDNvaldlSUctTXdVa0JUZ0d1VWdrcE1RYlByZzJWXzYzYzBCMFhLSnJkUVlmNzM0TzkyV29xWW5tX1F1dGRSc1hGWE0wY1J5ZHgyd1pCSXV2RjRSLWhVeFo1ZU02NGdOUjV4alotWVJOcXphMGpKWUhwUk9ac2E3NE5qdkNwNGVPRnQ4eTRZcXlDYnM0WTZISTk0U3k3R3VXSG5ycTgtWThnY3ZJQ2o5b1QtUzBzOTdyS2Zn?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "hanwha_ocean-2026-09-13-003",
+    "date": "2026-09-13",
+    "companies": [
+      "hanwha_ocean"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "HD Hyundai, Hanwha Ocean Showcase Marine Tech at Gastech in Bangkok - Seoul Economic Daily",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxNM1dmcWtmSkRyVTJYdE1SY3R6VVYwR2RFRjNYcno3dldtVWo1Ymo2V0xwMGdHUGNlWlhjZ3RJY3hUQXZwNHM1Wi1Oay00eE1IZUZlUFNnUjFGYkNHMHhuTkZrRFFWN0tkdHFnSzlhcm",
+    "sources": [
+      {
+        "name": "hd_korea",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNM1dmcWtmSkRyVTJYdE1SY3R6VVYwR2RFRjNYcno3dldtVWo1Ymo2V0xwMGdHUGNlWlhjZ3RJY3hUQXZwNHM1Wi1Oay00eE1IZUZlUFNnUjFGYkNHMHhuTkZrRFFWN0tkdHFnSzlhcm1IR2F6UUNSODY3ZzdsWWJVTXR5Nkp5alhpVU1sOVNPOEpYNlVLMlNtRU5JRWlqR0oz?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-13-004",
+    "date": "2026-09-13",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "HD Hyundai Showcases Next-Generation LNG Carriers and Eco-Friendly Ships at Gastech - asiae.co.kr",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTFBpOXZRVVBqeFNfVVJBenZUOVVkMXdkdEZzdXBSNXhNSG1ReEs0d1M0MFgtUmptaS13Q2JQSUp1OTRiYkhkcUo1X0hDcUo0elY3d1NobVpvY1JJNmxMSktldnAxTWI?oc=5\" target=\"",
+    "sources": [
+      {
+        "name": "hd_korea",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBpOXZRVVBqeFNfVVJBenZUOVVkMXdkdEZzdXBSNXhNSG1ReEs0d1M0MFgtUmptaS13Q2JQSUp1OTRiYkhkcUo1X0hDcUo0elY3d1NobVpvY1JJNmxMSktldnAxTWI?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-13-005",
+    "date": "2026-09-13",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "HD Hyundai showcases next-gen LNG and green ship tech at Gastech Thailand - CHOSUNBIZ - Chosunbiz",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxNXzBubjIwYWR1cWhTQ3VKQUlqak9WZFNRTHQtUjQ0M3Q5V3NldDlDdEdtWFM4NEk5NXVjUzRIdWtsZ2JHaDJZNHlVZTNZZm5Mb2N1MHVoQjVRNUxHbmxhUUNIVVdHVVNTLUh1bXI5Qj",
+    "sources": [
+      {
+        "name": "hd_korea",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNXzBubjIwYWR1cWhTQ3VKQUlqak9WZFNRTHQtUjQ0M3Q5V3NldDlDdEdtWFM4NEk5NXVjUzRIdWtsZ2JHaDJZNHlVZTNZZm5Mb2N1MHVoQjVRNUxHbmxhUUNIVVdHVVNTLUh1bXI5QjU5RDRBOUZhekFHVmJneElNMkVn0gGWAUFVX3lxTE8zZUw4TnZEWVZrV3d6UllTZnRCcHkyU0djMDZXSFhQTjczdW1VNmwwWm9tU0h4YnZnbXFhaW5zRFNzWEgxWFlFX2pHQzRqYk5DZFpZZ29SQU5NV3RqNFkxZHphYU0waE5rZUs1aXlWSjFRd1puOUtwcWN4dXVRbTJadlFKTkpFSXJLMXZwelJGRkdCMGNadw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "hanwha_ocean-2026-09-13-006",
+    "date": "2026-09-13",
+    "companies": [
+      "hanwha_ocean"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Hanwha Ocean Unveils Its “Data Center at Sea” for the First Time - 매일경제",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiU0FVX3lxTE5heGtwVjJSWTFNTUx0cUpYSWNwSG52MDBpZ0xPU3dXSmxEcXIwRVQzaU5ONFNsbWZBUVRvRTdXdXNxS2ROVnpTV1dWaGN2Zk1fUDFB?oc=5\" target=\"_blank\">Hanwha Ocean Un",
+    "sources": [
+      {
+        "name": "hanwha_ocean",
+        "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5heGtwVjJSWTFNTUx0cUpYSWNwSG52MDBpZ0xPU3dXSmxEcXIwRVQzaU5ONFNsbWZBUVRvRTdXdXNxS2ROVnpTV1dWaGN2Zk1fUDFB?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "hanwha_ocean-2026-09-13-007",
+    "date": "2026-09-13",
+    "companies": [
+      "hanwha_ocean"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Hanwha Ocean Unveils 60MW Floating Data Center as AI Infrastructure Moves Offshore - Korea IT Times",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTFA1X19Ib1VXMkNBd1FaaXhSZkdScGE3d016ODZMUkJ1LUlGYTRLQk00WlJwNmlXZThEYm5iMkxuMnA2OTRYWm4yUzlRUTRKN050bExfd2V4V0R2dm1NSi1nMzNsQ0ZnWWQ2Wm9wSldhMG",
+    "sources": [
+      {
+        "name": "hanwha_ocean",
+        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA1X19Ib1VXMkNBd1FaaXhSZkdScGE3d016ODZMUkJ1LUlGYTRLQk00WlJwNmlXZThEYm5iMkxuMnA2OTRYWm4yUzlRUTRKN050bExfd2V4V0R2dm1NSi1nMzNsQ0ZnWWQ2Wm9wSldhMGE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "hanwha_ocean-2026-09-13-008",
+    "date": "2026-09-13",
+    "companies": [
+      "hanwha_ocean"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Hanwha Ocean Unveils First Physical Model of 60MW Floating Data Center - finance.biggo.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE1xSVk0LXl4cFNWU0pMSTJFTDJrcGNqZXVaV1hwZ29yTnFGUEFCMzR5Wng3SUlJSHo2eGlBbUNyamtuQ1VGUmxGcjBqQjhRMzlxU2FTMFlYNExMTnhrSnA3S2szRnM4RjVNQTJOZk5PVV",
+    "sources": [
+      {
+        "name": "hanwha_ocean",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1xSVk0LXl4cFNWU0pMSTJFTDJrcGNqZXVaV1hwZ29yTnFGUEFCMzR5Wng3SUlJSHo2eGlBbUNyamtuQ1VGUmxGcjBqQjhRMzlxU2FTMFlYNExMTnhrSnA3S2szRnM4RjVNQTJOZk5PVV9PNGVGVmc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "hanwha_ocean-2026-09-13-009",
+    "date": "2026-09-13",
+    "companies": [
+      "hanwha_ocean"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Hanwha Ocean Unveils ‘Data Center at Sea’ for the First Time - 매일경제",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiU0FVX3lxTE1BWjZQZ0Y3WHZTUkNkUkVKRVU5c1BIMFN3N3VRMEJ1cEpPejFWNjlLQlZTLVVxT0ZNb0RPVzJlakpPN1VrZnZ5bXFxbGpvUTVyWnJv?oc=5\" target=\"_blank\">Hanwha Ocean Un",
+    "sources": [
+      {
+        "name": "hanwha_ocean",
+        "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1BWjZQZ0Y3WHZTUkNkUkVKRVU5c1BIMFN3N3VRMEJ1cEpPejFWNjlLQlZTLVVxT0ZNb0RPVzJlakpPN1VrZnZ5bXFxbGpvUTVyWnJv?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "wan_hai-2026-09-13-010",
+    "date": "2026-09-13",
+    "companies": [
+      "wan_hai"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Wan Hai Lines Orders Six 11,000 TEU Dual-Fuel Containerships - Data Portuaria",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxONVdEUXV2Z2lnM29WQ2lTNGZFWTc0Y3ZNRkJSa1ZtellSRmZWNDhzd0FHM21DRUpvNXBTMFEzV1dDazFMdzB1ZDNxLVRWd0hqSV9qMDYxandiQWF3NHV5Wmg5bmVOaXdiY0hDMEtyb2",
+    "sources": [
+      {
+        "name": "wan_hai",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxONVdEUXV2Z2lnM29WQ2lTNGZFWTc0Y3ZNRkJSa1ZtellSRmZWNDhzd0FHM21DRUpvNXBTMFEzV1dDazFMdzB1ZDNxLVRWd0hqSV9qMDYxandiQWF3NHV5Wmg5bmVOaXdiY0hDMEtyb2VPZXpCWm5SemZSUWl6bHI1a3AxcDVqUmx3RzJzaEJGQjBhaTVvaUlBbFZtY0dzOWVNaVVTR1BnbkFMbTVmZXB4VGE3NkhkVmc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-13-011",
+    "date": "2026-09-13",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Borderlands Mexico: Exports of Mexican-made heavy-duty trucks to US roar back",
+    "summary": "<p>This week in Borderlands Mexico: Exports of Mexican-made heavy-duty trucks to US roar back and Nexio secures 77-acre Texas campus for commercial truck production.</p>\n<p>The post <a href=\"https://w",
+    "sources": [
+      {
+        "name": "freightwaves",
+        "url": "https://www.freightwaves.com/news/borderlands-mexico-exports-of-mexican-made-heavy-duty-trucks-to-us-roar-back",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-13-012",
+    "date": "2026-09-13",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Imports and inventories stabilize in 2026, but for how long",
+    "summary": "<p>Container import activity has been steady throughout the summer with no sharp shifts in inventories. Recent history suggests that will change. </p>\n<p>The post <a href=\"https://www.freightwaves.com",
+    "sources": [
+      {
+        "name": "freightwaves",
+        "url": "https://www.freightwaves.com/news/imports-and-inventories-stabilize-in-2026-but-for-how-long",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-13-013",
+    "date": "2026-09-13",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Tanker on fire after Hormuz attack",
+    "summary": "Omani Navy evacuating crew of Panama-flagged vessel struck by an unknown projectile",
+    "sources": [
+      {
+        "name": "seatrade_maritime",
+        "url": "https://www.seatrade-maritime.com/security/tanker-on-fire-after-hormuz-attack",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "wan_hai-2026-09-12-001",
     "date": "2026-09-12",
     "companies": [
@@ -1214,6 +1450,45 @@
       {
         "name": "google_container_shipping",
         "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOX3d0VFotTk04OW9wN0txU3ltczY2X1VwSmNEU29rbVdhWWotU1UzdkpTWlppa2xmNVpyOVlkTUVVVTBxd2g3VTk2VVAtSEFvOEhhQWpva0pERVpjWGk3QVVOazJHTlZhSjhuLTFTQzZFYUx4Y28zeEZBb0lUX3hsMXRtbw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "cosco-2026-09-11-064",
+    "date": "2026-09-11",
+    "companies": [
+      "cosco"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "COSCO SHIPPING Ports Ltd's Dividend Analysis - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxOUFRoM3NpWFZNWHRRcF9Zdmp0MUpzTnpEU3Vhc2ZFZlU0NF8ySVVTUGlFZzR0Tnc0WjBoZjFmWHZPbjU1UTlyRzBPaGZGSUlmRmFFN2tPSURRelhNZDNacXpnV3c5NTN2bVFKVUw1Sk",
+    "sources": [
+      {
+        "name": "cosco",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOUFRoM3NpWFZNWHRRcF9Zdmp0MUpzTnpEU3Vhc2ZFZlU0NF8ySVVTUGlFZzR0Tnc0WjBoZjFmWHZPbjU1UTlyRzBPaGZGSUlmRmFFN2tPSURRelhNZDNacXpnV3c5NTN2bVFKVUw1SkVEaDhEVXpMNjJUYUJfV1VyYUJ5R0VZbnp2Tkg3VW9sX2JWT3JyWDNRRE1WNWRoT3Y4?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "hapag-2026-09-11-065",
+    "date": "2026-09-11",
+    "companies": [
+      "hapag",
+      "cosco"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Cosco and Hapag-Lloyd accelerate return to Red Sea as traffic recovers - TradeWinds News",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxPYkVsbzRJYzl3ejF2MndjTWNtXzJjUGJYSk56TDBMXzlqTlRqZjhyVnpBU0tsRjNXeDNJeWpCZU9Hbm9FVVFta2JtRVEza2tqeHpwRWZmeEtTR1NqVWVnZW4yaFl5Z3JUbTRwWTkxQl",
+    "sources": [
+      {
+        "name": "cosco",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPYkVsbzRJYzl3ejF2MndjTWNtXzJjUGJYSk56TDBMXzlqTlRqZjhyVnpBU0tsRjNXeDNJeWpCZU9Hbm9FVVFta2JtRVEza2tqeHpwRWZmeEtTR1NqVWVnZW4yaFl5Z3JUbTRwWTkxQlQ4LXZwV2U1UE1FV2lJWEJZYkhCclpraG9sRG5WZjhPc21uZ2VoRmhYeEdoNlpSYVBGdW9CYU5KYzdWUkUzazVLQVZGa0ozU2E4WHV3SnloM2pKQQ?oc=5",
         "type": "rss"
       }
     ]
@@ -3190,6 +3465,80 @@
     ]
   },
   {
+    "id": "unknown-2026-09-10-109",
+    "date": "2026-09-10",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "25 people killed in fire on cargo ship docked in China, state media reports - cbsnews.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxOZ0wyRkdOZHRpOEFxSU85SmtIRkp4VDBLN2FkemxjRDR5aDVYNEVaY2xqRnlacmtKeXBmZDJVakxaUGZxb19TeUdVWTFsUVpHeFJOb1Uyb2dBdmRjamZlTTZfTHBaSktuc29lcUZOMj",
+    "sources": [
+      {
+        "name": "cssc",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOZ0wyRkdOZHRpOEFxSU85SmtIRkp4VDBLN2FkemxjRDR5aDVYNEVaY2xqRnlacmtKeXBmZDJVakxaUGZxb19TeUdVWTFsUVpHeFJOb1Uyb2dBdmRjamZlTTZfTHBaSktuc29lcUZOMjZNdmZzb2VobE1uTTVVbzNKN1N1TmRRbHlqT1lPRg?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-10-110",
+    "date": "2026-09-10",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "25 dead after cargo ship catches fire in China’s port, state media says - FOX40",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi7gFBVV95cUxQYWFqOWkxa20wcFNsUEpNSjdFeUxUZGpFY2hzSGJneVZEZ3pnbGprVzdJZm5PUV9ULUV3MkJqdTNxUVVoaFhNOEk0OU5TRGFvY0lhcFl2NkQwUHhaZ041NVVOV05WR3dGOXotM0ZvXz",
+    "sources": [
+      {
+        "name": "cssc",
+        "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQYWFqOWkxa20wcFNsUEpNSjdFeUxUZGpFY2hzSGJneVZEZ3pnbGprVzdJZm5PUV9ULUV3MkJqdTNxUVVoaFhNOEk0OU5TRGFvY0lhcFl2NkQwUHhaZ041NVVOV05WR3dGOXotM0ZvXzFjT1pXZThhVk5kdC1rVEhKbTNRVWJGOWthNVBFb2lRX1h3MmxQX2Q5M1VBNWdEZ0pvTFcza0xNR1JJOUE5LWdZcUpIeDdrQlM3YVZ4cGhkWF9QalFRUEl1MHNPNjZLbnFaS3VPeTVtUjZRMkNNY2JpZ05qb2lfZ0M1V2JJUzl30gHuAUFVX3lxTFBhYWo5aTFrbTBwU2xQSk1KN0V5TFRkakVjaHNIYmd5VkRnemdsamtXN0lmbk9RX1QtRXcyQmp1M3FRVWhoWE04STQ5TlNEYW9jSWFwWXY2RDBQeFpnTjU1VU5XTlZHd0Y5ei0zRm9fMWNPWldlOGFWTmR0LWtUSEptM1FVYkY5a2E1UEVvaVFfWHcybFBfZDkzVUE1Z0RnSm9MVzNrTE1HUkk5QTktZ1lxSkh4N2tCUzdhVnhwaGRYX1BqUVFQSXUwc082NktucVpLdU95NW1SNlEyQ01jYmlnTmpvaV9nQzVXYklTOXc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "cosco-2026-09-10-111",
+    "date": "2026-09-10",
+    "companies": [
+      "cosco"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "ETFs Investing in COSCO SHIPPING Development Co., Ltd. Class H Stocks - tradingview.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE10dFRsVWktV1V5TG1TRDNNWFl2b2R4WngwOWRCdlZReHBGVE9qMXIxQWJoQ2VhTTExWU9BbV91UHNKeTJKNmZvOEVEeVFodGo0LWhIZUZ0c2dVU3NOTHc?oc=5\" target=\"_blank\">",
+    "sources": [
+      {
+        "name": "cosco",
+        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE10dFRsVWktV1V5TG1TRDNNWFl2b2R4WngwOWRCdlZReHBGVE9qMXIxQWJoQ2VhTTExWU9BbV91UHNKeTJKNmZvOEVEeVFodGo0LWhIZUZ0c2dVU3NOTHc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-10-112",
+    "date": "2026-09-10",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Fire on Chinese Car Carrier Appears to Flare Up After a Month - The Maritime Executive",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxOVEFKeG56X2pRN2xOTWQxeGZyT0JGck9KaGFMYTNaN0I0dEcweGJ6RG9FTmpCWFhGT0RQS1hMbnR4bkhqUDZtZW9Dai1GT0xZRGwwMS1RcmlpcXdra2JNdEoxOEk1WXVydzhDYXR0OU",
+    "sources": [
+      {
+        "name": "cosco",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOVEFKeG56X2pRN2xOTWQxeGZyT0JGck9KaGFMYTNaN0I0dEcweGJ6RG9FTmpCWFhGT0RQS1hMbnR4bkhqUDZtZW9Dai1GT0xZRGwwMS1RcmlpcXdra2JNdEoxOEk1WXVydzhDYXR0OUFYNjd0SjU2amdlOGZ1MWk4TGt1d3R1ZmdEcVJZTEtJYjNYNUlsTmtwWVhfZ3Y2aDhYOFE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "samsung_heavy-2026-09-09-001",
     "date": "2026-09-09",
     "companies": [
@@ -4763,6 +5112,25 @@
       {
         "name": "hd_korea",
         "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNR2dvaXp1dUJHSjFpSWc2anZlM3RzZW9pcjZ4V2lzei1reXA1WTNtZ1pCZGVVVzdHZXBRODlsa0dzS0dOcmw0N1FPdTJMcWZJWEF5WVlEZGZnaVZCZzYwYkt6dTY5UEhOX2xvNXdfYVdHdXYyMFVYVTlxNk9IVm9nUE9kakpnTTF1YllKRTJyZzRINWF2MnfSAZYBQVVfeXFMTUdnb2l6dXVCR0oxaUlnNmp2ZTN0c2VvaXI2eFdpc3ota3lwNVkzbWdaQmRlVVc3R2VwUTg5bGtHc0tHTnJsNDdRT3UyTHFmSVhBeVlZRGRmZ2lWQmc2MGJLenU2OVBITl9sbzV3X2FXR3V2MjBVWFU5cTZPSFZvZ1BPZGpKZ00xdWJZSkUycmc0SDVhdjJ3?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-09-087",
+    "date": "2026-09-09",
+    "companies": [],
+    "topics": [
+      "container_freight",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Ocean freight rates cool despite continued price elevation - supplychaindive.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxNRkl2Z1REd0JvNDJ4aVB2bjIyQk53RFZUNGxuc3RSVHdGWGExVk5ZR2RJU1FLTTI0OXpWbzVfRmo3bUFDcHdIV0IzQ2FrUDR0bWlTdHBsUl9LbXdLMzlUQno3Rk83c1hlXzhrdFlIbi",
+    "sources": [
+      {
+        "name": "google_container_shipping",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNRkl2Z1REd0JvNDJ4aVB2bjIyQk53RFZUNGxuc3RSVHdGWGExVk5ZR2RJU1FLTTI0OXpWbzVfRmo3bUFDcHdIV0IzQ2FrUDR0bWlTdHBsUl9LbXdLMzlUQno3Rk83c1hlXzhrdFlIbi16TG1XdlFLZkotSFVfclFfOTdzRmM5RHViVkl2VWpQUmtvdU56NzN6VW5KQnJBNUVtWHB4a0J3?oc=5",
         "type": "rss"
       }
     ]
@@ -6454,6 +6822,24 @@
       {
         "name": "cosco",
         "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNWm83WmRPdjdoYlp5OE8xakc2eGN0bkZyN2FRWDZHeEcxcUJ1VHhPR1c3c3lqVUVvOVZMT0dxZlU3UXlmWFNUMkpwUTlqRXFnNjM3aHNublVPSllDNl9RbEtIRno5aWN5RjRRa0xDZjVxRmRkUHROYXhFQmxXbkVDNE5vT0xxZTVoeDBJek54cHJNaTMwS2tFaVdVWVRick5zSXl2SlhKLXNCUEwzX2p5eUtn?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-08-093",
+    "date": "2026-09-08",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Will Dry Bulk Market Strength Lead EuroDry Stock to Higher Highs? - tradingview.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxOTUsxMGoxeUJuQ195cFFBcGlEUG5MSXduM2dkRkFHU2xGR21wU3V2djJBTlJjT1lHTEFSNFVBU1Rza3FtM3BMTEM4QmFSTUdUbGZXb3NWeWxFT2hRWmJvdVZwUW1VYUhwSkdsdWtEd3",
+    "sources": [
+      {
+        "name": "star_bulk",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOTUsxMGoxeUJuQ195cFFBcGlEUG5MSXduM2dkRkFHU2xGR21wU3V2djJBTlJjT1lHTEFSNFVBU1Rza3FtM3BMTEM4QmFSTUdUbGZXb3NWeWxFT2hRWmJvdVZwUW1VYUhwSkdsdWtEd3FrQ0NvRklYU0haOVhNNURJeEJVU29LMWRmX2NxM2YzdWFCWDFsYUZjbFJOMWZxR2JTV2xSM3RzNmJGZkdrNUlsRXdPZDRPOVBwMkVGYg?oc=5",
         "type": "rss"
       }
     ]

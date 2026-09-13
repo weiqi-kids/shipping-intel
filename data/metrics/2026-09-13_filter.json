@@ -1,0 +1,16 @@
+{
+  "total_raw": 350,
+  "dup_title": 228,
+  "no_date": 0,
+  "too_old": 78,
+  "gate1_fail": 14,
+  "gate2_fail": 9,
+  "passed": 21,
+  "gate2_samples": [
+    "Hanwha Ocean Selected as Preferred Bidder for Thai Navy Frigate - businesskorea.co.kr",
+    "Hanwha Ocean picked as preferred bidder for Thai frigate - upi.com",
+    "Hanwha Ocean standardizes FPSOs for South America and Africa - Inspenet",
+    "ABS certifies Hanwha Ocean’s deepwater FPSO design - Inspenet",
+    "Hanwha Ocean debuts 60MW floating data center at Gastech, targets global market - CHOSUNBIZ - Chosun"
+  ]
+}

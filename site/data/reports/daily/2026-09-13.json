@@ -1,0 +1,176 @@
+{
+  "date": "2026-09-13",
+  "generated_at": "2026-09-13T13:13:18.211072Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-09-13-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "HD Hyundai advances shipbuilding initiatives at Gastech 2026 - The Korea Herald",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9Fc01NZElVM1h2MzN5b2NYNVNaQ1ZLdzNwbHRPLUU5aDFidEEwQW10YkcxajVRUUVicmw2ZU02ZWloWktRS0lJVllFcGlNYmF1NGxrYUVZTQ?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "hanwha_ocean-2026-09-13-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "HD Hyundai, Hanwha Ocean to showcase next-gen gas tech in Bangkok - The Korea Times",
+      "companies": [
+        "hanwha_ocean"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPQ1phY0ZBcm1YM29qV2VJRy1Nd1VrQlRnR3VVZ2twTVFiUHJnMlZfNjNjMEIwWEtKcmRRWWY3MzRPOTJXb3FZbm1fUXV0ZFJzWEZYTTBjUnlkeDJ3WkJJdXZGNFItaFV4WjVlTTY0Z05SNXhqWi1ZUk5xemEwakpZSHBST1pzYTc0Tmp2Q3A0ZU9GdDh5NFlxeUNiczRZNkhJOTRTeTdHdVdIbnJxOC1ZOGdjdklDajlvVC1TMHM5N3JLZmfSAcMBQVVfeXFMT0NaYWNGQXJtWDNvaldlSUctTXdVa0JUZ0d1VWdrcE1RYlByZzJWXzYzYzBCMFhLSnJkUVlmNzM0TzkyV29xWW5tX1F1dGRSc1hGWE0wY1J5ZHgyd1pCSXV2RjRSLWhVeFo1ZU02NGdOUjV4alotWVJOcXphMGpKWUhwUk9ac2E3NE5qdkNwNGVPRnQ4eTRZcXlDYnM0WTZISTk0U3k3R3VXSG5ycTgtWThnY3ZJQ2o5b1QtUzBzOTdyS2Zn?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "hanwha_ocean-2026-09-13-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "HD Hyundai, Hanwha Ocean Showcase Marine Tech at Gastech in Bangkok - Seoul Economic Daily",
+      "companies": [
+        "hanwha_ocean"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNM1dmcWtmSkRyVTJYdE1SY3R6VVYwR2RFRjNYcno3dldtVWo1Ymo2V0xwMGdHUGNlWlhjZ3RJY3hUQXZwNHM1Wi1Oay00eE1IZUZlUFNnUjFGYkNHMHhuTkZrRFFWN0tkdHFnSzlhcm1IR2F6UUNSODY3ZzdsWWJVTXR5Nkp5alhpVU1sOVNPOEpYNlVLMlNtRU5JRWlqR0oz?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-09-13-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "HD Hyundai Showcases Next-Generation LNG Carriers and Eco-Friendly Ships at Gastech - asiae.co.kr",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBpOXZRVVBqeFNfVVJBenZUOVVkMXdkdEZzdXBSNXhNSG1ReEs0d1M0MFgtUmptaS13Q2JQSUp1OTRiYkhkcUo1X0hDcUo0elY3d1NobVpvY1JJNmxMSktldnAxTWI?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-09-13-005",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "HD Hyundai showcases next-gen LNG and green ship tech at Gastech Thailand - CHOSUNBIZ - Chosunbiz",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNXzBubjIwYWR1cWhTQ3VKQUlqak9WZFNRTHQtUjQ0M3Q5V3NldDlDdEdtWFM4NEk5NXVjUzRIdWtsZ2JHaDJZNHlVZTNZZm5Mb2N1MHVoQjVRNUxHbmxhUUNIVVdHVVNTLUh1bXI5QjU5RDRBOUZhekFHVmJneElNMkVn0gGWAUFVX3lxTE8zZUw4TnZEWVZrV3d6UllTZnRCcHkyU0djMDZXSFhQTjczdW1VNmwwWm9tU0h4YnZnbXFhaW5zRFNzWEgxWFlFX2pHQzRqYk5DZFpZZ29SQU5NV3RqNFkxZHphYU0waE5rZUs1aXlWSjFRd1puOUtwcWN4dXVRbTJadlFKTkpFSXJLMXZwelJGRkdCMGNadw?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 7,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 13,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 13,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "hanwha_ocean",
+        "count": 6
+      },
+      {
+        "id": "wan_hai",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 7
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 350,
+    "dup_title": 228,
+    "too_old": 78,
+    "gate1_blocked": 14,
+    "gate2_blocked": 9,
+    "passed": 21,
+    "pass_rate": "17.2%",
+    "gate2_block_rate": "7.4%",
+    "gate2_samples": [
+      "Hanwha Ocean Selected as Preferred Bidder for Thai Navy Frigate - businesskorea.co.kr",
+      "Hanwha Ocean picked as preferred bidder for Thai frigate - upi.com",
+      "Hanwha Ocean standardizes FPSOs for South America and Africa - Inspenet",
+      "ABS certifies Hanwha Ocean’s deepwater FPSO design - Inspenet",
+      "Hanwha Ocean debuts 60MW floating data center at Gastech, targets global market - CHOSUNBIZ - Chosun"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 13 則事件，焦點為韓華海洋、萬海航運相關動態：「HD Hyundai advances shipbuilding initiatives at Gastech 2...」。主要關注主題為航運產業通用，市場情緒中性。",
+    "signals": [
+      {
+        "text": "HD Hyundai advances shipbuilding initiatives at Gastech 2026 - The Korea Herald（航運產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "HD Hyundai, Hanwha Ocean to showcase next-gen gas tech in Bangkok - The Korea...",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
