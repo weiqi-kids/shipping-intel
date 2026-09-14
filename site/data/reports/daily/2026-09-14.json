@@ -1,0 +1,243 @@
+{
+  "date": "2026-09-14",
+  "generated_at": "2026-09-14T14:53:37.825226Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "maersk-2026-09-14-058",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "Gemini steps up return to Suez with four more Asia-Europe services",
+      "companies": [
+        "maersk",
+        "hapag"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://theloadstar.com/gemini-steps-up-return-to-suez-with-four-more-asia-europe-services/"
+    },
+    {
+      "rank": 2,
+      "event_id": "samsung_heavy-2026-09-14-011",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Samsung Heavy Industries wins $1.2b order for 6 vessels, surpassing annual target by 28% - 헤럴드경제",
+      "companies": [
+        "samsung_heavy"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9nREhNQWJrM3lxWGo3WXFTWHFsSEFiaHJYdHdaekhybVg3ZWpqOENZSkdWTWJmbjY5VC1iTFptWG5nVWFDX2NGbXg0MmpkYzF1eHlaSnV2aw?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-09-14-034",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Saudi Pipeline Outage Threatens Loss Of 4% Of Global Oil Supply",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://gcaptain.com/saudi-pipeline-outage-threatens-loss-of-4-of-global-oil-supply/"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-09-14-039",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Hub Group warns of Nasdaq delisting notice; flags H1 operating loss",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://www.freightwaves.com/news/hub-group-warns-of-nasdaq-delisting-notice-flags-h1-operating-loss"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-09-14-048",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Shipping’s crystal ball cracks in the 2020s",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://splash247.com/shippings-crystal-ball-cracks-in-the-2020s/"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 70,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.05,
+      "sentiment_7d_avg": null
+    },
+    "shipbuilding_orders": {
+      "today": 4,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "dry_bulk_rate": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "container_freight": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.5,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 73,
+    "sentiment_distribution": {
+      "positive": 8,
+      "neutral": 61,
+      "negative": 4
+    },
+    "top_companies": [
+      {
+        "id": "cosco",
+        "count": 11
+      },
+      {
+        "id": "samsung_heavy",
+        "count": 7
+      },
+      {
+        "id": "hapag",
+        "count": 3
+      },
+      {
+        "id": "hanwha_ocean",
+        "count": 2
+      },
+      {
+        "id": "maersk",
+        "count": 2
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 70
+      },
+      {
+        "id": "shipbuilding_orders",
+        "count": 4
+      },
+      {
+        "id": "container_freight",
+        "count": 2
+      },
+      {
+        "id": "dry_bulk_rate",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 351,
+    "dup_title": 147,
+    "too_old": 81,
+    "gate1_blocked": 15,
+    "gate2_blocked": 12,
+    "passed": 96,
+    "pass_rate": "47.1%",
+    "gate2_block_rate": "5.9%",
+    "gate2_samples": [
+      "Why is Samsung Heavy Industries stock rising today? - Investing.com",
+      "Samsung Heavy Industries to showcase FLNG capabilities at Gastech 2026 - 헤럴드경제",
+      "Thailand selects Hanwha Ocean to build it a new frigate - Asian Military Review",
+      "Hanwha Ocean picked as preferred bidder for Thai frigate - upi.com",
+      "Hanwha Ocean Selected as Preferred Bidder for Thai Navy Frigate - Businesskorea"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 73 則事件，焦點為中遠海控、三星重工、赫伯羅特相關動態：「Gemini steps up return to Suez with four more Asia-Europe...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Gemini steps up return to Suez with four more Asia-Europe services",
+        "level": "yellow"
+      },
+      {
+        "text": "Samsung Heavy Industries wins $1.2b order for 6 vessels, surpassing annual ta...（航運產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

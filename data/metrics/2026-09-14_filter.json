@@ -1,0 +1,16 @@
+{
+  "total_raw": 351,
+  "dup_title": 147,
+  "no_date": 0,
+  "too_old": 81,
+  "gate1_fail": 15,
+  "gate2_fail": 12,
+  "passed": 96,
+  "gate2_samples": [
+    "Why is Samsung Heavy Industries stock rising today? - Investing.com",
+    "Samsung Heavy Industries to showcase FLNG capabilities at Gastech 2026 - 헤럴드경제",
+    "Thailand selects Hanwha Ocean to build it a new frigate - Asian Military Review",
+    "Hanwha Ocean picked as preferred bidder for Thai frigate - upi.com",
+    "Hanwha Ocean Selected as Preferred Bidder for Thai Navy Frigate - Businesskorea"
+  ]
+}
