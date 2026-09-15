@@ -1,0 +1,16 @@
+{
+  "total_raw": 351,
+  "dup_title": 165,
+  "no_date": 0,
+  "too_old": 70,
+  "gate1_fail": 20,
+  "gate2_fail": 10,
+  "passed": 86,
+  "gate2_samples": [
+    "Thailand selects Hanwha Ocean to build it a new frigate - Asian Military Review",
+    "Hanwha Ocean picked as preferred bidder for Thai frigate - upi.com",
+    "Hanwha Ocean Selected as Preferred Bidder for Thai Navy Frigate - businesskorea.co.kr",
+    "Hanwha Ocean standardizes FPSOs for South America and Africa - inspenet.com",
+    "ABS certifies Hanwha Ocean’s deepwater FPSO design - inspenet.com"
+  ]
+}

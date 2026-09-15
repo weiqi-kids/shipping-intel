@@ -1,0 +1,231 @@
+{
+  "date": "2026-09-15",
+  "generated_at": "2026-09-15T13:20:26.670317Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "hapag-2026-09-15-043",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "Shocked Gemini shippers seek Red Sea reassurance",
+      "companies": [
+        "hapag",
+        "maersk"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.seatrade-maritime.com/containers/shocked-gemini-shippers-seek-red-sea-reassurance"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-09-15-001",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Stock prices of major mid-to-long-term industries such as shipbuilding and power equipment plunged a.. - 매일경제",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9CX3RGWlk4OUlEMjBsR0Z0ckFBRkRjclpXSk5yWEJHZVFDQXJ2THZwU291SllhTUc2NldCVjJ2Tnc1VUVTaFg2d3JLQkp6bW8?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-09-15-019",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Tanker boom breaks every historical benchmark",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://splash247.com/tanker-boom-breaks-every-historical-benchmark/"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-09-15-024",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "News Hormuz deadlock sends Gulf container rates to record highs - The Loadstar",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "container_freight",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQZUl6cTNhN2Q1M1I2cGJzUXhKbEZvS1dPMFFnak0wZkI2b1MxbnU3aTFSVTlJUkphdDFlZHhXbVdqeXNXTzR6R2ptdHJTMmNYZEdLSDFxc2hYUnhGZU5zMmVFdUVMZ3lEVmw0RFRzNHZ4bEJVZDZodXh1N2FaVkNHRmg1akNvOUFLNlU0?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-09-15-031",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Hormuz deadlock sends Gulf container rates to record highs",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "container_freight",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://theloadstar.com/hormuz-deadlock-sends-gulf-container-rates-to-record-highs/"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 41,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.08,
+      "sentiment_7d_avg": null
+    },
+    "shipbuilding_orders": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.17,
+      "sentiment_7d_avg": null
+    },
+    "container_freight": {
+      "today": 4,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.38,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 43,
+    "sentiment_distribution": {
+      "positive": 8,
+      "neutral": 32,
+      "negative": 3
+    },
+    "top_companies": [
+      {
+        "id": "hanwha_ocean",
+        "count": 3
+      },
+      {
+        "id": "cosco",
+        "count": 1
+      },
+      {
+        "id": "hd_korea",
+        "count": 1
+      },
+      {
+        "id": "hapag",
+        "count": 1
+      },
+      {
+        "id": "maersk",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 41
+      },
+      {
+        "id": "container_freight",
+        "count": 4
+      },
+      {
+        "id": "shipbuilding_orders",
+        "count": 3
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 351,
+    "dup_title": 165,
+    "too_old": 70,
+    "gate1_blocked": 20,
+    "gate2_blocked": 10,
+    "passed": 86,
+    "pass_rate": "46.2%",
+    "gate2_block_rate": "5.4%",
+    "gate2_samples": [
+      "Thailand selects Hanwha Ocean to build it a new frigate - Asian Military Review",
+      "Hanwha Ocean picked as preferred bidder for Thai frigate - upi.com",
+      "Hanwha Ocean Selected as Preferred Bidder for Thai Navy Frigate - businesskorea.co.kr",
+      "Hanwha Ocean standardizes FPSOs for South America and Africa - inspenet.com",
+      "ABS certifies Hanwha Ocean’s deepwater FPSO design - inspenet.com"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 43 則事件，焦點為韓華海洋、中遠海控、韓國造船海洋相關動態：「Shocked Gemini shippers seek Red Sea reassurance」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Shocked Gemini shippers seek Red Sea reassurance（航運產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "Stock prices of major mid-to-long-term industries such as shipbuilding and po...（航運產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

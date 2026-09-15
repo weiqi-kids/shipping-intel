@@ -1,0 +1,45 @@
+{
+  "date": "2026-09-15",
+  "total_events": 43,
+  "by_company": {
+    "hanwha_ocean": {
+      "count": 3,
+      "sentiment_avg": 0.17
+    },
+    "cosco": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "hd_korea": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "hapag": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "maersk": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "industry_general": {
+      "count": 41,
+      "sentiment_avg": 0.08
+    },
+    "shipbuilding_orders": {
+      "count": 3,
+      "sentiment_avg": 0.17
+    },
+    "container_freight": {
+      "count": 4,
+      "sentiment_avg": 0.38
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}
