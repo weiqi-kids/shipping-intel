@@ -1,0 +1,237 @@
+{
+  "date": "2026-09-16",
+  "generated_at": "2026-09-16T13:17:22.479769Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "cosco-2026-09-16-008",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "News Maersk overtakes Cosco to top intra-Asia capacity rankings - The Loadstar",
+      "companies": [
+        "cosco",
+        "maersk"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOWmZsWnRqdXlwNDJxMlRJZC14T1Z6TFhQbnJWMlNKTy12dW01R1lqZjdBV1lGM3EzWktkbmg5bmFmbUJZbkdnT2xkeW9BSld6UnNXdWlTNmROMUhDVDBFVzFUQnQ1V0lZelk5NTBlMTZmWG9qQzRRU29ubDZUNWlIZF9jSVFsajFzdFpJ?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "cosco-2026-09-16-020",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "Maersk overtakes COSCO to become largest intra-Asia carrier",
+      "companies": [
+        "cosco",
+        "maersk"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -0.5
+      },
+      "source_url": "https://splash247.com/maersk-overtakes-cosco-to-become-largest-intra-asia-carrier/"
+    },
+    {
+      "rank": 3,
+      "event_id": "cosco-2026-09-16-026",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "Maersk overtakes Cosco to top intra-Asia capacity rankings",
+      "companies": [
+        "cosco",
+        "maersk"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://theloadstar.com/maersk-overtakes-cosco-to-top-intra-asia-capacity-rankings/"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-09-16-012",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Nebraska troopers seize record $50M drug load from semi on Interstate 80",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://www.freightwaves.com/news/nebraska-troopers-seize-record-50m-drug-load-from-semi-on-interstate-80"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-09-16-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "HD KSOE secures LR approval for VesselWise autonomous machinery optimisation technology - India Shipping News",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPa0lQWDd0ZDB6a2JmLUszeE5xNWxEZVBINHY4V2x5a2wtdVNaZkVVdlk5U3NWUjN4d0lVQlgyYVBXcXRMRzJNTjdpWU5KNngydzJkRzRzVkxTS1BWTmZHellCV3IzVkRvenhrMFhuVWtEQWItZWJsTXVGdWE3UTBWMXo2Q1FUWVpzUzZpR1Zkd3Y4MElKdk5pS2JMSGRxcEV4ZHdLMHp2SHA4aUdQS0lnMkJWQmJMV01aY2F6ZFhNdmVfekxsZXNyVWtBM3YtcTdvQWZKbmNySEk?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 34,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.09,
+      "sentiment_7d_avg": null
+    },
+    "dry_bulk_rate": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "shipbuilding_orders": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [
+    {
+      "from": "cosco",
+      "to": "maersk",
+      "relation": "co_mention",
+      "co_mention_count": 3,
+      "topics": [
+        "industry_general"
+      ]
+    }
+  ],
+  "stats": {
+    "total_events": 35,
+    "sentiment_distribution": {
+      "positive": 7,
+      "neutral": 26,
+      "negative": 2
+    },
+    "top_companies": [
+      {
+        "id": "maersk",
+        "count": 6
+      },
+      {
+        "id": "hanwha_ocean",
+        "count": 3
+      },
+      {
+        "id": "cosco",
+        "count": 3
+      },
+      {
+        "id": "star_bulk",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 34
+      },
+      {
+        "id": "dry_bulk_rate",
+        "count": 1
+      },
+      {
+        "id": "shipbuilding_orders",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 351,
+    "dup_title": 168,
+    "too_old": 76,
+    "gate1_blocked": 20,
+    "gate2_blocked": 5,
+    "passed": 82,
+    "pass_rate": "44.8%",
+    "gate2_block_rate": "2.7%",
+    "gate2_samples": [
+      "South Korea, Thailand Competitors file complaints after Hanwha Ocean wins future Royal Thai Navy fri",
+      "Thailand selects Hanwha Ocean to build it a new frigate - Asian Military Review",
+      "Hanwha Ocean picked as preferred bidder for Thai frigate - upi.com",
+      "Hanwha Ocean standardizes FPSOs for South America and Africa - Inspenet",
+      "Gemini brings four services back to Red Sea - Suez route"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 35 則事件，焦點為馬士基、韓華海洋、中遠海控相關動態：「News Maersk overtakes Cosco to top intra-Asia capacity ra...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "News Maersk overtakes Cosco to top intra-Asia capacity rankings - The Loadstar",
+        "level": "yellow"
+      },
+      {
+        "text": "Maersk overtakes COSCO to become largest intra-Asia carrier（航運產業通用）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

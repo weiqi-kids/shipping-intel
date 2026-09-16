@@ -1,0 +1,16 @@
+{
+  "total_raw": 351,
+  "dup_title": 168,
+  "no_date": 0,
+  "too_old": 76,
+  "gate1_fail": 20,
+  "gate2_fail": 5,
+  "passed": 82,
+  "gate2_samples": [
+    "South Korea, Thailand Competitors file complaints after Hanwha Ocean wins future Royal Thai Navy fri",
+    "Thailand selects Hanwha Ocean to build it a new frigate - Asian Military Review",
+    "Hanwha Ocean picked as preferred bidder for Thai frigate - upi.com",
+    "Hanwha Ocean standardizes FPSOs for South America and Africa - Inspenet",
+    "Gemini brings four services back to Red Sea - Suez route"
+  ]
+}
