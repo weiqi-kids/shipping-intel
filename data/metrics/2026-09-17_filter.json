@@ -1,0 +1,16 @@
+{
+  "total_raw": 350,
+  "dup_title": 145,
+  "no_date": 0,
+  "too_old": 77,
+  "gate1_fail": 18,
+  "gate2_fail": 9,
+  "passed": 101,
+  "gate2_samples": [
+    "Samsung Heavy Industries to showcase FLNG capabilities at Gastech 2026 - 헤럴드경제",
+    "Hanwha Ocean wins string of global classification approvals at Gastech 2026 - 헤럴드경제",
+    "Thailand selects Hanwha Ocean to build it a new frigate - Asian Military Review",
+    "Mexico arrests alleged cartel logistics operator tied to Seattle-Tacoma drug network",
+    "Truck inspection leads ICE to driver wanted on federal fraud charges"
+  ]
+}

@@ -1,0 +1,248 @@
+{
+  "date": "2026-09-17",
+  "generated_at": "2026-09-17T13:14:19.731287Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-09-17-024",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "America’s copper paradox sets up new seaborne trade flows",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://splash247.com/americas-copper-paradox-sets-up-new-seaborne-trade-flows/"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-09-17-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Analysts lift South Korea shipbuilding stocks as oversold bets revive buying - CHOSUNBIZ - Chosunbiz",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPRERfMzlHQ3ZSTUEydUxNX29YcVF0WjRTcFlMVVhkS0h3dU5iNG93LUozaU91dldscTF2ekNlVi1BTUtPVGJPQUJ6MmFXQWh0ajd2R0N3cVg5YXNHczNhQnVOaThuRXBiTHY0RDBEM1pqZEdoSVh2RC1aY1N2M2x5Szl6SjZTNTJYM2k5akwwYnU0M1J00gGUAUFVX3lxTE9ERF8zOUdDdlJNQTJ1TE1fb1hxUXRaNFNwWUxVWGRLSHd1TmI0b3ctSjNpT3V2V2xxMXZ6Q2VWLUFNS09UYk9BQnoyYVdBaHRqN3ZHQ3dxWDlhc0dzM2FCdU5pOG5FcGJMdjREMEQzWmpkR2hJWHZELVpjU3YzbHlLOXpKNlM1MlgzaTlqTDBidTQzUnQ?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-09-17-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "South Korean Shipbuilding Stocks Rally on Oversold Diagnosis; Hanwha Engine Surges Over 7% - finance.biggo.com",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5JQVo0RmtmRGFvNkxQbjk1Nm5za05QS0c0dmlucHJfZTZaNWJzTm4wRUtGb0ZfQmhZemt5Mkl3MEJrd3FhaXF6TE9Db3VEa0gxMmFuaUFXbkFuUnljcDlVMUJGbndvU0FPdURyWGtQVmNhY0dRcFE?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "samsung_heavy-2026-09-17-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Samsung Heavy Industries prepares to deploy humanoids at shipyard, joins forces with KIRO - 코리아스타트업포스트",
+      "companies": [
+        "samsung_heavy"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9DUUVmeUxld0NMbU5FOUZ0eGk3bzdqeUlJX1JBcXVYWHotLUlQb3pnNVhoXzhCM1VwaWZzNGlVRk5GUm9ZVFJ2ejdPM285RFNfb3RwMQ?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-09-17-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "U.S. Deputy Assistant Secretary of War Visits Hanwha Shipyard - Businesskorea",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9WMm1JdUdUcU1ESnA5WnJ6aFR4MmZIekRRWlAtT24yeGEzWUJMeTA2bWVjNHZBb0J0TUM0cXBnV2t4dDZ3RTdUZlFtUko5TktGQkpydHY2QzJFQnlId1ZSenRPM2lvVW9kdnM5ZmRITU9Wa3Ro?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 35,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.03,
+      "sentiment_7d_avg": null
+    },
+    "dry_bulk_rate": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "shipbuilding_orders": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.17,
+      "sentiment_7d_avg": null
+    },
+    "container_freight": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.5,
+      "sentiment_7d_avg": null
+    },
+    "port_congestion": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 38,
+    "sentiment_distribution": {
+      "positive": 5,
+      "neutral": 29,
+      "negative": 4
+    },
+    "top_companies": [
+      {
+        "id": "hanwha_ocean",
+        "count": 3
+      },
+      {
+        "id": "cosco",
+        "count": 3
+      },
+      {
+        "id": "samsung_heavy",
+        "count": 2
+      },
+      {
+        "id": "maersk",
+        "count": 2
+      },
+      {
+        "id": "star_bulk",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 35
+      },
+      {
+        "id": "shipbuilding_orders",
+        "count": 3
+      },
+      {
+        "id": "dry_bulk_rate",
+        "count": 1
+      },
+      {
+        "id": "container_freight",
+        "count": 1
+      },
+      {
+        "id": "port_congestion",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 350,
+    "dup_title": 145,
+    "too_old": 77,
+    "gate1_blocked": 18,
+    "gate2_blocked": 9,
+    "passed": 101,
+    "pass_rate": "49.3%",
+    "gate2_block_rate": "4.4%",
+    "gate2_samples": [
+      "Samsung Heavy Industries to showcase FLNG capabilities at Gastech 2026 - 헤럴드경제",
+      "Hanwha Ocean wins string of global classification approvals at Gastech 2026 - 헤럴드경제",
+      "Thailand selects Hanwha Ocean to build it a new frigate - Asian Military Review",
+      "Mexico arrests alleged cartel logistics operator tied to Seattle-Tacoma drug network",
+      "Truck inspection leads ICE to driver wanted on federal fraud charges"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 38 則事件，焦點為韓華海洋、中遠海控、三星重工相關動態：「America’s copper paradox sets up new seaborne trade flows」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "America’s copper paradox sets up new seaborne trade flows（航運產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "Analysts lift South Korea shipbuilding stocks as oversold bets revive buying ...（航運產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
