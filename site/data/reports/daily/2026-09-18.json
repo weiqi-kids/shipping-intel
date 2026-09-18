@@ -1,0 +1,226 @@
+{
+  "date": "2026-09-18",
+  "generated_at": "2026-09-18T12:50:26.827669Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-09-18-010",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "China-US container rates near record, Iran war lifts fuel costs - Baird Maritime",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "container_freight",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOcnl2ZXR4cEdqbEZka0xDdmhOenB4RHZNRW1OM084TFdlTEhlUDRhTVVndkVKdGJKdURud09XVzlOQmdQSEFCeG5DSDJlWnpMR1dpUFNFck92QlhsSWswUWtGU0RqT0VVbHdNbS0taGdQWk5IcElnYTh3d21LWnE0OGxrR2xrXy1Bcmt0QWVrMkd5UU5sT3hPVHNtRnV5ODAzdUl1ckozWl9IeEFnQS1N0gG8AUFVX3lxTE9qN2x3MnpSbGNnMWJlUGlMVVViVjFNU3cwYldDOVdJbjFYczFDcUhzMHNaQnF1ZlFNbkw0d0cwRnR5bHlHY2l5WWJib0EzbWt2alFHeGRkbTRUSEpoUXc1djk1MVUtMzJUbFMxMW5PYmJOOWxnU0pHQnZPSERSYk5GTEh1VmN5M0F5YWxhNzN3c0VycmFORDBGNlRzUU1pN0YtS0U0VU9FaDBGM09fRnNBeWhmZHpvenJlRThf?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-09-18-026",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "China-to-US East Coast freight rates top $10,000, poised to break pandemic-era record this month - finance.biggo.com",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "container_freight",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9VZTVCN09rRHhHLVBwaTgwYmQwb084cVhhX2tzaGVzX2JaTzg1T2did0JYQWdzSGtTZDMtRDdSbk1zZjB5WUpRelBRNG9acXd4VGZYX0JNM01McmljMENOeS1mR3E0WlZKWW81U2NlTW9LQ1IzOVE?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-09-18-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "HD Hyundai keeps $4bn Indian shipyard talks alive - TradeWinds News",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOdjZsTENKaEUxNWZ6YV9MTmdwNF8xVnBxalN4emVMMnk5bVZ5a1RIVWxUV2JRNXNHZ3czMjl4dDdNUDExTEZaU1RHTnA4WF81YmZJRkNxcU43SlZLX2tnM3VCcndoNUc3b082Tnd5c2hjSHRuNkhFbzJBeU9fM0dxS1VEb2trdjhYY05yMFVRdlBQSDVDSVA3c04wWDNLaVdkZzc4?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-09-18-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Samsung Shipyard Collision Kills Subcontractor Worker - 조선일보",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPVmwwSUZxSDhaMlhVX3g3T1laalVMbGpOZTVKVE1ueXFQOHgyYlVQUm1sSm9UOWlHQS1acktOcENhYi05ZnpuVWh3dEFhcnlIOGh4dkJGVHRMN2tNSHMtTTc5QmpIcjkxRThsMkl1YkJCeFNyek1VaWNJaFlpb01BaGZuS2M3dC1h?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "hanwha_ocean-2026-09-18-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "KR and Hanwha Ocean develop two 18,000-cbm LNG bunkering vessel concepts - Container News",
+      "companies": [
+        "hanwha_ocean"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQbHZPaHdpWVFLTWtkd3ZfcFJfVXFSRktWZDNPWEd3dkstd3JJbGhQSDhrMF9YdkZkZkxyQjFVVFk4R0QwRzNfS25ZY3FvWEhBQUJCRENXdnVZVXY3WkJXV0pRQk9NenZTcENZVUxhQ2xidmFtTWhtRnhQX0hmRHN6N2hlcTZSdmVWdGEwcWsyYnhQTkRNZC1ub1pSVUF3dndI?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 37,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.05,
+      "sentiment_7d_avg": null
+    },
+    "container_freight": {
+      "today": 5,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.3,
+      "sentiment_7d_avg": null
+    },
+    "dry_bulk_rate": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "shipbuilding_orders": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 39,
+    "sentiment_distribution": {
+      "positive": 5,
+      "neutral": 31,
+      "negative": 3
+    },
+    "top_companies": [
+      {
+        "id": "cosco",
+        "count": 7
+      },
+      {
+        "id": "hanwha_ocean",
+        "count": 4
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 37
+      },
+      {
+        "id": "container_freight",
+        "count": 5
+      },
+      {
+        "id": "shipbuilding_orders",
+        "count": 2
+      },
+      {
+        "id": "dry_bulk_rate",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 351,
+    "dup_title": 150,
+    "too_old": 75,
+    "gate1_blocked": 16,
+    "gate2_blocked": 10,
+    "passed": 100,
+    "pass_rate": "49.8%",
+    "gate2_block_rate": "5.0%",
+    "gate2_samples": [
+      "Samsung Heavy Industries to showcase FLNG capabilities at Gastech 2026 - mbiz.heraldcorp.com",
+      "Thailand picks South Korea’s Hanwha Ocean to build new frigate, navy says - Reuters",
+      "Thai Navy picks Hanwha Ocean for 16.73 billion baht frigate - Khaosod English",
+      "Thailand selects Hanwha Ocean to build it a new frigate - Asian Military Review",
+      "COSCO ro-ro carrier sets vehicle record in Ecuador - Heavy Lift & Project Forwarding International"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 39 則事件，焦點為中遠海控、韓華海洋相關動態：「China-US container rates near record, Iran war lifts fuel...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "China-US container rates near record, Iran war lifts fuel costs - Baird Maritime（貨櫃運價、航運產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "China-to-US East Coast freight rates top $10,000, poised to break pandemic-er...（貨櫃運價、航運產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

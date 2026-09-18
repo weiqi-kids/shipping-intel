@@ -1,0 +1,16 @@
+{
+  "total_raw": 351,
+  "dup_title": 150,
+  "no_date": 0,
+  "too_old": 75,
+  "gate1_fail": 16,
+  "gate2_fail": 10,
+  "passed": 100,
+  "gate2_samples": [
+    "Samsung Heavy Industries to showcase FLNG capabilities at Gastech 2026 - mbiz.heraldcorp.com",
+    "Thailand picks South Korea’s Hanwha Ocean to build new frigate, navy says - Reuters",
+    "Thai Navy picks Hanwha Ocean for 16.73 billion baht frigate - Khaosod English",
+    "Thailand selects Hanwha Ocean to build it a new frigate - Asian Military Review",
+    "COSCO ro-ro carrier sets vehicle record in Ecuador - Heavy Lift & Project Forwarding International"
+  ]
+}
