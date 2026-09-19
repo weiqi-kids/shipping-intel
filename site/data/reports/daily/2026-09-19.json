@@ -1,0 +1,205 @@
+{
+  "date": "2026-09-19",
+  "generated_at": "2026-09-19T12:23:06.896375Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "cosco-2026-09-19-004",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "Maersk Overtakes COSCO Shipping to Become Largest Operator in Intra-Asia Container Market - imarinenews.com",
+      "companies": [
+        "cosco",
+        "maersk"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE43WmtFR1QwZkZaLVBkX0ljZXdid3JGa0xiblpCZ1k1QUNNWFI1d3pkWS1LUFBBWE5tM2tVY0dRR3ozYzNoaGV1dXJNcy1UQWc?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-09-19-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Union Talks Collapse Clouds HD Hyundai, Shipbuilding Shares - Seoul Economic Daily",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPX2JGeFNUaDhkMXlzLUVmRTZENlR0UnVTMW9hTlBnS2Z6ZjNmVml0azVkcDNvVjN3dlFLaHlsOVo1UTJWLWtQcHBxamFXcVBuYU82V0xmU0U2aXd4Z2VzSF9sTWVSLUkzRzUzcm5sNEgtMWNIRy1ka0ZuT2tqNkFRRE9qNS0zR1lPWE1WdFhGUm1Idi1VNTRZMFpuaHN4dw?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "hanwha_ocean-2026-09-19-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Hanwha Ocean Selected as Preferred Bidder for Thai Navy Frigate Project - imarinenews.com",
+      "companies": [
+        "hanwha_ocean"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE93V19PNVFvRnltWl9iTVktRXN4Q0MteXNQNy1DTmVWczlzdXFLYlRyQUhuUXFHaEVwdFE0RVJWd01iaXFkV3EwbUlKUFZKeEU?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "hanwha_ocean-2026-09-19-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "KR, Hanwha Ocean Sign MOU for Joint Development of 18K LNG Bunkering Vessel - India Shipping News",
+      "companies": [
+        "hanwha_ocean"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNMldnVTBYSVRHSW15WDZlR2RyZGFyN1dBaXZWS2VCWm1TUDFRX0pOekFoZlBLT2xDamJlMmEyTmJGZWgwbndFdUpPcklrVGdPaXhYN1owV1lsS2h2ajJ3NUZzMnhiWGNJVTVtNG90Z2FZU3Z3Skp6dkdScGRIel9UbmtZSmlpVUVFSFVaaHRydE1wWFJvdk9hOExwQS1kclBpTXNQVGhEaGNYYnZHOHpURTcwYzVmUW1vNXFHRzNqTUw3SzdKS3RV?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "cosco-2026-09-19-005",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "COSCO Shipping Holdings stock gains ahead of September dividend - AD HOC NEWS",
+      "companies": [
+        "cosco"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQNFJUX3lwd294czRNOTNZeGVqYVY5c0lSZWdsbXBRSWpKUVJrZnhnQXlYSTlKTmlyMU9XQjloZzlSc01veElzRkp0NzNvNXFZcEVOOE1mX0I0R2RFQWpsQzdiVERjV0dHUm1VMmxIMmZVbXFwTmpfbGxWa18zQS1Kb3F2dUNqdDh1TUFIRGpWMHFLaE9Xbl9XNjlXQngzY0drMldHY0hLYU1WZWVaT2puZ3J4dFZFM3pLdUtraW1aTV9wRFFC?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 7,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "container_freight": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 7,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 7,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "hanwha_ocean",
+        "count": 2
+      },
+      {
+        "id": "cosco",
+        "count": 2
+      },
+      {
+        "id": "maersk",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 7
+      },
+      {
+        "id": "container_freight",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 351,
+    "dup_title": 199,
+    "too_old": 69,
+    "gate1_blocked": 19,
+    "gate2_blocked": 6,
+    "passed": 58,
+    "pass_rate": "38.2%",
+    "gate2_block_rate": "3.9%",
+    "gate2_samples": [
+      "Thailand picks South Korea’s Hanwha Ocean to build new frigate, navy says - Reuters",
+      "HD Hyundai, Hanwha Ocean Shift Marine Defense Specialties - 조선일보",
+      "Thailand selects Hanwha Ocean to build it a new frigate - Asian Military Review",
+      "Federal probe into diversion of F-35 parts to Hong Kong",
+      "Tesla targets end-2027 Europe deliveries for the Semi"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 7 則事件，焦點為韓華海洋、中遠海控、馬士基相關動態：「Maersk Overtakes COSCO Shipping to Become Largest Operato...」。主要關注主題為航運產業通用、貨櫃運價，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Maersk Overtakes COSCO Shipping to Become Largest Operator in Intra-Asia Cont...（航運產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "Union Talks Collapse Clouds HD Hyundai, Shipbuilding Shares - Seoul Economic ...（航運產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

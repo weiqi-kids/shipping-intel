@@ -1,0 +1,16 @@
+{
+  "total_raw": 351,
+  "dup_title": 199,
+  "no_date": 0,
+  "too_old": 69,
+  "gate1_fail": 19,
+  "gate2_fail": 6,
+  "passed": 58,
+  "gate2_samples": [
+    "Thailand picks South Korea’s Hanwha Ocean to build new frigate, navy says - Reuters",
+    "HD Hyundai, Hanwha Ocean Shift Marine Defense Specialties - 조선일보",
+    "Thailand selects Hanwha Ocean to build it a new frigate - Asian Military Review",
+    "Federal probe into diversion of F-35 parts to Hong Kong",
+    "Tesla targets end-2027 Europe deliveries for the Semi"
+  ]
+}
