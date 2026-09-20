@@ -1,0 +1,195 @@
+{
+  "date": "2026-09-20",
+  "generated_at": "2026-09-20T12:58:00.539823Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "hanwha_ocean-2026-09-20-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Hanwha Ocean wins ABS AiP for LNG-to-ammonia fuel system - Container News",
+      "companies": [
+        "hanwha_ocean"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQVFJ3Znh0eGRFejUtV2Jra21pQlJveVVnbS04Wm9ybXRmYXBWRDF1ekJXaWVKa0tEM2cyeGpTRl9UbENRZVVxUWV4Q1llOXJmeXVwYW14WGNxZ1huOHltMjB1ZDQ5S25QT0xoZXF6dFRqV3l6RENqa2E3UF93VS1QRmY3VG9aRjU3bVk2eg?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-09-20-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "(Yonhap Feature) Inside S. Korea's new submarine: a rare look into naval power, global push - en.yna.co.kr",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "container_freight",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBXLWEyeU03LUY3MlJCQTNfeVhTQWt5WUs3bHZYSWxHeTg3MEo1RGExQXotTWpzelZVd3VJbHpKLWRha21JZkxPa3N1Mm5Qc0x2SGloa2RvZDlxQQ?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "cosco-2026-09-20-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "COSCO Shipping Holdings stock edges lower as investors weigh Red Sea route resumption - ad-hoc-news.de",
+      "companies": [
+        "cosco"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQc1M1SHRzdW5aR1ZNUFU1dnRDVXd6aGhoSVVfMVF6NGxmeTUyTkVkaGdjWDRjNm83OTFWOXJxRWI3ZmJ0NzB2NWFyUjVDdXlyRS16elhweHJYNHd5eWFmUTlxVjVBSGJPTVJpUWcwVlRXTHd6UEtCZUx3N1U3TUNOY21GdXc1Q0lJWTRhZXFIejMtWnN4MF9UTWtfeVVaYjlLOVFINDRxWE9wcVJKeGdPUV9kSlkzbnBDWk5QT2wyRW1UUWNGNTV1OEdkVVRlT0pJUkNj?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-09-20-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "US Tariffs Threaten Great Lakes Shipping Tied To Canada Trade",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://gcaptain.com/us-tariffs-threaten-great-lakes-shipping-tied-to-canada-trade/"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-09-20-005",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Borderlands Mexico: Tesla plans massive Texas distribution center",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.freightwaves.com/news/borderlands-mexico-tesla-plans-massive-texas-distribution-center"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 8,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "container_freight": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 8,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 6,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "hanwha_ocean",
+        "count": 1
+      },
+      {
+        "id": "cosco",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 8
+      },
+      {
+        "id": "container_freight",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 351,
+    "dup_title": 221,
+    "too_old": 75,
+    "gate1_blocked": 25,
+    "gate2_blocked": 5,
+    "passed": 25,
+    "pass_rate": "19.2%",
+    "gate2_block_rate": "3.8%",
+    "gate2_samples": [
+      "Thailand picks South Korea’s Hanwha Ocean to build new frigate, navy says - reuters.com",
+      "Hanwha Ocean Advances Submarine, Frigate Builds at Geoje Yard - en.sedaily.com",
+      "Federal probe into diversion of F-35 parts to Hong Kong",
+      "Tesla targets end-2027 Europe deliveries for the Semi",
+      "DHL Express – Capital Market Briefing 2026"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 8 則事件，焦點為韓華海洋、中遠海控相關動態：「Hanwha Ocean wins ABS AiP for LNG-to-ammonia fuel system ...」。主要關注主題為航運產業通用、貨櫃運價，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Hanwha Ocean wins ABS AiP for LNG-to-ammonia fuel system - Container News（航運產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "(Yonhap Feature) Inside S. Korea's new submarine: a rare look into naval powe...（貨櫃運價、航運產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

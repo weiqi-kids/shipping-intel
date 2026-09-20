@@ -1,0 +1,16 @@
+{
+  "total_raw": 351,
+  "dup_title": 221,
+  "no_date": 0,
+  "too_old": 75,
+  "gate1_fail": 25,
+  "gate2_fail": 5,
+  "passed": 25,
+  "gate2_samples": [
+    "Thailand picks South Korea’s Hanwha Ocean to build new frigate, navy says - reuters.com",
+    "Hanwha Ocean Advances Submarine, Frigate Builds at Geoje Yard - en.sedaily.com",
+    "Federal probe into diversion of F-35 parts to Hong Kong",
+    "Tesla targets end-2027 Europe deliveries for the Semi",
+    "DHL Express – Capital Market Briefing 2026"
+  ]
+}
