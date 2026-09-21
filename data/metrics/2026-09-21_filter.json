@@ -1,0 +1,14 @@
+{
+  "total_raw": 351,
+  "dup_title": 190,
+  "no_date": 0,
+  "too_old": 70,
+  "gate1_fail": 21,
+  "gate2_fail": 3,
+  "passed": 67,
+  "gate2_samples": [
+    "Thailand picks South Korea’s Hanwha Ocean to build new frigate, navy says - Reuters",
+    "Federal probe into diversion of F-35 parts to Hong Kong",
+    "OceanX Radar: Logistics is a people thing; fuel fears; relentless rate rises"
+  ]
+}

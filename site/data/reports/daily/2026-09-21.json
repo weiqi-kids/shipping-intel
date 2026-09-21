@@ -1,0 +1,235 @@
+{
+  "date": "2026-09-21",
+  "generated_at": "2026-09-21T14:59:01.863341Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "hanwha_ocean-2026-09-21-003",
+      "importance_score": 0.85,
+      "importance_reasons": [
+        "多公司提及",
+        "情緒極端"
+      ],
+      "title": "Maersk Places Record $8.9 Billion Container Ship Order, Setting Up Hanwha Ocean vs. Chinese Yards Battle - finance.biggo.com",
+      "companies": [
+        "hanwha_ocean",
+        "maersk"
+      ],
+      "related": {
+        "customers": [
+          "maersk"
+        ],
+        "suppliers": [
+          "hanwha_ocean"
+        ]
+      },
+      "topics": [
+        "shipbuilding_orders",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFAyOUgyNUwyc1pYWVE1elBuVy14Wkd4bmJBcTFBMHdQM055RHQ5OUdieXdWbWpsT2Z0NHc2T1R1dGRBclhrZzM5THBNSGJwUS0xclJ4QWVXQ184VzFXVmZaQ1VZMmVDRkdXd3dfZmU3SGhqT3JOMmc?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-09-21-017",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Another aspect of Montgomery: it might make human brokers more valuable",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://www.freightwaves.com/news/another-aspect-of-montgomery-it-might-make-human-brokers-more-valuable"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-09-21-020",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "ClarkSea Index surges 27% above 2007 peak",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://splash247.com/clarksea-index-surges-27-above-2007-peak/"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-09-21-021",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Transpacific-Europe rate gap blows out to record",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "container_freight",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://splash247.com/transpacific-europe-rate-gap-blows-out-to-record/"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-09-21-028",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Asia - US container rates could surpass pandemic peak - Seatrade Maritime News",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "container_freight",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQcUFoWnZNd1VwRzVmZHF3NE5XNmdHS092cVNldjV3STV6Y0hiTGREei1lbFlHTGNyQ0UtZmdLeWI0VURrQXl1LXJvT3l3TW0ydV9nVEZQc2xnUTRxLXVSMC1DOGlsWVBMYnhfMlRuSXpvektfVmlScHB5RF80N2tYOEJZYm5LTWwtUWp6SG1yWTU3LXZjTy01aGhCVkQ?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 41,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.27,
+      "sentiment_7d_avg": null
+    },
+    "shipbuilding_orders": {
+      "today": 5,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.4,
+      "sentiment_7d_avg": null
+    },
+    "container_freight": {
+      "today": 6,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.83,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 43,
+    "sentiment_distribution": {
+      "positive": 15,
+      "neutral": 27,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "cosco",
+        "count": 7
+      },
+      {
+        "id": "hanwha_ocean",
+        "count": 4
+      },
+      {
+        "id": "maersk",
+        "count": 1
+      },
+      {
+        "id": "wan_hai",
+        "count": 1
+      },
+      {
+        "id": "star_bulk",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 41
+      },
+      {
+        "id": "container_freight",
+        "count": 6
+      },
+      {
+        "id": "shipbuilding_orders",
+        "count": 5
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 351,
+    "dup_title": 190,
+    "too_old": 70,
+    "gate1_blocked": 21,
+    "gate2_blocked": 3,
+    "passed": 67,
+    "pass_rate": "41.6%",
+    "gate2_block_rate": "1.9%",
+    "gate2_samples": [
+      "Thailand picks South Korea’s Hanwha Ocean to build new frigate, navy says - Reuters",
+      "Federal probe into diversion of F-35 parts to Hong Kong",
+      "OceanX Radar: Logistics is a people thing; fuel fears; relentless rate rises"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 43 則事件，焦點為中遠海控、韓華海洋、馬士基相關動態：「Maersk Places Record $8.9 Billion Container Ship Order, S...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Maersk Places Record $8.9 Billion Container Ship Order, Setting Up Hanwha Oce...（造船訂單、航運產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "Another aspect of Montgomery: it might make human brokers more valuable（航運產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
