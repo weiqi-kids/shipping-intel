@@ -1,0 +1,210 @@
+{
+  "date": "2026-09-22",
+  "generated_at": "2026-09-22T13:15:26.520206Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "hd_korea-2026-09-22-002",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "HD Korea Shipbuilding & Offshore Engineering Secures Orders for Two Cargo Ships Worth KRW 336.2 Billion, Surpassing Last Year's Results - 매일경제",
+      "companies": [
+        "hd_korea"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE81S0twaUdFUTRBZ3FSREFKaFpObV85STJ4UWRDT2tjcVVkQ0RwMVhLY1Z6bnFxTUtLQTM4dzJaZU82eGFPTzh3b01SUlV3YmlTY0pZ?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "hanwha_ocean-2026-09-22-028",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "LS Marine seals record $113m offshore wind cable contract",
+      "companies": [
+        "hanwha_ocean"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://splash247.com/ls-marine-seals-record-113m-offshore-wind-cable-contract/"
+    },
+    {
+      "rank": 3,
+      "event_id": "hd_korea-2026-09-22-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "HD Korea Shipbuilding Secures ₩336.2 Billion Order for Two RoRo Vessels from Europe - finance.biggo.com",
+      "companies": [
+        "hd_korea"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE50U3VqeWlOMlN1MWZBamdZZXdQeUJEN0JzX2ZwWFFZUmZFbDQ1WFQ1TXJIbEZnMTRhNXlQdWF0WFB6WjVtUlBKM1JPb0RyOENBWWEyeENaRTByaUVTWUJsQWRibGE5ZmtuV2s1SURIWXdwZUJVZUE?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "hd_korea-2026-09-22-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "HD Korea Shipbuilding Wins $242 Million Order for Two RORO Vessels - Seoul Economic Daily",
+      "companies": [
+        "hd_korea"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNUXhjdHh3SmVJVFFpT1BHMWxmeURzZlRVdFE1UHhUMWgwUHF5eFNzN1BXQ04xbEEzbTcyYy12eXV3a3M0bFo5QUZwZ1RsZFYtRzh5d3V2cHVxcEZ1eW1FaGdfalA1eUxmZTJWNzJJV1lNdHpOVlZLUnR0WS10eVJ6ekFHWjZWdDNzM1pRRUlHTGZhT0xDemV4NjI4Vms2a1E?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-09-22-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Korea’s LNG Carrier Edge Faces China’s Rise - Businesskorea",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBwdmtqT2ItcGwxRGw1MFlXWVpXZjNYdXM0UmpzMlpQN2N0WUpBb2U3QUVUcnE2WmdTc0cxZlhCcGtvTFJQY2c1Qk1rVVpzVmVmenV4Um9LSmVFZXB2eV83R1pxYWd0a21ETlNsc3U1YVphcmpz?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 39,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.06,
+      "sentiment_7d_avg": null
+    },
+    "shipbuilding_orders": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.17,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 41,
+    "sentiment_distribution": {
+      "positive": 6,
+      "neutral": 32,
+      "negative": 3
+    },
+    "top_companies": [
+      {
+        "id": "cosco",
+        "count": 4
+      },
+      {
+        "id": "hd_korea",
+        "count": 3
+      },
+      {
+        "id": "samsung_heavy",
+        "count": 3
+      },
+      {
+        "id": "star_bulk",
+        "count": 2
+      },
+      {
+        "id": "yang_ming",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 39
+      },
+      {
+        "id": "shipbuilding_orders",
+        "count": 3
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 351,
+    "dup_title": 170,
+    "too_old": 82,
+    "gate1_blocked": 17,
+    "gate2_blocked": 1,
+    "passed": 81,
+    "pass_rate": "44.8%",
+    "gate2_block_rate": "0.6%",
+    "gate2_samples": [
+      "Thailand picks South Korea’s Hanwha Ocean to build new frigate, navy says - Reuters"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 41 則事件，焦點為中遠海控、韓國造船海洋、三星重工相關動態：「HD Korea Shipbuilding & Offshore Engineering Secures Orde...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "HD Korea Shipbuilding & Offshore Engineering Secures Orders for Two Cargo Shi...（航運產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "LS Marine seals record $113m offshore wind cable contract（航運產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

@@ -1,0 +1,12 @@
+{
+  "total_raw": 351,
+  "dup_title": 170,
+  "no_date": 0,
+  "too_old": 82,
+  "gate1_fail": 17,
+  "gate2_fail": 1,
+  "passed": 81,
+  "gate2_samples": [
+    "Thailand picks South Korea’s Hanwha Ocean to build new frigate, navy says - Reuters"
+  ]
+}
