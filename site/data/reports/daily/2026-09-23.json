@@ -1,0 +1,236 @@
+{
+  "date": "2026-09-23",
+  "generated_at": "2026-09-23T13:30:16.035280Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-09-23-030",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "‘Book earlier’ on LatAm-Europe trades as disruptions continue",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "port_congestion",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.75
+      },
+      "source_url": "https://theloadstar.com/book-earlier-on-latam-europe-trades-as-disruptions-continue/"
+    },
+    {
+      "rank": 2,
+      "event_id": "zim-2026-09-23-032",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Zim the outlier as top carriers slash reliance on chartered tonnage",
+      "companies": [
+        "zim"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "shipbuilding_orders",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://theloadstar.com/zim-the-outlier-as-top-carriers-slash-reliance-on-chartered-tonnage/"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-09-23-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "ABS approves HD Hyundai’s 22,000-cbm ammonia bunker vessel design - Portnews",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5kQzliY3RDN2RsU20zalY5Y2tkc3djZW9tS2tvQzkyTzhlaGwwX29UNUlqdjF6eEV3dkY5VUZNMVNzVmhybThqbllPbw?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "samsung_heavy-2026-09-23-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "GasEntec, Samsung Heavy Industries Sign SENSE Licensing MOU - Oil & Gas Middle East",
+      "companies": [
+        "samsung_heavy"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNTlRBM3d1LUd4clVVU1FtNVlRSXZ0cmdoY0g3emQ5RVY0ZXA3QlVSejcweEE5VkwtczNITnY2R1ZFWmpVYnlaVnVSUkNzdFFGc3BKcWxIOUFxTlhWNHZqb0JKMFZka0NLS29FUDZGcnJEaDc2Znp5eHBfdDFZTFFVY0NjODVtYnI2REx3TkJ3QjFScmFzN3o1YndJc05vUUoy?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "samsung_heavy-2026-09-23-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Samsung Heavy Industries Labor and Management Reach Wage Deal After 4 Months — Incentive Benchmark Shifts to 10% of Operating Profit - finance.biggo.com",
+      "companies": [
+        "samsung_heavy"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE90c09KczdlbENDUnFwcW5xUjFVYUJpaFhrRkNFRnBjM0FfTGhidDRYblNhLVBTSXNRWmZzQmNqNTBSZ3lyUlg5S2NXYkJTN09jTm94aEhDMTMwZDN3YVg1TDRjNjFVQVp6MWNsRU01WkctdW9DYWc?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 34,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.01,
+      "sentiment_7d_avg": null
+    },
+    "container_freight": {
+      "today": 4,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.12,
+      "sentiment_7d_avg": null
+    },
+    "shipbuilding_orders": {
+      "today": 5,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.3,
+      "sentiment_7d_avg": null
+    },
+    "port_congestion": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.12,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 38,
+    "sentiment_distribution": {
+      "positive": 3,
+      "neutral": 31,
+      "negative": 4
+    },
+    "top_companies": [
+      {
+        "id": "cosco",
+        "count": 4
+      },
+      {
+        "id": "samsung_heavy",
+        "count": 3
+      },
+      {
+        "id": "star_bulk",
+        "count": 2
+      },
+      {
+        "id": "hanwha_ocean",
+        "count": 1
+      },
+      {
+        "id": "zim",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 34
+      },
+      {
+        "id": "shipbuilding_orders",
+        "count": 5
+      },
+      {
+        "id": "container_freight",
+        "count": 4
+      },
+      {
+        "id": "port_congestion",
+        "count": 2
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 350,
+    "dup_title": 161,
+    "too_old": 73,
+    "gate1_blocked": 26,
+    "gate2_blocked": 3,
+    "passed": 87,
+    "pass_rate": "46.0%",
+    "gate2_block_rate": "1.6%",
+    "gate2_samples": [
+      "Thailand picks South Korea’s Hanwha Ocean to build new frigate, navy says - Reuters",
+      "Hanwha Ocean Wage Talks Break Down Again - Businesskorea",
+      "Piston raises $15M to expand cardless fuel payments network"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 38 則事件，焦點為中遠海控、三星重工、Star Bulk Carriers相關動態：「‘Book earlier’ on LatAm-Europe trades as disruptions cont...」。整體情緒偏負面，需留意潛在風險。",
+    "signals": [
+      {
+        "text": "‘Book earlier’ on LatAm-Europe trades as disruptions continue（港口壅塞、航運產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "Zim the outlier as top carriers slash reliance on chartered tonnage（造船訂單、航運產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

@@ -1,0 +1,49 @@
+{
+  "date": "2026-09-23",
+  "total_events": 38,
+  "by_company": {
+    "samsung_heavy": {
+      "count": 3,
+      "sentiment_avg": 0.0
+    },
+    "hanwha_ocean": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "cosco": {
+      "count": 4,
+      "sentiment_avg": 0.0
+    },
+    "star_bulk": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "zim": {
+      "count": 1,
+      "sentiment_avg": 1.0
+    }
+  },
+  "by_topic": {
+    "industry_general": {
+      "count": 34,
+      "sentiment_avg": 0.01
+    },
+    "container_freight": {
+      "count": 4,
+      "sentiment_avg": -0.12
+    },
+    "shipbuilding_orders": {
+      "count": 5,
+      "sentiment_avg": 0.3
+    },
+    "port_congestion": {
+      "count": 2,
+      "sentiment_avg": 0.12
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}
