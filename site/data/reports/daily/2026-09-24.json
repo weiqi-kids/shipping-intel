@@ -1,0 +1,213 @@
+{
+  "date": "2026-09-24",
+  "generated_at": "2026-09-24T13:25:52.222971Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "zim-2026-09-24-020",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "Hapag tries to close Zim deal – Asia connectivity the crux",
+      "companies": [
+        "zim",
+        "hapag"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://theloadstar.com/hapag-tries-to-close-zim-deal-asia-connectivity-the-crux/"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-09-24-010",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Shubpreet Singh takes over at V.Ships",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://splash247.com/shubpreet-singh-takes-over-at-v-ships/"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-09-24-012",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Onex VLCC buying spree takes shape",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://splash247.com/onex-vlcc-buying-spree-takes-shape/"
+    },
+    {
+      "rank": 4,
+      "event_id": "maersk-2026-09-24-027",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Maersk and MOL stress multi-fuel and diverse solutions to decarbonise",
+      "companies": [
+        "maersk"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://www.seatrade-maritime.com/sustainability/maersk-and-mol-stress-multi-fuel-and-diverse-solutions-to-decarbonise"
+    },
+    {
+      "rank": 5,
+      "event_id": "samsung_heavy-2026-09-24-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Samsung Heavy Industries Wage Deal 2026: First Among Korea's Big Three Shipbuilders - News and Statistics - IndexBox",
+      "companies": [
+        "samsung_heavy"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPeS1Ya0d2eVdhc19nallSeElqYlBmTURuNXpFOTJ6ZTU2UTBxd3hWXzFIRzNFRmhIVmFDRW9nbGwzT1Y0YTZ5Nk5GY184LW5GbldlbUdmeHhVUko3Zks3R3R1ZVludXN5U2kxNGxRdzAwM0dBdG9pZDBhMHRhWDJEdHd3MHE2YXFEREZ6YUFPU2pQdzgwb2Z4ekFsdkE5bVBBTVRTQnlQNWV3UzZpdEFMWHB2blpBWXljYzZFMmN6aTNIa2s?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 26,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.13,
+      "sentiment_7d_avg": null
+    },
+    "dry_bulk_rate": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 27,
+    "sentiment_distribution": {
+      "positive": 5,
+      "neutral": 21,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "cosco",
+        "count": 3
+      },
+      {
+        "id": "hapag",
+        "count": 2
+      },
+      {
+        "id": "samsung_heavy",
+        "count": 1
+      },
+      {
+        "id": "zim",
+        "count": 1
+      },
+      {
+        "id": "maersk",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 26
+      },
+      {
+        "id": "dry_bulk_rate",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 351,
+    "dup_title": 167,
+    "too_old": 76,
+    "gate1_blocked": 20,
+    "gate2_blocked": 3,
+    "passed": 84,
+    "pass_rate": "45.7%",
+    "gate2_block_rate": "1.6%",
+    "gate2_samples": [
+      "Thailand picks South Korea’s Hanwha Ocean to build new frigate, navy says - Reuters",
+      "Hanwha Ocean Wage Talks Break Down Again - Businesskorea",
+      "What happens when net zero becomes auditable?"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 27 則事件，焦點為中遠海控、赫伯羅特、三星重工相關動態：「Hapag tries to close Zim deal – Asia connectivity the crux」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Hapag tries to close Zim deal – Asia connectivity the crux",
+        "level": "yellow"
+      },
+      {
+        "text": "Shubpreet Singh takes over at V.Ships（航運產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

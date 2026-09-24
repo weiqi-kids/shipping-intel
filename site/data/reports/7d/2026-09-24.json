@@ -1,0 +1,167 @@
+{
+  "date": "2026-09-24",
+  "date_range": {
+    "start": "2026-09-18",
+    "end": "2026-09-24"
+  },
+  "generated_at": "2026-09-24T13:25:52.373454Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "hanwha_ocean-2026-09-21-003",
+      "date": "2026-09-21",
+      "title": "Maersk Places Record $8.9 Billion Container Ship Order, Setting Up Hanwha Ocean vs. Chinese Yards Battle - finance.biggo.com",
+      "importance_score": 0.85
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "industry_general": {
+      "this_week": 192,
+      "last_week": 218,
+      "week_over_week_change": "-12%",
+      "sentiment_this_week": 0.1
+    },
+    "container_freight": {
+      "this_week": 17,
+      "last_week": 9,
+      "week_over_week_change": "+89%",
+      "sentiment_this_week": 0.35
+    },
+    "dry_bulk_rate": {
+      "this_week": 2,
+      "last_week": 3,
+      "week_over_week_change": "-33%",
+      "sentiment_this_week": 0.0
+    },
+    "shipbuilding_orders": {
+      "this_week": 15,
+      "last_week": 13,
+      "week_over_week_change": "+15%",
+      "sentiment_this_week": 0.27
+    },
+    "port_congestion": {
+      "this_week": 2,
+      "last_week": 1,
+      "week_over_week_change": "+100%",
+      "sentiment_this_week": 0.12
+    }
+  },
+  "company_7d_summary": {
+    "hanwha_ocean": {
+      "event_count": 13,
+      "sentiment_avg": 0.15,
+      "rank": 2
+    },
+    "cosco": {
+      "event_count": 28,
+      "sentiment_avg": 0.04,
+      "rank": 1
+    },
+    "maersk": {
+      "event_count": 4,
+      "sentiment_avg": 0.5,
+      "rank": 5
+    },
+    "wan_hai": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 9
+    },
+    "star_bulk": {
+      "event_count": 5,
+      "sentiment_avg": 0.0,
+      "rank": 4
+    },
+    "hd_korea": {
+      "event_count": 3,
+      "sentiment_avg": 0.33,
+      "rank": 6
+    },
+    "samsung_heavy": {
+      "event_count": 7,
+      "sentiment_avg": 0.0,
+      "rank": 3
+    },
+    "yang_ming": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 10
+    },
+    "zim": {
+      "event_count": 2,
+      "sentiment_avg": 0.5,
+      "rank": 7
+    },
+    "hapag": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 8
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 425,
+        "last": 513,
+        "change_pct": -17.2
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-09-18",
+      "event_count": 90,
+      "sentiment_avg": 0.03
+    },
+    {
+      "date": "2026-09-19",
+      "event_count": 15,
+      "sentiment_avg": 0.0
+    },
+    {
+      "date": "2026-09-20",
+      "event_count": 29,
+      "sentiment_avg": 0.01
+    },
+    {
+      "date": "2026-09-21",
+      "event_count": 83,
+      "sentiment_avg": 0.23
+    },
+    {
+      "date": "2026-09-22",
+      "event_count": 91,
+      "sentiment_avg": 0.06
+    },
+    {
+      "date": "2026-09-23",
+      "event_count": 90,
+      "sentiment_avg": 0.03
+    },
+    {
+      "date": "2026-09-24",
+      "event_count": 27,
+      "sentiment_avg": 0.13
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-09-18 ~ 2026-09-24）共 425 則事件，重點為「Maersk Places Record $8.9 Billion Container Shi...」。馬士基、韓國造船海洋表現正面，整體氣氛穩健。",
+    "watchlist": [
+      {
+        "company": "韓華海洋",
+        "reason": "本週出現 13 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "中遠海控",
+        "reason": "本週出現 28 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "馬士基",
+        "reason": "本週出現 4 則相關事件，為高關注企業，動態頻繁。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

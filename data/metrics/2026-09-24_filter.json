@@ -1,0 +1,14 @@
+{
+  "total_raw": 351,
+  "dup_title": 167,
+  "no_date": 1,
+  "too_old": 76,
+  "gate1_fail": 20,
+  "gate2_fail": 3,
+  "passed": 84,
+  "gate2_samples": [
+    "Thailand picks South Korea’s Hanwha Ocean to build new frigate, navy says - Reuters",
+    "Hanwha Ocean Wage Talks Break Down Again - Businesskorea",
+    "What happens when net zero becomes auditable?"
+  ]
+}
