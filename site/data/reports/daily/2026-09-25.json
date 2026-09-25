@@ -1,0 +1,239 @@
+{
+  "date": "2026-09-25",
+  "generated_at": "2026-09-25T13:27:54.903077Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-09-25-009",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Rio Tinto offloads final newcastlemax pair to Yasa",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://splash247.com/rio-tinto-offloads-final-newcastlemax-pair-to-yasa/"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-09-25-012",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Panama slips to third in global flag rankings",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://splash247.com/panama-slips-to-third-in-global-flag-rankings/"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-09-25-021",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Box shipping reliability the worst since 2022 – ‘a new normal’, says DP World",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "port_congestion",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://theloadstar.com/box-shipping-reliability-the-worst-since-2022-a-new-normal-says-dp-world/"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-09-25-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "South Korean Shipbuilders Split on Labor Deals as Order Backlog Grows - IndexBox",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNb0hwVVhXbFFjWFdQc0J2OVVQT3E4eXp6QV9jaFhsSk5mRVlmYjl1OTBZYzlGZ1FRa2xBaTFucDZYUmJWU0d1Vm56X3ZfOFRzWjB0N2gwVUJQYXVxNDltcXFzNmZaZThYQ04yZXU0RXlwUVQ1N1VPS19lNE5CTmJ3NlpMOS1aaGozYmFOQ2FIbFVCbm1TTjFaXzAzbHlPVXBn?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "cosco-2026-09-25-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "COSCO Shipping Holdings stock faces a 23.6 percent profit drop - AD HOC NEWS",
+      "companies": [
+        "cosco"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNSXdBSWNEd2ZuMXhzbnZ5dzhLajl6NUV4TU1DYWpIRTNPS3pxN0hqdTM2RFVGOVpfU3dreVllMUtKTkZmU3Bqd1pleFI0Sm05V253M1pZN0hmMFBLZFhPRTFaZE5aeVBMZXFZcXE3MXFyNUlVeUo3T3pBanRnNm9ETHI0b2h2M2dzSUZWc0Y4TTNaMzFQUjNRWmFVV2dnejluN1J5ZWpramdtVFJKX1BFU0lFdUpYSEVhaWdEenh3bGVVSjg?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 27,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.15,
+      "sentiment_7d_avg": null
+    },
+    "dry_bulk_rate": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "shipbuilding_orders": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.25,
+      "sentiment_7d_avg": null
+    },
+    "container_freight": {
+      "today": 4,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.12,
+      "sentiment_7d_avg": null
+    },
+    "port_congestion": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -1.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 27,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 20,
+      "negative": 6
+    },
+    "top_companies": [
+      {
+        "id": "cosco",
+        "count": 2
+      },
+      {
+        "id": "cssc",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 27
+      },
+      {
+        "id": "container_freight",
+        "count": 4
+      },
+      {
+        "id": "shipbuilding_orders",
+        "count": 2
+      },
+      {
+        "id": "dry_bulk_rate",
+        "count": 1
+      },
+      {
+        "id": "port_congestion",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 350,
+    "dup_title": 175,
+    "too_old": 85,
+    "gate1_blocked": 15,
+    "gate2_blocked": 3,
+    "passed": 71,
+    "pass_rate": "40.6%",
+    "gate2_block_rate": "1.7%",
+    "gate2_samples": [
+      "Thailand picks South Korea’s Hanwha Ocean to build new frigate, navy says - Reuters",
+      "Hanwha Ocean Wage Talks Break Down Again - Businesskorea",
+      "Amazon rolls out safety tech, pay bump for delivery providers"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 27 則事件，焦點為中遠海控、中國船舶相關動態：「Rio Tinto offloads final newcastlemax pair to Yasa」。整體情緒偏負面，需留意潛在風險。",
+    "signals": [
+      {
+        "text": "Rio Tinto offloads final newcastlemax pair to Yasa（航運產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "Panama slips to third in global flag rankings（航運產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
