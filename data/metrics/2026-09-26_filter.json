@@ -1,0 +1,15 @@
+{
+  "total_raw": 350,
+  "dup_title": 214,
+  "no_date": 1,
+  "too_old": 85,
+  "gate1_fail": 9,
+  "gate2_fail": 4,
+  "passed": 37,
+  "gate2_samples": [
+    "Hanwha Ocean Wage Talks Break Down Again - Businesskorea",
+    "Trailer Insurance Gaps: 3 Red Flags to Check Now",
+    "Coretura selects Vector-QNX software for commercial vehicle platform",
+    "FMCSA “virtual” trucking inspections began under Trump, not Biden"
+  ]
+}

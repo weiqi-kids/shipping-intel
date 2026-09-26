@@ -1,0 +1,153 @@
+{
+  "date": "2026-09-26",
+  "generated_at": "2026-09-26T12:50:42.539226Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "cosco-2026-09-26-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "COSCO Shipping Heavy Industry (Zhoushan) and KNOT Mark 10th Shuttle Tanker Milestone with Naming of 154,000 DWT \"KRISTIN KNUTSEN\" - imarinenews.com",
+      "companies": [
+        "cosco"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBtSGRiR05Rcm03Zm81TGlKa2lBM0tfTFgxYnc3dldPTWpqUFUzd0VmbnVXaFE1bXdKbXcwbkZuN1JjR2wtWWE4ekk1M2M4bVU?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-09-26-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Louis Navellier finds two stocks benefiting from tight global supply - Yahoo Finance",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOT1g3NkdNSEtiR2RWYV92dE1EOXlQZjg5VjN5MzFORHd0U3dhZVZpWS1vNE9EMEVTRHhFeUFaUGJucFhEczFGVDJxS25PdkE0M0tGanR5bkt3OV9xUGVlWnN6dTVyZWJQajFNbkJDX2c4eVhSYkNBRWo0cXJKMkhBWWxIR1EyN2N2T3BhdTl5MXVKYUdMTDZmVVlqYzVKQQ?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-09-26-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Clarios takes its battery subscription to European fleets",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.freightwaves.com/news/clarios-battery-manager-europe-fleets"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-09-26-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "New lawsuit approach: accusing C.H. Robinson, TQL of RICO violations",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.freightwaves.com/news/new-lawsuit-approach-accusing-c-h-robinson-tql-of-rico-violations"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 4,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 4,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 4,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "cosco",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 4
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 350,
+    "dup_title": 214,
+    "too_old": 85,
+    "gate1_blocked": 9,
+    "gate2_blocked": 4,
+    "passed": 37,
+    "pass_rate": "27.2%",
+    "gate2_block_rate": "2.9%",
+    "gate2_samples": [
+      "Hanwha Ocean Wage Talks Break Down Again - Businesskorea",
+      "Trailer Insurance Gaps: 3 Red Flags to Check Now",
+      "Coretura selects Vector-QNX software for commercial vehicle platform",
+      "FMCSA “virtual” trucking inspections began under Trump, not Biden"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 4 則事件，焦點為中遠海控相關動態：「COSCO Shipping Heavy Industry (Zhoushan) and KNOT Mark 10...」。主要關注主題為航運產業通用，市場情緒中性。",
+    "signals": [
+      {
+        "text": "COSCO Shipping Heavy Industry (Zhoushan) and KNOT Mark 10th Shuttle Tanker Mi...（航運產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "Louis Navellier finds two stocks benefiting from tight global supply - Yahoo ...（航運產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
