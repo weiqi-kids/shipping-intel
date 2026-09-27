@@ -1,0 +1,21 @@
+{
+  "date": "2026-09-27",
+  "total_events": 5,
+  "by_company": {
+    "samsung_heavy": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "industry_general": {
+      "count": 5,
+      "sentiment_avg": -0.03
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}

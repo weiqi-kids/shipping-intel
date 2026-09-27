@@ -1,0 +1,173 @@
+{
+  "date": "2026-09-27",
+  "generated_at": "2026-09-27T13:42:55.048496Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "samsung_heavy-2026-09-27-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "HD Hyundai, Samsung Heavy Industries ... Korean Shipbuilders Seek Opportunities in India - 매일경제",
+      "companies": [
+        "samsung_heavy"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBsTjVOSVA4S19reTlSblpyNHJiRVZXa2xKa3hDWTE2Y2RPRFpXb3V4MlQtRXNPaFdfZlNLN3kyZHc3Sm1Gem1xbDBTY2tuajlXZ1Jr?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-09-27-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Low Rhine Levels Force Companies To Adapt To New Normal",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://gcaptain.com/low-rhine-levels-force-companies-to-adapt-to-new-normal/"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-09-27-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Feds charge semi-truck business owner in $105M investment fraud scheme",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.freightwaves.com/news/feds-charge-semi-truck-business-owner-in-105m-investment-fraud-scheme"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-09-27-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Borderlands Mexico: Customs proposal raises concerns over border delays, cargo seizures",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": -0.17
+      },
+      "source_url": "https://www.freightwaves.com/news/borderlands-mexico-customs-proposal-raises-concerns-over-border-delays-cargo-seizures"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-09-27-005",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Trans-Pacific rates soar, Mediterranean sinks, and demand doesn’t explain either",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.freightwaves.com/news/trans-pacific-rates-soar-mediterranean-sinks-and-demand-doesnt-explain-either"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 5,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.03,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 5,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 5,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "samsung_heavy",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 5
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 349,
+    "dup_title": 219,
+    "too_old": 94,
+    "gate1_blocked": 13,
+    "gate2_blocked": 4,
+    "passed": 18,
+    "pass_rate": "13.8%",
+    "gate2_block_rate": "3.1%",
+    "gate2_samples": [
+      "Hanwha Ocean Wage Talks Break Down Again - Businesskorea",
+      "Trailer Insurance Gaps: 3 Red Flags to Check Now",
+      "Coretura selects Vector-QNX software for commercial vehicle platform",
+      "FMCSA “virtual” trucking inspections began under Trump, not Biden"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 5 則事件，焦點為三星重工相關動態：「HD Hyundai, Samsung Heavy Industries ... Korean Shipbuild...」。主要關注主題為航運產業通用，市場情緒中性。",
+    "signals": [
+      {
+        "text": "HD Hyundai, Samsung Heavy Industries ... Korean Shipbuilders Seek Opportuniti...（航運產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "Low Rhine Levels Force Companies To Adapt To New Normal（航運產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
