@@ -1,0 +1,256 @@
+{
+  "date": "2026-09-28",
+  "generated_at": "2026-09-28T16:37:30.155311Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "cosco-2026-09-28-014",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Hong Kong Stock Announcements: COSCO Shipping Energy Expands LNG Fleet; Sitoy Group Holdings Narrows Loss by 31% - finance.biggo.com",
+      "companies": [
+        "cosco"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -0.75
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFB0V0hxdy11bG9tYUZWMWsyMmF3ZnVYU21VanBOQW82Y0NRYlFuV1ZRMTdXQk4ydFpCUXZlQ2p0aDJVZ3pyOFk5TUNSOTYtVzN6Z3BMZURYQ0lrT1dXOGpQdGdzMEFhR0ZadkMtN1JyRHRIU2NvQXc?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-09-28-018",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Rhine Drops Below Shipping Threshold as Freight Costs Rise",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://gcaptain.com/rhine-drops-below-shipping-threshold-as-freight-costs-rise/"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-09-28-027",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Airlink founder Steve Smith named to lead Airforwarders Association",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://www.freightwaves.com/news/airlink-founder-steve-smith-named-to-lead-airforwarders-association"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-09-28-041",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Steve Smith takes helm at Airforwarders Association as Brandon Fried steps down",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://theloadstar.com/steve-smith-takes-helm-at-airforwarders-association-as-brandon-fried-steps-down/"
+    },
+    {
+      "rank": 5,
+      "event_id": "hanwha_ocean-2026-09-28-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "South Korea's Big Three Shipbuilders Poised for Up to 97% Q3 Operating Profit Surge, but HD Hyundai and Hanwha Ocean Labor Talks Stall - finance.biggo.com",
+      "companies": [
+        "hanwha_ocean"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE52TjFjZTRILVFkb09iQmp4SkhEVjR3MVNicjExLTE1QWRtMkxfWDMwRGVQcWhKaFJFT3RERmVVYm1oTUFNZEtBNFo2dXo4TGZNLWJDckpKYlpvbDctazhxanM5cW5ybEoyVHA1VUxQaWJCTEotX3c?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 50,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.09,
+      "sentiment_7d_avg": null
+    },
+    "dry_bulk_rate": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "shipbuilding_orders": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.17,
+      "sentiment_7d_avg": null
+    },
+    "container_freight": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.25,
+      "sentiment_7d_avg": null
+    },
+    "port_congestion": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 54,
+    "sentiment_distribution": {
+      "positive": 9,
+      "neutral": 42,
+      "negative": 3
+    },
+    "top_companies": [
+      {
+        "id": "hanwha_ocean",
+        "count": 10
+      },
+      {
+        "id": "cosco",
+        "count": 4
+      },
+      {
+        "id": "evergreen",
+        "count": 1
+      },
+      {
+        "id": "maersk",
+        "count": 1
+      },
+      {
+        "id": "cssc",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 50
+      },
+      {
+        "id": "shipbuilding_orders",
+        "count": 3
+      },
+      {
+        "id": "container_freight",
+        "count": 2
+      },
+      {
+        "id": "dry_bulk_rate",
+        "count": 1
+      },
+      {
+        "id": "port_congestion",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 348,
+    "dup_title": 156,
+    "too_old": 91,
+    "gate1_blocked": 19,
+    "gate2_blocked": 8,
+    "passed": 73,
+    "pass_rate": "38.0%",
+    "gate2_block_rate": "4.2%",
+    "gate2_samples": [
+      "Hanwha Ocean Wage Talks Break Down Again - Businesskorea",
+      "Hanwha Ocean Discloses Affiliate Transactions Worth KRW35.6 Billion - marketscreener.com",
+      "Everything I Got Right and Wrong About the Tesla Semi After Finally Driving One",
+      "Aurora plans 30,000 driverless trucks as carriers weigh cost",
+      "Trailer Insurance Gaps: 3 Red Flags to Check Now"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 54 則事件，焦點為韓華海洋、中遠海控、長榮海運相關動態：「Hong Kong Stock Announcements: COSCO Shipping Energy Expa...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Hong Kong Stock Announcements: COSCO Shipping Energy Expands LNG Fleet; Sitoy...（航運產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "Rhine Drops Below Shipping Threshold as Freight Costs Rise（航運產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

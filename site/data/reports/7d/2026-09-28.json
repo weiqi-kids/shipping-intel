@@ -1,0 +1,188 @@
+{
+  "date": "2026-09-28",
+  "date_range": {
+    "start": "2026-09-22",
+    "end": "2026-09-28"
+  },
+  "generated_at": "2026-09-28T16:37:30.322450Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "zim-2026-09-24-020",
+      "date": "2026-09-24",
+      "title": "Hapag tries to close Zim deal – Asia connectivity the crux",
+      "importance_score": 0.7
+    },
+    {
+      "type": "sentiment_reversal",
+      "subject": "container_freight",
+      "subject_type": "topic",
+      "this_week_sentiment": -0.05,
+      "last_week_sentiment": 0.42,
+      "delta": -0.46,
+      "rank": 2
+    },
+    {
+      "type": "emerging_relation",
+      "company_a": "hapag",
+      "company_b": "zim",
+      "co_mention_count": 3,
+      "rank": 3
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "industry_general": {
+      "this_week": 185,
+      "last_week": 203,
+      "week_over_week_change": "-9%",
+      "sentiment_this_week": 0.03
+    },
+    "shipbuilding_orders": {
+      "this_week": 13,
+      "last_week": 14,
+      "week_over_week_change": "-7%",
+      "sentiment_this_week": 0.23
+    },
+    "container_freight": {
+      "this_week": 10,
+      "last_week": 18,
+      "week_over_week_change": "-44%",
+      "sentiment_this_week": -0.05
+    },
+    "port_congestion": {
+      "this_week": 4,
+      "last_week": 1,
+      "week_over_week_change": "+300%",
+      "sentiment_this_week": -0.19
+    },
+    "dry_bulk_rate": {
+      "this_week": 3,
+      "last_week": 3,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    }
+  },
+  "company_7d_summary": {
+    "hd_korea": {
+      "event_count": 3,
+      "sentiment_avg": 0.33,
+      "rank": 5
+    },
+    "samsung_heavy": {
+      "event_count": 8,
+      "sentiment_avg": 0.0,
+      "rank": 3
+    },
+    "yang_ming": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 10
+    },
+    "cosco": {
+      "event_count": 18,
+      "sentiment_avg": -0.04,
+      "rank": 1
+    },
+    "star_bulk": {
+      "event_count": 4,
+      "sentiment_avg": 0.0,
+      "rank": 4
+    },
+    "hanwha_ocean": {
+      "event_count": 12,
+      "sentiment_avg": 0.12,
+      "rank": 2
+    },
+    "maersk": {
+      "event_count": 3,
+      "sentiment_avg": 0.33,
+      "rank": 6
+    },
+    "zim": {
+      "event_count": 2,
+      "sentiment_avg": 0.5,
+      "rank": 7
+    },
+    "hapag": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 8
+    },
+    "cssc": {
+      "event_count": 2,
+      "sentiment_avg": 0.25,
+      "rank": 9
+    },
+    "evergreen": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 11
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 402,
+        "last": 506,
+        "change_pct": -20.6
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-09-22",
+      "event_count": 101,
+      "sentiment_avg": 0.08
+    },
+    {
+      "date": "2026-09-23",
+      "event_count": 96,
+      "sentiment_avg": 0.03
+    },
+    {
+      "date": "2026-09-24",
+      "event_count": 67,
+      "sentiment_avg": 0.06
+    },
+    {
+      "date": "2026-09-25",
+      "event_count": 56,
+      "sentiment_avg": -0.04
+    },
+    {
+      "date": "2026-09-26",
+      "event_count": 12,
+      "sentiment_avg": -0.04
+    },
+    {
+      "date": "2026-09-27",
+      "event_count": 16,
+      "sentiment_avg": 0.02
+    },
+    {
+      "date": "2026-09-28",
+      "event_count": 54,
+      "sentiment_avg": 0.08
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-09-22 ~ 2026-09-28）共 402 則事件，重點為「Hapag tries to close Zim deal – Asia connectivi...」。韓國造船海洋、馬士基表現正面，整體氣氛穩健。",
+    "watchlist": [
+      {
+        "company": "韓國造船海洋",
+        "reason": "本週出現 3 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "三星重工",
+        "reason": "本週出現 8 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "中遠海控",
+        "reason": "本週出現 18 則相關事件且情緒偏負面，需特別關注。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

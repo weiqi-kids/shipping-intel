@@ -1,0 +1,16 @@
+{
+  "total_raw": 348,
+  "dup_title": 156,
+  "no_date": 1,
+  "too_old": 91,
+  "gate1_fail": 19,
+  "gate2_fail": 8,
+  "passed": 73,
+  "gate2_samples": [
+    "Hanwha Ocean Wage Talks Break Down Again - Businesskorea",
+    "Hanwha Ocean Discloses Affiliate Transactions Worth KRW35.6 Billion - marketscreener.com",
+    "Everything I Got Right and Wrong About the Tesla Semi After Finally Driving One",
+    "Aurora plans 30,000 driverless trucks as carriers weigh cost",
+    "Trailer Insurance Gaps: 3 Red Flags to Check Now"
+  ]
+}
