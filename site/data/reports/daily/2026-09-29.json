@@ -1,0 +1,258 @@
+{
+  "date": "2026-09-29",
+  "generated_at": "2026-09-29T14:44:35.527773Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "hapag-2026-09-29-015",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "Hapag-Lloyd Urges Israel to Review Improved Offer for Shipping Services Company ZIM",
+      "companies": [
+        "hapag",
+        "zim"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://gcaptain.com/hapag-lloyd-urges-israel-to-review-improved-offer-for-shipping-services-company-zim/"
+    },
+    {
+      "rank": 2,
+      "event_id": "hapag-2026-09-29-033",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "Hapag-Lloyd ups 2026 profit forecast and submits revised Zim bid",
+      "companies": [
+        "hapag",
+        "zim"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://theloadstar.com/hapag-lloyd-ups-2026-profit-forecast-and-submits-revised-zim-bid/"
+    },
+    {
+      "rank": 3,
+      "event_id": "hapag-2026-09-29-046",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "Hapag-Lloyd boosts Zim offer and 2026 earnings outlook",
+      "companies": [
+        "hapag",
+        "zim"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://www.seatrade-maritime.com/containers/hapag-lloyd-boosts-zim-offer-and-2026-earnings-outlook"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-09-29-022",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Great Eastern adds newbuild suezmax to fleet renewal drive",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "shipbuilding_orders",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://splash247.com/great-eastern-adds-newbuild-suezmax-to-fleet-renewal-drive/"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-09-29-037",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Carrier focus on San Pedro Bay ports restricts shipper options",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://theloadstar.com/carrier-focus-on-san-pedro-bay-ports-restricts-shipper-options/"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 44,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.11,
+      "sentiment_7d_avg": null
+    },
+    "shipbuilding_orders": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.33,
+      "sentiment_7d_avg": null
+    },
+    "dry_bulk_rate": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "container_freight": {
+      "today": 4,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.12,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [
+    {
+      "from": "hapag",
+      "to": "zim",
+      "relation": "co_mention",
+      "co_mention_count": 3,
+      "topics": [
+        "industry_general"
+      ]
+    }
+  ],
+  "stats": {
+    "total_events": 47,
+    "sentiment_distribution": {
+      "positive": 11,
+      "neutral": 33,
+      "negative": 3
+    },
+    "top_companies": [
+      {
+        "id": "cosco",
+        "count": 8
+      },
+      {
+        "id": "hapag",
+        "count": 5
+      },
+      {
+        "id": "zim",
+        "count": 3
+      },
+      {
+        "id": "hanwha_ocean",
+        "count": 2
+      },
+      {
+        "id": "samsung_heavy",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 44
+      },
+      {
+        "id": "container_freight",
+        "count": 4
+      },
+      {
+        "id": "shipbuilding_orders",
+        "count": 3
+      },
+      {
+        "id": "dry_bulk_rate",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 348,
+    "dup_title": 173,
+    "too_old": 80,
+    "gate1_blocked": 14,
+    "gate2_blocked": 6,
+    "passed": 75,
+    "pass_rate": "42.9%",
+    "gate2_block_rate": "3.4%",
+    "gate2_samples": [
+      "Hanwha Ocean Discloses Q4 2026 Intra-Group Financial Transactions - The Globe and Mail",
+      "Hanwha Ocean Discloses Affiliate Transactions Worth KRW35.6 Billion - marketscreener.com",
+      "Hanwha Ocean Wage Talks Break Down Again - Businesskorea",
+      "Trimble upgrades 4 Carrier TMSs to work with AI agents",
+      "Everything I Got Right and Wrong About the Tesla Semi After Finally Driving One"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 47 則事件，焦點為中遠海控、赫伯羅特、ZIM Integrated Shipping相關動態：「Hapag-Lloyd Urges Israel to Review Improved Offer for Shi...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Hapag-Lloyd Urges Israel to Review Improved Offer for Shipping Services Compa...（航運產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "Hapag-Lloyd ups 2026 profit forecast and submits revised Zim bid（航運產業通用）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

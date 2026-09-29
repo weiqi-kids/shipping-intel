@@ -1,0 +1,16 @@
+{
+  "total_raw": 348,
+  "dup_title": 173,
+  "no_date": 0,
+  "too_old": 80,
+  "gate1_fail": 14,
+  "gate2_fail": 6,
+  "passed": 75,
+  "gate2_samples": [
+    "Hanwha Ocean Discloses Q4 2026 Intra-Group Financial Transactions - The Globe and Mail",
+    "Hanwha Ocean Discloses Affiliate Transactions Worth KRW35.6 Billion - marketscreener.com",
+    "Hanwha Ocean Wage Talks Break Down Again - Businesskorea",
+    "Trimble upgrades 4 Carrier TMSs to work with AI agents",
+    "Everything I Got Right and Wrong About the Tesla Semi After Finally Driving One"
+  ]
+}
