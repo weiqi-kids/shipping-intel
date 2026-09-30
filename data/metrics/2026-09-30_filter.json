@@ -1,0 +1,16 @@
+{
+  "total_raw": 351,
+  "dup_title": 147,
+  "no_date": 0,
+  "too_old": 83,
+  "gate1_fail": 16,
+  "gate2_fail": 5,
+  "passed": 100,
+  "gate2_samples": [
+    "Hanwha Ocean Discloses Affiliate Transactions Worth KRW35.6 Billion - marketscreener.com",
+    "Hanwha Ocean Discloses Q4 2026 Intra-Group Financial Transactions - theglobeandmail.com",
+    "COSCO Energy adds first cyber-certified smart MR - Splash 24/7",
+    "Trimble upgrades 4 Carrier TMSs to work with AI agents",
+    "Israel sends Hapag-Lloyd back to drawing board on ZIM"
+  ]
+}

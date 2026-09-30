@@ -1,0 +1,245 @@
+{
+  "date": "2026-09-30",
+  "generated_at": "2026-09-30T14:46:54.548198Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "zim-2026-09-30-041",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "Hapag-Lloyd’s Zim takeover hopes dealt fresh blow as review halted",
+      "companies": [
+        "zim",
+        "hapag"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://theloadstar.com/hapag-lloyds-zim-takeover-hopes-dealt-fresh-blow-as-review-halted/"
+    },
+    {
+      "rank": 2,
+      "event_id": "samsung_heavy-2026-09-30-006",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Samsung Heavy Industries secures VLGCs, surpasses Korea merchant ship goal - CHOSUNBIZ - Chosunbiz",
+      "companies": [
+        "samsung_heavy"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQY1hsY0Ria3hnWkFzbEpXb2k0eWM2QjYweHE3ZGhLcV9ma3I3VnJ2OEdTNVBqbHJ4Q3FpdEJiTkRMbDRPeVJjMV9ZNjdEbHJVYkJuRGhSMVR6WVliNzA2VmpDNW9nekVYRUhzLXo1b0o2a1hOUkJMSFp1LWttZ090VjBB0gGWAUFVX3lxTE5wZ1VVcHd6VGdncmFob1JuX2dsa0liblF2Q1J1OUpFakVHTFhJU0V0S1d6cXJhbERwbXljYUF5TE5lQ2N0eVBBQUpSVTVPeklIdWN6NS1Zb0FPZXBNSmpxRGFSak8yRUFHTm9oYW1Sc21mS2NiWkJpUUotTTJjdnk4Ul9fT3ExTkM4U193blhQU1dnUFdsdw?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-09-30-040",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Hormuz closure a fatal blow for Dubai and Abu Dhabi transhipment volumes",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://theloadstar.com/hormuz-closure-a-fatal-blow-for-dubai-and-abu-dhabi-transhipment-volumes/"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-09-30-043",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "US CBP tightens import rules – get the details right or else",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://theloadstar.com/us-cbp-tightens-import-rules-get-the-details-right-or-else/"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-09-30-044",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Nairobi moves beyond flowers as inbound ecommerce surges",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://theloadstar.com/nairobi-moves-beyond-flowers-as-inbound-ecommerce-surges/"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 42,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.04,
+      "sentiment_7d_avg": null
+    },
+    "container_freight": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.33,
+      "sentiment_7d_avg": null
+    },
+    "dry_bulk_rate": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "shipbuilding_orders": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 52,
+    "sentiment_distribution": {
+      "positive": 6,
+      "neutral": 44,
+      "negative": 2
+    },
+    "top_companies": [
+      {
+        "id": "cosco",
+        "count": 10
+      },
+      {
+        "id": "samsung_heavy",
+        "count": 8
+      },
+      {
+        "id": "hanwha_ocean",
+        "count": 7
+      },
+      {
+        "id": "hapag",
+        "count": 2
+      },
+      {
+        "id": "star_bulk",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 42
+      },
+      {
+        "id": "container_freight",
+        "count": 3
+      },
+      {
+        "id": "dry_bulk_rate",
+        "count": 2
+      },
+      {
+        "id": "shipbuilding_orders",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 351,
+    "dup_title": 147,
+    "too_old": 83,
+    "gate1_blocked": 16,
+    "gate2_blocked": 5,
+    "passed": 100,
+    "pass_rate": "49.0%",
+    "gate2_block_rate": "2.5%",
+    "gate2_samples": [
+      "Hanwha Ocean Discloses Affiliate Transactions Worth KRW35.6 Billion - marketscreener.com",
+      "Hanwha Ocean Discloses Q4 2026 Intra-Group Financial Transactions - theglobeandmail.com",
+      "COSCO Energy adds first cyber-certified smart MR - Splash 24/7",
+      "Trimble upgrades 4 Carrier TMSs to work with AI agents",
+      "Israel sends Hapag-Lloyd back to drawing board on ZIM"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 52 則事件，焦點為中遠海控、三星重工、韓華海洋相關動態：「Hapag-Lloyd’s Zim takeover hopes dealt fresh blow as revi...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Hapag-Lloyd’s Zim takeover hopes dealt fresh blow as review halted（航運產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "Samsung Heavy Industries secures VLGCs, surpasses Korea merchant ship goal - ...（航運產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
