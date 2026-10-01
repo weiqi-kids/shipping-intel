@@ -1,0 +1,49 @@
+{
+  "date": "2026-10-01",
+  "total_events": 55,
+  "by_company": {
+    "hanwha_ocean": {
+      "count": 9,
+      "sentiment_avg": 0.0
+    },
+    "cosco": {
+      "count": 3,
+      "sentiment_avg": 0.17
+    },
+    "star_bulk": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "samsung_heavy": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "zim": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "hapag": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "industry_general": {
+      "count": 46,
+      "sentiment_avg": 0.1
+    },
+    "dry_bulk_rate": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "shipbuilding_orders": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}
