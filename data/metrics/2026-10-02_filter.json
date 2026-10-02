@@ -1,0 +1,16 @@
+{
+  "total_raw": 351,
+  "dup_title": 168,
+  "no_date": 0,
+  "too_old": 83,
+  "gate1_fail": 16,
+  "gate2_fail": 7,
+  "passed": 77,
+  "gate2_samples": [
+    "ABS Grants Approval in Principle to Hanwha Ocean’s 60 MW Floating Data Center - DredgeWire",
+    "What You Could Have Checked Before Hanwha Ocean Fell 31% - Simply Wall Street",
+    "Hanwha Ocean Discloses Affiliate Transactions Worth KRW35.6 Billion - marketscreener.com",
+    "Seoul court rejects Hanwha Ocean bid; company opens talks with union - CHOSUNBIZ - biz.chosun.com",
+    "Hanwha Ocean vows legal action over crane sit-in amid bargaining dispute in Korea - CHOSUNBIZ - biz."
+  ]
+}

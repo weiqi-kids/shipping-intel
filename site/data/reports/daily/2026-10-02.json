@@ -1,0 +1,250 @@
+{
+  "date": "2026-10-02",
+  "generated_at": "2026-10-02T14:36:31.227344Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "hapag-2026-10-02-031",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "Shippers urged to check routings as alliances redraw Asia–S America trade",
+      "companies": [
+        "hapag",
+        "zim",
+        "maersk"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://theloadstar.com/shippers-urged-to-check-routings-as-alliances-redraw-asia-s-america-trade/"
+    },
+    {
+      "rank": 2,
+      "event_id": "samsung_heavy-2026-10-02-003",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Samsung Heavy Industries Hits 20 LNG Carrier Orders, Surpassing Annual Target - Businesskorea",
+      "companies": [
+        "samsung_heavy"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBPOWRTLUZBUTE3UW0zLVVERjRYS0dvNUJiemFDVk8wYXNUMVNwWXV2Q19PeFhrdW9PZkVBeUhudV94cVJXTHk2bGJ4YjdrUW8wNUZkbkE1blowcncyVV9GSGp0SFBzWTVuSEpCbHM0bW9seUY1?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "samsung_heavy-2026-10-02-005",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Samsung Heavy Industries Secures Two Additional LNG Carriers, Surpassing 140% of Annual Target - finance.biggo.com",
+      "companies": [
+        "samsung_heavy"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9HY3N6WU92UjhlbTd0VnpCUTFyb09JZXpER0tib3A5RGtBWFhPTGVjYXhZNlBpZ21RVExqaFUxdmZHNzd3c2dER2MzUnpvVjJ6NU1vemoxTEpwcmpROVBOVlpxS1cxVlZ5Sk5lUDEzcUFsZzFvVXc?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-10-02-025",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Tankers enter the death zone",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://splash247.com/tankers-enter-the-death-zone/"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-10-02-029",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "The Paradox of Maritime Transport (Part 1): Record Ship Orders, Why Do Container Freight Rates Remain Stuck at Peak? - Vietnam.vn",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "container_freight",
+        "shipbuilding_orders",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQMWYxWG83Ti0wS0VTWF9iUkxXQktWU0NYUGp3b0dlN3RaN2h6Y3NwaGl3SGJ0VnZNbEh2Y040cGRBUXNGelh4Y2t5YW02QnlScHViOG1sQk92X3kxQ2Q0THFxVkprcmJqT3NPQmJkWGNhS0pIOXlWQjdOZW4yeU90WDBzdHVCc3BoUzl0WWpPeDdDSGxCYUtvWEppOWlwVHVzcHQ5VVhGNlFjVEVHQ2tmZ093?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 36,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.06,
+      "sentiment_7d_avg": null
+    },
+    "dry_bulk_rate": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "shipbuilding_orders": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.5,
+      "sentiment_7d_avg": null
+    },
+    "container_freight": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.5,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 40,
+    "sentiment_distribution": {
+      "positive": 5,
+      "neutral": 30,
+      "negative": 5
+    },
+    "top_companies": [
+      {
+        "id": "samsung_heavy",
+        "count": 6
+      },
+      {
+        "id": "hanwha_ocean",
+        "count": 2
+      },
+      {
+        "id": "hapag",
+        "count": 2
+      },
+      {
+        "id": "cosco",
+        "count": 1
+      },
+      {
+        "id": "zim",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 36
+      },
+      {
+        "id": "shipbuilding_orders",
+        "count": 2
+      },
+      {
+        "id": "container_freight",
+        "count": 2
+      },
+      {
+        "id": "dry_bulk_rate",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 351,
+    "dup_title": 168,
+    "too_old": 83,
+    "gate1_blocked": 16,
+    "gate2_blocked": 7,
+    "passed": 77,
+    "pass_rate": "42.1%",
+    "gate2_block_rate": "3.8%",
+    "gate2_samples": [
+      "ABS Grants Approval in Principle to Hanwha Ocean’s 60 MW Floating Data Center - DredgeWire",
+      "What You Could Have Checked Before Hanwha Ocean Fell 31% - Simply Wall Street",
+      "Hanwha Ocean Discloses Affiliate Transactions Worth KRW35.6 Billion - marketscreener.com",
+      "Seoul court rejects Hanwha Ocean bid; company opens talks with union - CHOSUNBIZ - biz.chosun.com",
+      "Hanwha Ocean vows legal action over crane sit-in amid bargaining dispute in Korea - CHOSUNBIZ - biz."
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 40 則事件，焦點為三星重工、韓華海洋、赫伯羅特相關動態：「Shippers urged to check routings as alliances redraw Asia...」。主要關注主題為航運產業通用、造船訂單、貨櫃運價，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Shippers urged to check routings as alliances redraw Asia–S America trade（航運產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "Samsung Heavy Industries Hits 20 LNG Carrier Orders, Surpassing Annual Target...（航運產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
