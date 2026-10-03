@@ -1,0 +1,16 @@
+{
+  "total_raw": 351,
+  "dup_title": 208,
+  "no_date": 0,
+  "too_old": 82,
+  "gate1_fail": 13,
+  "gate2_fail": 9,
+  "passed": 39,
+  "gate2_samples": [
+    "ABS Grants Approval in Principle to Hanwha Ocean’s 60 MW Floating Data Center - DredgeWire",
+    "What You Could Have Checked Before Hanwha Ocean Fell 31% - Simply Wall Street",
+    "Hanwha Ocean Discloses Affiliate Transactions Worth KRW35.6 Billion - marketscreener.com",
+    "Hanwha Ocean vows legal action over crane sit-in amid bargaining dispute in Korea - CHOSUNBIZ - Chos",
+    "Daimler Truck Defence sells scale to armies short on trucks"
+  ]
+}

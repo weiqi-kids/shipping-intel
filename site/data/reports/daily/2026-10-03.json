@@ -1,0 +1,182 @@
+{
+  "date": "2026-10-03",
+  "generated_at": "2026-10-03T13:11:33.457048Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "cosco-2026-10-03-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "COSCO SHIPPING Development's 80,000 DWT Grain Carrier \"Guo Qiang Hai\" Named at COSCO SHIPPING Heavy Industry (Dalian) - imarinenews.com",
+      "companies": [
+        "cosco"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBWMjZVSHBNWXhKMGxlYVlpQTJCcE1mcWk3Z2RHZWxrelZ5Z0pKa0lBcndlZ3hnWDh0T2FzMnE3QVZUVlV0NFdqRE5sYzFPMnM?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "cosco-2026-10-03-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "COSCO Shipping Holdings expands network. COSCO Shipping Holdings stock costs EUR 1.89 - AD HOC NEWS",
+      "companies": [
+        "cosco"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPLWFwVk51TWNGS0tkcXdQNWJ1MkpIcjBEbVNpYWdRM1E1VS1velFaVjNZMmVvZFFRUGR0NkF4UlFLcEwyOGlPSlVRblJ4VHRlT0xiWmh0U0JocE4wMC0tWUlTM0d4MEgxUVp4YmkxSkFDSmVZTDhXM2dxMVdkZkx5VC1xUldYWWVMc0Vkd1RDYUFva2pIUlVpSWUxQUZRbnVmM25VYUE5WVEzclU3andybmpmcDhsSU5tSk5fVGdOejdUbGdLSF9HLXVUT3I?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "star_bulk-2026-10-03-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "How Investors Are Reacting To Star Bulk Carriers Stock As Earnings Estimates Rise - Simply Wall Street",
+      "companies": [
+        "star_bulk"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPZjZVLVVHN2h3bXl4R1IyNWNZdTZ4dXNVX0FWN0JQRTQ1TERkUFd5RTRiZTliRXZPemx1VXB2djZTdnlVck1qT251bEtEQWR5OHBDRk9EREo5aU1yU3U5TzlQTFJBd1VpYVlLeHhzV00xRDhfWjFRLU9UOWRRVFdIamRQZXVfSlFTVTI2RnBvYmoyQ0J5OTBDdjRCOS1fM3l4XzVyTUhFUmF1azBRc1NSTm9xZG1jUGw3QUJOeDdIcDJ2XzdiTjdBaE9nTmdpYXF1ZWxuNGJ6VWFXLTTSAeABQVVfeXFMTlZ6ZWZ0SjcxVXllYmE2ZnlLWE9pYkhjUVJOR1pnUk9LekhXZHd5ajlLOGQ2SnVwMDJxZndzeU40Vkg4NUh5S2xNVEZRd0pYRXNFQWJockF0TkJLay1xaUlzUHRDRDlDU2lPRER2V2JtVmdaeVkwdXctWGVLU1dGTFlYOUhNOVh3LWVVaEl2Q1JpYnU1Uy1BNmZVc0Y1NzFRYUFMZXU2YjhWQ1hGZ0FVaDZHc1NuRGhlb2dWSEFaQjRWMlY4aEJxYnpnLVJmQlN3SGtjcFI1OWlia091ZVYtckE?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-10-03-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "U.S. Bank: Contract rates open 22-cent gap over spot freight",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.freightwaves.com/news/us-bank-dat-contract-spot-rate-gap"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-10-03-005",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "CHP officer killed in Highway 99 crash with semi-truck on major Central Valley freight route",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.freightwaves.com/news/chp-officer-killed-in-highway-99-crash-with-semi-truck-on-major-central-valley-freight-route"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 5,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.1,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 5,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 4,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "cosco",
+        "count": 2
+      },
+      {
+        "id": "star_bulk",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 5
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 351,
+    "dup_title": 208,
+    "too_old": 82,
+    "gate1_blocked": 13,
+    "gate2_blocked": 9,
+    "passed": 39,
+    "pass_rate": "27.3%",
+    "gate2_block_rate": "6.3%",
+    "gate2_samples": [
+      "ABS Grants Approval in Principle to Hanwha Ocean’s 60 MW Floating Data Center - DredgeWire",
+      "What You Could Have Checked Before Hanwha Ocean Fell 31% - Simply Wall Street",
+      "Hanwha Ocean Discloses Affiliate Transactions Worth KRW35.6 Billion - marketscreener.com",
+      "Hanwha Ocean vows legal action over crane sit-in amid bargaining dispute in Korea - CHOSUNBIZ - Chos",
+      "Daimler Truck Defence sells scale to armies short on trucks"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 5 則事件，焦點為中遠海控、Star Bulk Carriers相關動態：「COSCO SHIPPING Development's 80,000 DWT Grain Carrier \"Gu...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "COSCO SHIPPING Development's 80,000 DWT Grain Carrier \"Guo Qiang Hai\" Named a...（航運產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "COSCO Shipping Holdings expands network. COSCO Shipping Holdings stock costs ...（航運產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

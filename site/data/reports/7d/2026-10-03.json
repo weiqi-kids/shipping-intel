@@ -1,0 +1,162 @@
+{
+  "date": "2026-10-03",
+  "date_range": {
+    "start": "2026-09-27",
+    "end": "2026-10-03"
+  },
+  "generated_at": "2026-10-03T13:11:33.577547Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "hapag-2026-09-29-015",
+      "date": "2026-09-29",
+      "title": "Hapag-Lloyd Urges Israel to Review Improved Offer for Shipping Services Company ZIM",
+      "importance_score": 0.7
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "industry_general": {
+      "this_week": 228,
+      "last_week": 179,
+      "week_over_week_change": "+27%",
+      "sentiment_this_week": 0.08
+    },
+    "dry_bulk_rate": {
+      "this_week": 6,
+      "last_week": 2,
+      "week_over_week_change": "+200%",
+      "sentiment_this_week": 0.0
+    },
+    "shipbuilding_orders": {
+      "this_week": 11,
+      "last_week": 15,
+      "week_over_week_change": "-27%",
+      "sentiment_this_week": 0.23
+    },
+    "container_freight": {
+      "this_week": 11,
+      "last_week": 15,
+      "week_over_week_change": "-27%",
+      "sentiment_this_week": 0.27
+    },
+    "port_congestion": {
+      "this_week": 1,
+      "last_week": 3,
+      "week_over_week_change": "-67%",
+      "sentiment_this_week": 0.0
+    }
+  },
+  "company_7d_summary": {
+    "samsung_heavy": {
+      "event_count": 17,
+      "sentiment_avg": 0.17,
+      "rank": 3
+    },
+    "hanwha_ocean": {
+      "event_count": 30,
+      "sentiment_avg": 0.03,
+      "rank": 1
+    },
+    "evergreen": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 9
+    },
+    "cosco": {
+      "event_count": 28,
+      "sentiment_avg": -0.01,
+      "rank": 2
+    },
+    "maersk": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 7
+    },
+    "cssc": {
+      "event_count": 2,
+      "sentiment_avg": 0.25,
+      "rank": 8
+    },
+    "star_bulk": {
+      "event_count": 4,
+      "sentiment_avg": 0.0,
+      "rank": 6
+    },
+    "hapag": {
+      "event_count": 10,
+      "sentiment_avg": 0.2,
+      "rank": 4
+    },
+    "zim": {
+      "event_count": 6,
+      "sentiment_avg": 0.17,
+      "rank": 5
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 453,
+        "last": 449,
+        "change_pct": 0.9
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-09-27",
+      "event_count": 18,
+      "sentiment_avg": 0.05
+    },
+    {
+      "date": "2026-09-28",
+      "event_count": 87,
+      "sentiment_avg": 0.03
+    },
+    {
+      "date": "2026-09-29",
+      "event_count": 94,
+      "sentiment_avg": 0.12
+    },
+    {
+      "date": "2026-09-30",
+      "event_count": 87,
+      "sentiment_avg": 0.03
+    },
+    {
+      "date": "2026-10-01",
+      "event_count": 90,
+      "sentiment_avg": 0.03
+    },
+    {
+      "date": "2026-10-02",
+      "event_count": 72,
+      "sentiment_avg": 0.0
+    },
+    {
+      "date": "2026-10-03",
+      "event_count": 5,
+      "sentiment_avg": 0.1
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-09-27 ~ 2026-10-03）共 453 則事件，重點為「Hapag-Lloyd Urges Israel to Review Improved Off...」。中國船舶表現正面，整體氣氛穩健。",
+    "watchlist": [
+      {
+        "company": "三星重工",
+        "reason": "本週出現 17 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "韓華海洋",
+        "reason": "本週出現 30 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "中遠海控",
+        "reason": "本週出現 28 則相關事件且情緒偏負面，需特別關注。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
