@@ -1,0 +1,16 @@
+{
+  "total_raw": 92,
+  "dup_title": 69,
+  "no_date": 0,
+  "too_old": 0,
+  "gate1_fail": 10,
+  "gate2_fail": 5,
+  "passed": 8,
+  "gate2_samples": [
+    "Daimler Truck Defence sells scale to armies short on trucks",
+    "US, Canada truck enforcement blitzes sideline 350 drivers, vehicles",
+    "Built to Last; Inside Amazon RelayCon 2026 and the Carriers Who Came With a Plan",
+    "Daimler Truck maps what it takes to scale electric trucks",
+    "ONE folds Hong Kong regional HQ into Singapore"
+  ]
+}

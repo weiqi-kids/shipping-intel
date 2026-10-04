@@ -1,0 +1,142 @@
+{
+  "date": "2026-10-04",
+  "generated_at": "2026-10-04T13:52:56.508004Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-10-04-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Borderlands Mexico: Identity thieves target customs payments in cross-border freight",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://www.freightwaves.com/news/borderlands-mexico-identity-thieves-target-customs-payments-in-cross-border-freight"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-10-04-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Truckload’s mixed signals",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "container_freight",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.freightwaves.com/news/truckloads-mixed-signals"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-10-04-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Shipping markets hit new highs across multiple sectors",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://splash247.com/shipping-markets-hit-new-highs-across-multiple-sectors/"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.17,
+      "sentiment_7d_avg": null
+    },
+    "container_freight": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 3,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 2,
+      "negative": 0
+    },
+    "top_companies": [],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 3
+      },
+      {
+        "id": "container_freight",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 92,
+    "dup_title": 69,
+    "too_old": 0,
+    "gate1_blocked": 10,
+    "gate2_blocked": 5,
+    "passed": 8,
+    "pass_rate": "34.8%",
+    "gate2_block_rate": "21.7%",
+    "gate2_samples": [
+      "Daimler Truck Defence sells scale to armies short on trucks",
+      "US, Canada truck enforcement blitzes sideline 350 drivers, vehicles",
+      "Built to Last; Inside Amazon RelayCon 2026 and the Carriers Who Came With a Plan",
+      "Daimler Truck maps what it takes to scale electric trucks",
+      "ONE folds Hong Kong regional HQ into Singapore"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 3 則事件，焦點為航運產業通用、貨櫃運價相關動態：「Borderlands Mexico: Identity thieves target customs payme...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Borderlands Mexico: Identity thieves target customs payments in cross-border ...（航運產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "Truckload’s mixed signals（貨櫃運價、航運產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

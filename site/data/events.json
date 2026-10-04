@@ -1,5 +1,60 @@
 [
   {
+    "id": "unknown-2026-10-04-001",
+    "date": "2026-10-04",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Borderlands Mexico: Identity thieves target customs payments in cross-border freight",
+    "summary": "<p>This week in Borderlands Mexico: Identity thieves target customs payments in cross-border freight; LEGO invests $400M to expand Mexico manufacturing operation; and Wafra invests in Houston-area rai",
+    "sources": [
+      {
+        "name": "freightwaves",
+        "url": "https://www.freightwaves.com/news/borderlands-mexico-identity-thieves-target-customs-payments-in-cross-border-freight",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-04-002",
+    "date": "2026-10-04",
+    "companies": [],
+    "topics": [
+      "container_freight",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Truckload’s mixed signals",
+    "summary": "<p>Trucking spot rates once again are rising as demand falls, but insufficient capacity is not the only culprit this time. </p>\n<p>The post <a href=\"https://www.freightwaves.com/news/truckloads-mixed-",
+    "sources": [
+      {
+        "name": "freightwaves",
+        "url": "https://www.freightwaves.com/news/truckloads-mixed-signals",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-04-003",
+    "date": "2026-10-04",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Shipping markets hit new highs across multiple sectors",
+    "summary": "<p>Shipping’s extraordinary earnings boom powered further into uncharted territory on Friday, with Clarksons Research’s cross-sector ClarkSea Index jumping another 14% to $75,658 a day, its fourth con",
+    "sources": [
+      {
+        "name": "splash247",
+        "url": "https://splash247.com/shipping-markets-hit-new-highs-across-multiple-sectors/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "cosco-2026-10-03-001",
     "date": "2026-10-03",
     "companies": [
@@ -91,6 +146,96 @@
       {
         "name": "freightwaves",
         "url": "https://www.freightwaves.com/news/chp-officer-killed-in-highway-99-crash-with-semi-truck-on-major-central-valley-freight-route",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-03-006",
+    "date": "2026-10-03",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "US Coast Guard Searches For Aircraft Carrying Six Bound For Boston",
+    "summary": "By Sheila Dang Oct 3 (Reuters)&#160;&#8211;&#160;A medical transfer aircraft carrying six people was reported missing on a flight from Bermuda to Boston, the US&#160;Coast Guard&#160;said on Saturday.",
+    "sources": [
+      {
+        "name": "gcaptain",
+        "url": "https://gcaptain.com/us-coast-guard-searches-for-aircraft-carrying-six-bound-for-boston/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-03-007",
+    "date": "2026-10-03",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Russia Hits Liberian-Flagged Ship In Ukraine’s Odesa port, Kills One",
+    "summary": "KYIV, Oct 3 (Reuters) &#8211; Russia has attacked a Liberian-flagged cargo ship in one of Ukraine&#8217;s Black Sea ports in the Odesa region, killing one person and injuring three, the Ukrainian sea ",
+    "sources": [
+      {
+        "name": "gcaptain",
+        "url": "https://gcaptain.com/russia-hits-liberian-flagged-ship-in-ukraines-odesa-port-kills-one/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-03-008",
+    "date": "2026-10-03",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Difficult Times for Iran's Sanctions-Evading Oil Brokers",
+    "summary": "\n                With the naval blockade preventing any Iranian tankers leaving the Gulf, for the last 10 weeks Iran has been selling oil from the stocks it had built...\n            ",
+    "sources": [
+      {
+        "name": "maritime_executive",
+        "url": "https://maritime-executive.com/article/difficult-times-for-iran-s-sanctions-evading-oil-brokers",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-03-009",
+    "date": "2026-10-03",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "HX Expeditions Closes Arctic Season, Largest-Ever Science Data Collection",
+    "summary": "\n                The Arctic’s largest expedition cruise operator reports 26,491 citizen science contributions, new use of science AI for whales and announces extension...\n            ",
+    "sources": [
+      {
+        "name": "maritime_executive",
+        "url": "https://maritime-executive.com/article/hx-expeditions-closes-arctic-season-largest-ever-science-data-collection",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-03-010",
+    "date": "2026-10-03",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Acta Marine Celebrates Christening of Acta Hercules and Continued Fleet Exp",
+    "summary": "\n                Acta Marine proudly celebrated the christening of Acta Hercules yesterday during a festive ceremony attended by its stakeholders, clients, business pa...\n            ",
+    "sources": [
+      {
+        "name": "maritime_executive",
+        "url": "https://maritime-executive.com/article/acta-marine-celebrates-christening-of-acta-hercules-and-continued-fleet-exp",
         "type": "rss"
       }
     ]
