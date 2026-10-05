@@ -1,0 +1,232 @@
+{
+  "date": "2026-10-05",
+  "generated_at": "2026-10-05T16:58:58.248579Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "hapag-2026-10-05-028",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "Hapag-Lloyd’s Zim takeover heads for reset as Israel requires new review",
+      "companies": [
+        "hapag",
+        "zim"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.freightwaves.com/news/hapag-lloyds-zim-takeover-heads-for-reset-as-israel-requires-new-review"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-10-05-012",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Opinion: Oil’s New Problem Isn’t Supply. It’s Logistics",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://gcaptain.com/opinion-oils-new-problem-isnt-supply-its-logistics/"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-10-05-037",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Seaspan takes newcastlemax plunge with Yangzijiang order",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://splash247.com/seaspan-takes-newcastlemax-plunge-with-yangzijiang-order/"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-10-05-042",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Divide between Asia-US and Asia-Europe rates at historic levels",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "container_freight",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://theloadstar.com/divide-between-asia-us-and-asia-europe-rates-at-historic-levels/"
+    },
+    {
+      "rank": 5,
+      "event_id": "hapag-2026-10-05-045",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Empty box pile-up at port of Manila sparks truckers’ strike",
+      "companies": [
+        "hapag"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://theloadstar.com/empty-boxes-chaos-at-port-of-manila-sparks-truckers-strike/"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 51,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.05,
+      "sentiment_7d_avg": null
+    },
+    "shipbuilding_orders": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.33,
+      "sentiment_7d_avg": null
+    },
+    "container_freight": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -1.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 54,
+    "sentiment_distribution": {
+      "positive": 7,
+      "neutral": 38,
+      "negative": 9
+    },
+    "top_companies": [
+      {
+        "id": "cosco",
+        "count": 6
+      },
+      {
+        "id": "hapag",
+        "count": 3
+      },
+      {
+        "id": "evergreen",
+        "count": 2
+      },
+      {
+        "id": "wisdom",
+        "count": 1
+      },
+      {
+        "id": "zim",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 51
+      },
+      {
+        "id": "shipbuilding_orders",
+        "count": 3
+      },
+      {
+        "id": "container_freight",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 351,
+    "dup_title": 175,
+    "too_old": 77,
+    "gate1_blocked": 20,
+    "gate2_blocked": 8,
+    "passed": 71,
+    "pass_rate": "40.3%",
+    "gate2_block_rate": "4.5%",
+    "gate2_samples": [
+      "JP Morgan Adds Two VLGCs at Samsung Heavy Industries, Bringing Total to Six - News and Statistics - ",
+      "RIEC Breaks Ground on 1,800-Ton Gantry Crane Project for Hanwha Ocean - imarinenews.com",
+      "ABS Grants Approval in Principle to Hanwha Ocean’s 60 MW Floating Data Center - DredgeWire",
+      "South Korea Physical AI News Round Up: Semifive, Hyundai, Doosan, Aidin, Hanwha Ocean & More - AI In",
+      "What You Could Have Checked Before Hanwha Ocean Fell 31% - Simply Wall Street"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 54 則事件，焦點為中遠海控、赫伯羅特、長榮海運相關動態：「Hapag-Lloyd’s Zim takeover heads for reset as Israel requ...」。整體情緒偏負面，需留意潛在風險。",
+    "signals": [
+      {
+        "text": "Hapag-Lloyd’s Zim takeover heads for reset as Israel requires new review（航運產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "Opinion: Oil’s New Problem Isn’t Supply. It’s Logistics（航運產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

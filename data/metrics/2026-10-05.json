@@ -1,0 +1,53 @@
+{
+  "date": "2026-10-05",
+  "total_events": 54,
+  "by_company": {
+    "evergreen": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "cosco": {
+      "count": 6,
+      "sentiment_avg": 0.08
+    },
+    "wisdom": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "hapag": {
+      "count": 3,
+      "sentiment_avg": -0.5
+    },
+    "zim": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "u_ming": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "maersk": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "industry_general": {
+      "count": 51,
+      "sentiment_avg": -0.05
+    },
+    "shipbuilding_orders": {
+      "count": 3,
+      "sentiment_avg": 0.33
+    },
+    "container_freight": {
+      "count": 1,
+      "sentiment_avg": -1.0
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}

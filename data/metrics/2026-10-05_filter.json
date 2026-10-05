@@ -1,0 +1,16 @@
+{
+  "total_raw": 351,
+  "dup_title": 175,
+  "no_date": 0,
+  "too_old": 77,
+  "gate1_fail": 20,
+  "gate2_fail": 8,
+  "passed": 71,
+  "gate2_samples": [
+    "JP Morgan Adds Two VLGCs at Samsung Heavy Industries, Bringing Total to Six - News and Statistics - ",
+    "RIEC Breaks Ground on 1,800-Ton Gantry Crane Project for Hanwha Ocean - imarinenews.com",
+    "ABS Grants Approval in Principle to Hanwha Ocean’s 60 MW Floating Data Center - DredgeWire",
+    "South Korea Physical AI News Round Up: Semifive, Hyundai, Doosan, Aidin, Hanwha Ocean & More - AI In",
+    "What You Could Have Checked Before Hanwha Ocean Fell 31% - Simply Wall Street"
+  ]
+}
