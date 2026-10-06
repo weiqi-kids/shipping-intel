@@ -1,0 +1,234 @@
+{
+  "date": "2026-10-06",
+  "generated_at": "2026-10-06T14:55:57.935498Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-10-06-010",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Study Suggests Deep Sea Mining Could Be a Loss-Making Proposition",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://maritime-executive.com/article/study-suggests-deep-sea-mining-could-be-a-loss-making-proposition"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-10-06-022",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Black Sea merchant shipping comes under fresh drone attack",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://splash247.com/grain-carrier-sinks-off-romania-after-suspected-russian-drone-strike/"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-10-06-029",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Canada pivot to Europe opens air cargo opportunities, exposing capacity gaps",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.75
+      },
+      "source_url": "https://theloadstar.com/canada-pivot-to-europe-opens-air-cargo-opportunities-exposing-capacity-gaps/"
+    },
+    {
+      "rank": 4,
+      "event_id": "samsung_heavy-2026-10-06-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Nord Gas Solutions again selected by Samsung Heavy Industries - American Journal of Transportation",
+      "companies": [
+        "samsung_heavy"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOaW9UNjhsOWUyY2VQalcwTF85QklJU2ZoaTF3Z0l6OW4wNDdDbmMwR1NLZE5rcnRHbnV6Mm1JUUg3Y1RFaVE4dUVlSXpOdkExV2FDdlZEbFY2SVBEamtvZGk5Y0s2R2ZvVllFUnBodFl4T0FUZGZlTnFzdXlEZnBZMEpnR2huUUV4ZEcwTHZCTmM?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-10-06-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "South Korea, China Clash Over LNG Carrier Market - Businesskorea",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE12QWJzdVBBc2JXOHVYSkNITENZMHl0My1sRHB3NGZXeDVwT3hKUUd1dFA3QlRrUTV1QXNac05ha1BndGszRGFDVFdJU0pSLWN3RE1famhidGlXeXVuZmpUcG5lNnI1VXBPWEVHUmE0NERQa1dz?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 38,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.02,
+      "sentiment_7d_avg": null
+    },
+    "shipbuilding_orders": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "container_freight": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.25,
+      "sentiment_7d_avg": null
+    },
+    "dry_bulk_rate": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 40,
+    "sentiment_distribution": {
+      "positive": 3,
+      "neutral": 34,
+      "negative": 3
+    },
+    "top_companies": [
+      {
+        "id": "cosco",
+        "count": 2
+      },
+      {
+        "id": "samsung_heavy",
+        "count": 1
+      },
+      {
+        "id": "hanwha_ocean",
+        "count": 1
+      },
+      {
+        "id": "u_ming",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 38
+      },
+      {
+        "id": "shipbuilding_orders",
+        "count": 3
+      },
+      {
+        "id": "container_freight",
+        "count": 2
+      },
+      {
+        "id": "dry_bulk_rate",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 351,
+    "dup_title": 176,
+    "too_old": 78,
+    "gate1_blocked": 20,
+    "gate2_blocked": 11,
+    "passed": 66,
+    "pass_rate": "37.7%",
+    "gate2_block_rate": "6.3%",
+    "gate2_samples": [
+      "GTT décroche une commande de Samsung Heavy Industries pour 4 nouveaux méthaniers - TradingView",
+      "JP Morgan Adds Two VLGCs at Samsung Heavy Industries, Bringing Total to Six - News and Statistics - ",
+      "Hanwha Ocean, Once a Star Performer in K-Defense ETFs, Turns into a Drag This Year - IT조선",
+      "RIEC Breaks Ground on 1,800-Ton Gantry Crane Project for Hanwha Ocean - imarinenews.com",
+      "ABS Grants Approval in Principle to Hanwha Ocean’s 60 MW Floating Data Center - DredgeWire"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 40 則事件，焦點為中遠海控、三星重工、韓華海洋相關動態：「Study Suggests Deep Sea Mining Could Be a Loss-Making Pro...」。主要關注主題為航運產業通用、造船訂單、貨櫃運價，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Study Suggests Deep Sea Mining Could Be a Loss-Making Proposition（航運產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "Black Sea merchant shipping comes under fresh drone attack（航運產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

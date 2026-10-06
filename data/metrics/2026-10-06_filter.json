@@ -1,0 +1,16 @@
+{
+  "total_raw": 351,
+  "dup_title": 176,
+  "no_date": 0,
+  "too_old": 78,
+  "gate1_fail": 20,
+  "gate2_fail": 11,
+  "passed": 66,
+  "gate2_samples": [
+    "GTT décroche une commande de Samsung Heavy Industries pour 4 nouveaux méthaniers - TradingView",
+    "JP Morgan Adds Two VLGCs at Samsung Heavy Industries, Bringing Total to Six - News and Statistics - ",
+    "Hanwha Ocean, Once a Star Performer in K-Defense ETFs, Turns into a Drag This Year - IT조선",
+    "RIEC Breaks Ground on 1,800-Ton Gantry Crane Project for Hanwha Ocean - imarinenews.com",
+    "ABS Grants Approval in Principle to Hanwha Ocean’s 60 MW Floating Data Center - DredgeWire"
+  ]
+}

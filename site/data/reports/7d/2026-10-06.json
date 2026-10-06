@@ -1,0 +1,166 @@
+{
+  "date": "2026-10-06",
+  "date_range": {
+    "start": "2026-09-30",
+    "end": "2026-10-06"
+  },
+  "generated_at": "2026-10-06T14:55:58.085455Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "zim-2026-09-30-041",
+      "date": "2026-09-30",
+      "title": "Hapag-Lloyd’s Zim takeover hopes dealt fresh blow as review halted",
+      "importance_score": 0.7
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "industry_general": {
+      "this_week": 221,
+      "last_week": 190,
+      "week_over_week_change": "+16%",
+      "sentiment_this_week": 0.03
+    },
+    "container_freight": {
+      "this_week": 9,
+      "last_week": 14,
+      "week_over_week_change": "-36%",
+      "sentiment_this_week": 0.17
+    },
+    "dry_bulk_rate": {
+      "this_week": 5,
+      "last_week": 4,
+      "week_over_week_change": "+25%",
+      "sentiment_this_week": 0.0
+    },
+    "shipbuilding_orders": {
+      "this_week": 11,
+      "last_week": 13,
+      "week_over_week_change": "-15%",
+      "sentiment_this_week": 0.18
+    }
+  },
+  "company_7d_summary": {
+    "samsung_heavy": {
+      "event_count": 16,
+      "sentiment_avg": 0.18,
+      "rank": 3
+    },
+    "hanwha_ocean": {
+      "event_count": 19,
+      "sentiment_avg": 0.03,
+      "rank": 2
+    },
+    "cosco": {
+      "event_count": 24,
+      "sentiment_avg": 0.06,
+      "rank": 1
+    },
+    "star_bulk": {
+      "event_count": 3,
+      "sentiment_avg": 0.0,
+      "rank": 6
+    },
+    "cssc": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 10
+    },
+    "hapag": {
+      "event_count": 8,
+      "sentiment_avg": -0.12,
+      "rank": 4
+    },
+    "zim": {
+      "event_count": 4,
+      "sentiment_avg": 0.0,
+      "rank": 5
+    },
+    "maersk": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 7
+    },
+    "evergreen": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 8
+    },
+    "wisdom": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 11
+    },
+    "u_ming": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 9
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 399,
+        "last": 432,
+        "change_pct": -7.6
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-09-30",
+      "event_count": 89,
+      "sentiment_avg": 0.03
+    },
+    {
+      "date": "2026-10-01",
+      "event_count": 91,
+      "sentiment_avg": 0.03
+    },
+    {
+      "date": "2026-10-02",
+      "event_count": 73,
+      "sentiment_avg": 0.0
+    },
+    {
+      "date": "2026-10-03",
+      "event_count": 11,
+      "sentiment_avg": 0.05
+    },
+    {
+      "date": "2026-10-04",
+      "event_count": 16,
+      "sentiment_avg": 0.07
+    },
+    {
+      "date": "2026-10-05",
+      "event_count": 79,
+      "sentiment_avg": -0.02
+    },
+    {
+      "date": "2026-10-06",
+      "event_count": 40,
+      "sentiment_avg": -0.02
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-09-30 ~ 2026-10-06）共 399 則事件，重點為「Hapag-Lloyd’s Zim takeover hopes dealt fresh bl...」。航運產業通用、造船訂單、貨櫃運價為本週焦點話題。",
+    "watchlist": [
+      {
+        "company": "三星重工",
+        "reason": "本週出現 16 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "韓華海洋",
+        "reason": "本週出現 19 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "中遠海控",
+        "reason": "本週出現 24 則相關事件，為高關注企業，動態頻繁。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
