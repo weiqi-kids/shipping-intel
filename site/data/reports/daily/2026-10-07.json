@@ -1,0 +1,218 @@
+{
+  "date": "2026-10-07",
+  "generated_at": "2026-10-07T15:22:06.043418Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-10-07-008",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Korean Shipbuilders Face Triple Challenges Amid Record Profits - 조선일보",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOZFRxMVBOQ1laTUtqUUJBbnVrSmt2a0VqSURjaUtPaHE5Mkc4cE01cElSMWNtcmdaUm9SWVVSaEpsOGZUUGFTblNHSERHWUJhRURKWDZFSkJXcWNhd3ZIUDF2TGtDTXIyYTBVZUNqWmdJVzQyYzNkX0gtN09OWk9OWG5BVVlnYWJK?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-10-07-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Shipbuilding giant HD Hyundai takes nuclear shipping push towards testing stage - TradeWinds News",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNeEpqd292aV9FNXdZN1FkTzZEZ0p6TFpZbEFSTkprUkdBZ21kaTl0UGhIZDV1V3lKYnp2eE5sM0d0QWpaYzMxbVhhNDBmcGRjM2w2UGY4U0xVWjVyajBhbUtDQVlTU2IwTElpZUkzYjYtS2d5MmtjcXhOcmlRaU1taTFQYXVsZGkxMXl0Sk51NmF4RFBMQ3N3RlItZmdQQ2hmT2FyM1o0ZW9mNElDa2NzMmZFNEgyOHN6c0prUjQxczUzWUlZaG9fbWFLVHE2QQ?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-10-07-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "HD Hyundai Heavy Industries Names New Shipbuilding Leadership - 조선일보",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQWU9XQmQ1S3RFZ0x4MS1CVUJGSTlIN3BRZzdPYkFLa3B3anRXTjJ3YnF2NThNMTFwRXNzVS1DUlNHaWQ4UndvZUZaNFFULWlZOTU1OUx6UldfUW9YTktycHd3OFB1Q1JWQzRYeHdFelllR1BsWTBTVW9SSUdsbVFFeWNwVW9iOU1q?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-10-07-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "HD Hyundai Heavy Launches Marine SMR Demonstration Center; 12 Shipbuilding and Nuclear Institutions Collaborate in South Korea - BigGo Finance",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFA3UlFMUGVBcnNLbmZkZ3d1TlFxejh2RHB4Z05POW5QbE8yRzNFMUJxZTAwTGZiWGxMNzdqa0xMSnZLY1R0NGEybmVTamlkWnQ3S2VPR1FWZlh1MktybmxWa1FWZG01WVROZEt1a0N3dEZjbnJ2cVE?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-10-07-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "HD Hyundai Reshuffles Top Executives to Accelerate Shipbuilding, AI and SMR - Businesskorea",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5HYWZDbUpGbldCUFA5bmVyUE9ad3Q0UkQ2SjgxSzNRYmd2M0dmbDlLZkFLV1dvM1RsYU1obkdhNEFzZm5ZQU5TMDV4MS0xQ21SRkNNblZ1ZlItTlRzZEpYaktiMXk3b1BFTzdSRFhFWVZyWjUw?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 62,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.05,
+      "sentiment_7d_avg": null
+    },
+    "shipbuilding_orders": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.5,
+      "sentiment_7d_avg": null
+    },
+    "container_freight": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.25,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 64,
+    "sentiment_distribution": {
+      "positive": 11,
+      "neutral": 48,
+      "negative": 5
+    },
+    "top_companies": [
+      {
+        "id": "cosco",
+        "count": 4
+      },
+      {
+        "id": "hanwha_ocean",
+        "count": 3
+      },
+      {
+        "id": "hd_korea",
+        "count": 2
+      },
+      {
+        "id": "samsung_heavy",
+        "count": 1
+      },
+      {
+        "id": "evergreen",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 62
+      },
+      {
+        "id": "container_freight",
+        "count": 2
+      },
+      {
+        "id": "shipbuilding_orders",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 348,
+    "dup_title": 133,
+    "too_old": 78,
+    "gate1_blocked": 17,
+    "gate2_blocked": 12,
+    "passed": 108,
+    "pass_rate": "50.2%",
+    "gate2_block_rate": "5.6%",
+    "gate2_samples": [
+      "GTT décroche une commande de Samsung Heavy Industries pour 4 nouveaux méthaniers - TradingView",
+      "JP Morgan Adds Two VLGCs at Samsung Heavy Industries, Bringing Total to Six - News and Statistics - ",
+      "RIEC Breaks Ground on 1,800-Ton Gantry Crane Project for Hanwha Ocean - iMarine",
+      "South Korea Physical AI News Round Up: Semifive, Hyundai, Doosan, Aidin, Hanwha Ocean & More - AI In",
+      "ABS Grants Approval in Principle to Hanwha Ocean’s 60 MW Floating Data Center - DredgeWire"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 64 則事件，焦點為中遠海控、韓華海洋、韓國造船海洋相關動態：「Korean Shipbuilders Face Triple Challenges Amid Record Pr...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Korean Shipbuilders Face Triple Challenges Amid Record Profits - 조선일보（航運產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "Shipbuilding giant HD Hyundai takes nuclear shipping push towards testing sta...（航運產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
