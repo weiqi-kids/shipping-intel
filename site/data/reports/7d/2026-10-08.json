@@ -1,0 +1,175 @@
+{
+  "date": "2026-10-08",
+  "date_range": {
+    "start": "2026-10-02",
+    "end": "2026-10-08"
+  },
+  "generated_at": "2026-10-08T15:25:08.201291Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "hapag-2026-10-02-031",
+      "date": "2026-10-02",
+      "title": "Shippers urged to check routings as alliances redraw Asia–S America trade",
+      "importance_score": 0.7
+    },
+    {
+      "type": "sentiment_reversal",
+      "subject": "hapag",
+      "subject_type": "company",
+      "this_week_sentiment": -0.21,
+      "last_week_sentiment": 0.25,
+      "delta": -0.46,
+      "rank": 2
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "industry_general": {
+      "this_week": 242,
+      "last_week": 218,
+      "week_over_week_change": "+11%",
+      "sentiment_this_week": 0.01
+    },
+    "dry_bulk_rate": {
+      "this_week": 3,
+      "last_week": 6,
+      "week_over_week_change": "-50%",
+      "sentiment_this_week": 0.0
+    },
+    "shipbuilding_orders": {
+      "this_week": 11,
+      "last_week": 11,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.14
+    },
+    "container_freight": {
+      "this_week": 9,
+      "last_week": 13,
+      "week_over_week_change": "-31%",
+      "sentiment_this_week": 0.0
+    }
+  },
+  "company_7d_summary": {
+    "samsung_heavy": {
+      "event_count": 10,
+      "sentiment_avg": 0.2,
+      "rank": 3
+    },
+    "hanwha_ocean": {
+      "event_count": 16,
+      "sentiment_avg": 0.0,
+      "rank": 2
+    },
+    "cosco": {
+      "event_count": 22,
+      "sentiment_avg": 0.09,
+      "rank": 1
+    },
+    "hapag": {
+      "event_count": 7,
+      "sentiment_avg": -0.21,
+      "rank": 4
+    },
+    "zim": {
+      "event_count": 4,
+      "sentiment_avg": 0.0,
+      "rank": 6
+    },
+    "maersk": {
+      "event_count": 4,
+      "sentiment_avg": 0.0,
+      "rank": 7
+    },
+    "star_bulk": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 9
+    },
+    "evergreen": {
+      "event_count": 5,
+      "sentiment_avg": 0.1,
+      "rank": 5
+    },
+    "wisdom": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 11
+    },
+    "u_ming": {
+      "event_count": 3,
+      "sentiment_avg": 0.0,
+      "rank": 8
+    },
+    "hd_korea": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 10
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 421,
+        "last": 449,
+        "change_pct": -6.2
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-10-02",
+      "event_count": 74,
+      "sentiment_avg": 0.0
+    },
+    {
+      "date": "2026-10-03",
+      "event_count": 11,
+      "sentiment_avg": 0.05
+    },
+    {
+      "date": "2026-10-04",
+      "event_count": 16,
+      "sentiment_avg": 0.07
+    },
+    {
+      "date": "2026-10-05",
+      "event_count": 82,
+      "sentiment_avg": -0.02
+    },
+    {
+      "date": "2026-10-06",
+      "event_count": 81,
+      "sentiment_avg": 0.02
+    },
+    {
+      "date": "2026-10-07",
+      "event_count": 102,
+      "sentiment_avg": 0.06
+    },
+    {
+      "date": "2026-10-08",
+      "event_count": 55,
+      "sentiment_avg": -0.01
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-10-02 ~ 2026-10-08）共 421 則事件，重點為「Shippers urged to check routings as alliances r...」。赫伯羅特情緒偏負面，建議留意相關風險。",
+    "watchlist": [
+      {
+        "company": "赫伯羅特",
+        "reason": "本週情緒偏負面（-0.2），共 7 則相關事件，需關注後續發展。"
+      },
+      {
+        "company": "三星重工",
+        "reason": "本週出現 10 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "韓華海洋",
+        "reason": "本週出現 16 則相關事件，為高關注企業，動態頻繁。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

@@ -1,0 +1,241 @@
+{
+  "date": "2026-10-08",
+  "generated_at": "2026-10-08T15:25:08.076962Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "hapag-2026-10-08-050",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "Zim sale in balance as full-year forecasts soar",
+      "companies": [
+        "hapag",
+        "zim"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.seatrade-maritime.com/containers/zim-sale-in-balance-as-full-year-forecasts-soar"
+    },
+    {
+      "rank": 2,
+      "event_id": "cosco-2026-10-08-021",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "COSCO Shipping Holdings stock completes CNY 755 million buyback leading to lower share count - AD HOC NEWS",
+      "companies": [
+        "cosco"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNaHFQbXhzVUlWMFpjYk9oeU5jdElJazBfUk1NcW9LbjZMYkxIMGF3ZVg2bGM4Y0I2SFhCaGl0S2d6c1gwQnRiNzhTZTFldl9ERG9wM2JFZ3RZU2E0eGNYc2dIdVpRQTJBT2hvcXo1OTZ2V0tpY3FOMFNHOFpaeTh6NGdGTzNYcW8yeEM3RzBXdVp2a0E2UGRCRzhuNFVrbHJqNFdNc1pzVEJtS1paVmFMcDNBTjUtZlMxMjllZjY2M0JKRDJjQ2E2TVBjZUlHUQ?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-10-08-026",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Mexican Auto Exports Slump in September as US Tariffs Take Toll",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://gcaptain.com/mexican-auto-exports-slump-in-september-as-us-tariffs-take-toll/"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-10-08-047",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Hong Kong eyes new Pinglu Canal as route to port revival",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://theloadstar.com/hong-kong-eyes-new-pinglu-canal-as-route-to-port-revival/"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-10-08-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "HD Hyundai creates shipbuilding chief role, strengthens safety management - 매일경제",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE52dEdCR2IwcDR0b0lhZjJDMlI5dWpYLThtUkpFclBGVlB4eHFtbTF4N193T285UmxpM2hlYjhEUWM5NFRUU0J3UEw2c05MTU1xVHFsYVprOA?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 47,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.02,
+      "sentiment_7d_avg": null
+    },
+    "shipbuilding_orders": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "container_freight": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "dry_bulk_rate": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 55,
+    "sentiment_distribution": {
+      "positive": 3,
+      "neutral": 49,
+      "negative": 3
+    },
+    "top_companies": [
+      {
+        "id": "hanwha_ocean",
+        "count": 10
+      },
+      {
+        "id": "cosco",
+        "count": 7
+      },
+      {
+        "id": "samsung_heavy",
+        "count": 2
+      },
+      {
+        "id": "evergreen",
+        "count": 2
+      },
+      {
+        "id": "maersk",
+        "count": 2
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 47
+      },
+      {
+        "id": "shipbuilding_orders",
+        "count": 2
+      },
+      {
+        "id": "container_freight",
+        "count": 1
+      },
+      {
+        "id": "dry_bulk_rate",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 350,
+    "dup_title": 153,
+    "too_old": 71,
+    "gate1_blocked": 22,
+    "gate2_blocked": 10,
+    "passed": 94,
+    "pass_rate": "47.7%",
+    "gate2_block_rate": "5.1%",
+    "gate2_samples": [
+      "GTT décroche une commande de Samsung Heavy Industries pour 4 nouveaux méthaniers - TradingView",
+      "JP Morgan Adds Two VLGCs at Samsung Heavy Industries, Bringing Total to Six - News and Statistics - ",
+      "Union Chief Joins Crane Protest at Hanwha Ocean Geoje Yard - Seoul Economic Daily",
+      "RIEC Breaks Ground on 1,800-Ton Gantry Crane Project for Hanwha Ocean - iMarine",
+      "Masterlink Securities Downgrades Wan Hai Lines to Hold from Buy; Price Target is NT$125 - www.market"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 55 則事件，焦點為韓華海洋、中遠海控、三星重工相關動態：「Zim sale in balance as full-year forecasts soar」。主要關注主題為航運產業通用、造船訂單、貨櫃運價，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Zim sale in balance as full-year forecasts soar",
+        "level": "yellow"
+      },
+      {
+        "text": "COSCO Shipping Holdings stock completes CNY 755 million buyback leading to lo...（航運產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
