@@ -1,0 +1,224 @@
+{
+  "date": "2026-10-09",
+  "generated_at": "2026-10-09T15:07:35.366654Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-10-09-012",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "A Virtual Compliance Department for Every Fleet",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://www.freightwaves.com/news/a-virtual-compliance-department-for-every-fleet"
+    },
+    {
+      "rank": 2,
+      "event_id": "evergreen-2026-10-09-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Evergreen Marine reports Q2 profit: what it means for Evergreen Marine stock - AD HOC NEWS",
+      "companies": [
+        "evergreen"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNU3ZfVElGcjlQamVvbVh0X1VwckkwRmh2WmJBazFIOU5SS2ZNTFFKdUpjVGpxU2VzR2VfbUk5Skx1NmFfMHhmRWI2NkRlZ2kyMkxqdlkzYVl3QTd6Q0kzTWpKaS02c2d2SzRkYWE1Q2pQQktlaWRDMmtHcWFDU015MHNSWWRCeC1ET0xwYUdJaUNKWEI3YU1WeWFIZjBDalNFVG9ubDF5NlNzUTR0ajFER2lTZ3RZdVhNcDVwVDdtT1JyTnVNOGMzQ0NQeHhqcWJieW5uUQ?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-10-09-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Wan Hai reported revenue growth while Wan Hai stock stood at TWD 111.50 - AD HOC NEWS",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNS21HbnZxcFhteXFlWGZ5SHhCUVAwVy1tMDQ1UjEwYTJGYUxkU2Y5akJodF8xU3JyNUJ0QjBhVDFTZUZxWGgwcGU4cVg2NmdDWnNSbGF1TUNmcTlXOG5oeXVSd083alpHS3I0VkQyM21HNFFmX1ppR0lVNExDY256Q2hBME1RRVU4bk5nU1dqTVQtek5HOUxfaWN2ZDM0LVNyNEJqY2NUcW1HcVBkVE9YVHNQUlEwZTlPanVvdEtOVmIyNzRBTFNVMnlyRFNPeTQ?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "cosco-2026-10-09-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "HSBC Upgrades Cosco Shipping Holdings to Hold from Reduce; Price Target is HK$18 - www.marketscreener.com",
+      "companies": [
+        "cosco"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQNG5QWVdfNkJtajRqd3RocWdfVUJ3Nl8wMmZCaTZWWjB0TkVoRzFYd3A3ZWxaRm9CQURKbloxQlotNmZnN3RXWl9pUEFUV01DN1VDblZsS0RNOGYtNk9tc0FNNEdxclVjUURtZHlOVkx6TGdhZVNiSTRLZ1V4cWd1OHVxdXJyczgtcENlMjdqNWFabDlISG1Ed0wtaksydEpXVzVPMzV6bFBqc2gtZHVhRWFOb2dJV1FDZ01UM2hOc0JfSWZRMnMxVmwzazc?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-10-09-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Second Ship Struck Inside Persian Gulf in Three Days",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://gcaptain.com/second-ship-struck-inside-persian-gulf-in-three-days/"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 36,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.08,
+      "sentiment_7d_avg": null
+    },
+    "container_freight": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.17,
+      "sentiment_7d_avg": null
+    },
+    "dry_bulk_rate": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.5,
+      "sentiment_7d_avg": null
+    },
+    "shipbuilding_orders": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 36,
+    "sentiment_distribution": {
+      "positive": 6,
+      "neutral": 28,
+      "negative": 2
+    },
+    "top_companies": [
+      {
+        "id": "evergreen",
+        "count": 1
+      },
+      {
+        "id": "cosco",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 36
+      },
+      {
+        "id": "container_freight",
+        "count": 3
+      },
+      {
+        "id": "dry_bulk_rate",
+        "count": 1
+      },
+      {
+        "id": "shipbuilding_orders",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 351,
+    "dup_title": 175,
+    "too_old": 72,
+    "gate1_blocked": 24,
+    "gate2_blocked": 13,
+    "passed": 67,
+    "pass_rate": "38.1%",
+    "gate2_block_rate": "7.4%",
+    "gate2_samples": [
+      "GTT décroche une commande de Samsung Heavy Industries pour 4 nouveaux méthaniers - TradingView",
+      "Hanwha Ocean, Samsung Heavy Swap Places as Currency Bets Diverge - Seoul Economic Daily",
+      "JP Morgan Adds Two VLGCs at Samsung Heavy Industries, Bringing Total to Six - News and Statistics - ",
+      "Hanwha Ocean urges union to end crane protest, pushes talks on wages and safety - CHOSUNBIZ - Chosun",
+      "Hanwha Ocean: “No compromise with a union that threatens safety” - 매일경제"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 36 則事件，焦點為長榮海運、中遠海控相關動態：「A Virtual Compliance Department for Every Fleet」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "A Virtual Compliance Department for Every Fleet（航運產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "Evergreen Marine reports Q2 profit: what it means for Evergreen Marine stock ...（航運產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

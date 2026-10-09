@@ -1,0 +1,184 @@
+{
+  "date": "2026-10-09",
+  "date_range": {
+    "start": "2026-10-03",
+    "end": "2026-10-09"
+  },
+  "generated_at": "2026-10-09T15:07:35.521682Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "hapag-2026-10-05-028",
+      "date": "2026-10-05",
+      "title": "Hapag-Lloyd’s Zim takeover heads for reset as Israel requires new review",
+      "importance_score": 0.7
+    },
+    {
+      "type": "sentiment_reversal",
+      "subject": "hapag",
+      "subject_type": "company",
+      "this_week_sentiment": -0.3,
+      "last_week_sentiment": 0.2,
+      "delta": -0.5,
+      "rank": 2
+    },
+    {
+      "type": "sentiment_reversal",
+      "subject": "container_freight",
+      "subject_type": "topic",
+      "this_week_sentiment": -0.15,
+      "last_week_sentiment": 0.27,
+      "delta": -0.42,
+      "rank": 3
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "industry_general": {
+      "this_week": 242,
+      "last_week": 227,
+      "week_over_week_change": "+7%",
+      "sentiment_this_week": 0.01
+    },
+    "container_freight": {
+      "this_week": 10,
+      "last_week": 11,
+      "week_over_week_change": "-9%",
+      "sentiment_this_week": -0.15
+    },
+    "shipbuilding_orders": {
+      "this_week": 10,
+      "last_week": 11,
+      "week_over_week_change": "-9%",
+      "sentiment_this_week": 0.05
+    },
+    "dry_bulk_rate": {
+      "this_week": 3,
+      "last_week": 6,
+      "week_over_week_change": "-50%",
+      "sentiment_this_week": 0.17
+    }
+  },
+  "company_7d_summary": {
+    "cosco": {
+      "event_count": 22,
+      "sentiment_avg": 0.09,
+      "rank": 1
+    },
+    "star_bulk": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 9
+    },
+    "evergreen": {
+      "event_count": 6,
+      "sentiment_avg": 0.08,
+      "rank": 3
+    },
+    "wisdom": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 11
+    },
+    "hapag": {
+      "event_count": 5,
+      "sentiment_avg": -0.3,
+      "rank": 4
+    },
+    "zim": {
+      "event_count": 3,
+      "sentiment_avg": 0.0,
+      "rank": 6
+    },
+    "u_ming": {
+      "event_count": 3,
+      "sentiment_avg": 0.0,
+      "rank": 7
+    },
+    "maersk": {
+      "event_count": 3,
+      "sentiment_avg": 0.0,
+      "rank": 8
+    },
+    "samsung_heavy": {
+      "event_count": 4,
+      "sentiment_avg": 0.0,
+      "rank": 5
+    },
+    "hanwha_ocean": {
+      "event_count": 14,
+      "sentiment_avg": 0.0,
+      "rank": 2
+    },
+    "hd_korea": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 10
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 414,
+        "last": 466,
+        "change_pct": -11.2
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-10-03",
+      "event_count": 11,
+      "sentiment_avg": 0.05
+    },
+    {
+      "date": "2026-10-04",
+      "event_count": 16,
+      "sentiment_avg": 0.07
+    },
+    {
+      "date": "2026-10-05",
+      "event_count": 82,
+      "sentiment_avg": -0.02
+    },
+    {
+      "date": "2026-10-06",
+      "event_count": 83,
+      "sentiment_avg": 0.02
+    },
+    {
+      "date": "2026-10-07",
+      "event_count": 103,
+      "sentiment_avg": 0.06
+    },
+    {
+      "date": "2026-10-08",
+      "event_count": 83,
+      "sentiment_avg": 0.01
+    },
+    {
+      "date": "2026-10-09",
+      "event_count": 36,
+      "sentiment_avg": 0.08
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-10-03 ~ 2026-10-09）共 414 則事件，重點為「Hapag-Lloyd’s Zim takeover heads for reset as I...」。赫伯羅特情緒偏負面，建議留意相關風險。",
+    "watchlist": [
+      {
+        "company": "赫伯羅特",
+        "reason": "本週情緒偏負面（-0.3），共 5 則相關事件，需關注後續發展。"
+      },
+      {
+        "company": "中遠海控",
+        "reason": "本週出現 22 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "長榮海運",
+        "reason": "本週出現 6 則相關事件，為高關注企業，動態頻繁。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

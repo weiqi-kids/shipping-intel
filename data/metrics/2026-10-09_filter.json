@@ -1,0 +1,16 @@
+{
+  "total_raw": 351,
+  "dup_title": 175,
+  "no_date": 0,
+  "too_old": 72,
+  "gate1_fail": 24,
+  "gate2_fail": 13,
+  "passed": 67,
+  "gate2_samples": [
+    "GTT décroche une commande de Samsung Heavy Industries pour 4 nouveaux méthaniers - TradingView",
+    "Hanwha Ocean, Samsung Heavy Swap Places as Currency Bets Diverge - Seoul Economic Daily",
+    "JP Morgan Adds Two VLGCs at Samsung Heavy Industries, Bringing Total to Six - News and Statistics - ",
+    "Hanwha Ocean urges union to end crane protest, pushes talks on wages and safety - CHOSUNBIZ - Chosun",
+    "Hanwha Ocean: “No compromise with a union that threatens safety” - 매일경제"
+  ]
+}
