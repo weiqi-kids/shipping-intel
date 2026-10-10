@@ -1,0 +1,184 @@
+{
+  "date": "2026-10-10",
+  "generated_at": "2026-10-10T14:22:08.254890Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "cssc-2026-10-10-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "CSSC Beihai Shipbuilding Delivers World's First 210,000 DWT Ammonia Dual-Fuel Bulk Carrier to CMB.TECH - iMarine",
+      "companies": [
+        "cssc"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFB4U1ctS3g5Q0pvNDZQbjlQcG1kTmdVWE12N0hnM1Jxd0hyZ3Z6RHdTa3pVV2x2MG5RQllURkV0a3BGYm5oSGQ5WGtoS1VzM2c?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "cosco-2026-10-10-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Is COSCO SHIPPING International (Hong Kong) (SEHK:517) Fully Valued After Its Board Reshuffle? - Yahoo Finance Singapore",
+      "companies": [
+        "cosco"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNZVdRU3kzMUxhZXM1QlFnT2loSDMyVGJGMGVrdVBFU3puZms3ZVp2LUgwQWV3YVowX19xZGw4UGxnVzNXTUJFWUs4STMwa2FZVC1zR0syWldzMzFCVE1zQ3hmTTgyMXp6REV2YWw4TkhZMlkxNzFaLTZjb1d2MjRXMm1aOWx5TkNoR0ZVUmdRanA?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "cosco-2026-10-10-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "COSCO SHIPPING International (Hong Kong) (SEHK:517) Shares Climbed, What Is Driving Attention Now? - Simply Wall Street",
+      "companies": [
+        "cosco"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPd2p3Q2oyYWFhWldYWlk5OVN0OEhtQkpsUExkb0VfVVdqR3QtNm9NelF6YVpUemczbkV5aGNQSGZGR3d6UGQ4M3E0ekxDQXRHX1lsc0tURlBGOGl3VUpINFRHYWV6LXlIUjRTaTZJZThGcWx3WnBiQnhxYUxhWXVNSnFDNjIyTnhFNE1Xdm9PMWZBcl9NN1VFdFBWeVVrVS1yV3ZaeFM3UWZaRDdiWWg5NVV4TEtKNmM3U2NMd3JVQWFSaFU2TGVlMkY1Qm5BdHJURjNVZzhFN29WQmtVZzdZU2dBTm1qd3I5SnlRalplalJHVkVzaHhFWEdR0gH_AUFVX3lxTE5ZNF9CR0tRTUtOa1JlZ0h2NnlUVWxreHZzV0hqeFpXc3JTcS0yQnExN1ZYVXNtU3lrSjFydS1Ba2llMlpGYjFCUVo3MkJqSU5NVDV2Q1NXTDJMMzF6Wk5NOW42aDNERUpCVzhkNnk0Y2RTcWVxRFFXQUNyM2R3N1BfWGU0QmVkcTBRYlNmb3NjS0Rma0h6TFI4N3ZoVmFwcFBMVG9OYVJGU2VLTlNjYk9OYkRfSkFwa1dwYUYzaHAtdW0zS3FjbEJ6NFRwTDBCUkFWTUJuM2txZVV5dVQ5dzl5bFU1cWJlbnU5TlY1dTNvTnF5RzlscmRuY0kyM2JXdw?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "cosco-2026-10-10-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Bank of America Securities Sticks to Its Buy Rating for COSCO SHIPPING Energy Transportation Co (CSDXF) - The Globe and Mail",
+      "companies": [
+        "cosco"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxNVFltTmdOVW1ibmtaeXdXVHctVW5QVHBKaVJTbnNfTlR0Vm1QTzMxc1FPX2dWNVF0Q2YwZDlMeTBfb0NHUkd2b1pGSlJNaE0yeXdHMkJBMDFMZ0VvZ0VxbXdlcmR3dkNFMEVIelRCeGppVXB3MmN0NEphVTBLcGVXaE41aU92c2REaUphM2IxX0t0bUpBcE5MNnVCNm5JMmNpWThheEo2RktMalhJakx3RHp4MnpBbVdiOUlRU0hVemJleDRsTVhEZWU0SmhybTdVVWRBTmRtSmFkOTVlSzhYY0pqSDZpUVExeUtRVzFHN1ZNNXFrTlJCQTR3SlpFc2lyRDdVZV9peFEwWkR4ZWZV?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-10-10-005",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Panama Canal unaffected by huge earthquake",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://splash247.com/panama-canal-unaffected-by-huge-earthquake/"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 6,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 6,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 6,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "cosco",
+        "count": 3
+      },
+      {
+        "id": "cssc",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 6
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 351,
+    "dup_title": 197,
+    "too_old": 79,
+    "gate1_blocked": 23,
+    "gate2_blocked": 10,
+    "passed": 42,
+    "pass_rate": "27.3%",
+    "gate2_block_rate": "6.5%",
+    "gate2_samples": [
+      "GTT décroche une commande de Samsung Heavy Industries pour 4 nouveaux méthaniers - TradingView",
+      "JP Morgan Adds Two VLGCs at Samsung Heavy Industries, Bringing Total to Six - News and Statistics - ",
+      "Hanwha Ocean urges union to end crane protest, pushes talks on wages and safety - CHOSUNBIZ - Chosun",
+      "RIEC Breaks Ground on 1,800-Ton Gantry Crane Project for Hanwha Ocean - iMarine",
+      "Hanwha Ocean: “No compromise with a union that threatens safety” - 매일경제"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 6 則事件，焦點為中遠海控、中國船舶相關動態：「CSSC Beihai Shipbuilding Delivers World's First 210,000 D...」。主要關注主題為航運產業通用，市場情緒中性。",
+    "signals": [
+      {
+        "text": "CSSC Beihai Shipbuilding Delivers World's First 210,000 DWT Ammonia Dual-Fuel...（航運產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "Is COSCO SHIPPING International (Hong Kong) (SEHK:517) Fully Valued After Its...（航運產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
