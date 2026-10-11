@@ -1,0 +1,16 @@
+{
+  "total_raw": 351,
+  "dup_title": 224,
+  "no_date": 0,
+  "too_old": 81,
+  "gate1_fail": 20,
+  "gate2_fail": 8,
+  "passed": 18,
+  "gate2_samples": [
+    "GTT décroche une commande de Samsung Heavy Industries pour 4 nouveaux méthaniers - TradingView",
+    "JP Morgan Adds Two VLGCs at Samsung Heavy Industries, Bringing Total to Six - News and Statistics - ",
+    "Hanwha Ocean urges union to end crane protest, pushes talks on wages and safety - CHOSUNBIZ - Chosun",
+    "Masterlink Securities Downgrades Wan Hai Lines to Hold from Buy; Price Target is NT$125 - www.market",
+    "News FMC clamps down on Cosco fine late-payment with threat of hefty penalty - The Loadstar"
+  ]
+}
