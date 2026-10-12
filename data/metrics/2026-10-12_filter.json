@@ -1,0 +1,16 @@
+{
+  "total_raw": 350,
+  "dup_title": 182,
+  "no_date": 0,
+  "too_old": 75,
+  "gate1_fail": 20,
+  "gate2_fail": 10,
+  "passed": 63,
+  "gate2_samples": [
+    "GTT décroche une commande de Samsung Heavy Industries pour 4 nouveaux méthaniers - TradingView",
+    "ABS Issues AIP for Samsung Heavy Industries’ FLNG Liquefaction System - iMarine",
+    "Hanwha Ocean Prepares for Nuclear-Powered Submarine Development - THE ELEC, Korea Electronics Indust",
+    "Hanwha Ocean Seeks Veterans for Nuclear-Powered Submarine Program... Hiring Experts in Five Design a",
+    "Hanwha Ocean accelerates Korea nuclear sub project with expert hiring - CHOSUNBIZ - Chosunbiz"
+  ]
+}

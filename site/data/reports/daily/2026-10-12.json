@@ -1,0 +1,242 @@
+{
+  "date": "2026-10-12",
+  "generated_at": "2026-10-12T17:35:34.337106Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "zim-2026-10-12-038",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "OceanX: Zim earnings power matches Hapag; Value in forwarding; SaaS end nears?",
+      "companies": [
+        "zim",
+        "hapag"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://theloadstar.com/oceanx-zim-earnings-power-matches-hapag-value-in-forwarding-saas-end-nears/"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-10-12-017",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "1 million boxes set new Los Angeles port record",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://www.freightwaves.com/news/1-million-boxes-set-new-los-angeles-port-record"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-10-12-021",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Penske request for en banc hearing gets pushback from victim’s estate",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://www.freightwaves.com/news/penske-request-for-en-banc-hearing-gets-pushback-from-victims-estate"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-10-12-025",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Ship recycling drought leaves record ageing fleet afloat",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://splash247.com/ship-recycling-drought-leaves-record-ageing-fleet-afloat/"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-10-12-032",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Container freight rates weaken as Asia-Europe decline continues - Container News",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "container_freight",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -0.75
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOMGR4MzAybDY3RDZ2TmlHeTZNOV92VFRRT3J4NGJNQXc2LXVoSE1BU0xVc192d0FhRk1qWXZVQzBIMHNYVmd4bWptcTFFQjF2NGFmOW40amFmVmtZMFZLSFJTWU1EWHZxNnBjeURGS01idVNvMGNhNWZQVzhUY25mQmhjUHI2VmpFVERiMVMxb2tQZ0c1Tmc?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 40,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.03,
+      "sentiment_7d_avg": null
+    },
+    "shipbuilding_orders": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "dry_bulk_rate": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "container_freight": {
+      "today": 4,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.19,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 46,
+    "sentiment_distribution": {
+      "positive": 7,
+      "neutral": 35,
+      "negative": 4
+    },
+    "top_companies": [
+      {
+        "id": "hanwha_ocean",
+        "count": 3
+      },
+      {
+        "id": "evergreen",
+        "count": 3
+      },
+      {
+        "id": "cosco",
+        "count": 1
+      },
+      {
+        "id": "zim",
+        "count": 1
+      },
+      {
+        "id": "hapag",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 40
+      },
+      {
+        "id": "container_freight",
+        "count": 4
+      },
+      {
+        "id": "shipbuilding_orders",
+        "count": 2
+      },
+      {
+        "id": "dry_bulk_rate",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 350,
+    "dup_title": 182,
+    "too_old": 75,
+    "gate1_blocked": 20,
+    "gate2_blocked": 10,
+    "passed": 63,
+    "pass_rate": "37.5%",
+    "gate2_block_rate": "6.0%",
+    "gate2_samples": [
+      "GTT décroche une commande de Samsung Heavy Industries pour 4 nouveaux méthaniers - TradingView",
+      "ABS Issues AIP for Samsung Heavy Industries’ FLNG Liquefaction System - iMarine",
+      "Hanwha Ocean Prepares for Nuclear-Powered Submarine Development - THE ELEC, Korea Electronics Indust",
+      "Hanwha Ocean Seeks Veterans for Nuclear-Powered Submarine Program... Hiring Experts in Five Design a",
+      "Hanwha Ocean accelerates Korea nuclear sub project with expert hiring - CHOSUNBIZ - Chosunbiz"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 46 則事件，焦點為韓華海洋、長榮海運、中遠海控相關動態：「OceanX: Zim earnings power matches Hapag; Value in forwar...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "OceanX: Zim earnings power matches Hapag; Value in forwarding; SaaS end nears?",
+        "level": "yellow"
+      },
+      {
+        "text": "1 million boxes set new Los Angeles port record（航運產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
