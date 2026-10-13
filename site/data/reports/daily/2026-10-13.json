@@ -1,0 +1,244 @@
+{
+  "date": "2026-10-13",
+  "generated_at": "2026-10-13T15:45:18.211776Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "hapag-2026-10-13-049",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "Gemini to relaunch Asia-Middle East Loop, but drops Jebel Ali call",
+      "companies": [
+        "hapag",
+        "maersk"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://theloadstar.com/gemini-to-relaunch-asia-middle-east-loop-but-drops-jebel-ali-call/"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-10-13-025",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "China Merchants Energy Shipping & RINA to Explore AI-Driven Ship Operations",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://maritime-executive.com/article/china-merchants-energy-shipping-rina-to-explore-ai-driven-ship-operations"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-10-13-036",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Emarat Maritime piles six more tankers onto China orderbook",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "shipbuilding_orders",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.75
+      },
+      "source_url": "https://splash247.com/emarat-maritime-piles-six-more-tankers-onto-china-orderbook/"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-10-13-045",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Iran threatens ships going dark in Hormuz",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://splash247.com/iran-threatens-ships-going-dark-in-hormuz/"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-10-13-051",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Saudi air cargo capacity drops amid disruption from Riyadh shutdown",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://theloadstar.com/saudi-air-cargo-capacity-drops-amid-disruption-from-riyadh-shutdown/"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 56,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.04,
+      "sentiment_7d_avg": null
+    },
+    "container_freight": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.17,
+      "sentiment_7d_avg": null
+    },
+    "shipbuilding_orders": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.42,
+      "sentiment_7d_avg": null
+    },
+    "port_congestion": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.25,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 58,
+    "sentiment_distribution": {
+      "positive": 9,
+      "neutral": 45,
+      "negative": 4
+    },
+    "top_companies": [
+      {
+        "id": "evergreen",
+        "count": 3
+      },
+      {
+        "id": "wan_hai",
+        "count": 1
+      },
+      {
+        "id": "cosco",
+        "count": 1
+      },
+      {
+        "id": "hapag",
+        "count": 1
+      },
+      {
+        "id": "maersk",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 56
+      },
+      {
+        "id": "container_freight",
+        "count": 3
+      },
+      {
+        "id": "shipbuilding_orders",
+        "count": 3
+      },
+      {
+        "id": "port_congestion",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 351,
+    "dup_title": 169,
+    "too_old": 72,
+    "gate1_blocked": 16,
+    "gate2_blocked": 9,
+    "passed": 85,
+    "pass_rate": "46.7%",
+    "gate2_block_rate": "4.9%",
+    "gate2_samples": [
+      "Hanwha Ocean Sets Up Nuclear Submarine Unit, Hiring Experts for Jangbogo N Project - Businesskorea",
+      "​Hanwha Ocean Prepares for Nuclear-Powered Submarine Development - THE ELEC, Korea Electronics Indus",
+      "Hanwha Ocean accelerates Korea nuclear sub project with expert hiring - CHOSUNBIZ - Chosunbiz",
+      "Hanwha Ocean urges union to end crane protest, pushes talks on wages and safety - CHOSUNBIZ - Chosun",
+      "Why is Evergreen Marine stock surging today? - Investing.com"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 58 則事件，焦點為長榮海運、萬海航運、中遠海控相關動態：「Gemini to relaunch Asia-Middle East Loop, but drops Jebel...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Gemini to relaunch Asia-Middle East Loop, but drops Jebel Ali call（航運產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "China Merchants Energy Shipping & RINA to Explore AI-Driven Ship Operations（航運產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
