@@ -1,0 +1,240 @@
+{
+  "date": "2026-10-14",
+  "generated_at": "2026-10-14T13:28:20.008360Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "hapag-2026-10-14-021",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "Gemini relaunch likely to add to congestion pressure at Khor Fakkan",
+      "companies": [
+        "hapag",
+        "maersk"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -0.5
+      },
+      "source_url": "https://theloadstar.com/gemini-relaunch-likely-to-add-to-congestion-pressure-at-khor-fakkan/"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-10-14-009",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Parcel shipping costs approach record high as extra charges stack up",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://www.freightwaves.com/news/parcel-shipping-costs-approach-record-high-as-extra-charges-stack-up"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-10-14-014",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Splash Cruise launches with a fresh take on the global cruise business",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://splash247.com/splash-cruise-launches-with-a-fresh-take-on-the-global-cruise-business/"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-10-14-023",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "AI shippers still looking for capacity risk sharp airfreight peak squeeze",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "container_freight",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -0.75
+      },
+      "source_url": "https://theloadstar.com/ai-shippers-still-looking-for-capacity-risk-sharp-airfreight-peak-squeeze/"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-10-14-029",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Update: Singapore confirms container ship sunk in Hormuz amid fresh Iran attacks",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://www.seatrade-maritime.com/security/iran-claims-mine-sank-container-ship-amid-fresh-hormuz-attacks"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 34,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.02,
+      "sentiment_7d_avg": null
+    },
+    "container_freight": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.38,
+      "sentiment_7d_avg": null
+    },
+    "port_congestion": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "shipbuilding_orders": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.25,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 35,
+    "sentiment_distribution": {
+      "positive": 5,
+      "neutral": 26,
+      "negative": 4
+    },
+    "top_companies": [
+      {
+        "id": "samsung_heavy",
+        "count": 2
+      },
+      {
+        "id": "hanwha_ocean",
+        "count": 2
+      },
+      {
+        "id": "hapag",
+        "count": 1
+      },
+      {
+        "id": "maersk",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 34
+      },
+      {
+        "id": "container_freight",
+        "count": 2
+      },
+      {
+        "id": "shipbuilding_orders",
+        "count": 2
+      },
+      {
+        "id": "port_congestion",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 350,
+    "dup_title": 177,
+    "too_old": 71,
+    "gate1_blocked": 23,
+    "gate2_blocked": 13,
+    "passed": 66,
+    "pass_rate": "38.2%",
+    "gate2_block_rate": "7.5%",
+    "gate2_samples": [
+      "ABS Issues AIP for Samsung Heavy Industries’ FLNG Liquefaction System - iMarine",
+      "​Hanwha Ocean Prepares for Nuclear-Powered Submarine Development - THE ELEC, Korea Electronics Indus",
+      "LS Securities Cuts Hanwha Ocean Target Price 25% to ₩90,000 on Won's Plunge, Weakening MASGA Momentu",
+      "Hanwha Ocean Sets Up Nuclear Submarine Unit - Businesskorea",
+      "LS Securities Cuts Hanwha Ocean Target to 90,000 Won on Weaker MASGA Momentum - Seoul Economic Daily"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 35 則事件，焦點為三星重工、韓華海洋、赫伯羅特相關動態：「Gemini relaunch likely to add to congestion pressure at K...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Gemini relaunch likely to add to congestion pressure at Khor Fakkan（航運產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "Parcel shipping costs approach record high as extra charges stack up（航運產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
