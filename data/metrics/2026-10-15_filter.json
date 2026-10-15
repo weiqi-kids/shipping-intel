@@ -1,0 +1,16 @@
+{
+  "total_raw": 351,
+  "dup_title": 154,
+  "no_date": 0,
+  "too_old": 77,
+  "gate1_fail": 17,
+  "gate2_fail": 11,
+  "passed": 92,
+  "gate2_samples": [
+    "ABS Issues AIP for Samsung Heavy Industries’ FLNG Liquefaction System - iMarine",
+    "Hanwha Ocean Puts Forward Wage Proposal, Calls for End to Crane Protest to Break Bargaining Deadlock",
+    "GTT Energy-Commande de Hanwha Ocean pour les cuves de deux méthaniers - TradingView",
+    "​Hanwha Ocean Prepares for Nuclear-Powered Submarine Development - THE ELEC, Korea Electronics Indus",
+    "Hanwha Ocean Sets Up Nuclear Submarine Unit - Businesskorea"
+  ]
+}

@@ -1,0 +1,215 @@
+{
+  "date": "2026-10-15",
+  "generated_at": "2026-10-15T13:12:59.903665Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "cosco-2026-10-15-024",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "US shadow fleet proposal sparks tanker stock rout",
+      "companies": [
+        "cosco"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://splash247.com/us-shadow-fleet-proposal-sparks-tanker-stock-rout/"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-10-15-028",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Shipping Stocks Rally as KOSPI Plunges 14% on Surging Freight Rates - Businesskorea",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "container_freight",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBaRlhFeFh0VFV5WV9QUkZOWHhWSkZJblBvUE9jbkhUWnlweWdTQy1qa2RiSUd1UEk4d0ItMVIzOWpNRFlIeWRUUGNMRmlGWWl0a0VfTnNEbDUzbi1uVEF4S21zZV9JUHNOUFkzU3M0RnNtaUJV?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-10-15-034",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "No post-peak easing at US container gateways, despite drayage woes",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.75
+      },
+      "source_url": "https://theloadstar.com/no-post-peak-easing-at-us-container-gateways-despite-drayage-woes/"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-10-15-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "One year under Kisun Chung ... ‘HD Hyundai’ makes its mark in nuclear power and AI beyond shipbuilding - 매일경제",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFAtWjU2eEpTSGRzNWxfWTRZdGdLVWdpQ0FEckJPYWo0WHRNMVlOR015QlZac21qbkwzcnhZQVFHNUpmMG9EWDkyRWhKRTNoaEFwdlE4?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "hanwha_ocean-2026-10-15-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Posco targets LNG cargo tank market with Hanwha Ocean - The Korea Herald",
+      "companies": [
+        "hanwha_ocean"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE4wRUdCQWkwS2hDSVEtazFpbHNuRnY1WDZtY19QczBqeUFPUURaa2FHMjJjRVQ2cUFnRjc0QmhQdFVYQ2ZSVTFIMGE5emE5N1Q1cU9zYjkzZw?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 37,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.01,
+      "sentiment_7d_avg": null
+    },
+    "dry_bulk_rate": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "container_freight": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -1.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 39,
+    "sentiment_distribution": {
+      "positive": 6,
+      "neutral": 28,
+      "negative": 5
+    },
+    "top_companies": [
+      {
+        "id": "hanwha_ocean",
+        "count": 10
+      },
+      {
+        "id": "cosco",
+        "count": 4
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 37
+      },
+      {
+        "id": "dry_bulk_rate",
+        "count": 1
+      },
+      {
+        "id": "container_freight",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 351,
+    "dup_title": 154,
+    "too_old": 77,
+    "gate1_blocked": 17,
+    "gate2_blocked": 11,
+    "passed": 92,
+    "pass_rate": "46.7%",
+    "gate2_block_rate": "5.6%",
+    "gate2_samples": [
+      "ABS Issues AIP for Samsung Heavy Industries’ FLNG Liquefaction System - iMarine",
+      "Hanwha Ocean Puts Forward Wage Proposal, Calls for End to Crane Protest to Break Bargaining Deadlock",
+      "GTT Energy-Commande de Hanwha Ocean pour les cuves de deux méthaniers - TradingView",
+      "​Hanwha Ocean Prepares for Nuclear-Powered Submarine Development - THE ELEC, Korea Electronics Indus",
+      "Hanwha Ocean Sets Up Nuclear Submarine Unit - Businesskorea"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 39 則事件，焦點為韓華海洋、中遠海控相關動態：「US shadow fleet proposal sparks tanker stock rout」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "US shadow fleet proposal sparks tanker stock rout（航運產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "Shipping Stocks Rally as KOSPI Plunges 14% on Surging Freight Rates - Busines...（貨櫃運價、航運產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
