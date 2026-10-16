@@ -1,0 +1,230 @@
+{
+  "date": "2026-10-16",
+  "generated_at": "2026-10-16T13:07:26.646576Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-10-16-010",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "UK ports hit back at Brussels over ETS diversion claims",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://splash247.com/uk-ports-hit-back-at-brussels-over-ets-diversion-claims/"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-10-16-028",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Record monthly container volumes at Port of Long Beach as imports soar",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://www.seatrade-maritime.com/ports-logistics/record-monthly-container-volumes-at-port-of-long-beach-as-imports-soar"
+    },
+    {
+      "rank": 3,
+      "event_id": "hanwha_ocean-2026-10-16-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Hanwha Systems sells final Hanwha Ocean stake for $1.04B - Dealroom",
+      "companies": [
+        "hanwha_ocean"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPMGxvSG96MzdGOVRwMTVOenFqUXBPdlNGeFctSldEVEdPMVotVjMweXRCV3N4NnVCekRJLU5nRFFwOGNEWURkc0V2aVktYzRLeElIZ29jMTJVVU0wRExMYnk5alZabW4ydlRaZFJYVmwwdi1DSHM0cVcxaUdsOHhLb190d01vLUdyQXloajZ4YWY0emM?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "hanwha_ocean-2026-10-16-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "South Korea's Hanwha Systems Sells Entire Hanwha Ocean Stake, Securing ₩1.3834 Trillion (approximately $1.0 Billion) - BigGo Finance",
+      "companies": [
+        "hanwha_ocean"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9HR1NiYVpJQ1FzUDA5V1F5aExGQWRZTGNBcXBFOG1zaE83aWFGY2EyMllBMHo2VmI2cjdHSUpQanl2dHViXzFMWmVlQmhXLUJCMWVyZTZOZU1FUmsweElKOVV4SG9ial9DVlpVSG9EYUFWVm1OMVE?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "hanwha_ocean-2026-10-16-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Hanwha Systems Monetizes Entire Hanwha Ocean Stake, \"Secures KRW 1.4 Trillion for Investment\" - 아시아경제",
+      "companies": [
+        "hanwha_ocean"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5DN2F3WnBqTEFNVmptR25mMUxYN0JYaTFUbFNvUmNpR3Z1RVBNQ2dSY3NXa1Q0cWZTN1RSU283a2tUTjk1cHU2akJYa2NwTy1scEtDSzhJZHZUZDJLcnU3dUtZTkY?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 25,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.02,
+      "sentiment_7d_avg": null
+    },
+    "shipbuilding_orders": {
+      "today": 5,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.1,
+      "sentiment_7d_avg": null
+    },
+    "dry_bulk_rate": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.5,
+      "sentiment_7d_avg": null
+    },
+    "container_freight": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.33,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 28,
+    "sentiment_distribution": {
+      "positive": 5,
+      "neutral": 17,
+      "negative": 6
+    },
+    "top_companies": [
+      {
+        "id": "hanwha_ocean",
+        "count": 3
+      },
+      {
+        "id": "cosco",
+        "count": 1
+      },
+      {
+        "id": "cssc",
+        "count": 1
+      },
+      {
+        "id": "hapag",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 25
+      },
+      {
+        "id": "shipbuilding_orders",
+        "count": 5
+      },
+      {
+        "id": "container_freight",
+        "count": 3
+      },
+      {
+        "id": "dry_bulk_rate",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 352,
+    "dup_title": 178,
+    "too_old": 74,
+    "gate1_blocked": 14,
+    "gate2_blocked": 13,
+    "passed": 73,
+    "pass_rate": "42.0%",
+    "gate2_block_rate": "7.5%",
+    "gate2_samples": [
+      "Samsung Heavy Industries accelerates push into US Navy MRO market - 헤럴드경제",
+      "ABS Issues AIP for Samsung Heavy Industries’ FLNG Liquefaction System - iMarine",
+      "Hanwha Ocean Prepares for Nuclear-Powered Submarine Development - THE ELEC, Korea Electronics Indust",
+      "GTT Energy-Commande de Hanwha Ocean pour les cuves de deux méthaniers - TradingView",
+      "Hanwha Ocean Sets Up Nuclear Submarine Unit - Businesskorea"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 28 則事件，焦點為韓華海洋、中遠海控、中國船舶相關動態：「UK ports hit back at Brussels over ETS diversion claims」。整體情緒偏負面，需留意潛在風險。",
+    "signals": [
+      {
+        "text": "UK ports hit back at Brussels over ETS diversion claims（航運產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "Record monthly container volumes at Port of Long Beach as imports soar（航運產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
