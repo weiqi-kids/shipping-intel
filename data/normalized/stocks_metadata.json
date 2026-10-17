@@ -55,8 +55,8 @@
   },
   "zim": {
     "earliest": "2021-01-28",
-    "latest": "2026-10-15",
-    "count": 1436,
+    "latest": "2026-10-16",
+    "count": 1437,
     "history_complete": true
   },
   "cosco": {
@@ -79,14 +79,14 @@
   },
   "star_bulk": {
     "earliest": "2007-12-03",
-    "latest": "2026-10-15",
-    "count": 4747,
+    "latest": "2026-10-16",
+    "count": 4748,
     "history_complete": true
   },
   "etf_sea": {
     "earliest": "2022-01-20",
-    "latest": "2026-10-15",
-    "count": 1189,
+    "latest": "2026-10-16",
+    "count": 1190,
     "history_complete": true
   }
 }

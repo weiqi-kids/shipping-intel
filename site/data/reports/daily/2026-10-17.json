@@ -1,0 +1,152 @@
+{
+  "date": "2026-10-17",
+  "generated_at": "2026-10-17T12:03:50.007797Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-10-17-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Exclusive: South Korean Shipbuilders Vie for Overseas Submarine Projects - 조선일보",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOdzNpQko2eU9nUHJfMjhkLTZOY213WjczeUpDTEJWdEJOZ3RoeGV2cTZLNzllSnpndGgyOHl1SHRGdWE0WFdpUEctR3haOF83N0V1dnFzcmo2ZTdzUkpVMHp5NnpGcWIxcE0tZEExZEp0Y01KcG5GMlJfTTI3VkgwV0hnLUlnSE1a?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "cosco-2026-10-17-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Key facts: Fink Seeks AI Funding; BlackRock, Inc. Fagron 2.96%/COSCO 6.95% - TradingView",
+      "companies": [
+        "cosco"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQMWlkZndkQ3ZKZmFBMHY0VzB3V2NibFVzbHYyMGVVZTQ3Ni1VWHZ3ZTNMdm95VnJScHhBRXFncGNUZWlHMUdQeFBfVGFxeVZkRVJQajVIU3E4aHVzS21kX2ZmUHNLNTNNekp6SkhBQWJQVFpFSndSN3haSkR2aTF5NUpaU1V0cnhJMFotMmdMbDFZM1NHOHJndWlHSW5MQnhWZkRuY3RnX0VmcTBPNjJ4Nm9CbUN2MjBfbzNmYUd0d010eTFlcll2TGFR?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-10-17-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "BREAKING: Texas judge upholds nuclear verdict against C.H. Robinson",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.freightwaves.com/news/breaking-texas-judge-upholds-nuclear-verdict-against-c-h-robinson"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-10-17-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Container Carriers Adjust Rates and Services to the Americas - Global Trade Magazine",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNWlFzekxiNWdQYjNqUUp0WE9Hd3hQaXNGd3o4QUdSc2R3WDdEYWlVNTVHR054dmNVZlpHRTdndG9zUThoUVlLSXNJSHZYYmY4Um5iRWhqbER2RFBFZGl0MEhTMlBMT3Z6QjZLR0ljQ2pMdFJ2UHVxbzdSYWlEc3JxMGNGVENUQ28xNUxxekJPUmZzcVRsSmxV?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 4,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 4,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "cosco",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 3
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 350,
+    "dup_title": 199,
+    "too_old": 82,
+    "gate1_blocked": 18,
+    "gate2_blocked": 11,
+    "passed": 40,
+    "pass_rate": "26.5%",
+    "gate2_block_rate": "7.3%",
+    "gate2_samples": [
+      "Samsung Heavy Industries accelerates push into US Navy MRO market - 헤럴드경제",
+      "GTT Energy-Commande de Hanwha Ocean pour les cuves de deux méthaniers - TradingView",
+      "Hanwha Ocean Prepares for Nuclear-Powered Submarine Development - THE ELEC, Korea Electronics Indust",
+      "Hanwha Ocean Sets Up Nuclear Submarine Unit - Businesskorea",
+      "Why is Evergreen Marine stock surging today? - Investing.com"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 4 則事件，焦點為中遠海控相關動態：「Exclusive: South Korean Shipbuilders Vie for Overseas Sub...」。主要關注主題為航運產業通用，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Exclusive: South Korean Shipbuilders Vie for Overseas Submarine Projects - 조선일보（航運產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "Key facts: Fink Seeks AI Funding; BlackRock, Inc. Fagron 2.96%/COSCO 6.95% - ...",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
