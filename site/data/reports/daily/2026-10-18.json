@@ -1,0 +1,178 @@
+{
+  "date": "2026-10-18",
+  "generated_at": "2026-10-18T12:32:05.046773Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "hd_korea-2026-10-18-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Caught Out By HD Korea Shipbuilding's Fall? Here's What Bears Saw - Simply Wall Street",
+      "companies": [
+        "hd_korea"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxOTTBEMkx1dlFnNjlQSXZMdnNrcnpGVklfcW5fNlZaSHRxMTBYYmQ2SHN1YVhVcE5SQ1pKVW1fZVVEVjRKT09ab3pWNGFSaTd2M1BLalVNZkVvOU1tUmFrY1JpX2FIZ1hGNFhORmpOMlowc1lSU0pSTGJiaDFlUzliYUlqcmR2cTgxSnBLWEtYYkVqYUljd1VHRWY0NlJ5RGlaM2FzN1M3MW5JV3ViVUVBMlpLVmZhLU5MZFpEV1A3Q2dxNFhrWWszSFNKRGNwMmx5MnVuZDcyUEFjeWdQUkZyQWUxWmNTbHc1c1N6M1hyTUNORkRrYmpSSjQ5S3paZzRkVXg5RtIBigJBVV95cUxPNFZySE5zNmVIRjhHbV9lMDU4REMzbGJubXhEV3pWemJqVTUxa2gxclcwX2d4M3FsOHdOZzZwTzc2Ry1kYzR0N2pLXzJzTjVlTGRQa2NlaG5lWTkwTXV4VXlHQVRJaUpOWk5rYnFBRjg5bnhQcnV6ZXNqeVF0ZmJqN20tUzlrRlRjZnZnSUY2TTBwNjhyVVRWWUpMb19ac1VVYVZJYTVKZXp6ZlV1M2NqdFprb0ttX2NLLXpGV1JicTBKVmxzZzFIbjhoNTFxQnZPSUstRTJPbXBNb2ZRbEE5eHdVbEVVLVE5VmU2aWQwRFFzbnNhbldQQ0VQWC1vV1pTMG82UG9PU0pDQQ?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-10-18-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Orders are piling up, but shipbuilding stocks face ‘peak-out’ concerns over industry conditions - 매일경제",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5KWHI1M0hvcGkxNXVwdlRwMjJxVGluSGhqNzI1WUpiMVJvbkdEYWw4bVBra1oybHR5ZWFWOC1kc3FMaVdVMlc3WHVTR3FDNWxITXVZ?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "hanwha_ocean-2026-10-18-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Hanwha Systems exits Hanwha Ocean stake, raises 1.38 trillion won via PRS - CHOSUNBIZ - Chosunbiz",
+      "companies": [
+        "hanwha_ocean"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOTjhfY0ZvTGRVM1UxWEd1aE13UC1yYTRQRW5MTnExYkhGcm1LclNSOE9VUjBqTlBaVXdFcjY1VXg3cGpjOHg2c2hkRHRXbzREcFc3UTF5RXJGVUFzbHdjVXdOeFh4N3FqaXFVQVhIYnByLWtOZG9zWkpoNndNc2xFaNIBlAFBVV95cUxQMWItVEc2N0NUNFdFMUhmYUZWMWhTUmFqRmdMMU5YblN0Q3lsOVNLOUh1aUI3eDAzeVN6alVRdmlDVFhJZUViWUF1Z1JyelV4clN0b1NjZVFQYUxyY2s3a2VIRzBTcUlpSi10dTZmUEtSb1JyanNmbnhmYTJoaGcydTl2cjdfRGgxclhvcFFpbWJ4ZktZ?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-10-18-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Borderlands Mexico: US trucking crackdown raises concerns over freight disruptions",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -0.5
+      },
+      "source_url": "https://www.freightwaves.com/news/borderlands-mexico-us-trucking-crackdown-raises-concerns-over-freight-disruptions"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-10-18-005",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "No signs of truckload capacity recovering",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.freightwaves.com/news/no-signs-of-truckload-capacity-recovering"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 4,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.25,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 5,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 3,
+      "negative": 2
+    },
+    "top_companies": [
+      {
+        "id": "hd_korea",
+        "count": 1
+      },
+      {
+        "id": "hanwha_ocean",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 4
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 351,
+    "dup_title": 225,
+    "too_old": 80,
+    "gate1_blocked": 18,
+    "gate2_blocked": 11,
+    "passed": 17,
+    "pass_rate": "13.5%",
+    "gate2_block_rate": "8.7%",
+    "gate2_samples": [
+      "Samsung Heavy Industries accelerates push into US Navy MRO market - 헤럴드경제",
+      "GTT Energy-Commande de Hanwha Ocean pour les cuves de deux méthaniers - TradingView",
+      "Hanwha Ocean Sets Up Nuclear Submarine Unit - Businesskorea",
+      "Hanwha Ocean Puts Forward Wage Proposal, Calls for End to Crane Protest to Break Bargaining Deadlock",
+      "Hanwha Ocean Prepares for Nuclear-Powered Submarine Development - THE ELEC, Korea Electronics Indust"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 5 則事件，焦點為韓國造船海洋、韓華海洋相關動態：「Caught Out By HD Korea Shipbuilding's Fall? Here's What B...」。整體情緒偏負面，需留意潛在風險。",
+    "signals": [
+      {
+        "text": "Caught Out By HD Korea Shipbuilding's Fall? Here's What Bears Saw - Simply Wa...（航運產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "Orders are piling up, but shipbuilding stocks face ‘peak-out’ concerns over i...（航運產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

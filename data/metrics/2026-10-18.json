@@ -1,0 +1,25 @@
+{
+  "date": "2026-10-18",
+  "total_events": 5,
+  "by_company": {
+    "hd_korea": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "hanwha_ocean": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "industry_general": {
+      "count": 4,
+      "sentiment_avg": -0.25
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}
