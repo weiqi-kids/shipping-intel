@@ -1,0 +1,16 @@
+{
+  "total_raw": 352,
+  "dup_title": 164,
+  "no_date": 0,
+  "too_old": 73,
+  "gate1_fail": 23,
+  "gate2_fail": 10,
+  "passed": 82,
+  "gate2_samples": [
+    "Samsung Heavy Industries accelerates push into US Navy MRO market - 헤럴드경제",
+    "Hanwha Aerospace Co Hanwha Systems To Divest 1.38 Trln Won Worth Of Shares In Hanwha Ocean - Trading",
+    "Hanwha Ocean Sets Up Nuclear Submarine Unit - Businesskorea",
+    "GTT Energy-Commande de Hanwha Ocean pour les cuves de deux méthaniers - TradingView",
+    "Hanwha Ocean Puts Forward Wage Proposal, Calls for End to Crane Protest to Break Bargaining Deadlock"
+  ]
+}

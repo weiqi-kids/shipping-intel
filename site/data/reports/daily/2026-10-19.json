@@ -1,0 +1,227 @@
+{
+  "date": "2026-10-19",
+  "generated_at": "2026-10-19T15:24:41.736181Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "hapag-2026-10-19-048",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "Gemini signals full Suez return by Q1 as it launches new Asia-Med service",
+      "companies": [
+        "hapag",
+        "maersk"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://theloadstar.com/new-asia-med-service-from-gemini-signals-full-suez-return-by-q1/"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-10-19-023",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Northern Sea Route Transits Surpass 2025 Total as Arctic Shipping Gains Momentum",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://gcaptain.com/northern-sea-route-transits-surpass-2025-total-as-arctic-shipping-gains-momentum/"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-10-19-028",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Werner Enterprises issues Q3 profit warning",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://www.freightwaves.com/news/werner-enterprises-issues-q3-profit-warning"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-10-19-052",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "New report reveals hidden extra costs of cargo crime",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://theloadstar.com/new-report-reveals-hidden-extra-costs-of-cargo-crime/"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-10-19-057",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Strike first, threaten later - Iran's Hormuz blacklist offers little warning",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://www.seatrade-maritime.com/security/strike-first-threaten-later-iran-s-hormuz-blacklist-offers-little-warning"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 57,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.07,
+      "sentiment_7d_avg": null
+    },
+    "shipbuilding_orders": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.33,
+      "sentiment_7d_avg": null
+    },
+    "container_freight": {
+      "today": 7,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.07,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 62,
+    "sentiment_distribution": {
+      "positive": 3,
+      "neutral": 52,
+      "negative": 7
+    },
+    "top_companies": [
+      {
+        "id": "hanwha_ocean",
+        "count": 3
+      },
+      {
+        "id": "cosco",
+        "count": 3
+      },
+      {
+        "id": "maersk",
+        "count": 3
+      },
+      {
+        "id": "star_bulk",
+        "count": 2
+      },
+      {
+        "id": "samsung_heavy",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 57
+      },
+      {
+        "id": "container_freight",
+        "count": 7
+      },
+      {
+        "id": "shipbuilding_orders",
+        "count": 3
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 352,
+    "dup_title": 164,
+    "too_old": 73,
+    "gate1_blocked": 23,
+    "gate2_blocked": 10,
+    "passed": 82,
+    "pass_rate": "43.6%",
+    "gate2_block_rate": "5.3%",
+    "gate2_samples": [
+      "Samsung Heavy Industries accelerates push into US Navy MRO market - 헤럴드경제",
+      "Hanwha Aerospace Co Hanwha Systems To Divest 1.38 Trln Won Worth Of Shares In Hanwha Ocean - Trading",
+      "Hanwha Ocean Sets Up Nuclear Submarine Unit - Businesskorea",
+      "GTT Energy-Commande de Hanwha Ocean pour les cuves de deux méthaniers - TradingView",
+      "Hanwha Ocean Puts Forward Wage Proposal, Calls for End to Crane Protest to Break Bargaining Deadlock"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 62 則事件，焦點為韓華海洋、中遠海控、馬士基相關動態：「Gemini signals full Suez return by Q1 as it launches new ...」。整體情緒偏負面，需留意潛在風險。",
+    "signals": [
+      {
+        "text": "Gemini signals full Suez return by Q1 as it launches new Asia-Med service",
+        "level": "yellow"
+      },
+      {
+        "text": "Northern Sea Route Transits Surpass 2025 Total as Arctic Shipping Gains Momentum（航運產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
