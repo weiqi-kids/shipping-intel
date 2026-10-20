@@ -1,0 +1,16 @@
+{
+  "total_raw": 352,
+  "dup_title": 174,
+  "no_date": 0,
+  "too_old": 78,
+  "gate1_fail": 20,
+  "gate2_fail": 9,
+  "passed": 71,
+  "gate2_samples": [
+    "Samsung Heavy Industries accelerates push into US Navy MRO market - 헤럴드경제",
+    "Hanwha Aerospace Co Hanwha Systems To Divest 1.38 Trln Won Worth Of Shares In Hanwha Ocean - Trading",
+    "Hanwha Systems sells 7.24 percent of Hanwha Ocean stock - ad-hoc-news.de",
+    "POSCO, Hanwha Ocean Expand High-Manganese Steel in LNG - 조선일보",
+    "GTT Energy-Commande de Hanwha Ocean pour les cuves de deux méthaniers - TradingView"
+  ]
+}

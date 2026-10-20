@@ -1,5 +1,691 @@
 [
   {
+    "id": "unknown-2026-10-20-001",
+    "date": "2026-10-20",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "HD Hyundai wins $1.4 billion HMM order for 8 LNG container ships - KED Global",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTFB6a2dXNkVRSjRldWxfU0NWTUlVQ3o5SS11Sjd2U3k4ZWZBZkc0OXFsVUpxZ2RjVi1hZlNDTkJHc3BSZl9FXzQ4d1RoTFFaMGhiRThjdGFFa1UzVlJRYWh0UGpJd0xCWUVCRXZnLWNBWD",
+    "sources": [
+      {
+        "name": "hd_korea",
+        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFB6a2dXNkVRSjRldWxfU0NWTUlVQ3o5SS11Sjd2U3k4ZWZBZkc0OXFsVUpxZ2RjVi1hZlNDTkJHc3BSZl9FXzQ4d1RoTFFaMGhiRThjdGFFa1UzVlJRYWh0UGpJd0xCWUVCRXZnLWNBWDFyMGxBVVBOSERVWDc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "hd_korea-2026-10-20-002",
+    "date": "2026-10-20",
+    "companies": [
+      "hd_korea"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "HD Korea Shipbuilding's Subsidiary Secures Order for Six Container Ships from HMM - www.marketscreener.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxNU0JmZ0UxQ0F6SWtLdlVCLWw0dWFXeVpvM1J4QkVXVm0wN01GVGp4cDdFaVVYd19sdFBMRjBhSHZJLUZtNno4WG1uX24xajBHN21RMkNDdVd6cDdTUnYyeDI4RDUyM3hVMEJ1ODZJeD",
+    "sources": [
+      {
+        "name": "hd_korea",
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNU0JmZ0UxQ0F6SWtLdlVCLWw0dWFXeVpvM1J4QkVXVm0wN01GVGp4cDdFaVVYd19sdFBMRjBhSHZJLUZtNno4WG1uX24xajBHN21RMkNDdVd6cDdTUnYyeDI4RDUyM3hVMEJ1ODZJeDE4SkE1T1NyNU9VTmFsZndJU1JSbmcyZnBrcTBiSkdDOFA1a1VvcmRkUEdXbUxNXzYxdjF6ZHlmN3hYSWMzTjROUDJDNVQwdXpYRmYtNFlGRGRhQmhKd0pMbS1wMlkxR1U?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-20-003",
+    "date": "2026-10-20",
+    "companies": [],
+    "topics": [
+      "shipbuilding_orders",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "HD Hyundai Wins $1.42 Billion HMM Ship Order - Businesskorea",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE1uUXFHTWtOc0hzcHJTQXdLSjdubHR6OU1XT3ZqOGJBZEdtajh5S2RHZUdPUXp0U21CNjYtOFlIS3RTcUhqSnBrdzJ0UHNwS0tRWTMxWF9sZ0NIdHQ5QjdjVU5JS3VOcHFLN3NDTGF0RW",
+    "sources": [
+      {
+        "name": "hd_korea",
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1uUXFHTWtOc0hzcHJTQXdLSjdubHR6OU1XT3ZqOGJBZEdtajh5S2RHZUdPUXp0U21CNjYtOFlIS3RTcUhqSnBrdzJ0UHNwS0tRWTMxWF9sZ0NIdHQ5QjdjVU5JS3VOcHFLN3NDTGF0RW94YS1j?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-20-004",
+    "date": "2026-10-20",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "HD KSOE wins order from HMM for 8 LNG dual-fuel container ships - Aju Press",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTFAtZUVfZWlwVk9BWWZGT1R3NTZjWUdmdmYwQ29aVV9fZ2tCWmRvcEJHRlg1Zk9CNjdfN2NraDV5Y0I2cksyNld3elplUUtKTFRsb0VMYUlIVdIBV0FVX3lxTFAtZUVfZWlwVk9BWWZGT1",
+    "sources": [
+      {
+        "name": "hd_korea",
+        "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFAtZUVfZWlwVk9BWWZGT1R3NTZjWUdmdmYwQ29aVV9fZ2tCWmRvcEJHRlg1Zk9CNjdfN2NraDV5Y0I2cksyNld3elplUUtKTFRsb0VMYUlIVdIBV0FVX3lxTFAtZUVfZWlwVk9BWWZGT1R3NTZjWUdmdmYwQ29aVV9fZ2tCWmRvcEJHRlg1Zk9CNjdfN2NraDV5Y0I2cksyNld3elplUUtKTFRsb0VMYUlIVQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-20-005",
+    "date": "2026-10-20",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "HD KSOE lands $1.44 billion HMM order for eight LNG-fueled ships - Korea JoongAng Daily",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxNLTJscE5kMTh2TC1rTVZtOTY1TEhNamI0NE9La0dURHAxTFg2b0tZOFN3WUFQU1lsdHppbEhpdXhpd2dxRnZCM0sxSXFRanpyRFN3dWJJWEhnYnBRaHZ1MWZOeVJVLUc0dENYMnZ3T2",
+    "sources": [
+      {
+        "name": "hd_korea",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNLTJscE5kMTh2TC1rTVZtOTY1TEhNamI0NE9La0dURHAxTFg2b0tZOFN3WUFQU1lsdHppbEhpdXhpd2dxRnZCM0sxSXFRanpyRFN3dWJJWEhnYnBRaHZ1MWZOeVJVLUc0dENYMnZ3T2ZKUWNVY0NuWUZ2RHFqaFZkd1ptTmhndF9vZlM4VGJzelFmOW9HdDJseXlhb1FoTlZtUlh4cDk0RmdveHExa0s4NnZCLVU?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-20-006",
+    "date": "2026-10-20",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "HD KSOE wins $1.4 bil. order from HMM for 8 container ships - The Korea Times",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxQZUJzQ19nUWtSWXNJdndoMmg1SHJQZkZKWUotdlFScGw4WXNOSHRtLUd6S1NrbkQ3cFN0SDVFalNxQXJ3ZlNaNnQ4emE5a1JveUU1SDY0YXpVRUwxRkJGNXdnMVd2T0wyenJFaWxaUH",
+    "sources": [
+      {
+        "name": "hd_korea",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQZUJzQ19nUWtSWXNJdndoMmg1SHJQZkZKWUotdlFScGw4WXNOSHRtLUd6S1NrbkQ3cFN0SDVFalNxQXJ3ZlNaNnQ4emE5a1JveUU1SDY0YXpVRUwxRkJGNXdnMVd2T0wyenJFaWxaUHZFQ1Btc0tfMkFTLVgtNWplTllNdWlwUnBqNERfRm4wRXluc3pPcDBMNl8zSmV4RDFrLU9IdzFSemlZN2vSAasBQVVfeXFMUGVCc0NfZ1FrUllzSXZ3aDJoNUhyUGZGSllKLXZRUnBsOFlzTkh0bS1HektTa25EN3BTdEg1RWpTcUFyd2ZTWjZ0OHphOWtSb3lFNUg2NGF6VUVMMUZCRjV3ZzFXdk9MMnpyRWlsWlB2RUNQbXNLXzJBUy1YLTVqZU5ZTXVpcFJwajREX0ZuMEV5bnN6T3AwTDZfM0pleEQxay1PSHcxUnppWTdr?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "hd_korea-2026-10-20-007",
+    "date": "2026-10-20",
+    "companies": [
+      "hd_korea"
+    ],
+    "topics": [
+      "shipbuilding_orders",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "HD Korea Shipbuilding Wins $1.3 Billion HMM Container Ship Order - Seoul Economic Daily",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxQcTNXSmtlY3FMckdGbXVrakhaUE9hRVI0VUxSbVdFMlZ4MXJCNmJEYzBNWjJudlA2bkt5UjR4SEVZMDJBTGNTdWJRa3J5eE9sTlB1ZXBuNGxrZGliYkpuWXN2eEU2YVp1TG9lOXNkU2",
+    "sources": [
+      {
+        "name": "hd_korea",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQcTNXSmtlY3FMckdGbXVrakhaUE9hRVI0VUxSbVdFMlZ4MXJCNmJEYzBNWjJudlA2bkt5UjR4SEVZMDJBTGNTdWJRa3J5eE9sTlB1ZXBuNGxrZGliYkpuWXN2eEU2YVp1TG9lOXNkU296bHVraXR3N01FX0hQR0RFMlQwU3VnTmdvQ3NhU0lzd1R1dzNtNjVnSGdjWHA4MWc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-20-008",
+    "date": "2026-10-20",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "HD Hyundai Wins 1.9 Trillion Won Order from HMM for 8 LNG Dual-Fuel Container Ships - BigGo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE4tZlhscnZVRFRGU1RTdjVXdDVfREQtT1A5MWNtSDAzUk93RUF5LTdtSmtpcGtFZWt2ZVBMOXliZlAzQS1WWmxwa2p3Qkp5c3pWRFpxc1FzcldfQTEtbGhaVGlwWGhyd3pXTENKdGdGem",
+    "sources": [
+      {
+        "name": "hd_korea",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE4tZlhscnZVRFRGU1RTdjVXdDVfREQtT1A5MWNtSDAzUk93RUF5LTdtSmtpcGtFZWt2ZVBMOXliZlAzQS1WWmxwa2p3Qkp5c3pWRFpxc1FzcldfQTEtbGhaVGlwWGhyd3pXTENKdGdGemZRVVNDN3c?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-20-009",
+    "date": "2026-10-20",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "HD Hyundai wins HMM order for eight LNG container ships in South Korea - CHOSUNBIZ - Chosunbiz",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxPVTVuQ0tuWWZZUmdCV0x5MTJGeGl3R1k2cGprYlp6aFJhUlgzVEFtbmttWU1OQ2NPU01VWTQ4Wk0tRGhKdXdCbUN5Y19lcjVjWmZjZzRrODhYMGlNRFppZlhpekVZWUd4MWNVem9pWU",
+    "sources": [
+      {
+        "name": "hd_korea",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPVTVuQ0tuWWZZUmdCV0x5MTJGeGl3R1k2cGprYlp6aFJhUlgzVEFtbmttWU1OQ2NPU01VWTQ4Wk0tRGhKdXdCbUN5Y19lcjVjWmZjZzRrODhYMGlNRFppZlhpekVZWUd4MWNVem9pWUFxaUpBUnF2OVNiQTR2UDM5eHJB0gGWAUFVX3lxTE1DZElYdG9TN2xCMlN4ZlZvay1GSkZfNzZydDF3SE14bXU4aEYwYl9xZ1pBMEt6UXZMVkp5ekNfbzZ0R09acktJU2NtbjR0dndCRmZfZXdCNWRfYjdXVWdRYWd2NU5kTWJfRWg5NnkyTnRNcGpDaDBqVDNxMTM5bEtYRHhQR2w3eUMzNkdZWnRUX1FLelA3QQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-20-010",
+    "date": "2026-10-20",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "HD Hyundai demonstrates autonomous warship technology in US - 매일경제",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiUkFVX3lxTE11VUlaV3J4UU1aNmhDOFN2MHY2a1NudW5IWlVpOGo3RVlrQXRiMHBMNGw3eWFGeEJERUFjREpwRi1qUU9saG1HYXFrclRVbHNSV0E?oc=5\" target=\"_blank\">HD Hyundai demon",
+    "sources": [
+      {
+        "name": "hd_korea",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE11VUlaV3J4UU1aNmhDOFN2MHY2a1NudW5IWlVpOGo3RVlrQXRiMHBMNGw3eWFGeEJERUFjREpwRi1qUU9saG1HYXFrclRVbHNSV0E?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "samsung_heavy-2026-10-20-011",
+    "date": "2026-10-20",
+    "companies": [
+      "samsung_heavy"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Geoje Signs Investment Pact With Samsung Heavy Industries - Seoul Economic Daily",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxOUnRQemFmXzVuRlpOcnFTRWxQZ3RNRUlleTBDTHVOdklZTS1ySTV2NHE4elBneGZwdFJHb0tTamxlUXlWRFVyenRYSlN2bVpOUHJNTzFMVW1BVUxxRVItV283WEJfcmM2V1BIUFhLVT",
+    "sources": [
+      {
+        "name": "samsung_heavy",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOUnRQemFmXzVuRlpOcnFTRWxQZ3RNRUlleTBDTHVOdklZTS1ySTV2NHE4elBneGZwdFJHb0tTamxlUXlWRFVyenRYSlN2bVpOUHJNTzFMVW1BVUxxRVItV283WEJfcmM2V1BIUFhLVTY5Q0Q0SGRLUkxnQjlEdG5xdm56bklZeDczbGRNdERmSzFOUE9uSG5aNnJkRlpUMVRz?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-20-012",
+    "date": "2026-10-20",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Yang Ming Names 15,500 TEU LNG Dual-Fuel Vessel YM Weight for Asia-West Mediterranean MS2 Service - LM - Logistics Manager",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxOMUxLYld3azNIaDl0Z1c3VC04ak9LU2ZXNVR6X3ZTWmcyUWtwT0dEd2N6T2x2RHFTT20wWkF6QjNYYlZHTWVCQ3hvNnlEUDNMbEdILUptUHBhNUk2ODdocDJfaXFIeWphUWVZZjhtNX",
+    "sources": [
+      {
+        "name": "yang_ming",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOMUxLYld3azNIaDl0Z1c3VC04ak9LU2ZXNVR6X3ZTWmcyUWtwT0dEd2N6T2x2RHFTT20wWkF6QjNYYlZHTWVCQ3hvNnlEUDNMbEdILUptUHBhNUk2ODdocDJfaXFIeWphUWVZZjhtNXloTnBweUNKVFdpa1dmdlRXV29GdHpYaldRMnl0SThJcDdPWW5wNE5aVDRhd0h1c2daYkFrSy10cXdNYVlwWkNNak5JZVRvcGg2LVdsWUtUbnlEdnNvRnc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-20-013",
+    "date": "2026-10-20",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Yang Ming adds 1,400-TEU shuttle: what it means for Yang Ming stock - ad-hoc-news.de",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxOWGx1RnBfekNaaTYzRmJGZzQ2ekpjQjN0UnlablJ3MWtXNU9UUlJOUXd0cjBaNTA5WWszYWdmTDRjQ2pDdkV5OXowTDg0aUJBUEhxcV9IaUxmMXR3cGpZbFdwR2RsSzh6djBPdVdoNk",
+    "sources": [
+      {
+        "name": "yang_ming",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOWGx1RnBfekNaaTYzRmJGZzQ2ekpjQjN0UnlablJ3MWtXNU9UUlJOUXd0cjBaNTA5WWszYWdmTDRjQ2pDdkV5OXowTDg0aUJBUEhxcV9IaUxmMXR3cGpZbFdwR2RsSzh6djBPdVdoNk5BZE5tWGM4TDZEeHZMeVozYndPNUFDZDVjVktzYWYwZlBhcy1ZaUxYU3ZvVWxqYXI4d1dNaFFKb3d1QXhqUTYweGVJR3JqRmNfbENUX0ZQV05wZHRBelpfNg?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "cosco-2026-10-20-014",
+    "date": "2026-10-20",
+    "companies": [
+      "cosco"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "negative",
+    "title": "COSCO Shipping Energy shares declined, as the industry expects the actual impact of lifting restrictions on shadow fleets to be limited. - Moomoo",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxPOFF5TEdPS1RFVnBWdGRQOGFkRDVCNXd2bXVUV0VTaXBUM0JvLWZfSlBJLUNSSHB6U0FUM2VVSE5MRDVJUC1XYnJxV25zTTVRN3I5MlJnOWNiblZmcTJSLXFERlpCRlkweEhLWjZYV3",
+    "sources": [
+      {
+        "name": "cosco",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPOFF5TEdPS1RFVnBWdGRQOGFkRDVCNXd2bXVUV0VTaXBUM0JvLWZfSlBJLUNSSHB6U0FUM2VVSE5MRDVJUC1XYnJxV25zTTVRN3I5MlJnOWNiblZmcTJSLXFERlpCRlkweEhLWjZYV3pJM1ZDMkt2WF9GbmpYZUIxSjZpc1ZGQ2pnNWJJenlIWC0zeGN5ODJ3VGZjeGY5YWp2M2o1cE9ZZktMQWVYSXc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "star_bulk-2026-10-20-015",
+    "date": "2026-10-20",
+    "companies": [
+      "star_bulk"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Star Bulk Carriers (NASDAQ:SBLK): A High-Yield Dividend Stock With Quality Trade-Offs - ChartMill",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxPTkdiaWRpWVNid1FYeWk3eDBMMXBaQzZVLVRGaVJwWkRCVkJsWUgtUmJwTTFwZVhpOEd0bUhSQS13MWVnZFFJT0lnSVdTLWhkUGI5X1IwNThLX2ZRbnFicmMwQW10Q2RoNkNWaG9uME",
+    "sources": [
+      {
+        "name": "star_bulk",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPTkdiaWRpWVNid1FYeWk3eDBMMXBaQzZVLVRGaVJwWkRCVkJsWUgtUmJwTTFwZVhpOEd0bUhSQS13MWVnZFFJT0lnSVdTLWhkUGI5X1IwNThLX2ZRbnFicmMwQW10Q2RoNkNWaG9uMEtfazdDUk5JZi04akdQeUlvVDhGb1RnX1VKeEwwT3lzdXVZaEhzS0hyX1otQUY1Yno3TFFWZkR4WmhDSTY0Wm91am5QNWJKeHctVUppa1N3RVZjbzFxazdlWXNyWXI0dw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "star_bulk-2026-10-20-016",
+    "date": "2026-10-20",
+    "companies": [
+      "star_bulk"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Learn Why The Bull Case For Star Bulk Carriers Stock Could Change Following Equity Offerings - Simply Wall Street",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3gFBVV95cUxQVG4tWlZVN3Bzd3BVd2pYX3FnSW9kcmNfVS1oa3hRRnRDMUQ2UUJEekRvSHhKYjZENjAxWGY0VWZqNURReDBCQ0lMR0Z2Ni1KUUNNOFdkUVJYT2dJTVlXZFZfSURCeWdvRjhZZlBHR0",
+    "sources": [
+      {
+        "name": "star_bulk",
+        "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQVG4tWlZVN3Bzd3BVd2pYX3FnSW9kcmNfVS1oa3hRRnRDMUQ2UUJEekRvSHhKYjZENjAxWGY0VWZqNURReDBCQ0lMR0Z2Ni1KUUNNOFdkUVJYT2dJTVlXZFZfSURCeWdvRjhZZlBHR0x2M0FYTmZNOFZLb0V1bUlPWWx2eDJ1VkVVYlh6dnZfaWtqa0pfU1QyX29xQUN3ejg5ZW52d3FpMGc5M1FDYThscmEweGdpdHNRbG8xTXpjTFhhZDdIZ2lKVmZtTWc3ZUltSHBHRVpwb2JyazRzZUHSAeMBQVVfeXFMUG9ERWtNSlNPU2FfN29hLXFRNDJTS3VpbC03WmRhazhLRWE4aU5FeTk1SkFZeHI5cFBLWjFESEduX3pNTHlLbHhtTVVuWmtEVm9tLVJ5dnJnUHJWLU03VHVQV3hYYVlzMFB4dzlWQmpfTzNsdkxibEtCT2o1bEE5SDlIMG9PcmJTYmNaNnVLenVaYmFtSXluYnAwcnRRdDdiN2dTVWZDSEdjdjZrZlN4MFg1T0VaUHhZLWdzd2hVejVDX1ZXWHU1M3k1ZEx4LWpKd1U5TlVnNzJEWWRqaHlkcXNBUjQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-20-017",
+    "date": "2026-10-20",
+    "companies": [],
+    "topics": [
+      "container_freight",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Daimler Is Building Autonomy Into The Truck At The Factory, And Leaving The Software Choice Open",
+    "summary": "<p>One of the quieter but more consequential points to come out of a recent candid session with Daimler Truck leadership had nothing to do with financing or freight rates and everything to do with how",
+    "sources": [
+      {
+        "name": "freightwaves",
+        "url": "https://www.freightwaves.com/news/daimler-is-building-autonomy-into-the-truck-at-the-factory-and-leaving-the-software-choice-open",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-20-018",
+    "date": "2026-10-20",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "The 2026 Elections Will Reshape Trucking Labor Policy No Matter Which Party Wins",
+    "summary": "<p>For most of the last two decades, trucking could read the politics of its workforce fights along a familiar line, with one party broadly friendly to the independent contractor model and the other b",
+    "sources": [
+      {
+        "name": "freightwaves",
+        "url": "https://www.freightwaves.com/news/the-2026-elections-will-reshape-trucking-labor-policy-no-matter-which-party-wins",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-20-019",
+    "date": "2026-10-20",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "BW LPG India offloads 18-year-old VLGC for over $80m",
+    "summary": "<p>New York- and Oslo-listed gas carrier giant BW LPG is cashing in again on strong secondhand values, agreeing to sell an 18-year-old VLGC for more than $80m as it presses ahead with a major fleet re",
+    "sources": [
+      {
+        "name": "splash247",
+        "url": "https://splash247.com/bw-lpg-india-offloads-18-year-old-vlgc-for-over-80m/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-20-020",
+    "date": "2026-10-20",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "UK shipowners warn against copying FuelEU red tape",
+    "summary": "<p>The UK Chamber of Shipping has urged the British government to avoid repeating the compliance problems encountered under FuelEU Maritime as it prepares to introduce its own maritime fuel standard. ",
+    "sources": [
+      {
+        "name": "splash247",
+        "url": "https://splash247.com/uk-shipowners-warn-against-copying-fueleu-red-tape/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "hanwha_ocean-2026-10-20-021",
+    "date": "2026-10-20",
+    "companies": [
+      "hanwha_ocean"
+    ],
+    "topics": [
+      "shipbuilding_orders",
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Marinakis tanker venture locks down $930m for 11 VLCC newbuilds",
+    "summary": "<p>Greek shipowner Capital Tankers has lined up $930.3m in financing for 11 VLCC newbuildings under construction in China and South Korea, making further headway in funding its expanding crude tanker ",
+    "sources": [
+      {
+        "name": "splash247",
+        "url": "https://splash247.com/marinakis-tanker-venture-locks-down-930m-for-11-vlcc-newbuilds/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-20-022",
+    "date": "2026-10-20",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Euroseas seals bumper charter and $26m boxship sale",
+    "summary": "<p>Nasdaq-listed Greek containership owner Euroseas has secured a $62,500-a-day charter for a 25-year-old feeder vessel while agreeing to sell its sistership for $26m, capitalising on continued streng",
+    "sources": [
+      {
+        "name": "splash247",
+        "url": "https://splash247.com/euroseas-seals-bumper-charter-and-26m-boxship-sale/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-20-023",
+    "date": "2026-10-20",
+    "companies": [],
+    "topics": [
+      "shipbuilding_orders",
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Dutch inland shipping duo expands into Belgium with new chartering venture",
+    "summary": "<p>Dutch inland shipping companies Amer Shipping and Van de Graaf &#38; Meeusen have joined forces to establish a new chartering business in Antwerp, backed by a fresh dry cargo newbuilding order at C",
+    "sources": [
+      {
+        "name": "splash247",
+        "url": "https://splash247.com/dutch-inland-shipping-duo-expands-into-belgium-with-new-chartering-venture/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-20-024",
+    "date": "2026-10-20",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Fugro lands NOAA seabed mapping contract off Florida",
+    "summary": "<p>Dutch survey specialist Fugro has secured a contract with the US National Oceanic and Atmospheric Administration (NOAA) to map about 3,200 sq km of seabed off Florida&#8217;s Atlantic coast. The co",
+    "sources": [
+      {
+        "name": "splash247",
+        "url": "https://splash247.com/fugro-lands-noaa-seabed-mapping-contract-off-florida/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-20-025",
+    "date": "2026-10-20",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Eastern Pacific links wind propulsion repayments to fuel savings",
+    "summary": "<p>Singapore-based Eastern Pacific Shipping (EPS) has secured financing for wind-assisted propulsion systems on two vessels through a fund linking repayments to independently verified fuel savings. Th",
+    "sources": [
+      {
+        "name": "splash247",
+        "url": "https://splash247.com/eastern-pacific-links-wind-propulsion-repayments-to-fuel-savings/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-20-026",
+    "date": "2026-10-20",
+    "companies": [],
+    "topics": [
+      "dry_bulk_rate",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Transworld adds supramax in fresh fleet move",
+    "summary": "<p>India&#8217;s Transworld Shipping Lines has returned to the secondhand dry bulk market, agreeing to acquire a supramax carrier for $16.5m as it continues reshaping its fleet. The Navi Mumbai-based ",
+    "sources": [
+      {
+        "name": "splash247",
+        "url": "https://splash247.com/transworld-adds-supramax-in-fresh-fleet-move/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-20-027",
+    "date": "2026-10-20",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "US moves to legitimise shadow tanker fleet",
+    "summary": "<p>The Trump administration is authorising the sale of sanctioned oil tankers to approved investors who would refurbish the vessels and return them to legitimate crude trades, US energy secretary Chri",
+    "sources": [
+      {
+        "name": "splash247",
+        "url": "https://splash247.com/us-moves-to-legitimise-shadow-tanker-fleet/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-20-028",
+    "date": "2026-10-20",
+    "companies": [],
+    "topics": [
+      "shipbuilding_orders",
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "MSC tipped for another 20 megamaxes in China",
+    "summary": "<p>Mediterranean Shipping Co (MSC) has reportedly added another 20 megamax containerships at China&#8217;s Hengli Heavy Industries, further expanding its already massive orderbook as global newbuildin",
+    "sources": [
+      {
+        "name": "splash247",
+        "url": "https://splash247.com/msc-tipped-for-another-20-megamaxes-in-china/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-20-029",
+    "date": "2026-10-20",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "APM Terminals to lose control of Salalah transhipment hub in 2028",
+    "summary": "<p>APM Terminals is facing the prospect of losing control of the Omani deepsea transhipment hub of Salalah.<br />\nSalalah Port Service Company announced it had &#8220;received formal notification from",
+    "sources": [
+      {
+        "name": "loadstar",
+        "url": "https://theloadstar.com/apm-terminals-to-lose-control-of-salalah-transhipment-hub-in-2028/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-20-030",
+    "date": "2026-10-20",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "New mining operations unearth opportunities for logistics in Africa",
+    "summary": "<p>Mining developments in sub-Saharan Africa are boosting the continent’s infrastructure, which supply chain operators have been crying out for, but significant gaps remain.<br />\nData from the OECD s",
+    "sources": [
+      {
+        "name": "loadstar",
+        "url": "https://theloadstar.com/new-mining-operations-unearth-opportunities-for-logistics-in-africa/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-20-031",
+    "date": "2026-10-20",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Dray Dog-CargoWise link-up will automate port bookings for drayage",
+    "summary": "<p>WiseTech Global has integrated its CargoWise Landside transport management systems (TMS) with marine terminal appointment software provider Dray Dog, enabling US drayage operators to automate port ",
+    "sources": [
+      {
+        "name": "loadstar",
+        "url": "https://theloadstar.com/dray-dog-cargowise-link-up-will-automate-port-bookings-for-drayage/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-20-032",
+    "date": "2026-10-20",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Airlines strengthen winter freighter links, as forwarders face capacity shuffle",
+    "summary": "<p>Airlines are strengthening freighter links between Asia, Europe, and the Americas for winter, adding transatlantic flights, connections to Latin American manufacturing and distribution hubs, and ca",
+    "sources": [
+      {
+        "name": "loadstar",
+        "url": "https://theloadstar.com/airlines-strengthen-winter-freighter-links-as-forwarders-face-capacity-shuffle/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-20-033",
+    "date": "2026-10-20",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Port of Singapore faces new challenges – but also new opportunities",
+    "summary": "<p>Singapore’s position as a global container transhipment hub depends on its ability to remain competitive within international liner shipping networks, as rival ports accelerate investment in digita",
+    "sources": [
+      {
+        "name": "loadstar",
+        "url": "https://theloadstar.com/port-of-singapore-faces-new-challenges-but-also-new-opportunities/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-20-034",
+    "date": "2026-10-20",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "‘New MSC’ buy – building a Military Shipping Company unit?",
+    "summary": "<p>&#8220;Deadly missile attacks shut down Riyadh airport. Russian strikes on Ukraine kill more than 100 civilians across the country. Poland warns of the danger of Russian attacks inside the EU causi",
+    "sources": [
+      {
+        "name": "loadstar",
+        "url": "https://theloadstar.com/new-msc-buy-building-a-military-shipping-company-unit/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-20-035",
+    "date": "2026-10-20",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Texas LNG seeks five-year delay for Brownsville export terminal",
+    "summary": "Developer pushes start deadline to 2032 following permitting challenges even as financial and engineering momentum ramp up.",
+    "sources": [
+      {
+        "name": "seatrade_maritime",
+        "url": "https://www.seatrade-maritime.com/lng/texas-lng-seeks-five-year-delay-for-brownsville-export-terminal",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-20-036",
+    "date": "2026-10-20",
+    "companies": [],
+    "topics": [
+      "shipbuilding_orders",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "MSC and HMM send boxship orderbook to new peak",
+    "summary": "A flurry of new vessel orders by MSC and HMM has sent the container ship orderbook to new highs as demolition rates remain at basement levels.",
+    "sources": [
+      {
+        "name": "seatrade_maritime",
+        "url": "https://www.seatrade-maritime.com/containers/msc-and-hmm-send-orderbook-to-new-peak",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-20-037",
+    "date": "2026-10-20",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "PIL opens its ninth Latin American agency in Colombia",
+    "summary": "The Singapore-headquartered shipping line continues to expand its presence in Latin America",
+    "sources": [
+      {
+        "name": "seatrade_maritime",
+        "url": "https://www.seatrade-maritime.com/containers/pil-opens-its-ninth-latin-american-agency-in-colombia",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "unknown-2026-10-19-001",
     "date": "2026-10-19",
     "companies": [],
@@ -1136,6 +1822,611 @@
       {
         "name": "seatrade_maritime",
         "url": "https://www.seatrade-maritime.com/tankers/bv-china-and-pacific-gas-ink-strategic-cooperation",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-19-063",
+    "date": "2026-10-19",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "South Korea's HD Hyundai tests autonomous warship in U.S. - upi",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxNSTAteTB6SlozOWpLaWJKMGZ5OFZDcnV4bWpCUHJyVEJTdHYxMkc3SElTSVJMOVJRMHF2cWZtbVJTMzFGVnBYQjRFYl94ZFhXSzlaV1p5TmV3ZThSempNalhKMFJhWTVjNHZvcDBZdX",
+    "sources": [
+      {
+        "name": "hd_korea",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNSTAteTB6SlozOWpLaWJKMGZ5OFZDcnV4bWpCUHJyVEJTdHYxMkc3SElTSVJMOVJRMHF2cWZtbVJTMzFGVnBYQjRFYl94ZFhXSzlaV1p5TmV3ZThSempNalhKMFJhWTVjNHZvcDBZdXFZSnN6RGZ3Ui02N2hoVHV0MHBrVmZtN3dnWndYczV1RVlEMEhtck9SM244MC0yM1NtakNWTzZ6WjFNbkND0gGyAUFVX3lxTE5QN25RZ3EyajNjWFJBYnJ6OGJfRklDM1d4N0Rja1VjS2ViVjVTZjZTRFpvUFdhc2ZRWG9uaVdGQU5yT0plZXpVLXd5cV9HNHJpU3NkTC11dTZ2QmZQOUpFSnhNUlVJNnpiZDhIMEN6cXFlUHRCS0VQMmhjdjQxTzRGSWphYURKLUo4c0ZYbllTWi1qWkVobklSVzByZVZsWEY5aUg4aVpqWTl3WEh2djZwZWc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "hd_korea-2026-10-19-064",
+    "date": "2026-10-19",
+    "companies": [
+      "hd_korea"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "HD Korea Shipbuilding & Offshore Engineering Logs September Orders of $1.84 Billion - Moomoo",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxPVURIeGI1SnhQOGZXSndJLVpQQWdUemdFSDl5dHRxRkxMWEItX1hjNzRBdnVDUHFpNmJxUHpWZmFITkJreTRPWkhTa3lkSjYxaVFnTVJBMUNYQVNnYTR4eHZSSzFGa0RXT1JBSldmdG",
+    "sources": [
+      {
+        "name": "hd_korea",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPVURIeGI1SnhQOGZXSndJLVpQQWdUemdFSDl5dHRxRkxMWEItX1hjNzRBdnVDUHFpNmJxUHpWZmFITkJreTRPWkhTa3lkSjYxaVFnTVJBMUNYQVNnYTR4eHZSSzFGa0RXT1JBSldmdGxEdEtDdkNCSHJZT2hSeV90OG43bkpDaER5RE5uMVRrZW1wZjF4YzRQWmhnMTJPT2pqVDdpcDhqVlhaeE4wWHZjTnVSVQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-19-065",
+    "date": "2026-10-19",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "HD Hyundai, Anduril demonstrate autonomous naval vessel in US - Aju Press",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTFAwNjh1ZzNaeUpyMExpZ2dQek9jR0FUNWxHblBwRTNZMnlObEN5NU1JNGhsNHZad2ItQTVuOUEzWWRTVjBfOVlheWx5bGJCSDh2Y3RLOGsxNFo0Y0HSAVdBVV95cUxNekQ1R29JUHYxMl",
+    "sources": [
+      {
+        "name": "hd_korea",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAwNjh1ZzNaeUpyMExpZ2dQek9jR0FUNWxHblBwRTNZMnlObEN5NU1JNGhsNHZad2ItQTVuOUEzWWRTVjBfOVlheWx5bGJCSDh2Y3RLOGsxNFo0Y0HSAVdBVV95cUxNekQ1R29JUHYxMlk3T00tS1F2eURwUzhJdmx4YUxkMHhodkdFajZST3otbUFnTUtLbko5d3h1TDlCbXg3ektaNnhzQzlYeThxSE8xdFVzSXc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "samsung_heavy-2026-10-19-066",
+    "date": "2026-10-19",
+    "companies": [
+      "samsung_heavy"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "SDSU launches shipbuilding research projects with South Korea, Samsung Heavy Industries - San Diego State University",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxOcmtyVW10Z0FWTlhhQTkxY3Izd1BPbFBBMmQ5SEp3MzlORzBxQmExa05fVWtrSHRkcmlTWXpZZElCcXNWZG9LN0xtbm13MmtSZy14d0xONDBweFFzVzhZWlFSbldLTFdHdUJYdGU2dj",
+    "sources": [
+      {
+        "name": "samsung_heavy",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOcmtyVW10Z0FWTlhhQTkxY3Izd1BPbFBBMmQ5SEp3MzlORzBxQmExa05fVWtrSHRkcmlTWXpZZElCcXNWZG9LN0xtbm13MmtSZy14d0xONDBweFFzVzhZWlFSbldLTFdHdUJYdGU2djVkRjlxQl80Qm5TMmp1VGNRZFhOZnhSZlctdFpyeUt2Y1BsNU12a19ybUdGeFdXdFRLdzRKeWdTRzdjTThNTk9CWnY4WkxobnY5OUNScw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-19-067",
+    "date": "2026-10-19",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Panama restrictions, intra-Asia peak to support carrier Q4 revenues: Yang Ming - Journal of Commerce",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxNcFAyak9aY2RPM1hRRTdNR1R0RzJoa3JuWXFUREExZEtPRUh5bTVHMlYtVTlpSEg4bDdjWVI5YUtxOHBqblpraHVyMXc3bWY5bHVET0phenFmTXU0QkJ4ZDRkNkc1YURIS2VTZ25PdU",
+    "sources": [
+      {
+        "name": "yang_ming",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNcFAyak9aY2RPM1hRRTdNR1R0RzJoa3JuWXFUREExZEtPRUh5bTVHMlYtVTlpSEg4bDdjWVI5YUtxOHBqblpraHVyMXc3bWY5bHVET0phenFmTXU0QkJ4ZDRkNkc1YURIS2VTZ25PdUNMcUFlLXo0ZnR3blh0eFFGUUhYdnNEWGstR2UwenRDQmQ2TFc3V1FfajBrNENCZ3owODVIc0NXcnFKVGwxQVBNQi1R?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "cosco-2026-10-19-068",
+    "date": "2026-10-19",
+    "companies": [
+      "cosco"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "COSCO SHIPPING International (Hong Kong) (SEHK:517) Stock May Look Reasonable On Earnings - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxPV1hZeFJiNjVZcXUxc2RULVFOZG81aUlUMUlpQmdPZlNaVUszejl0T21ybmkxa1p3UGRXN2JSTWsteFdfaU1tcHFPdVk4Snk5VVNYeUZ5NFhnRVlObXNrRWtWclpVekZyUnJ5WVRMTm",
+    "sources": [
+      {
+        "name": "cosco",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPV1hZeFJiNjVZcXUxc2RULVFOZG81aUlUMUlpQmdPZlNaVUszejl0T21ybmkxa1p3UGRXN2JSTWsteFdfaU1tcHFPdVk4Snk5VVNYeUZ5NFhnRVlObXNrRWtWclpVekZyUnJ5WVRMTmdzTVktTmVISkUtWDF0MmZQWF84SjQ1VUgxZm9uS2d4UTNubU1yOUEzUTdCRUpfSHNlVkNHdnR3?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-19-069",
+    "date": "2026-10-19",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "U.S. to Allow Dark-Fleet Tankers to Shed Sanctions, Wright Says",
+    "summary": "The Trump administration is authorizing the sale of sanctioned oil tankers in an effort to allow the vessels to start legitimately shipping crude, US Energy Secretary Chris Wright said.",
+    "sources": [
+      {
+        "name": "gcaptain",
+        "url": "https://gcaptain.com/u-s-to-allow-dark-fleet-tankers-to-shed-sanctions-wright-says/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-19-070",
+    "date": "2026-10-19",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Jones Act Waiver Faces New Scrutiny Over Foreign Crews, Taxes",
+    "summary": "Congressional scrutiny of the Trump administration&#8217;s Jones Act waiver is growing, with Rep. Salud Carbajal (D-Calif.) demanding answers about whether foreign vessels operating in domestic U.S. t",
+    "sources": [
+      {
+        "name": "gcaptain",
+        "url": "https://gcaptain.com/jones-act-waiver-faces-new-scrutiny-over-foreign-crews-taxes/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-19-071",
+    "date": "2026-10-19",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Russian Oil Exports by Arctic Route Jump Amid World Freight Crisis",
+    "summary": "Russia's oil exports through its Northern Sea Route (NSR) in 2026 have already exceeded last year's by nearly 50%, with some 20 million barrels shipped to Asia from the start of navigation in July to ",
+    "sources": [
+      {
+        "name": "gcaptain",
+        "url": "https://gcaptain.com/russian-oil-exports-by-arctic-route-jump-amid-world-freight-crisis/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-19-072",
+    "date": "2026-10-19",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Iran’s Main Oil Terminals Remain Empty as US Blockade Bites",
+    "summary": "Iran’s main oil-loading terminals have remained empty for weeks, adding to signs that a US naval blockade of the country is throttling Tehran’s exports.",
+    "sources": [
+      {
+        "name": "gcaptain",
+        "url": "https://gcaptain.com/irans-main-oil-terminals-remain-empty-as-us-blockade-bites/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-19-073",
+    "date": "2026-10-19",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Wright: US Sanctions Relief for Shadow Fleet Will Involve S&P Deals",
+    "summary": "\n                To address the historically-high cost of shipping oil on long-distance routes, the White House has announced that it will ease sanctions on shadow fle...\n            ",
+    "sources": [
+      {
+        "name": "maritime_executive",
+        "url": "https://maritime-executive.com/article/wright-us-sanctions-relief-for-shadow-fleet-tankers-will-be-for-s-p-deals",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-19-074",
+    "date": "2026-10-19",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Op-Ed: Why Remote Inspection Supports Operational Imperatives",
+    "summary": "\n                To maintain the global fleet to the required standards throughout a vessel’s lifecycle, shipowners and operators must comply with established Classifi...\n            ",
+    "sources": [
+      {
+        "name": "maritime_executive",
+        "url": "https://maritime-executive.com/article/op-ed-why-remote-inspection-supports-operational-imperatives",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-19-075",
+    "date": "2026-10-19",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "In Singapore, Improper Drone Use Can Mean Fines or Prison for Seafarers",
+    "summary": "\n                The Port of Singapore has been at the forefront of harbor drone services since at least 2018, when it welcomed the first trials of a cargo-drone comme...\n            ",
+    "sources": [
+      {
+        "name": "maritime_executive",
+        "url": "https://maritime-executive.com/article/in-singapore-improper-drone-use-can-mean-fines-or-prison-for-seafarers",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-19-076",
+    "date": "2026-10-19",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Crowley Accepts New Tug for Los Angeles and Long Beach Harbor Operations",
+    "summary": "\n                Key Facts:•    Crowley has accepted delivery of Venture, a new 82-foot, U.S.-built tug that will execute ship assist and escort operations in the port...\n            ",
+    "sources": [
+      {
+        "name": "maritime_executive",
+        "url": "https://maritime-executive.com/article/crowley-accepts-new-tug-for-los-angeles-and-long-beach-harbor-operations",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-19-077",
+    "date": "2026-10-19",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "HD Hyundai and Anduril Demonstrate Autonomous Vessel for US Navy",
+    "summary": "\n                South Korean shipbuilder HD Hyundai and the U.S.-based venture-backed defense company Anduril are reporting a breakthrough with the first demonstratio...\n            ",
+    "sources": [
+      {
+        "name": "maritime_executive",
+        "url": "https://maritime-executive.com/article/hd-hyundai-and-anduril-demonstrate-autonomous-vessel-for-us-navy",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-19-078",
+    "date": "2026-10-19",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Report: US Coast Guard's SASH Prevention Programs Lack Unifying Framework",
+    "summary": "\n                Rand released a report earlier this month entitled “Sexual Assault and Sexual Harassment in the Coast Guard.”  The report was mandated by the Fiscal Y...\n            ",
+    "sources": [
+      {
+        "name": "maritime_executive",
+        "url": "https://maritime-executive.com/article/report-us-coast-guard-s-sash-prevention-programs-lack-unifying-framework",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-19-079",
+    "date": "2026-10-19",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Ukraine to Prosecute Captain Who Transported Grain for War Crimes",
+    "summary": "\n                Ukraine’s Security Service and Prosecutor General’s Office reported they are proceeding with the case against a Russian captain accused of controlling...\n            ",
+    "sources": [
+      {
+        "name": "maritime_executive",
+        "url": "https://maritime-executive.com/article/ukraine-to-prosecute-captain-who-transported-grain-for-war-crimes",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-19-080",
+    "date": "2026-10-19",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Tug Attacked Near Strait of Hormuz",
+    "summary": "\n                Merchant ships face serious risk of attack in and around the Strait of Hormuz, and not just tankers, bulkers and boxships. On Sunday, a tug was attack...\n            ",
+    "sources": [
+      {
+        "name": "maritime_executive",
+        "url": "https://maritime-executive.com/article/tug-attacked-near-strait-of-hormuz",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-19-081",
+    "date": "2026-10-19",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Video: AIDA Cruise Ship Rescues Four People from Burning Fishing Boat",
+    "summary": "\n                Passengers starting a week-long cruise aboard the cruise ship AIDAnova got to witness a rescue operation on Sunday afternoon, October 18. The German c...\n            ",
+    "sources": [
+      {
+        "name": "maritime_executive",
+        "url": "https://maritime-executive.com/article/video-aida-cruise-ship-rescues-four-people-from-burning-fishing-boat",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-19-082",
+    "date": "2026-10-19",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Rheinmetall Says Mangalia Will Become a Dual-Use Shipyard with MSC",
+    "summary": "\n                German arms manufacturer Rheinmetall confirmed that it plans to acquire the Mangalia shipyard in Romania together with MSC Mediterranean Shipping Comp...\n            ",
+    "sources": [
+      {
+        "name": "maritime_executive",
+        "url": "https://maritime-executive.com/article/rheinmetall-says-mangalia-will-become-a-dual-use-shipyard-with-msc",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-19-083",
+    "date": "2026-10-19",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Rescuer Lost During Evacuation of Burning Containership East of Brazil",
+    "summary": "\n                The rescue of the crew from a burning containership took a tragic turn, according to reports from the Portuguese authorities. While the crew of the Si...\n            ",
+    "sources": [
+      {
+        "name": "maritime_executive",
+        "url": "https://maritime-executive.com/article/rescuer-lost-during-evacuation-of-burning-containership-east-of-brazil",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-19-084",
+    "date": "2026-10-19",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "negative",
+    "title": "Freight Fraud Gets More Strategic Heading Into Peak Season",
+    "summary": "<p>As the freight industry heads into its highest-volume stretch of the year, the cargo theft numbers tell a deceptively reassuring story. Reported incidents fell sharply in the second quarter of 2026",
+    "sources": [
+      {
+        "name": "freightwaves",
+        "url": "https://www.freightwaves.com/news/freight-fraud-gets-more-strategic-heading-into-peak-season",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-19-085",
+    "date": "2026-10-19",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "What Happens to Tribal Knowledge When Dispatchers Retire?",
+    "summary": "<p>As veteran dispatchers and ops managers age out of the workforce, small and mid-size freight operators are stuck running decades-old systems that never got the AI investment enterprise carriers did",
+    "sources": [
+      {
+        "name": "freightwaves",
+        "url": "https://www.freightwaves.com/news/what-happens-to-tribal-knowledge-when-dispatchers-retire",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-19-086",
+    "date": "2026-10-19",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Volvo folds powertrain repairs into its service contract",
+    "summary": "<p>Volvo Trucks North America launched the Silver Service Contract at ATA's Management Conference, adding powertrain repair coverage to its connected Blue maintenance plan.</p>\n<p>The post <a href=\"ht",
+    "sources": [
+      {
+        "name": "freightwaves",
+        "url": "https://www.freightwaves.com/news/volvo-silver-service-contract-powertrain",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-19-087",
+    "date": "2026-10-19",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "New Mexico jury awards $47M in tanker truck crash lawsuit",
+    "summary": "<p>A New Mexico jury awarded $47 million to a pick up truck driver and his mother following a 2022 tanker truck crash near Carlsbad.</p>\n<p>The post <a href=\"https://www.freightwaves.com/news/new-mexi",
+    "sources": [
+      {
+        "name": "freightwaves",
+        "url": "https://www.freightwaves.com/news/new-mexico-jury-awards-47m-in-tanker-truck-crash-lawsuit",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-19-088",
+    "date": "2026-10-19",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "CBP seizes $30.4M in meth hidden in commercial salt load at Laredo World Trade Bridge",
+    "summary": "<p>Federal officers discovered 76 bags of suspected contraband during a secondary examination. Homeland Security Investigations now faces questions about the shipment's origin, destination and those r",
+    "sources": [
+      {
+        "name": "freightwaves",
+        "url": "https://www.freightwaves.com/news/cbp-seizes-30-4m-in-meth-hidden-in-commercial-salt-load-at-laredo-world-trade-bridge",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-19-089",
+    "date": "2026-10-19",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Air Canada adds freighter destinations for winter season",
+    "summary": "<p>Air Canada is expanding its freighter network to Europe and Latin America for the winter.</p>\n<p>The post <a href=\"https://www.freightwaves.com/news/air-canada-adds-freighter-destinations-for-winte",
+    "sources": [
+      {
+        "name": "freightwaves",
+        "url": "https://www.freightwaves.com/news/air-canada-adds-freighter-destinations-for-winter-season",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-19-090",
+    "date": "2026-10-19",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Pump price is trucking’s #1 concern: ATRI survey",
+    "summary": "<p>This year&#8217;s study of the top issues facing trucking undertaken by the American Transportation Research Institute (ATRI) had a number one concern that didn&#8217;t even crack the top 10 in the",
+    "sources": [
+      {
+        "name": "freightwaves",
+        "url": "https://www.freightwaves.com/news/pump-price-is-truckings-1-concern-atri-survey",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "maersk-2026-10-19-091",
+    "date": "2026-10-19",
+    "companies": [
+      "maersk"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "No. 2 container line studying US-UK route for nuclear ships",
+    "summary": "<p>Maersk is studying the safety and regulatory requirements for nuclear-powered container ships, including a potential U.S.-Europe route.</p>\n<p>The post <a href=\"https://www.freightwaves.com/news/no",
+    "sources": [
+      {
+        "name": "freightwaves",
+        "url": "https://www.freightwaves.com/news/no-2-container-line-studying-us-uk-route-for-nuclear-ships",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-19-092",
+    "date": "2026-10-19",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Trans-Pacific facing new booking risks as reliability sinks",
+    "summary": "<p>Ocean shippers face worsening reliability across major trade lanes, with tighter trans-Pacific capacity adding to booking risks, according to WiseTech Global’s latest outlook.</p>\n<p>The post <a hr",
+    "sources": [
+      {
+        "name": "freightwaves",
+        "url": "https://www.freightwaves.com/news/trans-pacific-facing-new-booking-risks-as-reliability-sinks",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-19-093",
+    "date": "2026-10-19",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Matson christens 1st new vessel of $1B US shipyard order",
+    "summary": "<p>Matson christened Makua in Philadelphia, the first of three new containerships in its $1 billion fleet upgrade.</p>\n<p>The post <a href=\"https://www.freightwaves.com/news/matson-christens-1st-new-v",
+    "sources": [
+      {
+        "name": "freightwaves",
+        "url": "https://www.freightwaves.com/news/matson-christens-1st-new-vessel-of-1b-us-shipyard-order",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "hapag-2026-10-19-094",
+    "date": "2026-10-19",
+    "companies": [
+      "hapag"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Hapag-Lloyd operated ship abandoned in Atlantic after fire",
+    "summary": "Seaspan owned container ship was hit by a fire an explosion on voyage from Singapore to Brazil",
+    "sources": [
+      {
+        "name": "seatrade_maritime",
+        "url": "https://www.seatrade-maritime.com/accidents/hapag-lloyd-operated-ship-abandoned-in-atlantic-after-fire",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-19-095",
+    "date": "2026-10-19",
+    "companies": [],
+    "topics": [
+      "container_freight",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "US and Europe container spot rates begin to converge",
+    "summary": "The spreads between spot rates into US and European markets are expected to narrow significantly as US rates go south and rates to Europe head north.",
+    "sources": [
+      {
+        "name": "seatrade_maritime",
+        "url": "https://www.seatrade-maritime.com/containers/us-and-europe-container-sport-rates-begin-to-converge",
         "type": "rss"
       }
     ]
@@ -7770,6 +9061,24 @@
       {
         "name": "hd_korea",
         "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1MbGhYY1owUjZBMTFMWkJlUjdtVDlEbGt3djV4X3A1N3huYTRRamNMUkVpbzhYckdrTGphNV9QdTQ4Vy1Tbi1tcWloc0NxZVQ4LU4tcA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "wan_hai-2026-10-13-091",
+    "date": "2026-10-13",
+    "companies": [
+      "wan_hai"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Capital Securities Upgrades Wan Hai Lines to Buy From Neutral; Price Target is NT$140 - marketscreener.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxNLTlfSVgtNjdOdGxtc0dYMkJVOWxSS1dOaTJoWmdNd3lCa1lidlY0SkZIX2dNaF9UdkRxam5BeXh6OC1lZ0RHUmczOHVtbkN5V1lrSjlWOHE1Z2FEVjduMndfOXIzYXJpVmVEaDdmV0",
+    "sources": [
+      {
+        "name": "wan_hai",
+        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNLTlfSVgtNjdOdGxtc0dYMkJVOWxSS1dOaTJoWmdNd3lCa1lidlY0SkZIX2dNaF9UdkRxam5BeXh6OC1lZ0RHUmczOHVtbkN5V1lrSjlWOHE1Z2FEVjduMndfOXIzYXJpVmVEaDdmV0JKbTFybHJhRUptSmtmTDNMTGtFZ1paOGZnVWRacHcwdFV1bjhOaWxqTE5QeGdwaXB4dkc4dTNmemt0TzVwcDJUY2VZczlhQnVSdS1zeUw5R1RUNVhoaDEzbFdCdzltejRLV04w?oc=5",
         "type": "rss"
       }
     ]
