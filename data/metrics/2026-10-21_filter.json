@@ -1,0 +1,16 @@
+{
+  "total_raw": 352,
+  "dup_title": 165,
+  "no_date": 0,
+  "too_old": 80,
+  "gate1_fail": 13,
+  "gate2_fail": 7,
+  "passed": 87,
+  "gate2_samples": [
+    "Samsung Heavy Industries accelerates push into US Navy MRO market - 헤럴드경제",
+    "Hanwha Aerospace Co Hanwha Systems To Divest 1.38 Trln Won Worth Of Shares In Hanwha Ocean - Trading",
+    "Hanwha Ocean to Open Second Engineering Center in Busan - Seoul Economic Daily",
+    "Hanwha Ocean to establish additional engineering center in Busan, invest 13.6 billion won - 파이낸셜뉴스",
+    "HSBC upgrades target for Evergreen Marine stock to TWD 300.00 - AD HOC NEWS"
+  ]
+}

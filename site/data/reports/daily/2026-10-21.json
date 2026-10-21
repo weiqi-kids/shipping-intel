@@ -1,0 +1,241 @@
+{
+  "date": "2026-10-21",
+  "generated_at": "2026-10-21T13:36:34.241100Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "maersk-2026-10-21-028",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "Terminal operators and liners eye concession opportunity at Colombo Port",
+      "companies": [
+        "maersk",
+        "evergreen"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://theloadstar.com/terminal-operators-and-liners-eye-concession-opportunity-at-colombo-port/"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-10-21-023",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "DSV set to root out low-margin business as volumes decline in Q3",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "container_freight",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://theloadstar.com/dsv-set-to-root-out-low-margin-business-as-volumes-decline-in-q3/"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-10-21-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "HD Hyundai Secures HMM Contract for Eight 13,000-TEU LNG Dual-Fuel Container Ships - News and Statistics - IndexBox",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQVkpzc3FsOEk2Z3JidHBFQVl1YlQyMzNEeVpJUW1PYlhuSHppZ3BCUkxGUVlkRUU2TjlFSS0tU1ljSzBta1RwU3JsdDc2ZVNpWXQtdF9RUE9MSkFBRWduOUhSYk1iUW1ETjhZZzc4N2p2OWg4cVdPdUJnMmtLeWlGWE52NnlYSnYzTERWOVYtcmRqRDg5STF3NFFyVQ?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "hanwha_ocean-2026-10-21-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Hanwha Ocean Takes Geoje Smart-Yard Technology to Philly Shipyard - 인사이트코리아",
+      "companies": [
+        "hanwha_ocean"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5FVFF4TGo5SkpOU1RPZWlNR1pXRk1yVmJmWjBtdGgzOFRYWUxHR1lMem51WEEzeUZXcDVRTjI0dWxHS3M5aHg3QmFMdlBOR0NaQmE0T3M3X28xUHBfMjNFNHotaUdkQzk0cGItSnpZNEJwblJRcEs40gF3QVVfeXFMTkVUUXhMajlKSk5TVE9laU1HWldGTXJWYmZaMG10aDM4VFhZTEdHWUx6bnVYQTN5RldwNVFOMjR1bEdLczloeDdCYUx2UE5HQ1pCYTRPczdfbzFQcF8yM0U0ei1pR2RDOTRwYi1Kelk0QnBuUlFwSzg?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-10-21-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "The axis of domestic shipbuilding and maritime industries is rapidly gathering in Busan. Following S.. - 매일경제",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "container_freight",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB5TF8xVXEtdmpiSEJ0ZWh5ckszQlh1aUIwdkJ1XzNLQ1pZNjFQbjJkZnB6MkpidDdsRXFjVDY3enYxeFBxMjJRNGtRSEF4aG15Snc?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 33,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.05,
+      "sentiment_7d_avg": null
+    },
+    "container_freight": {
+      "today": 4,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.25,
+      "sentiment_7d_avg": null
+    },
+    "shipbuilding_orders": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "dry_bulk_rate": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.5,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 35,
+    "sentiment_distribution": {
+      "positive": 6,
+      "neutral": 28,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "hanwha_ocean",
+        "count": 3
+      },
+      {
+        "id": "yang_ming",
+        "count": 1
+      },
+      {
+        "id": "cosco",
+        "count": 1
+      },
+      {
+        "id": "cssc",
+        "count": 1
+      },
+      {
+        "id": "maersk",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 33
+      },
+      {
+        "id": "container_freight",
+        "count": 4
+      },
+      {
+        "id": "shipbuilding_orders",
+        "count": 1
+      },
+      {
+        "id": "dry_bulk_rate",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 352,
+    "dup_title": 165,
+    "too_old": 80,
+    "gate1_blocked": 13,
+    "gate2_blocked": 7,
+    "passed": 87,
+    "pass_rate": "46.5%",
+    "gate2_block_rate": "3.7%",
+    "gate2_samples": [
+      "Samsung Heavy Industries accelerates push into US Navy MRO market - 헤럴드경제",
+      "Hanwha Aerospace Co Hanwha Systems To Divest 1.38 Trln Won Worth Of Shares In Hanwha Ocean - Trading",
+      "Hanwha Ocean to Open Second Engineering Center in Busan - Seoul Economic Daily",
+      "Hanwha Ocean to establish additional engineering center in Busan, invest 13.6 billion won - 파이낸셜뉴스",
+      "HSBC upgrades target for Evergreen Marine stock to TWD 300.00 - AD HOC NEWS"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 35 則事件，焦點為韓華海洋、陽明海運、中遠海控相關動態：「Terminal operators and liners eye concession opportunity ...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Terminal operators and liners eye concession opportunity at Colombo Port（航運產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "DSV set to root out low-margin business as volumes decline in Q3（貨櫃運價、航運產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
