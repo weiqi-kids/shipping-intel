@@ -1,0 +1,14 @@
+{
+  "total_raw": 352,
+  "dup_title": 159,
+  "no_date": 0,
+  "too_old": 94,
+  "gate1_fail": 17,
+  "gate2_fail": 3,
+  "passed": 79,
+  "gate2_samples": [
+    "Hanwha Ocean to Open Second Engineering Center in Busan - Seoul Economic Daily",
+    "The Data Your Truck Sends Home Is Becoming Your New Credit Score, And Your Insurance Rate Too",
+    "TQL’s RICO response: rips carriers’ ‘poor business practices’"
+  ]
+}

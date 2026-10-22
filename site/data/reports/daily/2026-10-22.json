@@ -1,0 +1,249 @@
+{
+  "date": "2026-10-22",
+  "generated_at": "2026-10-22T13:38:42.166487Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-10-22-009",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Late, short deliveries cost food and CPG makers $100 billion",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://www.freightwaves.com/news/cleo-otif-failures-cost-cpg-100-billion"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-10-22-016",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Global shipbuilding boom moves into overdrive",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "shipbuilding_orders",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://splash247.com/global-shipbuilding-boom-moves-into-overdrive/"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-10-22-021",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Korean Container Index Dips on Americas Decline, Europe Rebounds - 조선일보",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOUGN2Um5TUGVZbFJvNzNPRlB6WXhiRHJfbWozTjVZNThpczN2V0NnVGhIby1kX3VaRDJzbFozQU5DSGdiMGdBWkpKVkpINnk5MzJVYVFkblc4TWpmZDl1UnhEdzBwSnVENUY0U1BWaGc0OGoxcGRsaWx4akZfV2xIY19zeTMteDJw?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "maersk-2026-10-22-023",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Another typhoon threatens recovery of East Asian ports from congestion",
+      "companies": [
+        "maersk"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "port_congestion",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -0.75
+      },
+      "source_url": "https://theloadstar.com/another-typhoon-threatens-recovery-of-east-asian-ports-from-congestion/"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-10-22-024",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Intra-Asia rates soften as congestion at major ports begins to ease",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "port_congestion",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://theloadstar.com/intra-asia-rates-soften-as-congestion-at-major-ports-begins-to-ease/"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 31,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.04,
+      "sentiment_7d_avg": null
+    },
+    "shipbuilding_orders": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 1.0,
+      "sentiment_7d_avg": null
+    },
+    "container_freight": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "port_congestion": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.88,
+      "sentiment_7d_avg": null
+    },
+    "dry_bulk_rate": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.5,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 33,
+    "sentiment_distribution": {
+      "positive": 9,
+      "neutral": 19,
+      "negative": 5
+    },
+    "top_companies": [
+      {
+        "id": "cosco",
+        "count": 2
+      },
+      {
+        "id": "maersk",
+        "count": 2
+      },
+      {
+        "id": "wan_hai",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 31
+      },
+      {
+        "id": "port_congestion",
+        "count": 2
+      },
+      {
+        "id": "shipbuilding_orders",
+        "count": 1
+      },
+      {
+        "id": "container_freight",
+        "count": 1
+      },
+      {
+        "id": "dry_bulk_rate",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 352,
+    "dup_title": 159,
+    "too_old": 94,
+    "gate1_blocked": 17,
+    "gate2_blocked": 3,
+    "passed": 79,
+    "pass_rate": "40.9%",
+    "gate2_block_rate": "1.6%",
+    "gate2_samples": [
+      "Hanwha Ocean to Open Second Engineering Center in Busan - Seoul Economic Daily",
+      "The Data Your Truck Sends Home Is Becoming Your New Credit Score, And Your Insurance Rate Too",
+      "TQL’s RICO response: rips carriers’ ‘poor business practices’"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 33 則事件，焦點為中遠海控、馬士基、萬海航運相關動態：「Late, short deliveries cost food and CPG makers $100 billion」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Late, short deliveries cost food and CPG makers $100 billion（航運產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "Global shipbuilding boom moves into overdrive（造船訂單、航運產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
