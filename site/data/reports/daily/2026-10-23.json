@@ -1,0 +1,235 @@
+{
+  "date": "2026-10-23",
+  "generated_at": "2026-10-23T13:14:19.579543Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-10-23-018",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Fatigue, fear and the flaws in shipping’s safety data",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://splash247.com/fatigue-fear-and-the-flaws-in-shippings-safety-data/"
+    },
+    {
+      "rank": 2,
+      "event_id": "maersk-2026-10-23-029",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Boxship orderbook bulges as race for giant vessels heats up",
+      "companies": [
+        "maersk"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "shipbuilding_orders",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.75
+      },
+      "source_url": "https://theloadstar.com/boxship-orderbook-bulges-as-race-for-giant-vessels-heats-up/"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-10-23-033",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "CNBC: AI debt and French bonds face a stress test…",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -0.75
+      },
+      "source_url": "https://theloadstar.com/cnbc-ai-debt-and-french-bonds-face-a-stress-test/"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-10-23-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "HD Hyundai, Kiewit join forces to build advanced U.S. shipyard by 2029 - Korea JoongAng Daily",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNQXdnTU4xTHR2eHBTRXpsc2NFN2Y4ZlllRWxMbWZXdkFZbUNyMkxNR3dKQkNzRE9yd1ZCcUE2dTR0dTg3Z0JuTUt5aFQwdmU1cDVjQWpWMG9fQ3IyR2ttNDh0c0F4WjllZmdFalNLMWJVY2pDVTQ3aWxUTDRZSlk2YkFKd1dvdElQWTdsSnBoVXlxUDE1VVk1WmJPZk1QSWpBdzhsUm5aMGtWcGpXRWtvYmpVLTllck13TjRfYg?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-10-23-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "News Content Hub - HD Hyundai to build shipyard in US with Kiewit Offshore Services - Riviera Maritime Media",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOb3E1MHZJNm1OUVNEc0h5TGFlODFXOGhxbWVZYURBLTJydnY0c2RhU0RfaTc4SWlrMXVicnEyTW9EOUc1bUgtSVdwUHZqZlZ5YWM4WS1fM2xsOXlRczR0LWJfQmw0NzBDOEFlWEV3eGZEeVdjTnpaaWFiX1hPel9yT0lLc3lCeWpyWkRiZUVnemF3V3E3SVFrbzI3ZkE1OE5TaEVHRVdfUmo4VGNyanJ2SXM4ZXh2d3Fx?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 39,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.02,
+      "sentiment_7d_avg": null
+    },
+    "dry_bulk_rate": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "shipbuilding_orders": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.25,
+      "sentiment_7d_avg": null
+    },
+    "container_freight": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.25,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 39,
+    "sentiment_distribution": {
+      "positive": 3,
+      "neutral": 32,
+      "negative": 4
+    },
+    "top_companies": [
+      {
+        "id": "cosco",
+        "count": 1
+      },
+      {
+        "id": "maersk",
+        "count": 1
+      },
+      {
+        "id": "cssc",
+        "count": 1
+      },
+      {
+        "id": "hapag",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 39
+      },
+      {
+        "id": "shipbuilding_orders",
+        "count": 3
+      },
+      {
+        "id": "dry_bulk_rate",
+        "count": 1
+      },
+      {
+        "id": "container_freight",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 352,
+    "dup_title": 171,
+    "too_old": 82,
+    "gate1_blocked": 19,
+    "gate2_blocked": 5,
+    "passed": 75,
+    "pass_rate": "41.4%",
+    "gate2_block_rate": "2.8%",
+    "gate2_samples": [
+      "HD Hyundai Heavy Industries Finds Clue in Wage Negotiations, While Hanwha Ocean Faces Obstacles: \"Se",
+      "Hanwha Systems to Sell 22.17 Million Hanwha Ocean Shares for KRW1.383 Trillion - Moomoo",
+      "KAI struggles as Hanwha Ocean soars ... Did privatization change their fortunes? - 파이낸셜뉴스",
+      "HD Hyundai Heavy Industries, Hanwha Ocean unions escalate standoff with joint press conference - 헤럴드",
+      "HD Hyundai Heavy Industries makes progress in labor talks, while Hanwha Ocean remains deadlocked - 머"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 39 則事件，焦點為中遠海控、馬士基、中國船舶相關動態：「Fatigue, fear and the flaws in shipping’s safety data」。整體情緒偏負面，需留意潛在風險。",
+    "signals": [
+      {
+        "text": "Fatigue, fear and the flaws in shipping’s safety data（航運產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "Boxship orderbook bulges as race for giant vessels heats up（造船訂單、航運產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

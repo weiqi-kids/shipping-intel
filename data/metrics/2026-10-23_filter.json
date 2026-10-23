@@ -1,0 +1,16 @@
+{
+  "total_raw": 352,
+  "dup_title": 171,
+  "no_date": 0,
+  "too_old": 82,
+  "gate1_fail": 19,
+  "gate2_fail": 5,
+  "passed": 75,
+  "gate2_samples": [
+    "HD Hyundai Heavy Industries Finds Clue in Wage Negotiations, While Hanwha Ocean Faces Obstacles: \"Se",
+    "Hanwha Systems to Sell 22.17 Million Hanwha Ocean Shares for KRW1.383 Trillion - Moomoo",
+    "KAI struggles as Hanwha Ocean soars ... Did privatization change their fortunes? - 파이낸셜뉴스",
+    "HD Hyundai Heavy Industries, Hanwha Ocean unions escalate standoff with joint press conference - 헤럴드",
+    "HD Hyundai Heavy Industries makes progress in labor talks, while Hanwha Ocean remains deadlocked - 머"
+  ]
+}

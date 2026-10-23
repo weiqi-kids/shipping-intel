@@ -1,0 +1,45 @@
+{
+  "date": "2026-10-23",
+  "total_events": 39,
+  "by_company": {
+    "cosco": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "maersk": {
+      "count": 1,
+      "sentiment_avg": 0.75
+    },
+    "cssc": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "hapag": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "industry_general": {
+      "count": 39,
+      "sentiment_avg": -0.02
+    },
+    "dry_bulk_rate": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "shipbuilding_orders": {
+      "count": 3,
+      "sentiment_avg": 0.25
+    },
+    "container_freight": {
+      "count": 1,
+      "sentiment_avg": -0.25
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}
