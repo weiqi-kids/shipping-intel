@@ -1,0 +1,163 @@
+{
+  "date": "2026-10-24",
+  "generated_at": "2026-10-24T12:32:25.720338Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "hapag-2026-10-24-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Hapag-Lloyd and Wan Hai reduce Shanghai coverage on AA7 service - Container News",
+      "companies": [
+        "hapag"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNOW5NM0pEM3VMM25rMlFFWGZrSHZNc3Z1alpZdWtLZ3dSVGNEb3FNejU5VkRIdWNXRGpuNjZybVJfc0k4VTY4SzVmc1hMeXVReEVOMTVxUE14VWxBRjNodHloM3FSTnAtVU9FcGlHcHNaVGNWeDBlNWZ2TGVCTk9rRHpzR2lBdll3eElVaDZjY1hZTTM1ZVE?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "cosco-2026-10-24-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "COSCO SHIPPING Energy Transportation Co., Ltd. Class A Estimates – SSE:600026 - TradingView",
+      "companies": [
+        "cosco"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9UQkRhaEJ4VFVTV3VMek9sUW1jbE16VHBrYWdqcmNlOXY4bkxfX0djbVNEcU1Fb3lmVGhET3NUcmJOWWU4dk82elg5aUhZUXd2NG84ckdjQkdfZ1RWMVVCbk5xNEhDVEJ5bVd6TWljM2JlaHFhVk1z?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "cosco-2026-10-24-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "COSCO Shipping Development Names Tenth 80,000 DWT Grain Carrier - iMarine",
+      "companies": [
+        "cosco"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1Tc0s2VGl4cENwYnJnaUJjLU54UXhPUWZ5eDdPRUQ2Y0NWb2R4bjlZTE9XbFR6UEtSTHM1X2dyREVhNFBBS1l2WXptaWxkRzg?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "cosco-2026-10-24-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "COSCO SHIPPING Energy Transportation Insider Ups Holding By 22% During Year - Moomoo",
+      "companies": [
+        "cosco"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxONmoxdE9VQ2JRa0pPV2JXcDZhT0taWVB6cVZTd2ZDdFJKQXU4NmlZLS1zcWJZdmNKNlU0ZTJlWUo4d1FnTHBvTHYzbllrclAwVHdUXzg3ZVg0U25LeUJvYTg4YWVxWmhFQ1pkYWFUQWdYckJ0UzhsSnR5Q2VXWjlTSm5mUkhtckhINFNBM2kySU1laHJ2T216cDM3UFVxb1ZsT2QzazJxM0U4Yi1hQ05DUVgzcw?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 4,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 4,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 4,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "cosco",
+        "count": 3
+      },
+      {
+        "id": "hapag",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 4
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 352,
+    "dup_title": 204,
+    "too_old": 84,
+    "gate1_blocked": 14,
+    "gate2_blocked": 4,
+    "passed": 46,
+    "pass_rate": "31.1%",
+    "gate2_block_rate": "2.7%",
+    "gate2_samples": [
+      "Hanwha Systems to Sell 22.17 Million Hanwha Ocean Shares for KRW1.383 Trillion - Moomoo",
+      "HD Hyundai Heavy Industries, Hanwha Ocean unions escalate standoff with joint press conference - 헤럴드",
+      "Evergreen Marine Corp. (Taiwan) Ltd. Estimates – TWSE:2603 - TradingView",
+      "Wisdom Marine Lines Co., Limited. Estimates – TWSE:2637 - TradingView"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 4 則事件，焦點為中遠海控、赫伯羅特相關動態：「Hapag-Lloyd and Wan Hai reduce Shanghai coverage on AA7 s...」。主要關注主題為航運產業通用，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Hapag-Lloyd and Wan Hai reduce Shanghai coverage on AA7 service - Container News（航運產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "COSCO SHIPPING Energy Transportation Co., Ltd. Class A Estimates – SSE:600026...（航運產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

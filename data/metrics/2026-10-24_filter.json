@@ -1,0 +1,15 @@
+{
+  "total_raw": 352,
+  "dup_title": 204,
+  "no_date": 0,
+  "too_old": 84,
+  "gate1_fail": 14,
+  "gate2_fail": 4,
+  "passed": 46,
+  "gate2_samples": [
+    "Hanwha Systems to Sell 22.17 Million Hanwha Ocean Shares for KRW1.383 Trillion - Moomoo",
+    "HD Hyundai Heavy Industries, Hanwha Ocean unions escalate standoff with joint press conference - 헤럴드",
+    "Evergreen Marine Corp. (Taiwan) Ltd. Estimates – TWSE:2603 - TradingView",
+    "Wisdom Marine Lines Co., Limited. Estimates – TWSE:2637 - TradingView"
+  ]
+}

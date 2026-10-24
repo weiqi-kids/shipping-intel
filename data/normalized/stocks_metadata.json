@@ -25,20 +25,20 @@
   },
   "evergreen": {
     "earliest": "2000-01-04",
-    "latest": "2026-10-22",
-    "count": 6665,
+    "latest": "2026-10-23",
+    "count": 6666,
     "history_complete": true
   },
   "yang_ming": {
     "earliest": "2000-01-04",
-    "latest": "2026-10-22",
-    "count": 6665,
+    "latest": "2026-10-23",
+    "count": 6666,
     "history_complete": true
   },
   "wan_hai": {
     "earliest": "2000-01-04",
-    "latest": "2026-10-22",
-    "count": 6665,
+    "latest": "2026-10-23",
+    "count": 6666,
     "history_complete": true
   },
   "maersk": {
@@ -55,8 +55,8 @@
   },
   "zim": {
     "earliest": "2021-01-28",
-    "latest": "2026-10-22",
-    "count": 1441,
+    "latest": "2026-10-23",
+    "count": 1442,
     "history_complete": true
   },
   "cosco": {
@@ -67,26 +67,26 @@
   },
   "u_ming": {
     "earliest": "2000-01-04",
-    "latest": "2026-10-22",
-    "count": 6665,
+    "latest": "2026-10-23",
+    "count": 6666,
     "history_complete": true
   },
   "wisdom": {
     "earliest": "2010-12-01",
-    "latest": "2026-10-22",
-    "count": 3882,
+    "latest": "2026-10-23",
+    "count": 3883,
     "history_complete": true
   },
   "star_bulk": {
     "earliest": "2007-12-03",
-    "latest": "2026-10-22",
-    "count": 4752,
+    "latest": "2026-10-23",
+    "count": 4753,
     "history_complete": true
   },
   "etf_sea": {
     "earliest": "2022-01-20",
-    "latest": "2026-10-22",
-    "count": 1194,
+    "latest": "2026-10-23",
+    "count": 1195,
     "history_complete": true
   }
 }
