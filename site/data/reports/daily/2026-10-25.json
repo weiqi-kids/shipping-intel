@@ -1,0 +1,171 @@
+{
+  "date": "2026-10-25",
+  "generated_at": "2026-10-25T13:05:20.641950Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-10-25-007",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "FORUM | Container Shipping Faces Overcapacity Risk as Top Carriers Build 10.89 Million TEU Fleet - Breakbulk.News",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPdndUT3prWTBHUG9TNUpBUjZVY1Z5cUdWQ1RRLUlXZGVlS2VvMUppSS1CZ3NnNFNESVRvRFlIT1FPZGlrTHRzekZaSUFaakVBcklkd3E5eEhpTkxsRFZCLTZmLUd2bFB0dU1hWDFvRVoxLXZSWmVVNkxYMVhZRDNLMWUyRlpiUnZuLWVOdW9keEFEbGFXbHlxNDVUWG53ZGFlWlpjX0tBenJCX0JlOWl2WElEdlU3UnV1Z3c?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-10-25-008",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Mercuria challenging the ‘Dow Jones of shipping’ in court after Hormuz losses - Financial Times",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -0.75
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPNjhsRDZrVDlFU2tJMW05dldNenRENFdnLVJoUmQyN0hJek1vYlBaMFpna1FzUXozbFZsVjdmLUxETlVzOHhQbzVJSWl2MDZtQTZmenh2aWlNbHJSRlFsSzRkUUNxYUhSdGpCT0pPQVZTTFFqT0hIM2h4bE41aVhIME9mOHo?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-10-25-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "South Korea to Invest Over $1 Billion in AI-Driven Shipbuilding Initiative - www.imarinenews.com",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9GVXZWMFJYY0FScFpJYmJ4STdzeThpaDN3bk9fSWI0UjB2VFVBR3ZhV3Q0aVZfWnRPUlE1N2dQUldyNFJhbGREamVBOHE3Zjg?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-10-25-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "U-Ming orders six bulkers worth USD 312 million: what it means for U-Ming stock - ad-hoc-news.de",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNSXMzc1JsWDdPZFY0R2YyVkkxVzhIbEpFTUJKVWxyYWtSVDh2bWpJYWtyajliVGFiRHVzSEFMYXZsdnlwalhoWGFxVXh4RDVMbmtvMzgteWxYTTdEM21VYzktU1dkNTdzOURGaDZ4UVZGQ3lrYTdCNWd1YWhiMU1HdVVmSjc2Z3lFc0dDdjVlUndXUHdHdDZ4REEyeVplU1QyS2M1VVdGemkwdDJJRjJqei14a0R0enlHcTE2aFE0UHBwSDQxMG85WFA0dFcwNk9UZ1pz?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-10-25-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Romania Blames Russia For Drone That Sinks Cargo Ship; 1 Killed, 3 Missing",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://gcaptain.com/romania-blames-russia-for-drone-that-sinks-cargo-ship-1-killed-3-missing/"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 8,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.09,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 8,
+    "sentiment_distribution": {
+      "positive": 2,
+      "neutral": 4,
+      "negative": 2
+    },
+    "top_companies": [],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 8
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 352,
+    "dup_title": 234,
+    "too_old": 79,
+    "gate1_blocked": 14,
+    "gate2_blocked": 6,
+    "passed": 19,
+    "pass_rate": "16.1%",
+    "gate2_block_rate": "5.1%",
+    "gate2_samples": [
+      "Hanwha Ocean Co., Ltd. Estimates – KRX:042660 - TradingView",
+      "Hanwha Systems to Sell 22.17 Million Hanwha Ocean Shares for KRW1.383 Trillion - Moomoo",
+      "HD Hyundai Heavy Industries, Hanwha Ocean unions escalate standoff with joint press conference - 헤럴드",
+      "Evergreen Marine Corp. (Taiwan) Ltd. Estimates – TWSE:2603 - TradingView",
+      "Wan Hai Lines Ltd. Estimates – TWSE:2615 - TradingView"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 8 則事件，焦點為航運產業通用相關動態：「FORUM | Container Shipping Faces Overcapacity Risk as Top...」。主要關注主題為航運產業通用，市場情緒中性。",
+    "signals": [
+      {
+        "text": "FORUM | Container Shipping Faces Overcapacity Risk as Top Carriers Build 10.8...（航運產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "Mercuria challenging the ‘Dow Jones of shipping’ in court after Hormuz losses...（航運產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

@@ -1,0 +1,16 @@
+{
+  "date": "2026-10-25",
+  "total_events": 8,
+  "by_company": {},
+  "by_topic": {
+    "industry_general": {
+      "count": 8,
+      "sentiment_avg": -0.09
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}
