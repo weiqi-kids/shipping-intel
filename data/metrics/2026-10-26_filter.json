@@ -1,0 +1,16 @@
+{
+  "total_raw": 352,
+  "dup_title": 181,
+  "no_date": 0,
+  "too_old": 75,
+  "gate1_fail": 21,
+  "gate2_fail": 8,
+  "passed": 67,
+  "gate2_samples": [
+    "Caught Out By Hanwha Ocean's 52% Fall? Here's What Bears Saw - Yahoo Finance",
+    "U.S. Wall Street Journal Spotlights Hanwha Ocean as Partner in Trump Administration’s Manufacturing ",
+    "Hanwha Ocean Co., Ltd. Estimates – KRX:042660 - TradingView",
+    "HD Hyundai Heavy Industries, Hanwha Ocean unions escalate standoff with joint press conference - 헤럴드",
+    "Evergreen Marine Corp. (Taiwan) Ltd. Estimates – TWSE:2603 - TradingView"
+  ]
+}
