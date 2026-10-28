@@ -1,0 +1,16 @@
+{
+  "total_raw": 350,
+  "dup_title": 150,
+  "no_date": 0,
+  "too_old": 78,
+  "gate1_fail": 17,
+  "gate2_fail": 9,
+  "passed": 96,
+  "gate2_samples": [
+    "Caught Out By Hanwha Ocean's 52% Fall? Here's What Bears Saw - Yahoo Finance",
+    "Hanwha Ocean Reaches Tentative Wage Agreement - Businesskorea",
+    "Evergreen Marine Corp. (Taiwan) Ltd. Estimates – TWSE:2603 - TradingView",
+    "Wan Hai Lines Ltd. Estimates – TWSE:2615 - TradingView",
+    "Wisdom Marine Lines Co., Limited. Estimates – TWSE:2637 - TradingView"
+  ]
+}
