@@ -1,0 +1,16 @@
+{
+  "total_raw": 348,
+  "dup_title": 131,
+  "no_date": 0,
+  "too_old": 84,
+  "gate1_fail": 13,
+  "gate2_fail": 14,
+  "passed": 106,
+  "gate2_samples": [
+    "Samsung Heavy Industries Posts Higher Q3 Attributable Net Income; Sales Up - www.marketscreener.com",
+    "Samsung Heavy Industries Pushes Standardized FLNG Design for Canada - IndexBox",
+    "Hanwha Ocean Concludes Five-Month Labor Negotiations - 조선일보",
+    "Hanwha Ocean Reaches Tentative Wage Agreement - Businesskorea",
+    "Labor, Civic Groups Call on Gyeongsangnam-do to Mediate Talks Over Hanwha Ocean High-Altitude Protes"
+  ]
+}

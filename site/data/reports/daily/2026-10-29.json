@@ -1,0 +1,226 @@
+{
+  "date": "2026-10-29",
+  "generated_at": "2026-10-29T15:04:11.764450Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "hanwha_ocean-2026-10-29-015",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "South Korea's Hanwha Aerospace Q3 Operating Profit Plunges 46% as Ground Defense Margins Collapse; Hanwha Ocean Shields Results - BigGo Finance",
+      "companies": [
+        "hanwha_ocean"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9GZTJ6SmxYV19ROVZCcXRjTEU3MU9iSldWaGhFZFlGRDRaaTFxVmlkNDNnSldSY0g1QWJIMFhfMThJYjNxRTE3OG50Y1RVcG4tZDFKT1NIeWUzS1Vrc3kzRlVGQWcyVDZMZFB2UUtGMjVHamR1eEE?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-10-29-033",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Trailer Bridge appoints new CEO",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://www.freightwaves.com/news/trailer-bridge-appoints-new-ceo"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-10-29-036",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "CPKC reports record revenue on strength of grain and intermodal traffic",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://www.freightwaves.com/news/cpkc-reports-record-revenue-on-strength-of-grain-and-intermodal-traffic"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-10-29-056",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Boluda acquires Samskip",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://theloadstar.com/boluda-acquires-samskip/"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-10-29-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "GT Voice: SK shipbuilding's high-end edge hinges on Asian industrial collaboration - Global Times",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5jWXlzR1FLOWE4OTVwMU1YX3VNWHFZVmZ2SHR2NmtUcTg1bC1SUHpaM3dBWV9CVkl3V2l2RXRoRWRhLTNla3dSNV9NVDZIY3AzRnRpX3kxNmluTUd2akdrWTJR?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 56,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.06,
+      "sentiment_7d_avg": null
+    },
+    "container_freight": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "shipbuilding_orders": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.17,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 63,
+    "sentiment_distribution": {
+      "positive": 9,
+      "neutral": 51,
+      "negative": 3
+    },
+    "top_companies": [
+      {
+        "id": "cosco",
+        "count": 12
+      },
+      {
+        "id": "samsung_heavy",
+        "count": 7
+      },
+      {
+        "id": "hanwha_ocean",
+        "count": 3
+      },
+      {
+        "id": "wan_hai",
+        "count": 1
+      },
+      {
+        "id": "star_bulk",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 56
+      },
+      {
+        "id": "container_freight",
+        "count": 3
+      },
+      {
+        "id": "shipbuilding_orders",
+        "count": 3
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 348,
+    "dup_title": 131,
+    "too_old": 84,
+    "gate1_blocked": 13,
+    "gate2_blocked": 14,
+    "passed": 106,
+    "pass_rate": "48.8%",
+    "gate2_block_rate": "6.5%",
+    "gate2_samples": [
+      "Samsung Heavy Industries Posts Higher Q3 Attributable Net Income; Sales Up - www.marketscreener.com",
+      "Samsung Heavy Industries Pushes Standardized FLNG Design for Canada - IndexBox",
+      "Hanwha Ocean Concludes Five-Month Labor Negotiations - 조선일보",
+      "Hanwha Ocean Reaches Tentative Wage Agreement - Businesskorea",
+      "Labor, Civic Groups Call on Gyeongsangnam-do to Mediate Talks Over Hanwha Ocean High-Altitude Protes"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 63 則事件，焦點為中遠海控、三星重工、韓華海洋相關動態：「South Korea's Hanwha Aerospace Q3 Operating Profit Plunge...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "South Korea's Hanwha Aerospace Q3 Operating Profit Plunges 46% as Ground Defe...（航運產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "Trailer Bridge appoints new CEO（航運產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
