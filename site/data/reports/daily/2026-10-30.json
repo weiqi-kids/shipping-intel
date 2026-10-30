@@ -1,0 +1,231 @@
+{
+  "date": "2026-10-30",
+  "generated_at": "2026-10-30T14:57:13.441994Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "cosco-2026-10-30-018",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "COSCO Shipping Holdings' share price hit a new record, with third-quarter net profit attributable to shareholders surging 128.45% quarter-on-quarter, as both volume and prices of its core businesses rose. - 富途牛牛",
+      "companies": [
+        "cosco"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQeGlBVGhSQjZXc2JwTU1qQW8tZXd4TEFXSnpWWENWUktlLURlejVGUWtXMi1uTkJqWl8wRUFtX1NJdXd1REFsdkl2TGR6dzRPNk1vM2dDQWhPaWQ2Y19TWGxXc0EyMHZBd1FGUklHdGxlZFZTbDExeDJWN0w3dFF4STJ4S1NCSUl1V3ViWVg5ekh0ZzI3aU5IUHVNck1reUdOOWc?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "cosco-2026-10-30-020",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Earning 187 million yuan a day! COSCO Shipping Holdings' Q3 net profit jumps 80%, A- and H-shares both hit record highs - BigGo Finance",
+      "companies": [
+        "cosco"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1IdmE3bUdwZ0ZtY3NfOFBfcW0ybW93REl0dVhpblY1ZXd2Z2d1Zk04V0xGQWtFZnBYWmtBSmI3UUVISVAyYnM2cHBmTmZlQ3ZZcFc2c1ZYbjh0WllicUR5VEFTX1pYMlRfVHktNTJZUVlaTTVFUnc?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-10-30-027",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Aurora reaffirms it’s on track to produce more than 1000 trucks in 2027",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://www.freightwaves.com/news/aurora-q3-2026-earnings"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-10-30-037",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Oil majors count the cost of runaway tanker rates",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "container_freight",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -0.75
+      },
+      "source_url": "https://splash247.com/oil-majors-count-the-cost-of-runaway-tanker-rates/"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-10-30-038",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Maritime CEO Forum: When to leave the party",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://splash247.com/maritime-ceo-forum-when-to-leave-the-party/"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 55,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "container_freight": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.38,
+      "sentiment_7d_avg": null
+    },
+    "shipbuilding_orders": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.17,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 57,
+    "sentiment_distribution": {
+      "positive": 7,
+      "neutral": 44,
+      "negative": 6
+    },
+    "top_companies": [
+      {
+        "id": "cosco",
+        "count": 8
+      },
+      {
+        "id": "hanwha_ocean",
+        "count": 4
+      },
+      {
+        "id": "hd_korea",
+        "count": 2
+      },
+      {
+        "id": "samsung_heavy",
+        "count": 2
+      },
+      {
+        "id": "hapag",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 55
+      },
+      {
+        "id": "shipbuilding_orders",
+        "count": 3
+      },
+      {
+        "id": "container_freight",
+        "count": 2
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 345,
+    "dup_title": 147,
+    "too_old": 67,
+    "gate1_blocked": 15,
+    "gate2_blocked": 12,
+    "passed": 104,
+    "pass_rate": "52.5%",
+    "gate2_block_rate": "6.1%",
+    "gate2_samples": [
+      "Samsung Heavy Industries Pushes Standardized FLNG Design for Canada - IndexBox",
+      "Samsung Heavy Industries Posts Higher Q3 Attributable Net Income; Sales Up - www.marketscreener.com",
+      "Hanwha Ocean secures ABS approval for standardized FLNG design - Offshore Magazine",
+      "Caught Out By Hanwha Ocean's 52% Fall? Here's What Bears Saw - Yahoo Finance",
+      "Hanwha Ocean Concludes Five-Month Labor Negotiations - 조선일보"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 57 則事件，焦點為中遠海控、韓華海洋、韓國造船海洋相關動態：「COSCO Shipping Holdings' share price hit a new record, wi...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "COSCO Shipping Holdings' share price hit a new record, with third-quarter net...（航運產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "Earning 187 million yuan a day! COSCO Shipping Holdings' Q3 net profit jumps ...（航運產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

@@ -1,0 +1,16 @@
+{
+  "total_raw": 345,
+  "dup_title": 147,
+  "no_date": 0,
+  "too_old": 67,
+  "gate1_fail": 15,
+  "gate2_fail": 12,
+  "passed": 104,
+  "gate2_samples": [
+    "Samsung Heavy Industries Pushes Standardized FLNG Design for Canada - IndexBox",
+    "Samsung Heavy Industries Posts Higher Q3 Attributable Net Income; Sales Up - www.marketscreener.com",
+    "Hanwha Ocean secures ABS approval for standardized FLNG design - Offshore Magazine",
+    "Caught Out By Hanwha Ocean's 52% Fall? Here's What Bears Saw - Yahoo Finance",
+    "Hanwha Ocean Concludes Five-Month Labor Negotiations - 조선일보"
+  ]
+}
