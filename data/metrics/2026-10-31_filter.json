@@ -1,0 +1,16 @@
+{
+  "total_raw": 345,
+  "dup_title": 191,
+  "no_date": 0,
+  "too_old": 94,
+  "gate1_fail": 12,
+  "gate2_fail": 7,
+  "passed": 41,
+  "gate2_samples": [
+    "U.S. Wall Street Journal Spotlights Hanwha Ocean as Partner in Trump Administration’s Manufacturing ",
+    "Wisdom Marine Lines Co., Limited. Estimates – TWSE:2637 - TradingView",
+    "Beverage Distribution: Why Your SKU Count is Crushing Productivity",
+    "Arkansas truck blitz nets 183 English violations, 44 arrests in 48 hours",
+    "European postal operators gear up for surge in holiday volume"
+  ]
+}

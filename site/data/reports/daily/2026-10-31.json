@@ -1,0 +1,138 @@
+{
+  "date": "2026-10-31",
+  "generated_at": "2026-10-31T14:26:21.831507Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "hanwha_ocean-2026-10-31-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Hanwha Ocean Wins Two-VLCC Order from Bermuda Owner, Lifting 2026 Order Worth $8.11 Billion - www.imarinenews.com",
+      "companies": [
+        "hanwha_ocean"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1leU9wUTIteGtKX0ZiY0ZzTDA5WHI0MHdnbVBqLUtKaE5SRk5uZjN4MURmNXBBNTdJcERQR3ZxdHNZbmFQTUtQOXdwZURFb0E?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "cosco-2026-10-31-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "COSCO SHIPPING Ports revenue rises as overseas volumes accelerate - Container News",
+      "companies": [
+        "cosco"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxONUVKU0tVLWVYejNud3FkU3Y0bmY1dkYwRGJUaFVLVmJLZ1JwVFBSYXdEUjR5RFQ0Z0d5aGpPTXZRT0xrSkZIQ2dUYzdpdndpSGRoZlg1REJGNXBITDRjRjlYeVhRTlJ2czNoQ0hZV2NaYTVBalN6VEtLR2NMaWVLRjlzR1haUVNUTjBlc3JvQXZwVnUyUENKbQ?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-10-31-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Impending strike threatens LA-LB ports container flow",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.seatrade-maritime.com/ports-logistics/impending-strike-threatens-la-lb-ports-container-flow"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 3,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 3,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "hanwha_ocean",
+        "count": 1
+      },
+      {
+        "id": "cosco",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 2
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 345,
+    "dup_title": 191,
+    "too_old": 94,
+    "gate1_blocked": 12,
+    "gate2_blocked": 7,
+    "passed": 41,
+    "pass_rate": "26.6%",
+    "gate2_block_rate": "4.5%",
+    "gate2_samples": [
+      "U.S. Wall Street Journal Spotlights Hanwha Ocean as Partner in Trump Administration’s Manufacturing ",
+      "Wisdom Marine Lines Co., Limited. Estimates – TWSE:2637 - TradingView",
+      "Beverage Distribution: Why Your SKU Count is Crushing Productivity",
+      "Arkansas truck blitz nets 183 English violations, 44 arrests in 48 hours",
+      "European postal operators gear up for surge in holiday volume"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 3 則事件，焦點為韓華海洋、中遠海控相關動態：「Hanwha Ocean Wins Two-VLCC Order from Bermuda Owner, Lift...」。主要關注主題為航運產業通用，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Hanwha Ocean Wins Two-VLCC Order from Bermuda Owner, Lifting 2026 Order Worth...",
+        "level": "green"
+      },
+      {
+        "text": "COSCO SHIPPING Ports revenue rises as overseas volumes accelerate - Container...（航運產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
