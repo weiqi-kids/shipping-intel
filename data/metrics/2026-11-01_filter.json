@@ -1,0 +1,16 @@
+{
+  "total_raw": 347,
+  "dup_title": 216,
+  "no_date": 0,
+  "too_old": 90,
+  "gate1_fail": 10,
+  "gate2_fail": 9,
+  "passed": 22,
+  "gate2_samples": [
+    "Hanwha Ocean Co., Ltd. (042660.KS) Seasonal returns chart - Yahoo Finance UK",
+    "Hanwha Ocean succeeds in localizing ‘key submarine equipment’ - 매일경제",
+    "Hanwha Ocean secures ABS approval for standardized FLNG design - Offshore Magazine",
+    "Caught Out By Hanwha Ocean's 52% Fall? Here's What Bears Saw - Yahoo Finance",
+    "Hanwha Ocean Ends Five-Month Wage Talks With Narrow Approval - 조선일보"
+  ]
+}

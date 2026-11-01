@@ -1,0 +1,188 @@
+{
+  "date": "2026-11-01",
+  "generated_at": "2026-11-01T14:52:43.874542Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-11-01-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Chinese ship-owner CMES holds vessel-naming ceremony in South Korea, advancing the two countries’ shipbuilding cooperation - Global Times",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5idTJQWmJIQ0lWSUN3OG9vUTdNYUJ0S1V3SXNtYnVrbXBFRjVSRjF3U00wend6V1pWdmlMOFdWU0xwOEljZFZEOTZsTzYyaWU4QVlrZVRPNnBSU2xSVHphbmln?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "hanwha_ocean-2026-11-01-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "South Korea's Hanwha Ocean Localizes Submarine Horizontal Launch System, Replacing Imports After 10-Year Development - BigGo Finance",
+      "companies": [
+        "hanwha_ocean"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE4wNVlxT2dTcmFtZjNFV0FZNjB1S1ZPVGxFNFpxa0tCNF9wWmpZQkpDRE9heTRpTnMwRGJGTW90Tk5OZXM1bkxmN3lGQmRuRHdFWk5FajlzTGZzYnRxZ1VlUjRMN3NneVNmZU1wcDdZZjNTSHQxd0E?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "hanwha_ocean-2026-11-01-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Hanwha Ocean Localizes Submarine Horizontal Launch Device - 조선일보",
+      "companies": [
+        "hanwha_ocean"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPNVpvOWt5dGs4SVdvWFVvV1BJQ3Z6YUFJV0lvTUY5dFhPODhjdEZzMlgtbG5yTkppSVkyc0FmaVVNOG5tLVZpUEotYXZXcktCLTUta2k4OC15a3pBOUZ6N0ZnRnRUd1luMW9ray0zc2lwLWJXMnFTZ2ZpU1AyOU43UkhlTlBfVU9m?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "hanwha_ocean-2026-11-01-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Hanwha Ocean Successfully Develops Domestic Submarine 'Horizontal Launch System' - 스타뉴스",
+      "companies": [
+        "hanwha_ocean"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNenlGNHFybHdhTm01MTQyVUdzM2o3YkpDQTJQcW42TlNHYkhTVVRQYmZXd0k5VWtPLXJtUWt2N3RpS21HVXZGYWNEdUtib0MwTHQ0ZEtmbGVaV3FLakpkRFZJcDNyaldLYkxQb05wU2E5Sk9TR3Zxem9NcWQ2SzFpNW5idw?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "hanwha_ocean-2026-11-01-005",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Hanwha Ocean Localizes Submarine Horizontal Launch System - Seoul Economic Daily",
+      "companies": [
+        "hanwha_ocean"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPaVBCaXRaTUx6Sm5EYXVLSWUxbVdUZnRYbEllV193RHdmWTNrQWxUWlJzZ0trc2ZjNVZTWmpYTG9RbjdKOVdPX0FLOWpjYWdmcGJ1VGhqVk1ua3cxZG1EYWRtd0dkUTJ0NzVlazZKRHZqVzRpR0FLLW82TzloQklMSlNJSkVjNGJWVV9MVnBQMHM0bjV0THV6TEZKME81a2lN?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 10,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "shipbuilding_orders": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 15,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 15,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "hanwha_ocean",
+        "count": 6
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 10
+      },
+      {
+        "id": "shipbuilding_orders",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 347,
+    "dup_title": 216,
+    "too_old": 90,
+    "gate1_blocked": 10,
+    "gate2_blocked": 9,
+    "passed": 22,
+    "pass_rate": "16.8%",
+    "gate2_block_rate": "6.9%",
+    "gate2_samples": [
+      "Hanwha Ocean Co., Ltd. (042660.KS) Seasonal returns chart - Yahoo Finance UK",
+      "Hanwha Ocean succeeds in localizing ‘key submarine equipment’ - 매일경제",
+      "Hanwha Ocean secures ABS approval for standardized FLNG design - Offshore Magazine",
+      "Caught Out By Hanwha Ocean's 52% Fall? Here's What Bears Saw - Yahoo Finance",
+      "Hanwha Ocean Ends Five-Month Wage Talks With Narrow Approval - 조선일보"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 15 則事件，焦點為韓華海洋相關動態：「Chinese ship-owner CMES holds vessel-naming ceremony in S...」。主要關注主題為航運產業通用、造船訂單，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Chinese ship-owner CMES holds vessel-naming ceremony in South Korea, advancin...（航運產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "South Korea's Hanwha Ocean Localizes Submarine Horizontal Launch System, Repl...（航運產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
