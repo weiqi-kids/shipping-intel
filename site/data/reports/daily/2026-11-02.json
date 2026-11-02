@@ -1,0 +1,238 @@
+{
+  "date": "2026-11-02",
+  "generated_at": "2026-11-02T18:02:29.068681Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "samsung_heavy-2026-11-02-001",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "South Korean Shipbuilding Stocks Surge; Hanwha Ocean, Samsung Heavy Industries Jump About 7% on Bargain Hunting - BigGo Finance",
+      "companies": [
+        "samsung_heavy",
+        "hanwha_ocean"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5WV3JTNjRiaHpXaHZUUkR4b3U0R1BYeFNPcEtaeGpFZWlrM01lbHBWSDFaakYyN1NtOXdKU2wtVUt1S0pTMFBqNDRkZWFSSU9nYnBqdkkyUjdYdTlBQUJfdGo0SDJQQzFkQTg1WTN6b3hFUGpHVUE?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-11-02-010",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Shipbuilding Orderbook Beats 2008 Record: $700bn Backlog, China at 68% - News and Statistics - IndexBox",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "shipbuilding_orders",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOd3d0N3NDcTgwWVhEb3FaU0U5Y3Z5bjZDZEIydHNITWhHbFdQMDRFNnFCY3lNYk9ydHZBaEF6MjVOWXdCRkc3Zy1LMzV3Z1BRdUNxYnVxdWxmNHNTbTJ5dElXbTBuUGthMGJyaWlna05VZEtHZXhvZ3ZXS0I3NDM0c2FtSW4wRnlReXJzckdFQlV3QUloR3JSSVBVejRmYjVtR0xrVG8wdV94RGN6SDloMkpMOA?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-11-02-032",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "JB Hunt faces data breach lawsuits as hackers claim haul of carrier records",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://theloadstar.com/jb-hunt-faces-data-breach-lawsuits-as-hackers-claim-haul-of-carrier-records/"
+    },
+    {
+      "rank": 4,
+      "event_id": "samsung_heavy-2026-11-02-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Orca AI launches a berthing assistance solution in collaboration with Samsung Heavy Industries - Cyprus Shipping News",
+      "companies": [
+        "samsung_heavy"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPMHZTS0RyLUdtY0gyeDVFeFdEdS10OTd3N1BxUEF1azI3MFNLc0tNVzZHcTk1cVpMUnJDV1RmTm1QODU3Vy1Ib3YzOUlJMGhWdHlJVEpVMGg5eFRMWl83YjdURE1nazJYcmxLTUNnSTlRNnVMWHg5b3AwTVBiUU14NTJwbVBEVUVfb25iSU0yOU8zY241R0lOS3RLTDhkMGt5Ukx2TUFTNTFLU1hjZXdNbENUVzZNRGQzcmlnZ3dfNml3cjFHeTNvX1NndThqX3J4TW1R?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-11-02-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Chinese state media reports on Chinese vessel built in South Korea, highlights shipbuilding cooperation between the two countries - 파이낸셜뉴스",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5iRTgtd2tCakliQ2ctQnFwWjZlUFFJZi1GNXliSmowUGdjMjZ5VEJiOUlkVklGTURzR0s2am83QTVWUTJOZk5nMXBxRTIycnd3RUVvTlhuTzE?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 38,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.06,
+      "sentiment_7d_avg": null
+    },
+    "shipbuilding_orders": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 1.0,
+      "sentiment_7d_avg": null
+    },
+    "container_freight": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.12,
+      "sentiment_7d_avg": null
+    },
+    "port_congestion": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 42,
+    "sentiment_distribution": {
+      "positive": 7,
+      "neutral": 30,
+      "negative": 5
+    },
+    "top_companies": [
+      {
+        "id": "cosco",
+        "count": 6
+      },
+      {
+        "id": "hanwha_ocean",
+        "count": 5
+      },
+      {
+        "id": "samsung_heavy",
+        "count": 2
+      },
+      {
+        "id": "maersk",
+        "count": 2
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 38
+      },
+      {
+        "id": "port_congestion",
+        "count": 3
+      },
+      {
+        "id": "container_freight",
+        "count": 2
+      },
+      {
+        "id": "shipbuilding_orders",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 335,
+    "dup_title": 159,
+    "too_old": 98,
+    "gate1_blocked": 16,
+    "gate2_blocked": 5,
+    "passed": 57,
+    "pass_rate": "32.4%",
+    "gate2_block_rate": "2.8%",
+    "gate2_samples": [
+      "Wisdom Marine Lines Co., Limited (Cayman) (2637.TW) Seasonal Returns Chart - Yahoo Finance - Yahoo! ",
+      "TrashLab raises $12M to automate waste haulers’ back offices",
+      "Beverage Distribution: Why Your SKU Count is Crushing Productivity",
+      "Arkansas truck blitz nets 183 English violations, 44 arrests in 48 hours",
+      "European postal operators gear up for surge in holiday volume"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 42 則事件，焦點為中遠海控、韓華海洋、三星重工相關動態：「South Korean Shipbuilding Stocks Surge; Hanwha Ocean, Sam...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "South Korean Shipbuilding Stocks Surge; Hanwha Ocean, Samsung Heavy Industrie...（航運產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "Shipbuilding Orderbook Beats 2008 Record: $700bn Backlog, China at 68% - News...（造船訂單、航運產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
