@@ -1,0 +1,206 @@
+{
+  "date": "2026-11-03",
+  "generated_at": "2026-11-03T16:00:42.417742Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-11-03-022",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Pamt Corp. reports Q3 net loss, books 109.1% truckload OR",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://www.freightwaves.com/news/pamt-corp-sees-q3-net-loss-books-109-1-truckload-or"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-11-03-039",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "$128bn tariff refunds – the money has moved, yet not everyone has been paid",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://theloadstar.com/128bn-tariff-refunds-the-money-has-moved-yet-not-everyone-has-been-paid/"
+    },
+    {
+      "rank": 3,
+      "event_id": "samsung_heavy-2026-11-03-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Wind power patents: Nordex | Samsung Heavy Industries | ZF Wind Power | Vestas - Wind Power Monthly",
+      "companies": [
+        "samsung_heavy"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNakg5TGFYZ3h5dlpOZFV2Wm9kM1VpTXBOd0lXMGthVXRuNGktVGdUM1E0aHVqS1ZCT1BOOGVvNDJjUUFPTF9Eb0tObC1oeGNFMmg4VmFMeXRjNkh3UzNLRVZucXh5clE3eWxIZ29Ralhkc0JVR2hyWXkxUnMtQm10OWQ4bWdtQ3I0QTZhN3lkaUQ5VDFMOVRpM2t6MWl6alJGQ2FQU25UeVo1QlBYRDhieDF5SVhEakhKUVBRbA?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-11-03-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Hanwha Philly Shipyard Names 25-Year Shipbuilding Veteran as President - The Maritime Executive",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOWjJfMHpJUHdMNVNHUDh2V2FESE1VTGdfSGthLUxySDI5QXhGTElUUGNLUExqYVQ0ZWNtbXJFeDNMX2Q3dDJrMXlWbm9hT2tiVndvS04td2hhY2xOVTRCRnhkX05GZVpTRzZaWGlIZl8xa1FQdUtmYzhYTnFmd2NnQVhPNlZzdlFNVF9VRURJeFlMeWhydHRRbjVpbVZKVDRYb2FtUDZkV3pGdWRULU5hZ0ZBcUZaWnk4NlVsT1NNWS1tZl9qQlBLeTVaWF82MWo4UWtxcXNsNEd5X09ON05jQ19DMGk?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-11-03-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Hanwha Philly Shipyard names new president as naval work expands - WorkBoat",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQUnA1ZXl2elZYTjJ1OHV2ZHplRDB3bDloTGdwZlZucm1XZndpLU5KUDdNbERRTEN6VGh6YTVCdW4tLVBJYVkwR0MxVjZnTXEtbG42RzVpd1MweEhaUXlSYmFrMFpGR25sTTFXcUcycFRPZGp6VUs2OWpMZk9KM2lkMkduejdMMFRSNlp5NTNoRndFRzA?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 44,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.06,
+      "sentiment_7d_avg": null
+    },
+    "shipbuilding_orders": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 46,
+    "sentiment_distribution": {
+      "positive": 7,
+      "neutral": 37,
+      "negative": 2
+    },
+    "top_companies": [
+      {
+        "id": "cosco",
+        "count": 5
+      },
+      {
+        "id": "evergreen",
+        "count": 2
+      },
+      {
+        "id": "samsung_heavy",
+        "count": 1
+      },
+      {
+        "id": "hanwha_ocean",
+        "count": 1
+      },
+      {
+        "id": "wan_hai",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 44
+      },
+      {
+        "id": "shipbuilding_orders",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 346,
+    "dup_title": 148,
+    "too_old": 91,
+    "gate1_blocked": 21,
+    "gate2_blocked": 6,
+    "passed": 80,
+    "pass_rate": "40.4%",
+    "gate2_block_rate": "3.0%",
+    "gate2_samples": [
+      "Wisdom Marine Lines Co., Limited (Cayman) (2637.TW) Seasonal Returns Chart - Yahoo Finance - Yahoo! ",
+      "Loamy raises $6M to flag produce before a buyer rejects it",
+      "230-plus immigrants arrested in crackdown targeting unauthorized CDL holders",
+      "Waiting on EPA ‘27 rule, Rush says it might not be soon",
+      "TrashLab raises $12M to automate waste haulers’ back offices"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 46 則事件，焦點為中遠海控、長榮海運、三星重工相關動態：「Pamt Corp. reports Q3 net loss, books 109.1% truckload OR」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Pamt Corp. reports Q3 net loss, books 109.1% truckload OR（航運產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "$128bn tariff refunds – the money has moved, yet not everyone has been paid（航運產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

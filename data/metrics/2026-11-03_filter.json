@@ -1,0 +1,16 @@
+{
+  "total_raw": 346,
+  "dup_title": 148,
+  "no_date": 0,
+  "too_old": 91,
+  "gate1_fail": 21,
+  "gate2_fail": 6,
+  "passed": 80,
+  "gate2_samples": [
+    "Wisdom Marine Lines Co., Limited (Cayman) (2637.TW) Seasonal Returns Chart - Yahoo Finance - Yahoo! ",
+    "Loamy raises $6M to flag produce before a buyer rejects it",
+    "230-plus immigrants arrested in crackdown targeting unauthorized CDL holders",
+    "Waiting on EPA ‘27 rule, Rush says it might not be soon",
+    "TrashLab raises $12M to automate waste haulers’ back offices"
+  ]
+}
