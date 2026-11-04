@@ -1,0 +1,222 @@
+{
+  "date": "2026-11-04",
+  "generated_at": "2026-11-04T16:04:53.917519Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-11-04-017",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Higher shipment weights help ArcBest beat Q3 expectations",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.75
+      },
+      "source_url": "https://www.freightwaves.com/news/higher-shipment-weights-help-arcbest-beat-q3-expectations"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-11-04-033",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Air cargo cashes in on AI boom – but who has the edge?",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://theloadstar.com/air-cargo-cashes-in-on-ai-boom-but-who-has-the-edge/"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-11-04-036",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Lady Luck and the lifer: Dan Wall’s Expeditors is on a tear",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://theloadstar.com/lady-luck-and-the-lifer-dan-walls-expeditors-is-on-a-tear/"
+    },
+    {
+      "rank": 4,
+      "event_id": "hanwha_ocean-2026-11-04-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Hanwha Ocean launches South Korea’s second KSS-III Batch-II submarine with expanded armament - Defence Industry Europe",
+      "companies": [
+        "hanwha_ocean"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOeWVJNExrc1gtUml4SXVxZWxYckRWaWdjOFNnLVdhVFJkZjRrZlZBYmNpY0ttcHB4VlRmY1lIN0ljWWZtUXp1bV9sM1hldEoxVUJoc0RiNk5oQ0ZYb09wZkltYi14cE1mLVhtenJDX3IyUHZTYl9zSk1nckdVX0hreGtUM3lDa1BFY1dILURaS2RvZlM1ZFEzWTZtWmZabExBQVFyci11NUM5amxfRFRhQy1va21HczdlVEVyNg?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "hanwha_ocean-2026-11-04-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Vafias Orders Two VLCCs and Two LR2s at Hanwha Ocean and HD Hyundai Heavy Industries - News and Statistics - IndexBox",
+      "companies": [
+        "hanwha_ocean"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNbHh4OEtJbHdaUGgxdlZLdk5aNllrXzFWREdvMlh6dE9LSHZxbEpOZkVMWFlNVU0ydVpKMjlLcS1WcVNLRlZNUWh2by1TUjA4QVdiLXRkS3k2UXBocjBPaWZoT21SbzZzaDdDMmphZjY0ZkNuM0p0cmtKLWpFYzV4VTFKOTdLSTE3aWpQWHNjc2FZZFdkTEdDNEZVU0Z3ci10dUwyMm1KX2ZkS3c2Q0lsVmNjNGdGRk9nMDBWMHpn?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 37,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.07,
+      "sentiment_7d_avg": null
+    },
+    "container_freight": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "shipbuilding_orders": {
+      "today": 4,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 40,
+    "sentiment_distribution": {
+      "positive": 7,
+      "neutral": 30,
+      "negative": 3
+    },
+    "top_companies": [
+      {
+        "id": "hanwha_ocean",
+        "count": 2
+      },
+      {
+        "id": "evergreen",
+        "count": 1
+      },
+      {
+        "id": "cosco",
+        "count": 1
+      },
+      {
+        "id": "wisdom",
+        "count": 1
+      },
+      {
+        "id": "cssc",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 37
+      },
+      {
+        "id": "shipbuilding_orders",
+        "count": 4
+      },
+      {
+        "id": "container_freight",
+        "count": 2
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 349,
+    "dup_title": 140,
+    "too_old": 100,
+    "gate1_blocked": 21,
+    "gate2_blocked": 5,
+    "passed": 83,
+    "pass_rate": "39.7%",
+    "gate2_block_rate": "2.4%",
+    "gate2_samples": [
+      "Wisdom Marine Lines Co., Limited (Cayman) (2637.TW) Seasonal returns chart - Yahoo Finance UK",
+      "Wisdom Marine Lines Co., Limited (Cayman) (2637.TW) Seasonal Returns Chart - Yahoo Finance - Yahoo! ",
+      "Peak season inventory surge bolsters TL carriers’ double-digit rate ask",
+      "Benchmark diesel price is down; so is futures market in a big way",
+      "Loamy raises $6M to flag produce before a buyer rejects it"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 40 則事件，焦點為韓華海洋、長榮海運、中遠海控相關動態：「Higher shipment weights help ArcBest beat Q3 expectations」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Higher shipment weights help ArcBest beat Q3 expectations（航運產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "Air cargo cashes in on AI boom – but who has the edge?（航運產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
