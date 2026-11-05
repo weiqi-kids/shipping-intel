@@ -1,0 +1,166 @@
+{
+  "date": "2026-11-05",
+  "date_range": {
+    "start": "2026-10-30",
+    "end": "2026-11-05"
+  },
+  "generated_at": "2026-11-05T16:19:09.865410Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "samsung_heavy-2026-11-02-001",
+      "date": "2026-11-02",
+      "title": "South Korean Shipbuilding Stocks Surge; Hanwha Ocean, Samsung Heavy Industries Jump About 7% on Bargain Hunting - BigGo Finance",
+      "importance_score": 0.7
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "industry_general": {
+      "this_week": 221,
+      "last_week": 241,
+      "week_over_week_change": "-8%",
+      "sentiment_this_week": 0.05
+    },
+    "container_freight": {
+      "this_week": 11,
+      "last_week": 10,
+      "week_over_week_change": "+10%",
+      "sentiment_this_week": -0.09
+    },
+    "shipbuilding_orders": {
+      "this_week": 11,
+      "last_week": 18,
+      "week_over_week_change": "-39%",
+      "sentiment_this_week": 0.18
+    },
+    "port_congestion": {
+      "this_week": 4,
+      "last_week": 2,
+      "week_over_week_change": "+100%",
+      "sentiment_this_week": 0.0
+    }
+  },
+  "company_7d_summary": {
+    "hd_korea": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 6
+    },
+    "samsung_heavy": {
+      "event_count": 5,
+      "sentiment_avg": 0.0,
+      "rank": 4
+    },
+    "hanwha_ocean": {
+      "event_count": 23,
+      "sentiment_avg": 0.02,
+      "rank": 1
+    },
+    "cosco": {
+      "event_count": 22,
+      "sentiment_avg": 0.17,
+      "rank": 2
+    },
+    "hapag": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 8
+    },
+    "maersk": {
+      "event_count": 9,
+      "sentiment_avg": 0.11,
+      "rank": 3
+    },
+    "evergreen": {
+      "event_count": 3,
+      "sentiment_avg": 0.0,
+      "rank": 5
+    },
+    "wan_hai": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 9
+    },
+    "cssc": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 7
+    },
+    "wisdom": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 10
+    },
+    "star_bulk": {
+      "event_count": 1,
+      "sentiment_avg": 0.5,
+      "rank": 11
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 403,
+        "last": 494,
+        "change_pct": -18.4
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-10-30",
+      "event_count": 92,
+      "sentiment_avg": 0.01
+    },
+    {
+      "date": "2026-10-31",
+      "event_count": 8,
+      "sentiment_avg": 0.0
+    },
+    {
+      "date": "2026-11-01",
+      "event_count": 28,
+      "sentiment_avg": 0.04
+    },
+    {
+      "date": "2026-11-02",
+      "event_count": 77,
+      "sentiment_avg": 0.04
+    },
+    {
+      "date": "2026-11-03",
+      "event_count": 87,
+      "sentiment_avg": 0.05
+    },
+    {
+      "date": "2026-11-04",
+      "event_count": 72,
+      "sentiment_avg": 0.06
+    },
+    {
+      "date": "2026-11-05",
+      "event_count": 39,
+      "sentiment_avg": 0.12
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-10-30 ~ 2026-11-05）共 403 則事件，重點為「South Korean Shipbuilding Stocks Surge; Hanwha ...」。Star Bulk Carriers表現正面，整體氣氛穩健。",
+    "watchlist": [
+      {
+        "company": "三星重工",
+        "reason": "本週出現 5 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "韓華海洋",
+        "reason": "本週出現 23 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "中遠海控",
+        "reason": "本週出現 22 則相關事件，為高關注企業，動態頻繁。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

@@ -1,0 +1,230 @@
+{
+  "date": "2026-11-05",
+  "generated_at": "2026-11-05T16:19:09.734108Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-11-05-026",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Port of Long Beach set to handle record 10m teu this year",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://theloadstar.com/port-of-long-beach-set-to-handle-record-10m-teu-this-year/"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-11-05-027",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "US importers should reconsider farming out customs paperwork, warns CargoTrans",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://theloadstar.com/us-importers-should-reconsider-farming-out-customs-paperwork-warns-cargotrans/"
+    },
+    {
+      "rank": 3,
+      "event_id": "hanwha_ocean-2026-11-05-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Hanwha Ocean Partners with ABB to Advance Core Technologies for Floating Data Centers - 스타뉴스",
+      "companies": [
+        "hanwha_ocean"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNTmM4S29wNHVCWG9BbklLZzJJWTJJOV9nVjBxTWZ4UThqUktNbHVoMERnY1ZPNTVLZXdsZzNQRW9Vd2R3c0Ric1o0MURHTG5nUWFKYkItU0JvYmRtaFFRRTRjSVpPSHl5a0RXQXF0Zm1YSHJtMXJ3c0pERURLcWlqUDBLRQ?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "hanwha_ocean-2026-11-05-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Hanwha Ocean, ABB Sign MOU on Floating Data Center Technology - Seoul Economic Daily",
+      "companies": [
+        "hanwha_ocean"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQNWF4Zk5EODdRWVNuMmhnbGZYUWNLVGdSRWRrWVBXblVJRVFiZXRkb0FFT1NHWWZnX1dTUHJrY3g2LXl5VnVMMFZlZURKQVo3LWJoeUZFazRWX29DeS0zSkhQQ1BoTWsyd1VCSmo0NUIwX1Q4T0Fva0RxcFhJOTdmb2Y4SnNEbUVDTHFod1ltN0ZIa0hCRllIRW9BZUpHSG44THBsTA?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "hanwha_ocean-2026-11-05-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Hanwha Ocean, ABB to Collaborate on Floating Data Center Technology - 아시아경제",
+      "companies": [
+        "hanwha_ocean"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE90Y1Q0YzdsbHJibGZFamlQRnVHcmR6V3E2U2IzbXdoTy1YbzVPdUpQVS0zMmRiWHU2RWVqam9tMWVqYzZpOEcxdDRiYVBKVlZhUW82UElnbXB3SjVrWHA4d2NXd3R0TnBs?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 35,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.13,
+      "sentiment_7d_avg": null
+    },
+    "shipbuilding_orders": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.5,
+      "sentiment_7d_avg": null
+    },
+    "container_freight": {
+      "today": 5,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "port_congestion": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 39,
+    "sentiment_distribution": {
+      "positive": 10,
+      "neutral": 26,
+      "negative": 3
+    },
+    "top_companies": [
+      {
+        "id": "maersk",
+        "count": 6
+      },
+      {
+        "id": "hanwha_ocean",
+        "count": 4
+      },
+      {
+        "id": "cosco",
+        "count": 1
+      },
+      {
+        "id": "star_bulk",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 35
+      },
+      {
+        "id": "container_freight",
+        "count": 5
+      },
+      {
+        "id": "shipbuilding_orders",
+        "count": 1
+      },
+      {
+        "id": "port_congestion",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 352,
+    "dup_title": 143,
+    "too_old": 106,
+    "gate1_blocked": 20,
+    "gate2_blocked": 11,
+    "passed": 72,
+    "pass_rate": "34.4%",
+    "gate2_block_rate": "5.3%",
+    "gate2_samples": [
+      "Hanwha Ocean, ABB Team on Floating Data Centers - Businesskorea",
+      "Hanwha Ocean Teams Up with ABB to Develop Power Control Tech for Floating Data Centers Targeting the",
+      "Hanwha Ocean teams up with ABB to develop floating data centers - The Korea News Plus",
+      "Hanwha Ocean, ABB develop power controls for floating data centers - Chosunbiz",
+      "Hanwha Ocean partners with ABB to develop power and control technologies for floating data centers -"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 39 則事件，焦點為馬士基、韓華海洋、中遠海控相關動態：「Port of Long Beach set to handle record 10m teu this year」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Port of Long Beach set to handle record 10m teu this year（航運產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "US importers should reconsider farming out customs paperwork, warns CargoTrans（航運產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

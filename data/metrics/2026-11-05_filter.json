@@ -1,0 +1,16 @@
+{
+  "total_raw": 352,
+  "dup_title": 143,
+  "no_date": 0,
+  "too_old": 106,
+  "gate1_fail": 20,
+  "gate2_fail": 11,
+  "passed": 72,
+  "gate2_samples": [
+    "Hanwha Ocean, ABB Team on Floating Data Centers - Businesskorea",
+    "Hanwha Ocean Teams Up with ABB to Develop Power Control Tech for Floating Data Centers Targeting the",
+    "Hanwha Ocean teams up with ABB to develop floating data centers - The Korea News Plus",
+    "Hanwha Ocean, ABB develop power controls for floating data centers - Chosunbiz",
+    "Hanwha Ocean partners with ABB to develop power and control technologies for floating data centers -"
+  ]
+}
