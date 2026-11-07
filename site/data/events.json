@@ -18,6 +18,99 @@
     ]
   },
   {
+    "id": "samsung_heavy-2026-11-07-001",
+    "date": "2026-11-07",
+    "companies": [
+      "samsung_heavy"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "GTT receives tank order from Samsung Heavy Industries - LNG Industry",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxPa1I4WEFlZVl5ZDloY2hRNHRVM3lZbl8xXzQ5dU9fYkdTcXF0bHZueVZleVE4RTRVZC1HT2lTeUh1c29oc3ZKZEE4d0s4YkZVMmJHdUhDNHotOWM1WUFKamFQYmlsNUdMMVhrdF93MX",
+    "sources": [
+      {
+        "name": "samsung_heavy",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPa1I4WEFlZVl5ZDloY2hRNHRVM3lZbl8xXzQ5dU9fYkdTcXF0bHZueVZleVE4RTRVZC1HT2lTeUh1c29oc3ZKZEE4d0s4YkZVMmJHdUhDNHotOWM1WUFKamFQYmlsNUdMMVhrdF93MXFFVjhFRWtYVktNX1d0RlE1VlhaTHJKQ2poMnRWT0ZQeXMyX0dBaTU3RUtTVFZVcDN6b0FXYmhDaw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-07-002",
+    "date": "2026-11-07",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "LA Port Strike Threat Deferred Again As Labor Talks Drag On",
+    "summary": "By&#160;Laura Curtis Nov 7, 2026 (Bloomberg) &#8211;The union representing about 250 security workers at the US’s busiest ports agreed to continue negotiations on a new labor contract for two more...",
+    "sources": [
+      {
+        "name": "gcaptain",
+        "url": "https://gcaptain.com/la-port-strike-threat-deferred-again-as-labor-talks-drag-on/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-07-003",
+    "date": "2026-11-07",
+    "companies": [],
+    "topics": [
+      "container_freight",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Soaring Freight Rates Give US Refiners Edge As Crude Discounts Widen",
+    "summary": "By Vallari Srivastava and Sumit Saha Nov 6 (Reuters) &#8211; The Iran conflict has sent tanker rates soaring, forcing sellers to deepen discounts on heavy crude grades and giving US Gulf Coast...",
+    "sources": [
+      {
+        "name": "gcaptain",
+        "url": "https://gcaptain.com/soaring-freight-rates-give-us-refiners-edge-as-crude-discounts-widen/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-07-004",
+    "date": "2026-11-07",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Big carriers keep FMCSA’s crackdown alive, Fuller says",
+    "summary": "<p>FreightWaves' CEO told Optym Convergence non-domiciled CDL holders were probably the main reason the downturn dragged on, and that enforcement will outlast any change in Washingto</p>\n<p>The post <",
+    "sources": [
+      {
+        "name": "freightwaves",
+        "url": "https://www.freightwaves.com/news/fuller-big-carriers-fmcsa-crackdown-permanent",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-07-005",
+    "date": "2026-11-07",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Compromised communications linked to 40% of stolen loads in Highway fraud report",
+    "summary": "<p>A new freight fraud report identifies a striking license-related pattern among direct theft incidents. Meanwhile, fraudulent calls surged 90%, and carrier ownership reports more than doubled.</p>\n<",
+    "sources": [
+      {
+        "name": "freightwaves",
+        "url": "https://www.freightwaves.com/news/compromised-communications-linked-to-40-of-stolen-loads-in-highway-fraud-report",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "hd_korea-2026-11-06-001",
     "date": "2026-11-06",
     "companies": [
@@ -805,6 +898,519 @@
       {
         "name": "seatrade_maritime",
         "url": "https://www.seatrade-maritime.com/regulations/lithium-ion-fires-now-a-full-blown-supply-chain-risk",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-06-044",
+    "date": "2026-11-06",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Second China-built cruise ship delivered - China Daily Global Edition",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxOQnJyS2szUzhmWmliTy01cW5KSHl2dC1aZzRYVXZGcEFLSDR5T3V3SWR4cFpDZFA5U25MMmtWMUFXT1J2NVp6QnF4NGZuRmk3eWhaVVFzRmZJMVdtNDNWdzg2NUxmSklwaC0weS1YRE",
+    "sources": [
+      {
+        "name": "cssc",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOQnJyS2szUzhmWmliTy01cW5KSHl2dC1aZzRYVXZGcEFLSDR5T3V3SWR4cFpDZFA5U25MMmtWMUFXT1J2NVp6QnF4NGZuRmk3eWhaVVFzRmZJMVdtNDNWdzg2NUxmSklwaC0weS1YRExuREducWU4OWJYNmlGNlg5V0NB?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-06-045",
+    "date": "2026-11-06",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "China's 2nd domestically built large cruise ship delivered in Shanghai - People's Daily Online",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE5SWHdhMnJZbndpMlJYUFY4LWlrS3N3YzJDeXI4QTc3emJwMVM5SUE0WTNhY2ZjWlUtdmN0dzQ2b1lFX05pS3BvcFhpUGtpRmgxelBJQlZrQ3BxZkp1NjYwZHhTVmo?oc=5\" target=\"",
+    "sources": [
+      {
+        "name": "cssc",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5SWHdhMnJZbndpMlJYUFY4LWlrS3N3YzJDeXI4QTc3emJwMVM5SUE0WTNhY2ZjWlUtdmN0dzQ2b1lFX05pS3BvcFhpUGtpRmgxelBJQlZrQ3BxZkp1NjYwZHhTVmo?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-06-046",
+    "date": "2026-11-06",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Adani Ports Makes Major Push Into Europe With $2.9 Billion Evos Acquisition",
+    "summary": "India’s Adani Ports and Special Economic Zone (APSEZ) has agreed to acquire Netherlands-based liquid storage operator Evos B.V. in a €2.56 billion ($2.88 billion) deal that will give the company...",
+    "sources": [
+      {
+        "name": "gcaptain",
+        "url": "https://gcaptain.com/adani-ports-makes-major-push-into-europe-with-2-9-billion-evos-acquisition/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-06-047",
+    "date": "2026-11-06",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "U.S. Targets Cuba’s Oil Tanker Fleet in New Sanctions Crackdown",
+    "summary": "The Trump administration has expanded sanctions targeting Cuba&#8217;s maritime and energy sectors, identifying five Cuban-flagged vessels as blocked property and opening the door to further sanctions",
+    "sources": [
+      {
+        "name": "gcaptain",
+        "url": "https://gcaptain.com/u-s-targets-cubas-oil-tanker-fleet-in-new-sanctions-crackdown/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-06-048",
+    "date": "2026-11-06",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "EU Lawmakers Push Back Against Approval of Indian Ship Recycling Yards",
+    "summary": "A European Parliament committee has voted to oppose the approval of two Indian ship recycling yards, dealing a setback to shipping industry efforts to expand access to South Asia&#8217;s shipbreaking.",
+    "sources": [
+      {
+        "name": "gcaptain",
+        "url": "https://gcaptain.com/eu-lawmakers-push-back-against-approval-of-indian-ship-recycling-yards/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-06-049",
+    "date": "2026-11-06",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "China Adopts Law on Antarctic Activities and Environmental Protection",
+    "summary": "Beijing has approved a law to improve China's Antarctic research and strengthen regulation of its exploration activities, the official Xinhua news agency reported on Friday.",
+    "sources": [
+      {
+        "name": "gcaptain",
+        "url": "https://gcaptain.com/china-adopts-law-on-antarctic-activities-and-environmental-protection/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-06-050",
+    "date": "2026-11-06",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Seafarer Killed in Suspected Missile Attack on Tanker in Gulf",
+    "summary": "One seafarer was killed in an explosion believed to have been caused by a missile attack on an oil products tanker in the Gulf on Thursday, the ship's manager said on Friday.",
+    "sources": [
+      {
+        "name": "gcaptain",
+        "url": "https://gcaptain.com/seafarer-killed-in-suspected-missile-attack-on-tanker-in-gulf/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "hapag-2026-11-06-051",
+    "date": "2026-11-06",
+    "companies": [
+      "hapag",
+      "maersk"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Hapag-Lloyd Acquires 25% Stake in Maersk’s Maasvlakte II Terminal in Rotterdam",
+    "summary": "German container shipping giant Hapag-Lloyd has completed its acquisition of a 25% stake in APM Terminals Maasvlakte II in Rotterdam, strengthening its ties with Maersk at one of Europe&#8217;s most..",
+    "sources": [
+      {
+        "name": "gcaptain",
+        "url": "https://gcaptain.com/hapag-lloyd-acquires-25-stake-in-maersks-maasvlakte-ii-terminal-in-rotterdam/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-06-052",
+    "date": "2026-11-06",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Lawsuit Seeks to Stop Planned Sinking of S.S. United States",
+    "summary": "\n                A complaint filed in U.S. Federal Court is seeking to stop the planned sinking of the famed ocean liner S.S. United States, currently scheduled for ne...\n            ",
+    "sources": [
+      {
+        "name": "maritime_executive",
+        "url": "https://maritime-executive.com/article/lawsuit-seeks-to-stop-planned-sinking-of-s-s-united-states",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-06-053",
+    "date": "2026-11-06",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "IMO Council Discusses Key Issues and Backs Second Term for Dominguez",
+    "summary": "\n                The International Maritime Organization conducted its annual business meeting in London this week at a time when the industry faces key challenges ran...\n            ",
+    "sources": [
+      {
+        "name": "maritime_executive",
+        "url": "https://maritime-executive.com/article/imo-council-discusses-key-issues-and-backs-second-term-for-dominguez",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-06-054",
+    "date": "2026-11-06",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Norway Awards $44M in Grants to Advance Battery-Powered Ships",
+    "summary": "\n                The Norwegian government is continuing its efforts to support the transition of shipping to green technology, reporting on November 5 that it will awa...\n            ",
+    "sources": [
+      {
+        "name": "maritime_executive",
+        "url": "https://maritime-executive.com/article/norway-awards-44m-in-grants-to-advance-battery-powered-ships",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-06-055",
+    "date": "2026-11-06",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "China Delivers Its Second Large Domestically Built Cruise Ship",
+    "summary": "\n                China celebrated the official delivery of its second domestically built large cruise ship, the Adora Flower City. It is being highlighted as a milesto...\n            ",
+    "sources": [
+      {
+        "name": "maritime_executive",
+        "url": "https://maritime-executive.com/article/china-delivers-its-second-large-domestically-built-cruise-ship",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-06-056",
+    "date": "2026-11-06",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Salvage of the MSC Baltic III Wreck Prepares to Remove Final Stern Sections",
+    "summary": "\n                The salvage efforts in Newfoundland, Canada, to clear the wreck of the containership MSC Baltic III continue to report strong progress. In the latest...\n            ",
+    "sources": [
+      {
+        "name": "maritime_executive",
+        "url": "https://maritime-executive.com/article/salvage-of-the-msc-baltic-iii-wreck-prepares-to-remove-final-stern-sections",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-06-057",
+    "date": "2026-11-06",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Sanctioned Russian Merchant Vessels Are Underway",
+    "summary": "\n                The military cargo convoy of sanctioned Russian-flagged vessels which had been observed forming up in the Russian port of Baltiysk in the Kaliningrad...\n            ",
+    "sources": [
+      {
+        "name": "maritime_executive",
+        "url": "https://maritime-executive.com/article/sanctioned-russian-merchant-vessels-are-underway",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-06-058",
+    "date": "2026-11-06",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Turkish Coast Guard Evacuates Crew to Shore from Grounded Ship",
+    "summary": "\n                The Turkish Coast Guard reports it was required to use a breeches buoy system to evacuate the crew of a small cargo ship that grounded near the northe...\n            ",
+    "sources": [
+      {
+        "name": "maritime_executive",
+        "url": "https://maritime-executive.com/article/turkish-coast-guard-evacuates-crew-to-shore-from-grounded-ship",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-06-059",
+    "date": "2026-11-06",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Why Aviation Automation Still Hasn’t Reached Small Planes",
+    "summary": "<p>Self-flying planes are closer than most aviation and freight pros think. Reliable Robotics CEO Robert Rose breaks down why small aircraft still operate with outdated systems, what true aviation aut",
+    "sources": [
+      {
+        "name": "freightwaves",
+        "url": "https://www.freightwaves.com/news/why-aviation-automation-still-hasnt-reached-small-planes",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-06-060",
+    "date": "2026-11-06",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "PS Logistics expands Tennessee flatbed presence with Roane acquisition",
+    "summary": "<p>PS Logistics has expanded its flatbed network by acquiring Roane Transportation Services and its more than 170 drivers. </p>\n<p>The post <a href=\"https://www.freightwaves.com/news/ps-logistics-expa",
+    "sources": [
+      {
+        "name": "freightwaves",
+        "url": "https://www.freightwaves.com/news/ps-logistics-expands-tennessee-flatbed-presence-with-roane-acquisition",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-06-061",
+    "date": "2026-11-06",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "CBP seizes 1,000-plus pounds of meth in produce truck at Texas border",
+    "summary": "<p>A canine alert led customs officers to nearly $1 million in methamphetamine hidden inside a produce shipment crossing the Texas border.</p>\n<p>The post <a href=\"https://www.freightwaves.com/news/cb",
+    "sources": [
+      {
+        "name": "freightwaves",
+        "url": "https://www.freightwaves.com/news/cbp-seizes-1000-plus-pounds-of-meth-in-produce-truck-at-texas-border",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-06-062",
+    "date": "2026-11-06",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Fleetworthy launches RADAR, new AI fleet management technology",
+    "summary": "<p>Fleetworthy's new RADAR technology is designed to help fleet managers identify toll discrepancies, monitor spending and make operational decisions without manually searching through reports.</p>\n<p",
+    "sources": [
+      {
+        "name": "freightwaves",
+        "url": "https://www.freightwaves.com/news/fleetworthy-launches-radar-new-ai-fleet-management-technology",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-06-063",
+    "date": "2026-11-06",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Electric ‘Flying Boat’ Lands $5 Billion in Orders",
+    "summary": "<p>REGENT is building electric seagliders that merge the best of boats and planes, operating on a cushion of air over the water known as ground effect. CEO Billy Thalheimer explains how this innovativ",
+    "sources": [
+      {
+        "name": "freightwaves",
+        "url": "https://www.freightwaves.com/news/electric-flying-boat-lands-5-billion-in-orders",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-06-064",
+    "date": "2026-11-06",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "negative",
+    "title": "Florida’s Space Race: 95% Cost Drop Fuels Private Sector Boom",
+    "summary": "<p>Florida is rapidly becoming the epicenter of the new space race, with groundbreaking public-private partnerships driving down costs and opening new frontiers. Rep. Mike Haridopolos explains how the",
+    "sources": [
+      {
+        "name": "freightwaves",
+        "url": "https://www.freightwaves.com/news/floridas-space-race-95-cost-drop-fuels-private-sector-boom",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-06-065",
+    "date": "2026-11-06",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Flying Taxis & Cargo: Electric Aviation’s Future Takes Off",
+    "summary": "<p>BETA Technologies just secured landmark FAA authorization for passenger flights in their electric VTOL aircraft, marking a monumental step for electric aviation. Chip Palombini, Head of Product at ",
+    "sources": [
+      {
+        "name": "freightwaves",
+        "url": "https://www.freightwaves.com/news/flying-taxis-cargo-electric-aviations-future-takes-off",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-06-066",
+    "date": "2026-11-06",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "STB signals broader protection for rail-served projects against state and local restrictions",
+    "summary": "<p>New policy statement questions earlier decisions involving customer-owned terminals and outlines stronger arguments against taking railroad property.</p>\n<p>The post <a href=\"https://www.freightwav",
+    "sources": [
+      {
+        "name": "freightwaves",
+        "url": "https://www.freightwaves.com/news/stb-signals-broader-protection-for-rail-served-projects-against-state-and-local-restrictions",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-06-067",
+    "date": "2026-11-06",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Walmart to take drone delivery nationwide as Zipline raises $1.5B",
+    "summary": "<p>Walmart will significantly scale up its drone delivery network in partnership with Zipline, which will operate the small unmanned aerial vehicles from 300 new store locations and has raised $1.5 bi",
+    "sources": [
+      {
+        "name": "freightwaves",
+        "url": "https://www.freightwaves.com/news/walmart-to-take-drone-delivery-nationwide-as-zipline-raises-1-5b",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "maersk-2026-11-06-068",
+    "date": "2026-11-06",
+    "companies": [
+      "maersk"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Maersk eyes trade in deals for more than 50 terminals",
+    "summary": "<p>The investment arm of Maersk’s corporate parent is expanding its international ports portfolio through agreements in Asia and Europe.</p>\n<p>The post <a href=\"https://www.freightwaves.com/news/maer",
+    "sources": [
+      {
+        "name": "freightwaves",
+        "url": "https://www.freightwaves.com/news/maersk-eyes-trade-in-deals-for-more-than-50-terminals",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-06-069",
+    "date": "2026-11-06",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "negative",
+    "title": "North America container imports rise 9% as as freight pricing pressures mount - FreightWaves",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxOYk44OEdhMU15anBXYzlCa3NCSnVHcHg2Y1VxaHNGVzVQTVR1WlVocXVKdURQbjIzejJiMGZHdW5oMFdXa1hFX09wWWI5MEExNXp4dTM0ZHdYSXBYVVh5M0ZZeHMtVDBSVGM1RDdKWG",
+    "sources": [
+      {
+        "name": "google_container_shipping",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOYk44OEdhMU15anBXYzlCa3NCSnVHcHg2Y1VxaHNGVzVQTVR1WlVocXVKdURQbjIzejJiMGZHdW5oMFdXa1hFX09wWWI5MEExNXp4dTM0ZHdYSXBYVVh5M0ZZeHMtVDBSVGM1RDdKWGZORy1hSlVjdWpFODJpRTctQUZBWExCNm1pcmplNTJJNlh6ejFrenFZMjJ1V3plWEl2S01McjRPdXlfZ2s3dnZB?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-06-070",
+    "date": "2026-11-06",
+    "companies": [],
+    "topics": [
+      "container_freight"
+    ],
+    "impact": "neutral",
+    "title": "SCFI Snaps Four-Week Winning Streak! US East Coast Route Falls Below $10,000, Plunging $342 in a Single Week - BigGo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTFA3YTFrV205UERWRWxqOXd2SjNXZHZxMzIydURzTjQ0SDdQM3Z3VVpPNDB2OWphR2MyS0FFUTlTa25DeU52ajdBc3I5bFRGb195R3Y1LWJ1cS1ub3h2SlgwMDE5R2tCV0JaOXBfOHpTSF",
+    "sources": [
+      {
+        "name": "google_container_shipping",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFA3YTFrV205UERWRWxqOXd2SjNXZHZxMzIydURzTjQ0SDdQM3Z3VVpPNDB2OWphR2MyS0FFUTlTa25DeU52ajdBc3I5bFRGb195R3Y1LWJ1cS1ub3h2SlgwMDE5R2tCV0JaOXBfOHpTSFQ0Vk5NQlE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "maersk-2026-11-06-071",
+    "date": "2026-11-06",
+    "companies": [
+      "maersk"
+    ],
+    "topics": [
+      "container_freight",
+      "port_congestion",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Maersk raises 2026 profit outlook as port congestion drives freight rates higher - Maritime Gateway",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxOTmkwRUFaN2ZtaXdiZG41V1Fzdlk2SGhVZ0w3UFo1SU9DQzd0c19TdzZJOVEzM0JVUVByc2dSZzV5WmdVcWNsX1FFMXBhMUVKVUJSMDN3dFJpTnJkUHZZZlJXWlYwYTVUZ0JGYVpsND",
+    "sources": [
+      {
+        "name": "google_container_shipping",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOTmkwRUFaN2ZtaXdiZG41V1Fzdlk2SGhVZ0w3UFo1SU9DQzd0c19TdzZJOVEzM0JVUVByc2dSZzV5WmdVcWNsX1FFMXBhMUVKVUJSMDN3dFJpTnJkUHZZZlJXWlYwYTVUZ0JGYVpsNDdzcXZvY3dKX0x4RWNOWEVPTWRSQVF1Y2psSFRJSG5TMXFaakJHMVo2SklXT2xsM1dHN28tdGUzZG9MU25EZExjVDVHRQ?oc=5",
         "type": "rss"
       }
     ]
@@ -3519,6 +4125,43 @@
       {
         "name": "samsung_heavy",
         "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQbUU2OW1ycFEtWVQtcEJTVS05SkhweWFCN0hQUVpBcEhsNzROcjFNLUxwT05pOEs1OEdyQWNFUTdKcG1hOVV1TEVHVnNObkxFVmpTQ3JzTUM0YzY1S1loT2hYaWNmV0NkekxwbDlhcnVxTkRMRzVxZ05tcDk3TWcwVnNrdE9XNlZBbVlqS1BWQ1k2aDNialJyZm45cU16cVo2VDBIb0MteThDRmlyamF1SmctUzJtM1NLZy03bVZOaFh0X01uV0E?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-04-074",
+    "date": "2026-11-04",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Hanwha names new president of US shipyard in Philadelphia amid expansion - The Korea Herald",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTFBSd2kzMm0ySl9iUWY5U01kLVA3SnVRZjdIaFdrbjBCai1LRENYTTJHOWlSWVcxRjlqNm1HbjhsajVMZVdYYWlydEhzNGZndkJSc0ttTXhHQQ?oc=5\" target=\"_blank\">Hanwha na",
+    "sources": [
+      {
+        "name": "hanwha_ocean",
+        "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBSd2kzMm0ySl9iUWY5U01kLVA3SnVRZjdIaFdrbjBCai1LRENYTTJHOWlSWVcxRjlqNm1HbjhsajVMZVdYYWlydEhzNGZndkJSc0ttTXhHQQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-04-075",
+    "date": "2026-11-04",
+    "companies": [],
+    "topics": [
+      "container_freight",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Asia-US container rates hold as carriers seek $3,000 November rate hikes - FreightWaves",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxNaDhjTVpyem5oU3E1eTlTMDVDV2RuQ3FnWi1la3VUX0FHNU5naVc4LWtKQi1vRG0xcEdvVVZaLXFHSzU4WEtkSjBFTTVNVlE1M1Z6YTVBWnZMaG03RXduUTRHcTVGbXNGRzI4M0c0U0",
+    "sources": [
+      {
+        "name": "google_container_shipping",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNaDhjTVpyem5oU3E1eTlTMDVDV2RuQ3FnWi1la3VUX0FHNU5naVc4LWtKQi1vRG0xcEdvVVZaLXFHSzU4WEtkSjBFTTVNVlE1M1Z6YTVBWnZMaG03RXduUTRHcTVGbXNGRzI4M0c0U0NYZEIzSlBnSWpheXc2dEZyRXNnMmJqSlY3UEp3enFMTmhBeGRwcjZBeE94dkdlRWdueUtOblpNQQ?oc=5",
         "type": "rss"
       }
     ]
