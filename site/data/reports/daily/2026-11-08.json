@@ -1,0 +1,182 @@
+{
+  "date": "2026-11-08",
+  "generated_at": "2026-11-08T14:54:26.877856Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-11-08-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Could China Be Overtaking Us Even in LNG Carriers We Thought We Had the Edge In? - 파이낸셜뉴스",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE4zaGw3aHlnVktfbldxZlFIOVNZRmpZeWNuQzNUODNjWlVHREV0VXNIY2JVdkRzUjVlTl90VHIwNG5PM0FNRU5LS2xQZnpaU01iOWd2TzVaZVE?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-11-08-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "China Wins 5 LNG Carrier Orders in October vs. South Korea's 2, First Monthly Reversal in 'K-Shipbuilding' Heartland - BigGo Finance",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "container_freight",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9TRi1BR1ktYTF1S3hISXRZX3dCTWt5N0xhYnRlbVkySXJvWWtrY0xoYjRqeWk3VkhhamxranNTYVNERUlINlBlcU80VWlfbXN5OVVTdXR5Vk5WUWFXU2pjMm02WFFJNjNwd2Nlalo1UnRwUV9wb3c?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-11-08-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Oil Traders In Talks With US To Get Sanctioned Ships Back To Sea",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://gcaptain.com/oil-traders-in-talks-with-us-to-get-sanctioned-ships-back-to-sea/"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-11-08-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Borderlands Mexico: US foreign-trade zones push to fix USMCA tariff obstacles",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.freightwaves.com/news/borderlands-mexico-us-foreign-trade-zones-push-to-fix-usmca-tariff-obstacles"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-11-08-005",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Intermodal rates coming in hot this fall; mostly fuel driven",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://www.freightwaves.com/news/intermodal-rates-coming-in-hot-this-fall-mostly-fuel-driven"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 6,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.08,
+      "sentiment_7d_avg": null
+    },
+    "container_freight": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 6,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 5,
+      "negative": 0
+    },
+    "top_companies": [],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 6
+      },
+      {
+        "id": "container_freight",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 351,
+    "dup_title": 203,
+    "too_old": 114,
+    "gate1_blocked": 18,
+    "gate2_blocked": 5,
+    "passed": 11,
+    "pass_rate": "7.4%",
+    "gate2_block_rate": "3.4%",
+    "gate2_samples": [
+      "Hanwha Ocean succeeds in localizing ‘key submarine equipment’ - 매일경제",
+      "Wisdom Marine Lines Co., Limited (Cayman) (2637.TW) Seasonal returns chart - Yahoo Finance UK",
+      "Wisdom Marine Lines Co., Limited (Cayman) (2637.TW) Seasonal Returns Chart - Yahoo Finance - Yahoo! ",
+      "Drone Wars & Pilot Skills: Is US Military Training Outdated?",
+      "Flying Cars Are HERE: Joby Aviation on eVTOL Revolution [2025 Outlook]"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 6 則事件，焦點為航運產業通用、貨櫃運價相關動態：「Could China Be Overtaking Us Even in LNG Carriers We Thou...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Could China Be Overtaking Us Even in LNG Carriers We Thought We Had the Edge ...（航運產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "China Wins 5 LNG Carrier Orders in October vs. South Korea's 2, First Monthly...（貨櫃運價、航運產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

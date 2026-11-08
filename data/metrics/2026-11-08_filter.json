@@ -1,0 +1,16 @@
+{
+  "total_raw": 351,
+  "dup_title": 203,
+  "no_date": 0,
+  "too_old": 114,
+  "gate1_fail": 18,
+  "gate2_fail": 5,
+  "passed": 11,
+  "gate2_samples": [
+    "Hanwha Ocean succeeds in localizing ‘key submarine equipment’ - 매일경제",
+    "Wisdom Marine Lines Co., Limited (Cayman) (2637.TW) Seasonal returns chart - Yahoo Finance UK",
+    "Wisdom Marine Lines Co., Limited (Cayman) (2637.TW) Seasonal Returns Chart - Yahoo Finance - Yahoo! ",
+    "Drone Wars & Pilot Skills: Is US Military Training Outdated?",
+    "Flying Cars Are HERE: Joby Aviation on eVTOL Revolution [2025 Outlook]"
+  ]
+}

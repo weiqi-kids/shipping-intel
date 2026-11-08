@@ -18,6 +18,115 @@
     ]
   },
   {
+    "id": "unknown-2026-11-08-001",
+    "date": "2026-11-08",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Could China Be Overtaking Us Even in LNG Carriers We Thought We Had the Edge In? - 파이낸셜뉴스",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiWEFVX3lxTE4zaGw3aHlnVktfbldxZlFIOVNZRmpZeWNuQzNUODNjWlVHREV0VXNIY2JVdkRzUjVlTl90VHIwNG5PM0FNRU5LS2xQZnpaU01iOWd2TzVaZVE?oc=5\" target=\"_blank\">Could Ch",
+    "sources": [
+      {
+        "name": "hd_korea",
+        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE4zaGw3aHlnVktfbldxZlFIOVNZRmpZeWNuQzNUODNjWlVHREV0VXNIY2JVdkRzUjVlTl90VHIwNG5PM0FNRU5LS2xQZnpaU01iOWd2TzVaZVE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-08-002",
+    "date": "2026-11-08",
+    "companies": [],
+    "topics": [
+      "container_freight",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "China Wins 5 LNG Carrier Orders in October vs. South Korea's 2, First Monthly Reversal in 'K-Shipbuilding' Heartland - BigGo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE9TRi1BR1ktYTF1S3hISXRZX3dCTWt5N0xhYnRlbVkySXJvWWtrY0xoYjRqeWk3VkhhamxranNTYVNERUlINlBlcU80VWlfbXN5OVVTdXR5Vk5WUWFXU2pjMm02WFFJNjNwd2Nlalo1Un",
+    "sources": [
+      {
+        "name": "hd_korea",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9TRi1BR1ktYTF1S3hISXRZX3dCTWt5N0xhYnRlbVkySXJvWWtrY0xoYjRqeWk3VkhhamxranNTYVNERUlINlBlcU80VWlfbXN5OVVTdXR5Vk5WUWFXU2pjMm02WFFJNjNwd2Nlalo1UnRwUV9wb3c?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-08-003",
+    "date": "2026-11-08",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Oil Traders In Talks With US To Get Sanctioned Ships Back To Sea",
+    "summary": "By&#160;Lucia Kassai, Devika Krishna Kumar, Charles Gorrivan and Archie Hunter Nov 8, 2026 (Bloomberg) &#8211;Oil traders are seeking approval from the US government to use some tankers that were sanc",
+    "sources": [
+      {
+        "name": "gcaptain",
+        "url": "https://gcaptain.com/oil-traders-in-talks-with-us-to-get-sanctioned-ships-back-to-sea/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-08-004",
+    "date": "2026-11-08",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Borderlands Mexico: US foreign-trade zones push to fix USMCA tariff obstacles",
+    "summary": "<p>This week in Borderlands Mexico: US foreign-trade zones push to fix USMCA tariff obstacles; Mexico to deploy 826 National Guard officers to boost highway security; and Ametek to invest $25M in Mexi",
+    "sources": [
+      {
+        "name": "freightwaves",
+        "url": "https://www.freightwaves.com/news/borderlands-mexico-us-foreign-trade-zones-push-to-fix-usmca-tariff-obstacles",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-08-005",
+    "date": "2026-11-08",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Intermodal rates coming in hot this fall; mostly fuel driven",
+    "summary": "<p>Fuel surcharges are doing most of the work for intermodal contracts this year, but are further increases expected?</p>\n<p>The post <a href=\"https://www.freightwaves.com/news/intermodal-rates-coming",
+    "sources": [
+      {
+        "name": "freightwaves",
+        "url": "https://www.freightwaves.com/news/intermodal-rates-coming-in-hot-this-fall-mostly-fuel-driven",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-08-006",
+    "date": "2026-11-08",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Crew abandon tanker in Hormuz, US strikes bulker in Gulf of Oman",
+    "summary": "Iran and the US traded strikes on commercial vessels in and around the Strait of Hormuz over the weekend.",
+    "sources": [
+      {
+        "name": "seatrade_maritime",
+        "url": "https://www.seatrade-maritime.com/security/crew-abandon-tanker-in-hormuz-us-strikes-bulker-in-gulf-of-oman",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "samsung_heavy-2026-11-07-001",
     "date": "2026-11-07",
     "companies": [
@@ -106,6 +215,42 @@
       {
         "name": "freightwaves",
         "url": "https://www.freightwaves.com/news/compromised-communications-linked-to-40-of-stolen-loads-in-highway-fraud-report",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-07-006",
+    "date": "2026-11-07",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "US Military Says It Disabled Cargo Vessel In Gulf Of Oman",
+    "summary": "Nov 7 (Reuters)&#160;&#8211;&#160;An American military aircraft fired on and disabled a commercial vessel that tried to break the US blockade of Iran on Saturday, US Central Command said.&#160; The St",
+    "sources": [
+      {
+        "name": "gcaptain",
+        "url": "https://gcaptain.com/us-military-says-it-disabled-cargo-vessel-in-gulf-of-oman/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-07-007",
+    "date": "2026-11-07",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "US Forces Disable First Cargo Ship in a Month Sailing from Iranian Port",
+    "summary": "\n                For the first time in a month, U.S. Forces on Saturday fired on and disabled a cargo ship attempting to breach the blockade of Iranian ports. U.S. Cen...\n            ",
+    "sources": [
+      {
+        "name": "maritime_executive",
+        "url": "https://maritime-executive.com/article/us-forces-disable-first-cargo-ship-in-a-month-sailing-from-iranian-port",
         "type": "rss"
       }
     ]
@@ -1411,6 +1556,62 @@
       {
         "name": "google_container_shipping",
         "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOTmkwRUFaN2ZtaXdiZG41V1Fzdlk2SGhVZ0w3UFo1SU9DQzd0c19TdzZJOVEzM0JVUVByc2dSZzV5WmdVcWNsX1FFMXBhMUVKVUJSMDN3dFJpTnJkUHZZZlJXWlYwYTVUZ0JGYVpsNDdzcXZvY3dKX0x4RWNOWEVPTWRSQVF1Y2psSFRJSG5TMXFaakJHMVo2SklXT2xsM1dHN28tdGUzZG9MU25EZExjVDVHRQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "hd_korea-2026-11-06-072",
+    "date": "2026-11-06",
+    "companies": [
+      "hd_korea"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "“Wins orders for four more ammonia carriers”... HD Korea Shipbuilding & Offshore Engineering Co., Ltd. (HD KSOE) reaches 91% of its annual target - 매일경제",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiU0FVX3lxTE9raDJlMGdMdU5MVllMTC1RcVMwWTZBbUtyWU9WOTJaV0JpSGlMb1dlMW1ESms1SjBaaUhWb0FRUGFkZmVSWElJZEJqTGlOZlpFdHFr?oc=5\" target=\"_blank\">“Wins orders fo",
+    "sources": [
+      {
+        "name": "hd_korea",
+        "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9raDJlMGdMdU5MVllMTC1RcVMwWTZBbUtyWU9WOTJaV0JpSGlMb1dlMW1ESms1SjBaaUhWb0FRUGFkZmVSWElJZEJqTGlOZlpFdHFr?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-06-073",
+    "date": "2026-11-06",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "China Focus: China's second homegrown large cruise ship delivered in Shanghai - Xinhua",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE5PdUdRVi1FVVEzVDNmWWdsbUw4bUl0U2IwWEI0TmU5bk1lT2xubmZ0eHRfdmFVLTRsdzhwbGwyQjZ3M2VOamtkNjVRVlROa25ydkhkWTRZVEVJLWxJb2JIX2lzckExaGIxcnhzaC1rOX",
+    "sources": [
+      {
+        "name": "cssc",
+        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5PdUdRVi1FVVEzVDNmWWdsbUw4bUl0U2IwWEI0TmU5bk1lT2xubmZ0eHRfdmFVLTRsdzhwbGwyQjZ3M2VOamtkNjVRVlROa25ydkhkWTRZVEVJLWxJb2JIX2lzckExaGIxcnhzaC1rOXphc1JteTlWOHBlUkU?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-06-074",
+    "date": "2026-11-06",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Judge Rejects Efforts to Stop Planned Sinking of S.S. United States",
+    "summary": "\n                A complaint filed in U.S. Federal Court is seeking to stop the planned sinking of the famed ocean liner S.S. United States, currently scheduled for ne...\n            ",
+    "sources": [
+      {
+        "name": "maritime_executive",
+        "url": "https://maritime-executive.com/article/lawsuit-seeks-to-stop-planned-sinking-of-s-s-united-states",
         "type": "rss"
       }
     ]
