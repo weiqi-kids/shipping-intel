@@ -1,0 +1,16 @@
+{
+  "total_raw": 349,
+  "dup_title": 147,
+  "no_date": 0,
+  "too_old": 93,
+  "gate1_fail": 20,
+  "gate2_fail": 8,
+  "passed": 81,
+  "gate2_samples": [
+    "South Korea's HD Hyundai, Hanwha Ocean, Samsung Heavy Industries Race to Lead Floating AI Data Cente",
+    "DHT Holdings Adds One More VLCC at Hanwha Ocean - iMarine",
+    "Hanwha Ocean, ABB partner on floating data center power systems - ET Datacenters",
+    "Hanwha Ocean and ABB partner to develop power systems for floating data centers - W.Media",
+    "Wisdom Marine Lines Co., Limited (Cayman) (2637.TW) Seasonal returns chart - Yahoo Finance UK"
+  ]
+}

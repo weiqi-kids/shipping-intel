@@ -1,0 +1,239 @@
+{
+  "date": "2026-11-10",
+  "generated_at": "2026-11-10T16:16:53.156701Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-11-10-039",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Container freight rates weaken as WCI and FBX extend declines - Container News",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "container_freight",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -0.75
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNN3dCMXZxV0RwT0xRSUEwRFFsSlU4ZV8wZFRFV1MtRmZRbnljMmdueVRzaU9hX1hqNmVya0RNNWI5R1ZfWW00a0RuM0QwQjhkZmR2RW1NaXVTZVNmZ0VsQ21hLTlMYW5jUWNVdnNiMDBPT3dFczBuRDEtNHhkdDR2ODNSMVN0VUZXTVQxT3l0T0lQYVU?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-11-10-041",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Shenzhen belly cargo ban threatens peak-season squeeze at other gateways",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -0.75
+      },
+      "source_url": "https://theloadstar.com/shenzhen-air-cargo-restrictions-ahead-of-apec-threaten-peak-shipments/"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-11-10-042",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Carriers sense growth and pour capacity into ex-India ocean trades",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.75
+      },
+      "source_url": "https://theloadstar.com/carriers-sense-growth-and-pour-capacity-into-ex-india-ocean-trades/"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-11-10-045",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Podcast: Record container volumes meet mounting disruption in Q3",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://theloadstar.com/cts-q3-in-numbers/"
+    },
+    {
+      "rank": 5,
+      "event_id": "samsung_heavy-2026-11-10-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Wind power patents: Samsung Heavy Industries | Siemens Gamesa | LM Wind Power - Wind Power Monthly",
+      "companies": [
+        "samsung_heavy"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPOHRjb1Nteng5d0JhcWk1WE8zYzc2eGtUWUM0YVpzMHJrbnZqc3Fialp4Y045Skw1Y2xudHQxcXJDVk83ZWJ2NnNOYnRPY1V2ODN4UVVVSTVpcTNwZzFYcmthaE41NXpJaWUteWludTZXREhMX0hqT1NmUTJIVW1fNVJKR0F3ckk0WUR1LWVqbXE5cWpfc2tKRVJYTTFyTmh6VHp4RUxySkN4allhMW1iU3FjcnNKNDEyY1ZTVzhR?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "shipbuilding_orders": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.17,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 49,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.09,
+      "sentiment_7d_avg": null
+    },
+    "container_freight": {
+      "today": 6,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.04,
+      "sentiment_7d_avg": null
+    },
+    "port_congestion": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.25,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 51,
+    "sentiment_distribution": {
+      "positive": 12,
+      "neutral": 35,
+      "negative": 4
+    },
+    "top_companies": [
+      {
+        "id": "cosco",
+        "count": 4
+      },
+      {
+        "id": "samsung_heavy",
+        "count": 1
+      },
+      {
+        "id": "hanwha_ocean",
+        "count": 1
+      },
+      {
+        "id": "yang_ming",
+        "count": 1
+      },
+      {
+        "id": "star_bulk",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 49
+      },
+      {
+        "id": "container_freight",
+        "count": 6
+      },
+      {
+        "id": "shipbuilding_orders",
+        "count": 3
+      },
+      {
+        "id": "port_congestion",
+        "count": 2
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 349,
+    "dup_title": 147,
+    "too_old": 93,
+    "gate1_blocked": 20,
+    "gate2_blocked": 8,
+    "passed": 81,
+    "pass_rate": "40.1%",
+    "gate2_block_rate": "4.0%",
+    "gate2_samples": [
+      "South Korea's HD Hyundai, Hanwha Ocean, Samsung Heavy Industries Race to Lead Floating AI Data Cente",
+      "DHT Holdings Adds One More VLCC at Hanwha Ocean - iMarine",
+      "Hanwha Ocean, ABB partner on floating data center power systems - ET Datacenters",
+      "Hanwha Ocean and ABB partner to develop power systems for floating data centers - W.Media",
+      "Wisdom Marine Lines Co., Limited (Cayman) (2637.TW) Seasonal returns chart - Yahoo Finance UK"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 51 則事件，焦點為中遠海控、三星重工、韓華海洋相關動態：「Container freight rates weaken as WCI and FBX extend decl...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Container freight rates weaken as WCI and FBX extend declines - Container News（貨櫃運價、航運產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "Shenzhen belly cargo ban threatens peak-season squeeze at other gateways（航運產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
