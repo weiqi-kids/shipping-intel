@@ -1,0 +1,16 @@
+{
+  "total_raw": 348,
+  "dup_title": 144,
+  "no_date": 0,
+  "too_old": 87,
+  "gate1_fail": 21,
+  "gate2_fail": 9,
+  "passed": 87,
+  "gate2_samples": [
+    "South Korea's HD Hyundai, Hanwha Ocean, Samsung Heavy Industries Race to Lead Floating AI Data Cente",
+    "China extends suspension of countermeasures against five Hanwha Ocean’s US-linked subsidiaries - Glo",
+    "DHT Holdings Adds One More VLCC at Hanwha Ocean - iMarine",
+    "Hanwha Ocean, ABB partner on floating data center power systems - ET Datacenters",
+    "Diesel Price Drop: Why Oil Markets Are Tumbling"
+  ]
+}

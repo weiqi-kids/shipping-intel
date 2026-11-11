@@ -1,0 +1,238 @@
+{
+  "date": "2026-11-11",
+  "generated_at": "2026-11-11T15:58:49.746388Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-11-11-018",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "US rail traffic hits intermodal record as October freight gains signal economic resilience, says AAR",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.75
+      },
+      "source_url": "https://www.freightwaves.com/news/us-rail-traffic-hits-intermodal-record-as-october-freight-gains-signal-economic-resilience-says-aar"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-11-11-019",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "US Postal Service reduces annual operating loss by 12.7%",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://www.freightwaves.com/news/us-postal-service-reduces-annual-operating-loss-by-12-7"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-11-11-026",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Coal’s new world order takes shape",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.75
+      },
+      "source_url": "https://splash247.com/coals-new-world-order-takes-shape/"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-11-11-029",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Maritime coalition targets 20% electrification by 2035",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://splash247.com/maritime-coalition-targets-20-electrification-by-2035/"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-11-11-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Korean shipbuilders float FDCs as land-based data center pushback buoys alternative - Korea JoongAng Daily",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQbWUtNm1oTjVwWWtWY0p4ZGhLekNQXzlLdXpQZy0zZHhnUk4wSWVoeGlmYlEzSVF5NXJSY3JXNmZENHZrakgzN0t6c1NhTy0tNk8yTUNnN04tOGNaTl8wbkp4OGtpZkZlOXVleTVFSGxIaE9KR052UEFMX1dXR1NEV0tuS2NZamFsT3pNOU1IOGs5azJuWmZ5cmNBWnEyY29rSkpCODhJclN6S090dnY1b0liLVhRVnhxeHhGczRlQ1kxS0hPMExaYktISDB6dVpKYnhJeGdn?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 49,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.06,
+      "sentiment_7d_avg": null
+    },
+    "shipbuilding_orders": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "dry_bulk_rate": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.5,
+      "sentiment_7d_avg": null
+    },
+    "container_freight": {
+      "today": 5,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 51,
+    "sentiment_distribution": {
+      "positive": 7,
+      "neutral": 42,
+      "negative": 2
+    },
+    "top_companies": [
+      {
+        "id": "hapag",
+        "count": 5
+      },
+      {
+        "id": "cosco",
+        "count": 4
+      },
+      {
+        "id": "wan_hai",
+        "count": 3
+      },
+      {
+        "id": "hanwha_ocean",
+        "count": 2
+      },
+      {
+        "id": "yang_ming",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 49
+      },
+      {
+        "id": "container_freight",
+        "count": 5
+      },
+      {
+        "id": "shipbuilding_orders",
+        "count": 1
+      },
+      {
+        "id": "dry_bulk_rate",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 348,
+    "dup_title": 144,
+    "too_old": 87,
+    "gate1_blocked": 21,
+    "gate2_blocked": 9,
+    "passed": 87,
+    "pass_rate": "42.6%",
+    "gate2_block_rate": "4.4%",
+    "gate2_samples": [
+      "South Korea's HD Hyundai, Hanwha Ocean, Samsung Heavy Industries Race to Lead Floating AI Data Cente",
+      "China extends suspension of countermeasures against five Hanwha Ocean’s US-linked subsidiaries - Glo",
+      "DHT Holdings Adds One More VLCC at Hanwha Ocean - iMarine",
+      "Hanwha Ocean, ABB partner on floating data center power systems - ET Datacenters",
+      "Diesel Price Drop: Why Oil Markets Are Tumbling"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 51 則事件，焦點為赫伯羅特、中遠海控、萬海航運相關動態：「US rail traffic hits intermodal record as October freight...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "US rail traffic hits intermodal record as October freight gains signal econom...（航運產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "US Postal Service reduces annual operating loss by 12.7%（航運產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
