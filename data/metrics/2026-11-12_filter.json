@@ -1,0 +1,16 @@
+{
+  "total_raw": 345,
+  "dup_title": 151,
+  "no_date": 0,
+  "too_old": 89,
+  "gate1_fail": 14,
+  "gate2_fail": 5,
+  "passed": 86,
+  "gate2_samples": [
+    "South Korea's HD Hyundai, Hanwha Ocean, Samsung Heavy Industries Race to Lead Floating AI Data Cente",
+    "China extends suspension of countermeasures against five Hanwha Ocean’s US-linked subsidiaries - Glo",
+    "Hanwha Ocean, ABB partner on floating data center power systems - ET Datacenters",
+    "Hanwha Ocean, ABB Team on Floating Data Centers - Businesskorea",
+    "Maersk hit by ransomware cyber-attack"
+  ]
+}

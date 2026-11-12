@@ -1,0 +1,244 @@
+{
+  "date": "2026-11-12",
+  "generated_at": "2026-11-12T16:42:08.408124Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "evergreen-2026-11-12-003",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Evergreen Marine Q3 EPS NT$21.53 Hits 8-Quarter High; First Three Quarters NT$32.77 Surpass Full-Year 2025 - BigGo Finance",
+      "companies": [
+        "evergreen"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9adnJObFNpZ2phdHpwZDRYTXlJdVhPSDVZZlJBQ2wyQXo3d2dVRnNqY3NKWWJ1dmgtWXZvdE5pV1l5RGRQTlRVTUpYeTExQmVNSndZa19GUU05MDVJNndlbWJrOXNFWXZGelhocHJvbUhoVExsTXc?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-11-12-008",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Singapore Retains Crown as World’s Leading Maritime Hub",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://gcaptain.com/singapore-retains-crown-as-worlds-leading-maritime-hub/"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-11-12-009",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Farewell to America’s Flagship: SS United States Sinks After 74 Years",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://gcaptain.com/farewell-to-americas-flagship-ss-united-states-sinks-after-74-years/"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-11-12-027",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Brazilian soybean exports smash records",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "dry_bulk_rate",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://splash247.com/brazilian-soybean-exports-smash-records/"
+    },
+    {
+      "rank": 5,
+      "event_id": "hapag-2026-11-12-035",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "News Strong freight rates help Hapag-Lloyd profits soar, despite loss of market share - The Loadstar",
+      "companies": [
+        "hapag"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "container_freight",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNeENDYTUxYms5U2ZCNzZGTmZSYThOdUdiTkg0X0VXWXdMTVZPX3c1RC03ZGxadks1c2VHc0xIdVBESElVNy0zU3pZYjRyc2g1eTZ6UjRPeXkwb2JFbGFoNG9xa2M2RGxCZ1pwTmtRV3FPOGhHeVNZaW9pbk5EMDZySml1MURLTjdrbDZwSlJEbWtqOVFEemo4UlRvMFlmTjdsbmhlNXd0OA?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 49,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "container_freight": {
+      "today": 5,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.3,
+      "sentiment_7d_avg": null
+    },
+    "dry_bulk_rate": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.5,
+      "sentiment_7d_avg": null
+    },
+    "shipbuilding_orders": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 51,
+    "sentiment_distribution": {
+      "positive": 6,
+      "neutral": 39,
+      "negative": 6
+    },
+    "top_companies": [
+      {
+        "id": "hapag",
+        "count": 3
+      },
+      {
+        "id": "wan_hai",
+        "count": 2
+      },
+      {
+        "id": "maersk",
+        "count": 2
+      },
+      {
+        "id": "hd_korea",
+        "count": 1
+      },
+      {
+        "id": "evergreen",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 49
+      },
+      {
+        "id": "container_freight",
+        "count": 5
+      },
+      {
+        "id": "dry_bulk_rate",
+        "count": 2
+      },
+      {
+        "id": "shipbuilding_orders",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 345,
+    "dup_title": 151,
+    "too_old": 89,
+    "gate1_blocked": 14,
+    "gate2_blocked": 5,
+    "passed": 86,
+    "pass_rate": "44.3%",
+    "gate2_block_rate": "2.6%",
+    "gate2_samples": [
+      "South Korea's HD Hyundai, Hanwha Ocean, Samsung Heavy Industries Race to Lead Floating AI Data Cente",
+      "China extends suspension of countermeasures against five Hanwha Ocean’s US-linked subsidiaries - Glo",
+      "Hanwha Ocean, ABB partner on floating data center power systems - ET Datacenters",
+      "Hanwha Ocean, ABB Team on Floating Data Centers - Businesskorea",
+      "Maersk hit by ransomware cyber-attack"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 51 則事件，焦點為赫伯羅特、萬海航運、馬士基相關動態：「Evergreen Marine Q3 EPS NT$21.53 Hits 8-Quarter High; Fir...」。主要關注主題為航運產業通用、貨櫃運價、散裝運價，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Evergreen Marine Q3 EPS NT$21.53 Hits 8-Quarter High; First Three Quarters NT...",
+        "level": "green"
+      },
+      {
+        "text": "Singapore Retains Crown as World’s Leading Maritime Hub（航運產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
