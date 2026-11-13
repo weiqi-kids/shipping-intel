@@ -1,0 +1,218 @@
+{
+  "date": "2026-11-13",
+  "generated_at": "2026-11-13T16:00:45.666931Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-11-13-021",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Cargojet fleet optimization boosts productivity, fuels record Q3 revenue",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://www.freightwaves.com/news/cargojet-fleet-optimization-boosts-productivity-fuels-record-q3-revenue"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-11-13-022",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Record October as Los Angeles tops 1 Million TEUs for second straight month",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://www.freightwaves.com/news/record-october-as-los-angeles-tops-1-million-teus-for-second-straight-month"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-11-13-023",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "After $604M verdict, fleets face AI camera blind spots",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://www.freightwaves.com/news/ai-dash-cam-false-negatives-fleet-liability"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-11-13-024",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "From ocean liner to artificial reef: A warning for container shipping",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://splash247.com/from-ocean-liner-to-artificial-reef-a-warning-for-container-shipping/"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-11-13-029",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Baltic Exchange and Mercuria await verdict in landmark tanker index trial",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://splash247.com/baltic-exchange-and-mercuria-await-verdict-in-landmark-tanker-index-trial/"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "container_freight": {
+      "today": 4,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.5,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 35,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.03,
+      "sentiment_7d_avg": null
+    },
+    "shipbuilding_orders": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.17,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 40,
+    "sentiment_distribution": {
+      "positive": 5,
+      "neutral": 30,
+      "negative": 5
+    },
+    "top_companies": [
+      {
+        "id": "cosco",
+        "count": 6
+      },
+      {
+        "id": "hanwha_ocean",
+        "count": 5
+      },
+      {
+        "id": "wisdom",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 35
+      },
+      {
+        "id": "container_freight",
+        "count": 4
+      },
+      {
+        "id": "shipbuilding_orders",
+        "count": 3
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 347,
+    "dup_title": 161,
+    "too_old": 96,
+    "gate1_blocked": 16,
+    "gate2_blocked": 7,
+    "passed": 67,
+    "pass_rate": "36.0%",
+    "gate2_block_rate": "3.8%",
+    "gate2_samples": [
+      "China extends suspension of countermeasures against five Hanwha Ocean’s US-linked subsidiaries - Glo",
+      "Proficient Auto Logistics eyes margin recovery after challenging Q3",
+      "Gulf war leaves toxic legacy that could last decades",
+      "Pinglu Canal fuels Nanning ambition to be an ASEAN logistics hub",
+      "Forwarders need to be specialists to make pharma work"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 40 則事件，焦點為中遠海控、韓華海洋、慧洋海運相關動態：「Cargojet fleet optimization boosts productivity, fuels re...」。主要關注主題為航運產業通用、貨櫃運價、造船訂單，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Cargojet fleet optimization boosts productivity, fuels record Q3 revenue（航運產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "Record October as Los Angeles tops 1 Million TEUs for second straight month（航運產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

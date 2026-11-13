@@ -1,0 +1,16 @@
+{
+  "total_raw": 347,
+  "dup_title": 161,
+  "no_date": 0,
+  "too_old": 96,
+  "gate1_fail": 16,
+  "gate2_fail": 7,
+  "passed": 67,
+  "gate2_samples": [
+    "China extends suspension of countermeasures against five Hanwha Ocean’s US-linked subsidiaries - Glo",
+    "Proficient Auto Logistics eyes margin recovery after challenging Q3",
+    "Gulf war leaves toxic legacy that could last decades",
+    "Pinglu Canal fuels Nanning ambition to be an ASEAN logistics hub",
+    "Forwarders need to be specialists to make pharma work"
+  ]
+}

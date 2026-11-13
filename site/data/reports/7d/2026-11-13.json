@@ -1,0 +1,172 @@
+{
+  "date": "2026-11-13",
+  "date_range": {
+    "start": "2026-11-07",
+    "end": "2026-11-13"
+  },
+  "generated_at": "2026-11-13T16:00:45.834733Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "hapag-2026-11-09-057",
+      "date": "2026-11-09",
+      "title": "Hapag’s ASX will reverse December Asia-ECSA capacity squeeze",
+      "importance_score": 0.7
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "industry_general": {
+      "this_week": 252,
+      "last_week": 205,
+      "week_over_week_change": "+23%",
+      "sentiment_this_week": 0.04
+    },
+    "container_freight": {
+      "this_week": 22,
+      "last_week": 13,
+      "week_over_week_change": "+69%",
+      "sentiment_this_week": -0.17
+    },
+    "port_congestion": {
+      "this_week": 4,
+      "last_week": 4,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": -0.12
+    },
+    "shipbuilding_orders": {
+      "this_week": 13,
+      "last_week": 10,
+      "week_over_week_change": "+30%",
+      "sentiment_this_week": 0.12
+    },
+    "dry_bulk_rate": {
+      "this_week": 4,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.5
+    }
+  },
+  "company_7d_summary": {
+    "samsung_heavy": {
+      "event_count": 8,
+      "sentiment_avg": 0.0,
+      "rank": 4
+    },
+    "hd_korea": {
+      "event_count": 5,
+      "sentiment_avg": 0.0,
+      "rank": 5
+    },
+    "hanwha_ocean": {
+      "event_count": 12,
+      "sentiment_avg": 0.0,
+      "rank": 2
+    },
+    "cosco": {
+      "event_count": 20,
+      "sentiment_avg": 0.0,
+      "rank": 1
+    },
+    "star_bulk": {
+      "event_count": 3,
+      "sentiment_avg": 0.0,
+      "rank": 8
+    },
+    "hapag": {
+      "event_count": 9,
+      "sentiment_avg": -0.14,
+      "rank": 3
+    },
+    "maersk": {
+      "event_count": 5,
+      "sentiment_avg": 0.0,
+      "rank": 6
+    },
+    "yang_ming": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 9
+    },
+    "wan_hai": {
+      "event_count": 5,
+      "sentiment_avg": 0.0,
+      "rank": 7
+    },
+    "evergreen": {
+      "event_count": 2,
+      "sentiment_avg": 0.5,
+      "rank": 10
+    },
+    "wisdom": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 11
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 405,
+        "last": 428,
+        "change_pct": -5.4
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-11-07",
+      "event_count": 7,
+      "sentiment_avg": 0.0
+    },
+    {
+      "date": "2026-11-08",
+      "event_count": 14,
+      "sentiment_avg": 0.04
+    },
+    {
+      "date": "2026-11-09",
+      "event_count": 95,
+      "sentiment_avg": 0.01
+    },
+    {
+      "date": "2026-11-10",
+      "event_count": 87,
+      "sentiment_avg": 0.07
+    },
+    {
+      "date": "2026-11-11",
+      "event_count": 85,
+      "sentiment_avg": 0.1
+    },
+    {
+      "date": "2026-11-12",
+      "event_count": 77,
+      "sentiment_avg": 0.04
+    },
+    {
+      "date": "2026-11-13",
+      "event_count": 40,
+      "sentiment_avg": 0.03
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-11-07 ~ 2026-11-13）共 405 則事件，重點為「Hapag’s ASX will reverse December Asia-ECSA cap...」。長榮海運表現正面，整體氣氛穩健。",
+    "watchlist": [
+      {
+        "company": "三星重工",
+        "reason": "本週出現 8 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "韓國造船海洋",
+        "reason": "本週出現 5 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "韓華海洋",
+        "reason": "本週出現 12 則相關事件，為高關注企業，動態頻繁。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
