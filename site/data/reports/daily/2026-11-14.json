@@ -1,0 +1,187 @@
+{
+  "date": "2026-11-14",
+  "generated_at": "2026-11-14T14:54:26.519077Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-11-14-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Data Centers Floating at Sea... Time to Buy Shipbuilding Stocks Now [Weekend Money] - 아시아경제",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "container_freight",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9hM09pemVLVVdoTUJiTGg0RWZ5N09IU2Z6cUFBX2tDOTBOLTZmQ3dldjBPSHluRjFZcUxhd2wtdzNDb2hoV2g0dVg3dU1xMzF0aFBCblZrTnBYVWoyeXN6OWpsNG8?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "hanwha_ocean-2026-11-14-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Hanwha Ocean Fell 58% While Profit Rose - Simply Wall St",
+      "companies": [
+        "hanwha_ocean"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOOGlUS0ZjdzNfMlhrUjdlZlJCc0o0V1VyZ1BrSlR5d1JPZE9HbnZvU0k2VGdFRzdNUmIxU09QMHozYXRYbGNFWkhLWUNQLVlyNTlUa1RIQ0FGb1RDV1pvOFJHbS1LOWNCTWoweVdhMk93X3BoM240dC1WMVBJYkpjN3pDNE5PMzVJdHVwSzV4VGhrZlEyY3pvVUhHTW1wUHN1RW1FaHNRcUg5QVJiRk1IYW9IVC14ckJTUDhyM2Rma9IBxAFBVV95cUxQYTM2VkM0MG91NHVCUDhVZDhzd0U1ZUVpN0lHWEhWZ3JOdUNkUThxdmpTMExpejVDR2xjQTBGU2FhWGQ4dU5zNHB3UlFIWDNGbFVoYXVmdlgtY2RIVG5qRzRvQnhrQkhXNDRWY2VsVHg0NWJUOHdveENobU41ZTVmOGVTcWdVdENpT0xyaE1xNlV4M1d0SktvcTJHQ0htd0F6a1FrcEg3M0FhaWhSMGlrR0ladDZPMHF6ZjdOb0d0Z0pab1dJ?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "hanwha_ocean-2026-11-14-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Hanwha Ocean to Invest 861.9 Billion Won in Geoje Facilities; Subcontractor Union to Begin Hunger Strike on the 16th Over Wages, Employment, and Negotiations - 재경일보",
+      "companies": [
+        "hanwha_ocean"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5SU2FOM3NfV1NnTGFFdG1TTmJrc2dna1pWQ0dDTGtoZVRyYlJTSEFabXZrLWJWSlB2Rkt4SkRaeHpVYy1WMk0tQ1BubEY2ZnB6aTY1WWtxUXh2d01XT1BCNFdn?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-11-14-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "‘Miracle on the Mississippi’: All Accounted For After Tanker Capsizes Cruise Ship in New Orleans",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://gcaptain.com/miracle-on-the-mississippi-all-accounted-for-after-tanker-capsizes-cruise-ship-in-new-orleans/"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-11-14-005",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Bulker Hits Bridge Near Philadelphia",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://maritime-executive.com/article/bulker-hits-bridge-near-philadelphia"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "container_freight": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 4,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 6,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 6,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "hanwha_ocean",
+        "count": 2
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 4
+      },
+      {
+        "id": "container_freight",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 345,
+    "dup_title": 173,
+    "too_old": 106,
+    "gate1_blocked": 12,
+    "gate2_blocked": 9,
+    "passed": 45,
+    "pass_rate": "26.2%",
+    "gate2_block_rate": "5.2%",
+    "gate2_samples": [
+      "Hanwha Ocean revives FLNG bid as Samsung Heavy holds 64% share - Chosunbiz",
+      "China extends suspension of countermeasures against five Hanwha Ocean’s US-linked subsidiaries - Glo",
+      "Trailer Flexibility Is Becoming a Growth Strategy for Carriers",
+      "Amazon-focused bill likely to pass in NYC but only after changes",
+      "Proficient Auto Logistics eyes margin recovery after challenging Q3"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 6 則事件，焦點為韓華海洋相關動態：「Data Centers Floating at Sea... Time to Buy Shipbuilding ...」。主要關注主題為航運產業通用、貨櫃運價，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Data Centers Floating at Sea... Time to Buy Shipbuilding Stocks Now [Weekend ...（貨櫃運價、航運產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "Hanwha Ocean Fell 58% While Profit Rose - Simply Wall St",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

@@ -1,0 +1,16 @@
+{
+  "total_raw": 345,
+  "dup_title": 173,
+  "no_date": 0,
+  "too_old": 106,
+  "gate1_fail": 12,
+  "gate2_fail": 9,
+  "passed": 45,
+  "gate2_samples": [
+    "Hanwha Ocean revives FLNG bid as Samsung Heavy holds 64% share - Chosunbiz",
+    "China extends suspension of countermeasures against five Hanwha Ocean’s US-linked subsidiaries - Glo",
+    "Trailer Flexibility Is Becoming a Growth Strategy for Carriers",
+    "Amazon-focused bill likely to pass in NYC but only after changes",
+    "Proficient Auto Logistics eyes margin recovery after challenging Q3"
+  ]
+}

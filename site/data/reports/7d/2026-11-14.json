@@ -1,0 +1,172 @@
+{
+  "date": "2026-11-14",
+  "date_range": {
+    "start": "2026-11-08",
+    "end": "2026-11-14"
+  },
+  "generated_at": "2026-11-14T14:54:26.671877Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "maersk-2026-11-13-078",
+      "date": "2026-11-13",
+      "title": "CMA CGM Q3 26 update out: Ocean outperforms, Ceva a mixed bag",
+      "importance_score": 0.85
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "industry_general": {
+      "this_week": 251,
+      "last_week": 208,
+      "week_over_week_change": "+21%",
+      "sentiment_this_week": 0.04
+    },
+    "container_freight": {
+      "this_week": 22,
+      "last_week": 14,
+      "week_over_week_change": "+57%",
+      "sentiment_this_week": -0.17
+    },
+    "port_congestion": {
+      "this_week": 4,
+      "last_week": 4,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": -0.12
+    },
+    "shipbuilding_orders": {
+      "this_week": 13,
+      "last_week": 10,
+      "week_over_week_change": "+30%",
+      "sentiment_this_week": 0.12
+    },
+    "dry_bulk_rate": {
+      "this_week": 4,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.5
+    }
+  },
+  "company_7d_summary": {
+    "hd_korea": {
+      "event_count": 5,
+      "sentiment_avg": 0.0,
+      "rank": 5
+    },
+    "samsung_heavy": {
+      "event_count": 7,
+      "sentiment_avg": 0.0,
+      "rank": 4
+    },
+    "hanwha_ocean": {
+      "event_count": 14,
+      "sentiment_avg": 0.0,
+      "rank": 2
+    },
+    "cosco": {
+      "event_count": 20,
+      "sentiment_avg": 0.0,
+      "rank": 1
+    },
+    "star_bulk": {
+      "event_count": 3,
+      "sentiment_avg": 0.0,
+      "rank": 8
+    },
+    "hapag": {
+      "event_count": 9,
+      "sentiment_avg": -0.14,
+      "rank": 3
+    },
+    "maersk": {
+      "event_count": 5,
+      "sentiment_avg": 0.0,
+      "rank": 6
+    },
+    "yang_ming": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 9
+    },
+    "wan_hai": {
+      "event_count": 5,
+      "sentiment_avg": 0.0,
+      "rank": 7
+    },
+    "evergreen": {
+      "event_count": 2,
+      "sentiment_avg": 0.5,
+      "rank": 10
+    },
+    "wisdom": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 11
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 443,
+        "last": 427,
+        "change_pct": 3.7
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-11-08",
+      "event_count": 14,
+      "sentiment_avg": 0.04
+    },
+    {
+      "date": "2026-11-09",
+      "event_count": 95,
+      "sentiment_avg": 0.01
+    },
+    {
+      "date": "2026-11-10",
+      "event_count": 87,
+      "sentiment_avg": 0.07
+    },
+    {
+      "date": "2026-11-11",
+      "event_count": 86,
+      "sentiment_avg": 0.1
+    },
+    {
+      "date": "2026-11-12",
+      "event_count": 77,
+      "sentiment_avg": 0.04
+    },
+    {
+      "date": "2026-11-13",
+      "event_count": 78,
+      "sentiment_avg": 0.05
+    },
+    {
+      "date": "2026-11-14",
+      "event_count": 6,
+      "sentiment_avg": 0.0
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-11-08 ~ 2026-11-14）共 443 則事件，重點為「CMA CGM Q3 26 update out: Ocean outperforms, Ce...」。長榮海運表現正面，整體氣氛穩健。",
+    "watchlist": [
+      {
+        "company": "韓國造船海洋",
+        "reason": "本週出現 5 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "三星重工",
+        "reason": "本週出現 7 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "韓華海洋",
+        "reason": "本週出現 14 則相關事件，為高關注企業，動態頻繁。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
