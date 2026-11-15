@@ -1,0 +1,16 @@
+{
+  "total_raw": 346,
+  "dup_title": 196,
+  "no_date": 0,
+  "too_old": 118,
+  "gate1_fail": 11,
+  "gate2_fail": 8,
+  "passed": 13,
+  "gate2_samples": [
+    "China extends suspension of countermeasures against five Hanwha Ocean’s US-linked subsidiaries - Glo",
+    "Trailer Flexibility Is Becoming a Growth Strategy for Carriers",
+    "Amazon-focused bill likely to pass in NYC but only after changes",
+    "Proficient Auto Logistics eyes margin recovery after challenging Q3",
+    "Gulf war leaves toxic legacy that could last decades"
+  ]
+}

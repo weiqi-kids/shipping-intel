@@ -1,0 +1,198 @@
+{
+  "date": "2026-11-15",
+  "generated_at": "2026-11-15T15:31:05.285082Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-11-15-007",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Los Angeles port chief confident amid ongoing strike threat",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://www.seatrade-maritime.com/ports-logistics/los-angeles-port-chief-confident-amid-ongoing-strike-threat"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-11-15-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "HD Hyundai launches autonomous vessel developed with Anduril - The Korea Times",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNN19KVF9zR2lHaWs5MEpjb2Fnd3k3Q1FyTDJPWWtlcVlBa3o5bE9QYXB3Z3NUR0dRRzZ0Vkk2MVkwY1YxNnVzdjR0WVV5RWl1dmJNajFPem9MWk01RmxpbWQtcWctMHZFZWhRcjNrcFgydDA5RWpoUHhaLTFycTcwTnVJOThSSFlOa1ctb19YWEZLQnRSZzVleFpBUlNiNGpsQlNiTm9uZTFwc3PSAbABQVVfeXFMT0tjR2dHcjYxREV1U2dKdnFHazh0c2c1eWRCTkl5STNzd3R5LU1hSnRLaXk4TEFOOUJUcDljbFdZQmVpclg4MFFuWHpJS2hhTk5MS1Rlcm1DMVMwUGtUdUVKTmQ4c0ZHMmdIdWRkX0Fqdm5EVUhMV1VZRV92WVg4ZlFGS2U5Y3dobXhQdU4yTWdza0VYZnNKMnJlMGtTdDNpQjBQT3RQc3ctQWRtY0pTM2I?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-11-15-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "HD Hyundai launches 600-ton autonomous vessel — Korea Herald - UA.NEWS",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPWHBCWXZYWkZYUnlTZUxBYVByQVRPanRkYnMxcGNkUzBxb0N1N0hIUVo4RG4zYWhPelBwakhyc3R4MDQ1cWhPejJwRG9PNG5MZ3RYMFlsb244ODhveEZtMUJqVXhEbmpobVkydlBBSTV5QkxlWm9KOUFnTzhLdWE1WGpqVmVrU3NvVElnN1hiMmFKS3A3WDlZQzh2RS1KTGlT?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-11-15-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "South Africa’s Auto Industry Threatened By Worsening Port Delays",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "port_congestion",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -0.5
+      },
+      "source_url": "https://gcaptain.com/south-africas-auto-industry-threatened-by-worsening-port-delays/"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-11-15-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Borderlands Mexico: Texas cross-border traffic rises by 400 trucks through Saturday pilot",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.freightwaves.com/news/borderlands-mexico-texas-cross-border-traffic-rises-by-400-trucks-through-saturday-pilot"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 7,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.07,
+      "sentiment_7d_avg": null
+    },
+    "port_congestion": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.5,
+      "sentiment_7d_avg": null
+    },
+    "container_freight": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 7,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 5,
+      "negative": 1
+    },
+    "top_companies": [],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 7
+      },
+      {
+        "id": "port_congestion",
+        "count": 1
+      },
+      {
+        "id": "container_freight",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 346,
+    "dup_title": 196,
+    "too_old": 118,
+    "gate1_blocked": 11,
+    "gate2_blocked": 8,
+    "passed": 13,
+    "pass_rate": "8.7%",
+    "gate2_block_rate": "5.3%",
+    "gate2_samples": [
+      "China extends suspension of countermeasures against five Hanwha Ocean’s US-linked subsidiaries - Glo",
+      "Trailer Flexibility Is Becoming a Growth Strategy for Carriers",
+      "Amazon-focused bill likely to pass in NYC but only after changes",
+      "Proficient Auto Logistics eyes margin recovery after challenging Q3",
+      "Gulf war leaves toxic legacy that could last decades"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 7 則事件，焦點為航運產業通用、港口壅塞、貨櫃運價相關動態：「Los Angeles port chief confident amid ongoing strike threat」。主要關注主題為航運產業通用、港口壅塞、貨櫃運價，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Los Angeles port chief confident amid ongoing strike threat（航運產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "HD Hyundai launches autonomous vessel developed with Anduril - The Korea Times（航運產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
