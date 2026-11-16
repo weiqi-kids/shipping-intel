@@ -1,0 +1,186 @@
+{
+  "date": "2026-11-16",
+  "date_range": {
+    "start": "2026-11-10",
+    "end": "2026-11-16"
+  },
+  "generated_at": "2026-11-16T18:09:57.222155Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "maersk-2026-11-13-078",
+      "date": "2026-11-13",
+      "title": "CMA CGM Q3 26 update out: Ocean outperforms, Ceva a mixed bag",
+      "importance_score": 0.85
+    },
+    {
+      "type": "sentiment_reversal",
+      "subject": "port_congestion",
+      "subject_type": "topic",
+      "this_week_sentiment": 0.07,
+      "last_week_sentiment": -0.33,
+      "delta": 0.4,
+      "rank": 2
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "shipbuilding_orders": {
+      "this_week": 11,
+      "last_week": 13,
+      "week_over_week_change": "-15%",
+      "sentiment_this_week": 0.05
+    },
+    "industry_general": {
+      "this_week": 249,
+      "last_week": 225,
+      "week_over_week_change": "+11%",
+      "sentiment_this_week": 0.04
+    },
+    "container_freight": {
+      "this_week": 26,
+      "last_week": 13,
+      "week_over_week_change": "+100%",
+      "sentiment_this_week": -0.2
+    },
+    "port_congestion": {
+      "this_week": 7,
+      "last_week": 3,
+      "week_over_week_change": "+133%",
+      "sentiment_this_week": 0.07
+    },
+    "dry_bulk_rate": {
+      "this_week": 3,
+      "last_week": 1,
+      "week_over_week_change": "+200%",
+      "sentiment_this_week": 0.5
+    }
+  },
+  "company_7d_summary": {
+    "samsung_heavy": {
+      "event_count": 8,
+      "sentiment_avg": 0.0,
+      "rank": 4
+    },
+    "hanwha_ocean": {
+      "event_count": 12,
+      "sentiment_avg": 0.0,
+      "rank": 2
+    },
+    "yang_ming": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 8
+    },
+    "cosco": {
+      "event_count": 15,
+      "sentiment_avg": 0.0,
+      "rank": 1
+    },
+    "star_bulk": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 9
+    },
+    "maersk": {
+      "event_count": 5,
+      "sentiment_avg": 0.2,
+      "rank": 5
+    },
+    "wan_hai": {
+      "event_count": 5,
+      "sentiment_avg": 0.0,
+      "rank": 6
+    },
+    "hapag": {
+      "event_count": 9,
+      "sentiment_avg": -0.08,
+      "rank": 3
+    },
+    "evergreen": {
+      "event_count": 2,
+      "sentiment_avg": 0.5,
+      "rank": 10
+    },
+    "hd_korea": {
+      "event_count": 3,
+      "sentiment_avg": 0.0,
+      "rank": 7
+    },
+    "wisdom": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 11
+    },
+    "cssc": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 12
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 422,
+        "last": 431,
+        "change_pct": -2.1
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-11-10",
+      "event_count": 87,
+      "sentiment_avg": 0.07
+    },
+    {
+      "date": "2026-11-11",
+      "event_count": 86,
+      "sentiment_avg": 0.1
+    },
+    {
+      "date": "2026-11-12",
+      "event_count": 78,
+      "sentiment_avg": 0.04
+    },
+    {
+      "date": "2026-11-13",
+      "event_count": 79,
+      "sentiment_avg": 0.05
+    },
+    {
+      "date": "2026-11-14",
+      "event_count": 10,
+      "sentiment_avg": 0.0
+    },
+    {
+      "date": "2026-11-15",
+      "event_count": 23,
+      "sentiment_avg": 0.11
+    },
+    {
+      "date": "2026-11-16",
+      "event_count": 59,
+      "sentiment_avg": 0.02
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-11-10 ~ 2026-11-16）共 422 則事件，重點為「CMA CGM Q3 26 update out: Ocean outperforms, Ce...」。長榮海運表現正面，整體氣氛穩健。",
+    "watchlist": [
+      {
+        "company": "三星重工",
+        "reason": "本週出現 8 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "韓華海洋",
+        "reason": "本週出現 12 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "中遠海控",
+        "reason": "本週出現 15 則相關事件，為高關注企業，動態頻繁。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

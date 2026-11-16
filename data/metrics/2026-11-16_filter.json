@@ -1,0 +1,16 @@
+{
+  "total_raw": 346,
+  "dup_title": 148,
+  "no_date": 0,
+  "too_old": 100,
+  "gate1_fail": 16,
+  "gate2_fail": 6,
+  "passed": 76,
+  "gate2_samples": [
+    "ABB and Hanwha Ocean Explore Key Technologies for Floating Data Centers - iMarine",
+    "China extends suspension of countermeasures against five Hanwha Ocean’s US-linked subsidiaries - Glo",
+    "Trailer Flexibility Is Becoming a Growth Strategy for Carriers",
+    "Amazon-focused bill likely to pass in NYC but only after changes",
+    "Smaller US truckers buckling under as costs outpace rate gains"
+  ]
+}

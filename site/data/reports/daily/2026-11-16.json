@@ -1,0 +1,242 @@
+{
+  "date": "2026-11-16",
+  "generated_at": "2026-11-16T18:09:57.119026Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "maersk-2026-11-16-023",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "Maersk, Hapag-Lloyd Expand Suez Canal Return With Three More Gemini Services",
+      "companies": [
+        "maersk",
+        "hapag"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://gcaptain.com/maersk-hapag-lloyd-expand-suez-canal-return-with-three-more-gemini-services/"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-11-16-030",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "New logistics firm linked to collapsed R&R transportation empire",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://www.freightwaves.com/news/new-logistics-firm-linked-to-collapsed-rr-transportation-empire"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-11-16-054",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Profit decline forecast after a bumper Q3 for container lines",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "container_freight",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://www.seatrade-maritime.com/containers/profit-decline-forecast-after-a-bumper-q3-for-container-lines"
+    },
+    {
+      "rank": 4,
+      "event_id": "hd_korea-2026-11-16-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "HD Korea Shipbuilding Wins 272.1 Billion Won Order for 4 LPG Carriers from Oceania Shipper - BigGo Finance",
+      "companies": [
+        "hd_korea"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1QbVVOVjlpaFRhOGZOVmx5YmtSWElDd3Y1bjJjYmJMQUlrbmdRUkVoaVgwVTlORzYyQ0NyaTFOQ2ltNEhPNWliR0RmSGxzY0tWTzdGNmFVLVlHY2JjOElFbTRXYVlyN0p2OGRHTmJJVkFhVFdYdmc?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-11-16-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "South Korea's HD Hyundai, Anduril launch 600-ton drone ship - upi",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOSXU1dmxUTTdLNnRVczNsSDJ1WnhzVHlaeEx2YU5kVW1LN0FsNzNocW9LV2ZjQnE0VHM4dnRfQWpHOEd0SjVoZ0MxeTg3UkxlYWZGUm9UQ281Q2ZPcHZKLTF2V2Fabk13NUdBRXJkTm5xMGMyYXBsLWE1VWl2MXdNdjZvS004LVNQc09HNEJsSVdxQTVKT0daaTR1bWNkd3ZEeUkweHZNRzdDU3JZTG91UmhfYl9DV0J4WnVz0gHAAUFVX3lxTE51a3V4QW1MNWVKd3BGT0FjTEZmaWZ4dWFoWGQ3dmNSNVR4VDhHWkNVa00tcHJFWnFzT3l4S0VmQm9UVFk5V1l6YW1TX0dHdmdQMnNkMHBJX25ZVlZnLXBvbUctSm9UZG9kNUNDcHVmQ1JMd0haeHk1YlJzajZyT3FRbGlnWFpwSTk1al9KejR3YkxBUzZycVEwSzJVS040aVV5NS1Sby1KVzNXRHRVOXVUc2NBVElWUHdvZWpjYlJHMw?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 56,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.02,
+      "sentiment_7d_avg": null
+    },
+    "shipbuilding_orders": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.17,
+      "sentiment_7d_avg": null
+    },
+    "port_congestion": {
+      "today": 4,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.12,
+      "sentiment_7d_avg": null
+    },
+    "container_freight": {
+      "today": 4,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.38,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 59,
+    "sentiment_distribution": {
+      "positive": 7,
+      "neutral": 48,
+      "negative": 4
+    },
+    "top_companies": [
+      {
+        "id": "samsung_heavy",
+        "count": 7
+      },
+      {
+        "id": "hd_korea",
+        "count": 2
+      },
+      {
+        "id": "hanwha_ocean",
+        "count": 2
+      },
+      {
+        "id": "maersk",
+        "count": 2
+      },
+      {
+        "id": "hapag",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 56
+      },
+      {
+        "id": "port_congestion",
+        "count": 4
+      },
+      {
+        "id": "container_freight",
+        "count": 4
+      },
+      {
+        "id": "shipbuilding_orders",
+        "count": 3
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 346,
+    "dup_title": 148,
+    "too_old": 100,
+    "gate1_blocked": 16,
+    "gate2_blocked": 6,
+    "passed": 76,
+    "pass_rate": "38.4%",
+    "gate2_block_rate": "3.0%",
+    "gate2_samples": [
+      "ABB and Hanwha Ocean Explore Key Technologies for Floating Data Centers - iMarine",
+      "China extends suspension of countermeasures against five Hanwha Ocean’s US-linked subsidiaries - Glo",
+      "Trailer Flexibility Is Becoming a Growth Strategy for Carriers",
+      "Amazon-focused bill likely to pass in NYC but only after changes",
+      "Smaller US truckers buckling under as costs outpace rate gains"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 59 則事件，焦點為三星重工、韓國造船海洋、韓華海洋相關動態：「Maersk, Hapag-Lloyd Expand Suez Canal Return With Three M...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Maersk, Hapag-Lloyd Expand Suez Canal Return With Three More Gemini Services（航運產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "New logistics firm linked to collapsed R&R transportation empire（航運產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
