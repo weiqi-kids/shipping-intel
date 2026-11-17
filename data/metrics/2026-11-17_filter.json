@@ -1,0 +1,16 @@
+{
+  "total_raw": 343,
+  "dup_title": 141,
+  "no_date": 0,
+  "too_old": 95,
+  "gate1_fail": 15,
+  "gate2_fail": 6,
+  "passed": 86,
+  "gate2_samples": [
+    "ABB and Hanwha Ocean Explore Key Technologies for Floating Data Centers - iMarine",
+    "China extends suspension of countermeasures against five Hanwha Ocean’s US-linked subsidiaries - Glo",
+    "Oil market slide brings benchmark diesel under $6 level",
+    "Meta pays Nevoya to put 25 electric trucks on I-10",
+    "Gemini carriers target complete return to Suez transits by mid-January"
+  ]
+}
