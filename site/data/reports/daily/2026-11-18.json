@@ -1,0 +1,242 @@
+{
+  "date": "2026-11-18",
+  "generated_at": "2026-11-18T17:03:14.813269Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "hapag-2026-11-18-033",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "Maersk, Hapag-Lloyd and CMA CGM lift profits - Trans.INFO",
+      "companies": [
+        "hapag",
+        "maersk"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQOXluUUpGdHhrMGtWY2JLSFZjY09NT3pqWFc0LWdJekl6Zk0yV1JrQkZ3NVluUDN2LXpMclRxa1czak1PUEJLcTlsUkhZYVNMbFZXc2czQTV0SHVJTXV6UVV6WEhMTTdxS1hza2VrMHgyOG8xYTdrcjY0RXROd2hMM2hEVC11NnpUTGlxV2JIV0NZWHYtYl9vNlJR?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-11-18-023",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "The Lag Effect: Trucking Capacity Declines as Rates Recover",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://www.freightwaves.com/news/the-lag-effect-trucking-capacity-declines-as-rates-recover"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-11-18-024",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Redwood report lists 9 warning signs for shippers picking a 4PL",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://www.freightwaves.com/news/redwood-state-of-4pl-2027-warning-signs"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-11-18-034",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Container Freight Rates Decline on Key Routes to Americas, Europe - 조선일보",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "container_freight",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPbmNtRkRmN2FuQ0dNNk1lY2NKOFpOem1sSkh3VTJudXJOT0lNNzVzNC1CbHNPNGVXNzFXWWY0T0R4dENZN2JpVUZmdVIwbDN6cUl0U0ptb0RhUmFfMXFudWxEbWx2R1loTkgwNVpqWTkxMElfTi1KZzA2R2JhbXotb0o3TDBaMUls?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-11-18-038",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Black Friday bundles test retail margins as EU parcel charges bite",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://theloadstar.com/black-friday-bundles-test-retail-margins-as-eu-parcel-charges-bite/"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 42,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.01,
+      "sentiment_7d_avg": null
+    },
+    "container_freight": {
+      "today": 4,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "dry_bulk_rate": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "shipbuilding_orders": {
+      "today": 4,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.12,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 46,
+    "sentiment_distribution": {
+      "positive": 9,
+      "neutral": 29,
+      "negative": 8
+    },
+    "top_companies": [
+      {
+        "id": "hanwha_ocean",
+        "count": 3
+      },
+      {
+        "id": "cosco",
+        "count": 3
+      },
+      {
+        "id": "samsung_heavy",
+        "count": 2
+      },
+      {
+        "id": "zim",
+        "count": 2
+      },
+      {
+        "id": "wan_hai",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 42
+      },
+      {
+        "id": "container_freight",
+        "count": 4
+      },
+      {
+        "id": "shipbuilding_orders",
+        "count": 4
+      },
+      {
+        "id": "dry_bulk_rate",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 346,
+    "dup_title": 149,
+    "too_old": 98,
+    "gate1_blocked": 17,
+    "gate2_blocked": 6,
+    "passed": 76,
+    "pass_rate": "38.6%",
+    "gate2_block_rate": "3.0%",
+    "gate2_samples": [
+      "FLNG Instead of Canadian Submarines... Hanwha Ocean Nears a 21 Trillion Won Jackpot - 파이낸셜뉴스",
+      "China extends suspension of countermeasures against five Hanwha Ocean’s US-linked subsidiaries - Glo",
+      "Veterans and Team Driving: How Werner Is Building a Pipeline Around Both",
+      "Running the Business by the Numbers",
+      "Oil market slide brings benchmark diesel under $6 level"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 46 則事件，焦點為韓華海洋、中遠海控、三星重工相關動態：「Maersk, Hapag-Lloyd and CMA CGM lift profits - Trans.INFO」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Maersk, Hapag-Lloyd and CMA CGM lift profits - Trans.INFO",
+        "level": "yellow"
+      },
+      {
+        "text": "The Lag Effect: Trucking Capacity Declines as Rates Recover（航運產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

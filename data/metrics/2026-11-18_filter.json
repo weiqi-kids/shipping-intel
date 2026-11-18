@@ -1,0 +1,16 @@
+{
+  "total_raw": 346,
+  "dup_title": 149,
+  "no_date": 0,
+  "too_old": 98,
+  "gate1_fail": 17,
+  "gate2_fail": 6,
+  "passed": 76,
+  "gate2_samples": [
+    "FLNG Instead of Canadian Submarines... Hanwha Ocean Nears a 21 Trillion Won Jackpot - 파이낸셜뉴스",
+    "China extends suspension of countermeasures against five Hanwha Ocean’s US-linked subsidiaries - Glo",
+    "Veterans and Team Driving: How Werner Is Building a Pipeline Around Both",
+    "Running the Business by the Numbers",
+    "Oil market slide brings benchmark diesel under $6 level"
+  ]
+}
