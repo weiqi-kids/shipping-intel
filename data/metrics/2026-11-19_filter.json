@@ -1,0 +1,16 @@
+{
+  "total_raw": 348,
+  "dup_title": 135,
+  "no_date": 2,
+  "too_old": 99,
+  "gate1_fail": 12,
+  "gate2_fail": 7,
+  "passed": 93,
+  "gate2_samples": [
+    "Hanwha Ocean Advances 21 Trillion Won Canadian FLNG Project - THE ELEC, Korea Electronics Industry M",
+    "Hanwha Ocean and Kanata advance Canada FLNG plans - LNG Prime",
+    "Thai Navy Cancels Hanwha Ocean Selection Over Tender Rule Gaps - Businesskorea",
+    "ABB and Hanwha Ocean Explore Key Technologies for Floating Data Centers - iMarine",
+    "Royal Thai Navy Scraps approximately $496 Million Frigate Tender Entirely; South Korea's Hanwha Ocea"
+  ]
+}

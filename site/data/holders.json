@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-18T17:03:14.246093+00:00",
+  "updated_at": "2026-11-19T17:12:39.162265+00:00",
   "companies": {
     "maersk": {
       "name": "A.P. Moller-Maersk",
@@ -10,7 +10,7 @@
           "holder": "Pacer Advisors, Inc.",
           "shares": 21,
           "pct_held": 0.0,
-          "value": 425250
+          "value": 419685
         }
       ]
     },
@@ -23,7 +23,7 @@
           "holder": "Pacer Advisors, Inc.",
           "shares": 189,
           "pct_held": 0.0,
-          "value": 23606
+          "value": 23492
         }
       ]
     },
@@ -36,61 +36,61 @@
           "holder": "Blackrock Inc.",
           "shares": 3547232,
           "pct_held": 2.94,
-          "value": 106452433
+          "value": 105707510
         },
         {
           "holder": "American Century Companies Inc",
           "shares": 3505344,
           "pct_held": 2.91,
-          "value": 105195374
+          "value": 104459248
         },
         {
           "holder": "Yelin Lapidot Holdings Management Ltd.",
           "shares": 3352470,
           "pct_held": 2.78,
-          "value": 100607625
+          "value": 99903603
+        },
+        {
+          "holder": "Millennium Management Llc",
+          "shares": 1962017,
+          "pct_held": 1.63,
+          "value": 58468105
         },
         {
           "holder": "Alliancebernstein L.P.",
           "shares": 1952848,
           "pct_held": 1.62,
-          "value": 58604968
+          "value": 58194868
         },
         {
           "holder": "Qube Research & Technologies Ltd",
           "shares": 1933212,
           "pct_held": 1.6,
-          "value": 58015692
-        },
-        {
-          "holder": "Millennium Management Llc",
-          "shares": 1851020,
-          "pct_held": 1.53,
-          "value": 55549110
+          "value": 57609716
         },
         {
           "holder": "Menora Mivtachim Holdings Ltd.",
           "shares": 1656810,
           "pct_held": 1.37,
-          "value": 49720868
+          "value": 49372936
         },
         {
           "holder": "Marshall Wace LLP",
           "shares": 1387123,
           "pct_held": 1.15,
-          "value": 41627561
+          "value": 41336264
         },
         {
           "holder": "Charles Schwab Investment Management, Inc.",
           "shares": 1366171,
           "pct_held": 1.13,
-          "value": 40998792
+          "value": 40711894
         },
         {
           "holder": "State Street Corporation",
           "shares": 1252091,
           "pct_held": 1.04,
-          "value": 37575251
+          "value": 37312310
         }
       ]
     },
@@ -103,61 +103,61 @@
           "holder": "Two Sigma Investments, LP",
           "shares": 3931003,
           "pct_held": 3.52,
-          "value": 105232952
+          "value": 102265040
         },
         {
           "holder": "Blackrock Inc.",
           "shares": 2598437,
           "pct_held": 2.33,
-          "value": 69560159
+          "value": 67598336
         },
         {
           "holder": "Renaissance Technologies, LLC",
           "shares": 2360837,
           "pct_held": 2.12,
-          "value": 63199607
+          "value": 61417173
         },
         {
           "holder": "Goldman Sachs Group Inc",
           "shares": 1970404,
           "pct_held": 1.77,
-          "value": 52747715
+          "value": 51260058
         },
         {
           "holder": "Driehaus Capital Management, LLC",
           "shares": 1602293,
           "pct_held": 1.44,
-          "value": 42893384
+          "value": 41683651
         },
         {
           "holder": "Artemis Investment Management Llp",
           "shares": 1585263,
           "pct_held": 1.42,
-          "value": 42437491
+          "value": 41240615
         },
         {
           "holder": "Victory Capital Management Inc.",
           "shares": 1512149,
           "pct_held": 1.36,
-          "value": 40480229
+          "value": 39338555
         },
         {
           "holder": "Marex Group Ltd.",
           "shares": 1519376,
           "pct_held": 1.36,
-          "value": 40673696
+          "value": 39526565
         },
         {
           "holder": "Qube Research & Technologies Ltd",
           "shares": 1479905,
           "pct_held": 1.33,
-          "value": 39617057
+          "value": 38499727
         },
         {
           "holder": "Focus Partners Wealth",
           "shares": 1311132,
           "pct_held": 1.18,
-          "value": 35099004
+          "value": 34109098
         }
       ]
     }
