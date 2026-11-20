@@ -1,0 +1,16 @@
+{
+  "total_raw": 350,
+  "dup_title": 142,
+  "no_date": 2,
+  "too_old": 107,
+  "gate1_fail": 14,
+  "gate2_fail": 6,
+  "passed": 79,
+  "gate2_samples": [
+    "Hanwha Ocean and Kanata advance Canada FLNG plans - LNG Prime",
+    "Thai Navy Cancels Hanwha Ocean Selection Over Tender Rule Gaps - Businesskorea",
+    "Mexico tightens trucking oversight with new digital compliance rules",
+    "The Driver Communication Problem Brokers Can’t Afford to Ignore",
+    "NYC push against delivery bill brings in legal and racial arguments"
+  ]
+}

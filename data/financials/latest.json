@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-19T17:12:36.975827Z",
+  "updated_at": "2026-11-20T16:50:52.078426Z",
   "quarter": "2026-06-30, 2026-09-30",
   "companies": [
     {
@@ -228,17 +228,17 @@
       "name": "ZIM Integrated Shipping",
       "ticker": "ZIM",
       "currency": "USD",
-      "ar": 992700000,
-      "ar_prev": 720900000,
-      "ar_qoq": "+38%",
+      "ar": 1188900000,
+      "ar_prev": 992700000,
+      "ar_qoq": "+20%",
       "ar_period": "QoQ",
-      "inventory": 223100000,
-      "inv_prev": 206600000,
-      "inv_qoq": "+8%",
+      "inventory": 233200000,
+      "inv_prev": 223100000,
+      "inv_qoq": "+5%",
       "inv_period": "QoQ",
       "inventory_applicable": true,
-      "alert": true,
-      "quarter_date": "2026-06-30"
+      "alert": false,
+      "quarter_date": "2026-09-30"
     }
   ]
 }
