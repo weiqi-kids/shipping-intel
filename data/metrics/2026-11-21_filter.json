@@ -1,0 +1,16 @@
+{
+  "total_raw": 347,
+  "dup_title": 193,
+  "no_date": 2,
+  "too_old": 95,
+  "gate1_fail": 12,
+  "gate2_fail": 8,
+  "passed": 37,
+  "gate2_samples": [
+    "Thai Navy Cancels Hanwha Ocean Selection Over Tender Rule Gaps - Businesskorea",
+    "Royal Thai Navy Scraps approximately $496 Million Frigate Tender Entirely; South Korea's Hanwha Ocea",
+    "ABB and Hanwha Ocean Explore Key Technologies for Floating Data Centers - iMarine",
+    "680 Billion Won Thai Frigate Project in Limbo... Hanwha Ocean Files Petition - 파이낸셜뉴스",
+    "J.B. Hunt broker liability case proceeding after split decision"
+  ]
+}
