@@ -1,0 +1,14 @@
+{
+  "total_raw": 348,
+  "dup_title": 209,
+  "no_date": 2,
+  "too_old": 114,
+  "gate1_fail": 10,
+  "gate2_fail": 3,
+  "passed": 10,
+  "gate2_samples": [
+    "J.B. Hunt broker liability case proceeding after split decision",
+    "Mexico tightens trucking oversight with new digital compliance rules",
+    "Splash Wrap: Five Splash channels at full blast"
+  ]
+}
