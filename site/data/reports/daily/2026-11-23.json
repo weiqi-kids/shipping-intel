@@ -1,0 +1,236 @@
+{
+  "date": "2026-11-23",
+  "generated_at": "2026-11-23T19:59:43.693029Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "hd_korea-2026-11-23-001",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "HD Korea Shipbuilding Secures KRW308.4 Billion Order for Two LPGCs; Shares Decline 3% - www.marketscreener.com",
+      "companies": [
+        "hd_korea"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQclk2bWdpZWJvYks3dWVYSFBMdkFqXzdNMEhUX1ZFSUpoTGtvQ1BYZTNlQW1iaFkybEQ1dzJkVjJkalhVS0ZSODNVOUhVcTNfY3ZRU25DS3NuUU1EWUc2Nm00TFhpZzNsMGg0azVHVk5NV3VDaTFtSDhmMl82Tmtza2dtbmtGaWZ3YXhkWnlRVkVzOXV1V0hDVXA5a0V4VG1wMUJuNTRQbDBnd0k0Sll0Tm1jMnhpMTNvR2RQWGNGc0xrckFpUjFsZlE4TGtQZlRnaWc?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-11-23-023",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Fake Iran Tanker Highlights Uncertainty Around Hormuz Traffic",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -0.75
+      },
+      "source_url": "https://gcaptain.com/fake-iran-tanker-highlights-uncertainty-around-hormuz-traffic/"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-11-23-058",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Bangladesh garment makers turn to airfreight as buyers shop elsewhere",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://theloadstar.com/bangladesh-garment-makers-turn-to-airfreight-as-buyers-shop-elsewhere/"
+    },
+    {
+      "rank": 4,
+      "event_id": "hd_korea-2026-11-23-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "HD KOREA SHIPBUILDING & OFFSHORE ENGINEERING CO., LTD. (HD KSOE) Wins 308.4 Billion Won LPGC Order, as Cumulative Orders Top 200 Ships This Year - 파이낸셜뉴스",
+      "companies": [
+        "hd_korea"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9ULUE0VGpMdUMzcFhDUEY0U1ltNHZ1cjY0dU1HS0NiNmtXZXR0aXVjZ2poUFNuODJBRk4wNHB1WkpKak1hWkV1RUVpWjRvaW5SV1RtYlFHcmQ?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "samsung_heavy-2026-11-23-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Samsung Heavy Industries Names Lee Wang-keun as New CEO - THE ELEC, Korea Electronics Industry Media",
+      "companies": [
+        "samsung_heavy"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE92YUMzWGV2QnlPd3RJeEtLYkhnUkEzVXZMNnZ0RFczSTlNai1OQVpNTVRyMTlYLXdxRE13dmpnOUltOGlIeWwwTlpDMTFsajd3TmVQc1N3UHgxY21pZnhSMWZwOXY2Wms?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 58,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.03,
+      "sentiment_7d_avg": null
+    },
+    "container_freight": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "dry_bulk_rate": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "shipbuilding_orders": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 64,
+    "sentiment_distribution": {
+      "positive": 3,
+      "neutral": 56,
+      "negative": 5
+    },
+    "top_companies": [
+      {
+        "id": "samsung_heavy",
+        "count": 7
+      },
+      {
+        "id": "cosco",
+        "count": 5
+      },
+      {
+        "id": "hd_korea",
+        "count": 2
+      },
+      {
+        "id": "hanwha_ocean",
+        "count": 2
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 58
+      },
+      {
+        "id": "container_freight",
+        "count": 3
+      },
+      {
+        "id": "shipbuilding_orders",
+        "count": 2
+      },
+      {
+        "id": "dry_bulk_rate",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 349,
+    "dup_title": 143,
+    "too_old": 103,
+    "gate1_blocked": 16,
+    "gate2_blocked": 5,
+    "passed": 80,
+    "pass_rate": "38.8%",
+    "gate2_block_rate": "2.4%",
+    "gate2_samples": [
+      "Hanwha Ocean To Acquire 24 Billion Won Worth Of Own Shares - TradingView",
+      "Thai Navy Cancels Hanwha Ocean Selection Over Tender Rule Gaps - Businesskorea",
+      "Hanwha Ocean to Acquire KRW24 Billion Worth of Common Shares for Employee Stock Compensation - www.m",
+      "J.B. Hunt broker liability case proceeding after split decision",
+      "OceanX radar: Zim outperforms; west coast strike averted; war at sea"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 64 則事件，焦點為三星重工、中遠海控、韓國造船海洋相關動態：「HD Korea Shipbuilding Secures KRW308.4 Billion Order for ...」。整體情緒偏負面，需留意潛在風險。",
+    "signals": [
+      {
+        "text": "HD Korea Shipbuilding Secures KRW308.4 Billion Order for Two LPGCs; Shares De...（航運產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "Fake Iran Tanker Highlights Uncertainty Around Hormuz Traffic（航運產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

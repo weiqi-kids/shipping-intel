@@ -1,0 +1,16 @@
+{
+  "total_raw": 349,
+  "dup_title": 143,
+  "no_date": 2,
+  "too_old": 103,
+  "gate1_fail": 16,
+  "gate2_fail": 5,
+  "passed": 80,
+  "gate2_samples": [
+    "Hanwha Ocean To Acquire 24 Billion Won Worth Of Own Shares - TradingView",
+    "Thai Navy Cancels Hanwha Ocean Selection Over Tender Rule Gaps - Businesskorea",
+    "Hanwha Ocean to Acquire KRW24 Billion Worth of Common Shares for Employee Stock Compensation - www.m",
+    "J.B. Hunt broker liability case proceeding after split decision",
+    "OceanX radar: Zim outperforms; west coast strike averted; war at sea"
+  ]
+}
