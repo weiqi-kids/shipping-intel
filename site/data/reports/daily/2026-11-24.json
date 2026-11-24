@@ -1,0 +1,222 @@
+{
+  "date": "2026-11-24",
+  "generated_at": "2026-11-24T19:26:41.107781Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-11-24-018",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Swedish Club Urges Ships to Avoid Strait of Hormuz as Security Situation Deteriorates",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://gcaptain.com/swedish-club-urges-ships-to-avoid-strait-of-hormuz-as-security-situation-deteriorates/"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-11-24-028",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Reefer Rejections DOUBLE YoY: Holiday Capacity Crisis Looms",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "container_freight",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://www.freightwaves.com/news/reefer-rejections-double-yoy-holiday-capacity-crisis-looms"
+    },
+    {
+      "rank": 3,
+      "event_id": "hd_korea-2026-11-24-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "HD Korea Shipbuilding & Offshore Engineering Secures $1.86 Billion in Orders Through October - www.marketscreener.com",
+      "companies": [
+        "hd_korea"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOdnBjUFk0U3dkTjluX2JZWFRFZGpBT1BPQmtMV2MxOUJLVlZDdU11N1VqUmNSNk9JbGY3M1dvQTEwYWtReEgzTW9lQnFjZUhSMTlmakdpUjBsdDlNMWw2ZkpDcFFiazRRd2FCeVFmUmZncmRXUkFCNHB2NFVITWFrNDVMeVNwZGdiNEpyMEtrdnJXS0pEUDN6WnlQVHZZLTJsWWszcjY0aGNFYml1MVViWkZiM3NydkFkNHllZ2JsSVRMbXJXZnN0eWhNeXRlY2treFItaDZiek91QQ?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-11-24-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "K-Shipbuilding’s Earnings ... A Cut Above Defense and Machinery - 매일경제",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5FRVNxdVVxX0NiZ0NGUW83cFBYWXhRSHFReG9DTkJpelFfcV9UN3BQZGtyWVN6OG1XcnBNSnd3X204eWNHNXpjSTNEd1MzVEJMR2FF?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "samsung_heavy-2026-11-24-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Samsung Heavy Industries and its partners will design a nuclear LNG carrier - Inspenet",
+      "companies": [
+        "samsung_heavy"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBhM2JETUhVSE1zTnE0R2RkNzVfdGYxUXpUX21ObUh4N19mT2NRVnZ4SnlmTlJWYm5oekRjVUJMQk01V0NXdENYbnJBLUp4WTg0Zi02OU1uZV9TYjFoZG41WGFlRkh4OGp3V2xvMFNrMnVCQmIxWERYSEhoVQ?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 53,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.06,
+      "sentiment_7d_avg": null
+    },
+    "shipbuilding_orders": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "container_freight": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.25,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 55,
+    "sentiment_distribution": {
+      "positive": 6,
+      "neutral": 47,
+      "negative": 2
+    },
+    "top_companies": [
+      {
+        "id": "hanwha_ocean",
+        "count": 5
+      },
+      {
+        "id": "samsung_heavy",
+        "count": 4
+      },
+      {
+        "id": "maersk",
+        "count": 3
+      },
+      {
+        "id": "wan_hai",
+        "count": 2
+      },
+      {
+        "id": "hd_korea",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 53
+      },
+      {
+        "id": "shipbuilding_orders",
+        "count": 2
+      },
+      {
+        "id": "container_freight",
+        "count": 2
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 329,
+    "dup_title": 155,
+    "too_old": 69,
+    "gate1_blocked": 20,
+    "gate2_blocked": 2,
+    "passed": 82,
+    "pass_rate": "47.1%",
+    "gate2_block_rate": "1.1%",
+    "gate2_samples": [
+      "Hanwha Ocean To Acquire 24 Billion Won Worth Of Own Shares - TradingView",
+      "Hanwha Ocean Advances 21 Trillion Won Canadian FLNG Project - THE ELEC, Korea Electronics Industry M"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 55 則事件，焦點為韓華海洋、三星重工、馬士基相關動態：「Swedish Club Urges Ships to Avoid Strait of Hormuz as Sec...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Swedish Club Urges Ships to Avoid Strait of Hormuz as Security Situation Dete...（航運產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "Reefer Rejections DOUBLE YoY: Holiday Capacity Crisis Looms（貨櫃運價、航運產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
