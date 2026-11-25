@@ -1,0 +1,248 @@
+{
+  "date": "2026-11-25",
+  "generated_at": "2026-11-25T18:32:39.225771Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-11-25-014",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "U.S. Targets China, EU With New Tariffs Citing Overcapacity",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://gcaptain.com/u-s-targets-china-eu-with-new-tariffs-citing-overcapacity/"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-11-25-018",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Most Large Fuel Tankers Now Ship ‘Dirty’ Crude, Upending Trading",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://gcaptain.com/most-large-fuel-tankers-now-ship-dirty-crude-upending-trading/"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-11-25-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Webinar: Navigating the danger zone: How to protect your fleet from GPS attacks",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.seatrade-maritime.com/security/webinar-navigating-the-danger-zone-how-to-protect-your-fleet-from-gps-attacks"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-11-25-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "India’s shipbuilding push faces a reality check - Global Times",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1qSXJPME0wSHhJWmxSazhsV3Z1aHlUaFVvY2FnVE5FT2dwMEQtOGs4MDZvMTJwX2Z0N01mcFItVmdPWnR5SDd0Q3RaTWY5T2N3bXEwZU51cHFzZE5ieEpaM2Zn?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-11-25-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "HD Hyundai Targets the Unmanned Surface Vessel Market With Its Shipbuilding Capabilities - 파이낸셜뉴스",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE01a1ZUMlcydmpvbVU1Zk5tRjAxbEVSQVBKaENfVW5OUXZUbTloOHJ6YmgxeFpYTnJvWnlIU1J0TEpMcGZRbW9oNlN1aEN5RzhxakUtV2gtSFg?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 50,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.02,
+      "sentiment_7d_avg": null
+    },
+    "container_freight": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.17,
+      "sentiment_7d_avg": null
+    },
+    "shipbuilding_orders": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "dry_bulk_rate": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.25,
+      "sentiment_7d_avg": null
+    },
+    "port_congestion": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.5,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 53,
+    "sentiment_distribution": {
+      "positive": 5,
+      "neutral": 43,
+      "negative": 5
+    },
+    "top_companies": [
+      {
+        "id": "cosco",
+        "count": 5
+      },
+      {
+        "id": "samsung_heavy",
+        "count": 3
+      },
+      {
+        "id": "hanwha_ocean",
+        "count": 3
+      },
+      {
+        "id": "cssc",
+        "count": 1
+      },
+      {
+        "id": "maersk",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 50
+      },
+      {
+        "id": "container_freight",
+        "count": 3
+      },
+      {
+        "id": "shipbuilding_orders",
+        "count": 2
+      },
+      {
+        "id": "dry_bulk_rate",
+        "count": 2
+      },
+      {
+        "id": "port_congestion",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 308,
+    "dup_title": 137,
+    "too_old": 63,
+    "gate1_blocked": 20,
+    "gate2_blocked": 9,
+    "passed": 79,
+    "pass_rate": "46.2%",
+    "gate2_block_rate": "5.3%",
+    "gate2_samples": [
+      "PETRONAS Names PFLNG TIGA as the World's First Nearshore FLNG Facility at Samsung Heavy Industries -",
+      "Hanwha Ocean withdraws from Southwest Offshore Wind Project - TGS 4C Offshore",
+      "Hanwha Ocean Withdraws from 800 MW South Korean Offshore Wind Project - Offshore Wind",
+      "Hanwha Ocean To Acquire 24 Billion Won Worth Of Own Shares - TradingView",
+      "Hanwha Ocean Pulls Out of 800-Megawatt Offshore Wind Project - Seoul Economic Daily"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 53 則事件，焦點為中遠海控、三星重工、韓華海洋相關動態：「U.S. Targets China, EU With New Tariffs Citing Overcapacity」。主要關注主題為航運產業通用、貨櫃運價、造船訂單，市場情緒中性。",
+    "signals": [
+      {
+        "text": "U.S. Targets China, EU With New Tariffs Citing Overcapacity（航運產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "Most Large Fuel Tankers Now Ship ‘Dirty’ Crude, Upending Trading（航運產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
