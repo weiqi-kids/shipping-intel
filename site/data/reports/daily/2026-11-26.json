@@ -1,0 +1,219 @@
+{
+  "date": "2026-11-26",
+  "generated_at": "2026-11-26T18:15:29.974027Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-11-26-022",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Cargo crime gangs are patient, and they ‘plan around the calendar’",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://theloadstar.com/cargo-crime-gangs-are-patient-and-they-plan-around-the-calendar/"
+    },
+    {
+      "rank": 2,
+      "event_id": "cosco-2026-11-26-023",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Cosco looks forward to fleet expansion as revenue and profits rise",
+      "companies": [
+        "cosco"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "shipbuilding_orders",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -0.75
+      },
+      "source_url": "https://theloadstar.com/cosco-looks-forward-to-fleet-expansion-as-revenue-and-profits-rise/"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-11-26-025",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Seafarer seriously injured in Hormuz tanker attack",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://www.seatrade-maritime.com/security/seafarer-seriously-injured-in-hormuz-tanker-attack"
+    },
+    {
+      "rank": 4,
+      "event_id": "samsung_heavy-2026-11-26-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Petronas Names Its Third FLNG Unit, PFLNG Tiga, at Samsung Heavy Industries - Data Portuaria",
+      "companies": [
+        "samsung_heavy"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOR1dBdnVRTVhScTZnZ2tuRHZLS05GdGVsUWJvTHBVZUJKelZfdmYwb0x6bk1rcno3WWRDYW1SSzM0cHBCeWt1VXdCREQwNUFxR21EZUZVdTlhUVZpVDR5aWpUYXlrQ0RhUE4xRDRKbWZJbWxmWGJpUk41aHU0eUZsRnY0d3lWSVBscUt3RnBCMkJibkM5eU02aHVmQWgxMUtnekVUdkpSU1pRMjZabmlvQmhaT0ctRS1MUHBvcA?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-11-26-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "DNV and NTNU join Samsung Heavy and Tesser's nuclear LNG carrier project - MLQ.ai",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPQ2RKczNmZFh2dXptZFVDWUpFU0NCbmhNWW45MjNnaXZOMjg3UVdYZk1wa3BKX19ySEdQVWNicDQwb3NIWGx3WnBQYTRBYkIzS1NLNnIzYUFRSVE5enVDVzBzZm9Nd0JTWmhNR1ZpLU5XYWpCWmRaZGk1V3hhWFpXRFhDX2tWY1kwdWQ5NElhaFRhVHFNc1Uw?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 28,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.01,
+      "sentiment_7d_avg": null
+    },
+    "container_freight": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "shipbuilding_orders": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.38,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 30,
+    "sentiment_distribution": {
+      "positive": 3,
+      "neutral": 25,
+      "negative": 2
+    },
+    "top_companies": [
+      {
+        "id": "hanwha_ocean",
+        "count": 6
+      },
+      {
+        "id": "cosco",
+        "count": 5
+      },
+      {
+        "id": "samsung_heavy",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 28
+      },
+      {
+        "id": "container_freight",
+        "count": 2
+      },
+      {
+        "id": "shipbuilding_orders",
+        "count": 2
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 339,
+    "dup_title": 187,
+    "too_old": 71,
+    "gate1_blocked": 16,
+    "gate2_blocked": 9,
+    "passed": 56,
+    "pass_rate": "36.8%",
+    "gate2_block_rate": "5.9%",
+    "gate2_samples": [
+      "Shinyoung Securities Adjusts Samsung Heavy Industries' Price Target to 36,000 Won - www.marketscreen",
+      "Hanwha Ocean pulls out of 800MW offshore wind project - Splash247",
+      "Hanwha Ocean withdraws from Southwest Offshore Wind Project - TGS 4C Offshore",
+      "Hanwha Ocean Withdraws from 800 MW South Korean Offshore Wind Project - Offshore Wind",
+      "U-Ming Marine Recognized with Four Honors at the TCSA Taiwan Corporate Sustainability Awards - Far E"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 30 則事件，焦點為韓華海洋、中遠海控、三星重工相關動態：「Cargo crime gangs are patient, and they ‘plan around the ...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Cargo crime gangs are patient, and they ‘plan around the calendar’（航運產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "Cosco looks forward to fleet expansion as revenue and profits rise（造船訂單、航運產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

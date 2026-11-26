@@ -1,0 +1,16 @@
+{
+  "total_raw": 339,
+  "dup_title": 187,
+  "no_date": 0,
+  "too_old": 71,
+  "gate1_fail": 16,
+  "gate2_fail": 9,
+  "passed": 56,
+  "gate2_samples": [
+    "Shinyoung Securities Adjusts Samsung Heavy Industries' Price Target to 36,000 Won - www.marketscreen",
+    "Hanwha Ocean pulls out of 800MW offshore wind project - Splash247",
+    "Hanwha Ocean withdraws from Southwest Offshore Wind Project - TGS 4C Offshore",
+    "Hanwha Ocean Withdraws from 800 MW South Korean Offshore Wind Project - Offshore Wind",
+    "U-Ming Marine Recognized with Four Honors at the TCSA Taiwan Corporate Sustainability Awards - Far E"
+  ]
+}
