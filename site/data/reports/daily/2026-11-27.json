@@ -1,0 +1,194 @@
+{
+  "date": "2026-11-27",
+  "generated_at": "2026-11-27T17:58:13.561855Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "hd_korea-2026-11-27-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "27 Chung Ki-sun, HD Korea Shipbuilding & Offshore Engineering - Lloyd's List",
+      "companies": [
+        "hd_korea"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQVmtFd3pGanFkN2pqLXRlTTBjMWZIZkdMc1d0WXgwUjdYd1hoWUI0cmZTMTZnREpEYnljb0JaVnB5R3pSaGVPQ25WeU9sOWowbmh3Yzd1V2lIYk1BSm9xSEdpSnV5WnRMS0JLLUk3UWFtLTlWV0Y0ekI3d1F1eG92WmZTS2M0VWcwcWhhaEllRkFvbnlHMWRBVTZPYw?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "samsung_heavy-2026-11-27-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Samsung Heavy Industries Appoints Lee Wang-geun as New CEO and President in Leadership Reshuffle - iMarine",
+      "companies": [
+        "samsung_heavy"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5TTVVROWI5UThGSV9kN09sUWhGdjZKUjdCQUV6bGVrSlJtT2V3N1ZfXzZSc19ab2N2SnNRY1JrX2hJeEFxNXE1SzJiT0Zzdzg?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-11-27-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Korea introduces random quarantine inspections of aircraft, ships - The Korea Herald",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE8xQmh0M1NRekFlTFd0Qy1zOTJqb1pESTNaODlscjJIOWdJU2lfY3RhRi1KV2pZX2dNLVdqRTlodW1MZ1FmcFZfUjk0OHNrSFJ2b2JnNjRLNA?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-11-27-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Chinese Military Tests New Taiwan Landing Tactics in Coastal Drills",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://gcaptain.com/chinese-military-tests-new-taiwan-landing-tactics-in-coastal-drills/"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-11-27-005",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Rio Tinto Ships First Ore From Giant Simandou Mine to Europe",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://gcaptain.com/rio-tinto-ships-first-ore-from-giant-simandou-mine-to-europe/"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 18,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "container_freight": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.5,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 18,
+    "sentiment_distribution": {
+      "positive": 2,
+      "neutral": 14,
+      "negative": 2
+    },
+    "top_companies": [
+      {
+        "id": "hd_korea",
+        "count": 1
+      },
+      {
+        "id": "samsung_heavy",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 18
+      },
+      {
+        "id": "container_freight",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 338,
+    "dup_title": 186,
+    "too_old": 94,
+    "gate1_blocked": 19,
+    "gate2_blocked": 11,
+    "passed": 28,
+    "pass_rate": "18.4%",
+    "gate2_block_rate": "7.2%",
+    "gate2_samples": [
+      "Shinyoung Securities Adjusts Samsung Heavy Industries' Price Target to 36,000 Won - www.marketscreen",
+      "South Korea’s Hanwha Ocean Exits $4.1 Billion 800 MW Offshore Wind Project - Marine Insight",
+      "Hanwha Ocean Discusses Mutual Growth With 58 Suppliers - THE ELEC, Korea Electronics Industry Media",
+      "Hanwha Ocean withdraws from Southwest Offshore Wind Project - TGS 4C Offshore",
+      "Hanwha Ocean Withdraws from 800 MW South Korean Offshore Wind Project - Offshore Wind"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 18 則事件，焦點為韓國造船海洋、三星重工相關動態：「27 Chung Ki-sun, HD Korea Shipbuilding & Offshore Enginee...」。主要關注主題為航運產業通用、貨櫃運價，市場情緒中性。",
+    "signals": [
+      {
+        "text": "27 Chung Ki-sun, HD Korea Shipbuilding & Offshore Engineering - Lloyd's List（航運產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "Samsung Heavy Industries Appoints Lee Wang-geun as New CEO and President in L...（航運產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

@@ -1,0 +1,16 @@
+{
+  "total_raw": 338,
+  "dup_title": 186,
+  "no_date": 0,
+  "too_old": 94,
+  "gate1_fail": 19,
+  "gate2_fail": 11,
+  "passed": 28,
+  "gate2_samples": [
+    "Shinyoung Securities Adjusts Samsung Heavy Industries' Price Target to 36,000 Won - www.marketscreen",
+    "South Korea’s Hanwha Ocean Exits $4.1 Billion 800 MW Offshore Wind Project - Marine Insight",
+    "Hanwha Ocean Discusses Mutual Growth With 58 Suppliers - THE ELEC, Korea Electronics Industry Media",
+    "Hanwha Ocean withdraws from Southwest Offshore Wind Project - TGS 4C Offshore",
+    "Hanwha Ocean Withdraws from 800 MW South Korean Offshore Wind Project - Offshore Wind"
+  ]
+}
